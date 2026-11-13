@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000016",
+   "name": "Zama",
+   "type": "battle"
+  }
+ ],
+ "certainty": "C",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000018",
+ "location_certainty": "C",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Zama",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Zama",
+ "slug": "zama",
+ "status": "draft",
+ "summary": "Where Scipio defeated Hannibal in 202 BCE.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,29 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000033",
+   "name": "Defeat of Toghril and the Kereit",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000033",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kereit",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Kereit",
+ "slug": "kereit",
+ "status": "draft",
+ "summary": "Steppe people of the Mongolian plateau led by Toghril, whom Temüjin defeated in 1203.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

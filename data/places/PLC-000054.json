@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000060",
+   "name": "Ankara",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000054",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ankara",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Ankara",
+ "slug": "ankara",
+ "status": "draft",
+ "summary": "Anatolian city near which Timur defeated the Ottoman army in July 1402.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,101 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000007",
+   "role": "Present"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "14–15 August 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "precision": "day"
+ },
+ "id": "BAT-000005",
+ "kind": "standoff",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Montépilloy",
+   "preferred": true
+  }
+ ],
+ "outcome": "Inconclusive",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000007",
+   "role": "Present"
+  }
+ ],
+ "place": {
+  "id": "PLC-000007",
+  "name": "Montépilloy",
+  "type": "place"
+ },
+ "place_id": "PLC-000007",
+ "primary_name": "Montépilloy",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Valois France",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ],
+   "result": "Inconclusive"
+  },
+  {
+   "commanders": [],
+   "label": "Bedford's army",
+   "polities": [
+    {
+     "id": "POL-000002",
+     "name": "England",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000002"
+   ]
+  }
+ ],
+ "slug": "montepilloy-1429",
+ "status": "draft",
+ "summary": "Standoff with Bedford's army that produced only skirmishes.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "war_id": "WAR-000001"
+}

@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000004",
+   "name": "Patay",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000006",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Patay",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Patay",
+ "slug": "patay",
+ "status": "draft",
+ "summary": "Where the retreating English were caught and defeated on 18 June 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

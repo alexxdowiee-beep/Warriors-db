@@ -1,0 +1,142 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000167"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000076",
+   "role": "Senior commander with Batu"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "April 1241",
+  "earliest": 1241,
+  "latest": 1241,
+  "month": 4,
+  "precision": "month"
+ },
+ "id": "BAT-000043",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Mohi (Sajó River)",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000167"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000076",
+   "role": "Senior commander with Batu"
+  }
+ ],
+ "place": {
+  "id": "PLC-000042",
+  "name": "Mohi",
+  "type": "place"
+ },
+ "place_id": "PLC-000042",
+ "primary_name": "Mohi (Sajó River)",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Doc grade B; restore when cited. Excerpts only; to source",
+   "field": "career",
+   "id": "CLM-000167",
+   "perspective": [
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000007"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "label": "Mongols under Batu and Subutai",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Kingdom of Hungary",
+   "polities": [
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000040"
+   ]
+  }
+ ],
+ "slug": "mohi-sajo-river",
+ "status": "draft",
+ "summary": "Destruction of the army of King Béla IV of Hungary on the Sajó River.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000019",
+  "name": "Great western campaign",
+  "type": "war"
+ },
+ "war_id": "WAR-000019"
+}

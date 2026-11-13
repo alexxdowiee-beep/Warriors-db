@@ -1,0 +1,29 @@
+{
+ "bias_notes": "Tradition about a deity, not a record of a man.",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "cultural_guidance": "Living religious tradition: Đức Thánh Trần is worshipped at temples across Vietnam. Describe the cult respectfully and keep it separate from claims about the historical man.",
+ "date_written": "15th–20th c.",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000079",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Temple and spirit-writing traditions of Đức Thánh Trần",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Temple and spirit-writing traditions of Đức Thánh Trần",
+ "reliability_notes": "15th–20th c. Not opened.",
+ "reliability_tier": null,
+ "slug": "temple-and-spirit-writing-traditions-of-duc-thanh-tran",
+ "source_type": "oral-tradition",
+ "status": "draft",
+ "summary": "Religious traditions and spirit-writing texts honouring Trần Hưng Đạo as a deity.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

@@ -1,0 +1,250 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "December 1237",
+    "earliest": 1237,
+    "latest": 1237,
+    "month": 12,
+    "precision": "month"
+   },
+   "id": "BAT-000041",
+   "kind": "siege",
+   "name": "Fall of Ryazan",
+   "result": "Captured"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "March 1238",
+    "earliest": 1238,
+    "latest": 1238,
+    "month": 3,
+    "precision": "month"
+   },
+   "id": "BAT-000042",
+   "kind": "field-battle",
+   "name": "Sit River",
+   "result": "Victory"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "April 1241",
+    "earliest": 1241,
+    "latest": 1241,
+    "month": 4,
+    "precision": "month"
+   },
+   "id": "BAT-000043",
+   "kind": "field-battle",
+   "name": "Mohi (Sajó River)",
+   "result": "Victory"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000026",
+   "name": "Mongol Empire",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000038",
+   "name": "Principality of Ryazan",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000039",
+   "name": "Vladimir-Suzdal",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000040",
+   "name": "Kingdom of Hungary",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000188"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "affected",
+   "relationship_id": "REL-000078",
+   "role": "Enslaved after the Mongol invasion of the Kipchak lands, c. 1242"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000164"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000073",
+   "role": "Senior general under Batu"
+  }
+ ],
+ "id": "WAR-000019",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Great western campaign",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory; withdrawal 1242",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000188"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "affected",
+   "relationship_id": "REL-000078",
+   "role": "Enslaved after the Mongol invasion of the Kipchak lands, c. 1242"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000164"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000073",
+   "role": "Senior general under Batu"
+  }
+ ],
+ "primary_name": "Great western campaign",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000164",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened)",
+   "field": "origins",
+   "id": "CLM-000188",
+   "perspective": [
+    {
+     "id": "CIV-000001",
+     "name": "Kipchaks",
+     "type": "civilisation"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sold as a slave after the Mongol invasion of the Kipchak lands, c. 1242",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "great-western-campaign",
+ "span": {
+  "certainty": "A",
+  "display": "1236–1242",
+  "earliest": 1236,
+  "latest": 1242,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Campaign under Batu that conquered the Volga Bulgars, the Rus' principalities and the steppe north of the Black and Caspian Seas, then invaded Hungary and Poland; it created the realm later called the Golden Horde.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

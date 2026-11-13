@@ -1,0 +1,128 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1828",
+    "earliest": 1828,
+    "latest": 1828,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000026",
+   "kind": "unknown",
+   "name": "Hikapu, Pelorus Sound",
+   "result": "Victory"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1828–29",
+    "earliest": 1828,
+    "latest": 1829,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000027",
+   "kind": "unknown",
+   "name": "First attack on Kaiapoi",
+   "result": "Defeat; chiefs killed"
+  },
+  {
+   "certainty": "C",
+   "date": {
+    "certainty": "C",
+    "display": "1830s",
+    "earliest": 1830,
+    "latest": 1839,
+    "precision": "decade"
+   },
+   "id": "BAT-000030",
+   "kind": "unknown",
+   "name": "Ōraumoaiti and Ōraumoanui",
+   "result": "Inconclusive"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1831–32",
+    "earliest": 1831,
+    "latest": 1832,
+    "precision": "year"
+   },
+   "id": "BAT-000028",
+   "kind": "siege",
+   "name": "Kaiapoi siege",
+   "result": "Captured"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1832",
+    "earliest": 1832,
+    "latest": 1832,
+    "precision": "year"
+   },
+   "id": "BAT-000029",
+   "kind": "unknown",
+   "name": "Ōnawe, Akaroa",
+   "result": "Captured"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000015",
+   "name": "Ngāti Toa Rangatira",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000023",
+   "name": "Ngāi Tahu",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000024",
+   "name": "Ngāti Kuia",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000013",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Rauparaha's South Island campaigns",
+   "preferred": true
+  }
+ ],
+ "parent_war": {
+  "id": "WAR-000009",
+  "name": "Musket Wars",
+  "type": "war"
+ },
+ "parent_war_id": "WAR-000009",
+ "people": [],
+ "primary_name": "Te Rauparaha's South Island campaigns",
+ "related_claims": [],
+ "slug": "te-rauparaha-south-island-campaigns",
+ "span": {
+  "certainty": "A",
+  "display": "c. 1827–1833",
+  "earliest": 1827,
+  "latest": 1833,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Campaigns across Cook Strait for greenstone and control over the region, against Rangitāne, Ngāti Kuia and Ngāi Tahu.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

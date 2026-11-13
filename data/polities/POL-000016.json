@@ -1,0 +1,52 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000031",
+   "name": "Te Kūititanga, Waikanae",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000119"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "descendants_include",
+   "relationship_id": "REL-000054",
+   "role": "maternal"
+  }
+ ],
+ "id": "POL-000016",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ngāti Raukawa",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000005",
+   "name": "Te Rauparaha",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "polity_type": "iwi",
+ "primary_name": "Ngāti Raukawa",
+ "slug": "ngati-raukawa",
+ "status": "draft",
+ "summary": "Te Rauparaha's mother's iwi; joined the migration south as allies.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

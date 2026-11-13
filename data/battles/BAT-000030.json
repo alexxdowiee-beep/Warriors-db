@@ -1,0 +1,96 @@
+{
+ "certainty": "C",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000043",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "C",
+  "display": "1830s",
+  "earliest": 1830,
+  "latest": 1839,
+  "precision": "decade"
+ },
+ "id": "BAT-000030",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ōraumoaiti and Ōraumoanui",
+   "preferred": true
+  }
+ ],
+ "outcome": "Inconclusive",
+ "people": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000043",
+   "role": null
+  }
+ ],
+ "place": null,
+ "primary_name": "Ōraumoaiti and Ōraumoanui",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Inconclusive"
+  },
+  {
+   "commanders": [],
+   "label": "Ngāi Tahu",
+   "polities": [
+    {
+     "id": "POL-000023",
+     "name": "Ngāi Tahu",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000023"
+   ]
+  }
+ ],
+ "slug": "oraumoaiti-and-oraumoanui",
+ "status": "draft",
+ "summary": "Later battles with Ngāi Tahu, now armed from whaling stations, that were inconclusive.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000013",
+  "name": "Te Rauparaha's South Island campaigns",
+  "type": "war"
+ },
+ "war_id": "WAR-000013"
+}

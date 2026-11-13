@@ -1,0 +1,61 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "claim_ids": [
+     "CLM-000061"
+    ],
+    "display": "506 BCE",
+    "earliest": -505,
+    "latest": -505,
+    "precision": "year"
+   },
+   "id": "BAT-000020",
+   "kind": "unknown",
+   "name": "Boju and the capture of Ying",
+   "result": "Decisive victory (for Wu)"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000012",
+   "name": "Wu",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000013",
+   "name": "Chu",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000007",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Wars between Wu and Chu",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Wars between Wu and Chu",
+ "related_claims": [],
+ "slug": "wars-between-wu-and-chu",
+ "status": "draft",
+ "sub_wars": [
+  {
+   "id": "WAR-000008",
+   "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "type": "war"
+  }
+ ],
+ "summary": "Under King Helü (r. 514–496 BCE), Wu fought its western neighbour Chu almost every year and in 506 BCE captured the Chu capital, Ying.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

@@ -1,0 +1,514 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Deborah McGrady"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "self-testimony"
+      ],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (McGrady, Williamson)",
+      "field": "religious_experience",
+      "id": "CLM-000003",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Claimed voices of Michael, Catherine and Margaret",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "career",
+      "id": "CLM-000004",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Examined at Poitiers; report found no fault but no proof",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the failed attack",
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the failed attack and the wound",
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Failed attack: 2 opened; the wound: 1 opened",
+      "field": "main_battles",
+      "id": "CLM-000010",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Wounded attacking Paris, 8 September 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "the failed attack"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "main_battles",
+      "id": "CLM-000011",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Captured at Compiègne, 23 May 1430",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened; English accounts to locate",
+      "field": "captivity",
+      "id": "CLM-000012",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Transferred to the English for 10,000 livres",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Conflicting sources",
+      "field": "controversy",
+      "id": "CLM-000014",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Charles VII abandoned her",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "death",
+      "id": "CLM-000016",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Executed as a relapsed heretic, 30 May 1431",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000044",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Jules Michelet, biography of Joan of Arc (1853)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Embellished (D). Evidence: Michelet's invented scene, built from her earlier trial words (McGrady)",
+      "field": "myth",
+      "id": "CLM-000090",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "She cried out that her voices had not deceived her as she burned",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Myths table verdict: False (B). Evidence: The 1431 record is a Latin translation of a French summary, only rarely verbatim (McGrady)",
+      "field": "myth",
+      "id": "CLM-000092",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Her trial words are a verbatim record",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: 'the best-documented commoner of the Middle Ages'; recorded in two trials. Cited: Britannica and Williamson (birth and family), McGrady (the trials).",
+      "field": "identity",
+      "id": "CLM-000113",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "start: relief of Orléans",
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "start and end",
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "end: capture at Compiègne",
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: Active 1429–1430 (grade A, user decision 13 Nov 2026). Start: relief of Orléans (Britannica, Williamson); end: capture at Compiègne (McGrady, Williamson).",
+      "field": "active_period",
+      "id": "CLM-000114",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active as a military leader from April 1429 to May 1430",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "end: capture at Compiègne"
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000005",
+ "opened": true,
+ "primary_name": "Deborah McGrady, \"The Trials of Joan of Arc\"",
+ "publisher": "History Today",
+ "reliability_notes": "Specialist academic (professor of French, University of Virginia); author of a 2025 Boydell study of Joan as a cultural icon. Warns that later writers have mostly accepted the 1456 witnesses without questioning them.",
+ "reliability_tier": "scholarly",
+ "slug": "mcgrady-trials-of-joan-of-arc",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "History Today article on the two trials of Joan of Arc.",
+ "title": "The Trials of Joan of Arc",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.historytoday.com/archive/feature/trials-joan-arc"
+}

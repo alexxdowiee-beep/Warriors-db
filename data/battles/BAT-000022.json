@@ -1,0 +1,114 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000035",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "late 1821 or early 1822",
+  "earliest": 1821,
+  "latest": 1822,
+  "precision": "year",
+  "qualifier": "between"
+ },
+ "id": "BAT-000022",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Motunui",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory (with Te Āti Awa, Ngāti Tama)",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000035",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000024",
+  "name": "Motunui",
+  "type": "place"
+ },
+ "place_id": "PLC-000024",
+ "primary_name": "Motunui",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa with Te Āti Awa and Ngāti Tama",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000019",
+     "name": "Te Āti Awa",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000020",
+     "name": "Ngāti Tama",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015",
+    "POL-000019",
+    "POL-000020"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Waikato, under Te Wherowhero",
+   "polities": [
+    {
+     "id": "POL-000017",
+     "name": "Waikato",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000017"
+   ]
+  }
+ ],
+ "slug": "motunui",
+ "status": "draft",
+ "summary": "A pursuing Waikato force under Te Wherowhero was defeated, freeing Ngāti Toa from pursuit.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000009",
+  "name": "Musket Wars",
+  "type": "war"
+ },
+ "war_id": "WAR-000009"
+}

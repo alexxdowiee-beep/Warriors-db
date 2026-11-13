@@ -1,0 +1,154 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000007"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000006",
+   "role": "With main army; vanguard did the fighting"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "day": 18,
+  "display": "18 June 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "month": 6,
+  "precision": "day"
+ },
+ "id": "BAT-000004",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Patay",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory (for Joan of Arc's side)",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000007"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000006",
+   "role": "With main army; vanguard did the fighting"
+  }
+ ],
+ "place": {
+  "id": "PLC-000006",
+  "name": "Patay",
+  "type": "place"
+ },
+ "place_id": "PLC-000006",
+ "primary_name": "Patay",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened",
+   "field": "main_battles",
+   "id": "CLM-000007",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Patay won by the vanguard's charge, 18 June 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "casualties": {
+    "ancient_claim": 3,
+    "basis": "contemporary record",
+    "claim_ids": [
+     "CLM-000008"
+    ],
+    "unit": "losses"
+   },
+   "commanders": [],
+   "label": "Valois France",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ],
+   "result": "Victory"
+  },
+  {
+   "casualties": {
+    "ancient_claim": 2200,
+    "basis": "contemporary record",
+    "claim_ids": [
+     "CLM-000008"
+    ],
+    "unit": "losses"
+   },
+   "commanders": [],
+   "label": "English",
+   "polities": [
+    {
+     "id": "POL-000002",
+     "name": "England",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000002"
+   ]
+  }
+ ],
+ "slug": "patay-1429",
+ "status": "draft",
+ "summary": "Field battle in which the retreating English were caught and defeated by a cavalry charge of the French vanguard.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000002",
+  "name": "Loire campaign (1429)",
+  "type": "war"
+ },
+ "war_id": "WAR-000002"
+}

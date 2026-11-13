@@ -1,0 +1,601 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Cornelius Nepos"
+ ],
+ "bias_notes": "See SRC-000012.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Derived from ages given in Nepos (which contain errors)",
+      "field": "birth",
+      "id": "CLM-000019",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Born c. 247 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos) + excerpts",
+      "field": "identity",
+      "id": "CLM-000020",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Son of Hamilcar Barca",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source",
+       "self-testimony"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos)",
+      "field": "early_life",
+      "id": "CLM-000021",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Swore lifelong enmity to Rome as a boy",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos)",
+      "field": "active_period",
+      "id": "CLM-000022",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Chosen commander by the army in 221 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "field": "main_battles",
+      "id": "CLM-000023",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Took Saguntum after an eight-month siege, 219 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "field": "main_battles",
+      "id": "CLM-000025",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos)",
+      "field": "health",
+      "id": "CLM-000029",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Lost the full use of one eye in 217 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "field": "main_battles",
+      "id": "CLM-000031",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated by Scipio at Zama, 202 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos)",
+      "field": "politics",
+      "id": "CLM-000033",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "As suffete, raised taxes to pay the indemnity with a surplus",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos) + excerpts",
+      "field": "death",
+      "id": "CLM-000034",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Took poison at Libyssa to avoid surrender to Rome",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Nepos records three competing ancient datings",
+      "field": "death",
+      "id": "CLM-000035",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Died in 183, 182 or 181 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source"
+      ],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos)",
+      "field": "technology",
+      "id": "CLM-000037",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Had pots of snakes thrown at enemy ships",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Nepos)",
+      "field": "historiography",
+      "id": "CLM-000038",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Silenus and Sosylus served with him and wrote accounts, now lost",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Embellished (D). Evidence: Nepos describes an altar and a sacrifice; the blood detail appears in modern retellings",
+      "field": "myth",
+      "id": "CLM-000095",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He swore his oath by dipping his hand in blood",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Exaggerated (C). Evidence: Nepos's admiring claim; true of major battles only",
+      "field": "myth",
+      "id": "CLM-000100",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was never beaten in Italy",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000012",
+   "name": "Cornelius Nepos, Life of Hannibal",
+   "type": "source"
+  }
+ ],
+ "edition": "trans. J. C. Rolfe (1929)",
+ "id": "SRC-000016",
+ "opened": true,
+ "primary_name": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)",
+ "publisher": "attalus.org",
+ "reliability_notes": "Standard Loeb translation with corrective footnotes.",
+ "reliability_tier": "scholarly",
+ "slug": "nepos-life-of-hannibal-rolfe",
+ "source_type": "translation",
+ "status": "draft",
+ "summary": "English translation of Nepos's Life of Hannibal.",
+ "title": "Life of Hannibal",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.attalus.org/translate/nepos23.html"
+}

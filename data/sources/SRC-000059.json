@@ -1,0 +1,84 @@
+{
+ "bias_notes": "The defeated (hostile-source). The Novgorod chronicle dates the Kalka to 1224.",
+ "certainty": "B",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000161"
+      ],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": "of notes",
+        "source_id": "SRC-000062",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000059",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000062 (SB-S09) (excerpt of notes); SRC-000059 (SB-S04) (via-secondary)",
+      "field": "evidence",
+      "id": "CLM-000162",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "The Novgorod chronicle dates the Kalka to 1224",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000059",
+ "language": "Old East Slavic",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian",
+ "reliability_notes": "Group record (B). Read via Pow 2025.",
+ "reliability_tier": null,
+ "slug": "rus-chronicles-novgorod-first-galician-volhynian-laurentian",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Chronicles of the Rus' principalities covering the Kalka and the conquest of 1237–1240.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

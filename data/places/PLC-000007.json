@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000005",
+   "name": "Montépilloy",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000007",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Montépilloy",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Montépilloy",
+ "slug": "montepilloy",
+ "status": "draft",
+ "summary": "Scene of a standoff with Bedford's army in August 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

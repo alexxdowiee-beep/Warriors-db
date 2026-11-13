@@ -1,0 +1,103 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000044",
+   "role": "His allies fought; he escaped by whaleboat"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "day": 16,
+  "display": "16 October 1839",
+  "earliest": 1839,
+  "latest": 1839,
+  "month": 10,
+  "precision": "day"
+ },
+ "id": "BAT-000031",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Kūititanga, Waikanae",
+   "preferred": true
+  }
+ ],
+ "outcome": "Allies defeated",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000044",
+   "role": "His allies fought; he escaped by whaleboat"
+  }
+ ],
+ "place": {
+  "id": "PLC-000031",
+  "name": "Te Kūititanga, Waikanae",
+  "type": "place"
+ },
+ "place_id": "PLC-000031",
+ "primary_name": "Te Kūititanga, Waikanae",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Raukawa (allies of Te Rauparaha)",
+   "polities": [
+    {
+     "id": "POL-000016",
+     "name": "Ngāti Raukawa",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000016"
+   ],
+   "result": "Allies defeated"
+  },
+  {
+   "commanders": [],
+   "label": "Te Āti Awa",
+   "polities": [
+    {
+     "id": "POL-000019",
+     "name": "Te Āti Awa",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000019"
+   ]
+  }
+ ],
+ "slug": "te-kuititanga",
+ "status": "draft",
+ "summary": "Fighting among Te Rauparaha's allies ended with Ngāti Raukawa's defeat by Te Āti Awa; he escaped by whaleboat.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000009",
+  "name": "Musket Wars",
+  "type": "war"
+ },
+ "war_id": "WAR-000009"
+}

@@ -1,0 +1,75 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "CIV-000001",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kipchaks",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Qipchaq"
+  },
+  {
+   "kind": "other",
+   "name": "Kipchak Turks"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000008",
+   "name": "Baibars",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened)",
+   "field": "origins",
+   "id": "CLM-000188",
+   "perspective": [
+    {
+     "id": "CIV-000001",
+     "name": "Kipchaks",
+     "type": "civilisation"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sold as a slave after the Mongol invasion of the Kipchak lands, c. 1242",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "primary_name": "Kipchaks",
+ "region": "Steppe north of the Black Sea",
+ "slug": "kipchaks",
+ "status": "draft",
+ "summary": "Turkic nomads of the steppe north of the Black Sea; after the Mongol invasion of their lands many were sold as slaves, among them Baibars.",
+ "type": "civilisation",
+ "updated": "2026-11-13",
+ "wars": []
+}

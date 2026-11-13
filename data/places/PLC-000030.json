@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000029",
+   "name": "Ōnawe, Akaroa",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000030",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ōnawe, Akaroa",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Ōnawe, Akaroa",
+ "slug": "onawe",
+ "status": "draft",
+ "summary": "Captured by Te Rauparaha's forces in 1832.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

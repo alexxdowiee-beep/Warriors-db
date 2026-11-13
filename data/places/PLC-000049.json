@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000052",
+   "name": "Tây Kết",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000049",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Tây Kết",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Tây Kết",
+ "slug": "tay-ket",
+ "status": "draft",
+ "summary": "Where the isolated Yuan vanguard was destroyed in 1285 and Sogetu killed.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

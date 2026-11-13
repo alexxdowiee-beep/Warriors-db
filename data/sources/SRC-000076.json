@@ -1,0 +1,117 @@
+{
+ "authors": [
+  "Ngô Sĩ Liên"
+ ],
+ "bias_notes": "Written two centuries later for a later dynasty; Confucian moral framing (late-source, patron-bias).",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000076",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000076 (TH-S01) (excerpt)",
+      "field": "family",
+      "id": "CLM-000230",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Trần Thủ Độ forced Trần Liễu's wife into marriage with the emperor, causing a family feud",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "hagiography"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000076",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)"
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "SRC-000076 (TH-S01) (excerpt)",
+      "field": "family",
+      "id": "CLM-000231",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "Tradition: he refused his father's call to seize the throne",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "1479; standard edition 1697",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000076",
+ "language": "Classical Chinese",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+ "reliability_notes": "Draws on earlier Trần records (lost). Excerpts only.",
+ "reliability_tier": null,
+ "slug": "ngo-si-lien-et-al-dai-viet-su-ky-toan-thu-complete-annals-of-dai-viet",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Vietnamese court history compiled in 1479, standard edition 1697.",
+ "title": "Đại Việt sử ký toàn thư",
+ "type": "source",
+ "updated": "2026-11-13"
+}

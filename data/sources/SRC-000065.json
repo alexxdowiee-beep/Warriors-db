@@ -1,0 +1,72 @@
+{
+ "bias_notes": "Fabricated content (doc reliability: fabricated).",
+ "certainty": "D",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "E",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000065",
+        "source_type": "ai-generated",
+        "tier": "ai-generated",
+        "title": "An AI-generated online \"encyclopedia\" entry on Subutai"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Fabricated (E). Evidence: From an AI-generated web page with no sources; nothing similar exists in the evidence",
+      "field": "myth",
+      "id": "CLM-000183",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Online \"encyclopedia\" details about his washing captured banners in a river or sending patrols to record weather and soil",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000065",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "An AI-generated online \"encyclopedia\" entry on Subutai",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "An AI-generated online \"encyclopedia\" entry on Subutai",
+ "reliability_notes": "Seen in search. Doc type was 'other' (written before the ai-generated type existed). Kept only as the origin of myth SB-M10. Grade D: author and date unknown.",
+ "reliability_tier": "ai-generated",
+ "slug": "an-ai-generated-online-encyclopedia-entry-on-subutai",
+ "source_type": "ai-generated",
+ "status": "draft",
+ "summary": "AI-generated web page with invented details about Subutai and no sources.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

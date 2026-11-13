@@ -1,0 +1,132 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000189"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000079",
+   "role": "Among the Bahri leaders"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "February 1250",
+  "earliest": 1250,
+  "latest": 1250,
+  "month": 2,
+  "precision": "month"
+ },
+ "id": "BAT-000044",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Al-Mansurah",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000189"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000079",
+   "role": "Among the Bahri leaders"
+  }
+ ],
+ "place": {
+  "id": "PLC-000043",
+  "name": "al-Mansurah",
+  "type": "place"
+ },
+ "place_id": "PLC-000043",
+ "primary_name": "Al-Mansurah",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened); EBSCO (excerpt)",
+   "field": "career",
+   "id": "CLM-000189",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Commanded at al-Mansurah against Louis IX, February 1250",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000008"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "label": "Egyptian army, including the Bahri mamluks",
+   "polities": [],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Seventh Crusade (Louis IX)",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ]
+  }
+ ],
+ "slug": "al-mansurah",
+ "status": "draft",
+ "summary": "Defeat of Louis IX's Seventh Crusade by the Bahri mamluks, Baibars among their leaders.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

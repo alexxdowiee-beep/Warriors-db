@@ -1,0 +1,123 @@
+{
+ "authors": [
+  "Ata-Malik Juvaini"
+ ],
+ "bias_notes": "Writes for his Mongol employers yet laments the destruction of his world (patron-bias).",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000047",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ata-Malik Juvaini, History of the World Conqueror"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000047 (GK-S02) (via-secondary)",
+      "field": "career",
+      "id": "CLM-000131",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Otrar caravan massacre led to war with Khwarazm",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000047",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ata-Malik Juvaini, History of the World Conqueror"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Literary (D). Evidence: Reported by Juvaini, writing about 40 years later in Mongol service (`patron-bias`)",
+      "field": "myth",
+      "id": "CLM-000149",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "At Bukhara he declared himself \"the punishment of God\", in those words",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "c. 1260",
+ "derived_by": [],
+ "derives_from": [],
+ "edition": "trans. J. A. Boyle (1997 repr.)",
+ "id": "SRC-000047",
+ "language": "Persian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ata-Malik Juvaini, History of the World Conqueror",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ata-Malik Juvaini, History of the World Conqueror",
+ "reliability_notes": "Doc edition: trans. J. A. Boyle (1997 repr.). Read via May (GK-S09).",
+ "reliability_tier": null,
+ "slug": "ata-malik-juvaini-history-of-the-world-conqueror",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Persian history of the Mongol conquests by an official in Mongol service.",
+ "title": "History of the World Conqueror",
+ "type": "source",
+ "updated": "2026-11-13"
+}

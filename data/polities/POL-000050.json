@@ -1,0 +1,60 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000050",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Mongolia",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (GK-S09) (opened)",
+   "field": "legacy",
+   "id": "CLM-000140",
+   "perspective": [
+    {
+     "id": "POL-000050",
+     "name": "Mongolia",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Denigrated under Mongolian communism; now honoured as national founder",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "primary_name": "Mongolia",
+ "slug": "mongolia",
+ "status": "draft",
+ "summary": "The modern state of Mongolia. Used as a perspective: modern Mongolian memory of the Mongol Empire.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

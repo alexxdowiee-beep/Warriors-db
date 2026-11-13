@@ -1,0 +1,72 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000010",
+   "role": "Rallied the renewed attack"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "November 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "month": 11,
+  "precision": "month"
+ },
+ "id": "BAT-000007",
+ "kind": "assault",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Saint-Pierre-le-Moûtier",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory (for Joan of Arc's side)",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000010",
+   "role": "Rallied the renewed attack"
+  }
+ ],
+ "place": {
+  "id": "PLC-000009",
+  "name": "Saint-Pierre-le-Moûtier",
+  "type": "place"
+ },
+ "place_id": "PLC-000009",
+ "primary_name": "Saint-Pierre-le-Moûtier",
+ "related_claims": [],
+ "sides": [],
+ "slug": "saint-pierre-le-moutier-1429",
+ "status": "draft",
+ "summary": "Assault in which the French took Saint-Pierre-le-Moûtier.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "war_id": "WAR-000001"
+}

@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000043",
+   "name": "Mohi (Sajó River)",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000042",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Mohi",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Mohi",
+ "slug": "mohi",
+ "status": "draft",
+ "summary": "Site on the Sajó River where the Mongols destroyed the army of Béla IV in April 1241.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

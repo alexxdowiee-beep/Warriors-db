@@ -1,0 +1,42 @@
+{
+ "authors": [
+  "Polybius"
+ ],
+ "bias_notes": "Generally careful; close to the Scipio family, which colours his treatment of Paullus and Scipio. Patron bias: his account is shaped by his patrons; Aemilius Paullus, praised in his narrative, was the grandfather of his patron Scipio Aemilianus (excerpt; to verify). This, not hostility to Rome, is why his Cannae casualty figure (CLM-000026) is flagged.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "2nd c. BCE",
+ "derived_by": [
+  {
+   "id": "SRC-000011",
+   "name": "Livy, History of Rome, books 21–30",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000015",
+   "name": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000017",
+   "name": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000010",
+ "language": "Greek",
+ "opened": false,
+ "primary_name": "Polybius, Histories",
+ "reliability_notes": "About 50–70 years from the events; spoke to survivors. Seems to have used some of the lost material by Silenus and Sosylus (SRC-000014); not recorded in derives_from because the doc says 'seems'.",
+ "reliability_tier": null,
+ "slug": "polybius-histories",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Greek history of Rome's rise, including the Second Punic War.",
+ "title": "Histories",
+ "type": "source",
+ "updated": "2026-11-13"
+}

@@ -1,0 +1,114 @@
+{
+ "authors": [
+  "Livy"
+ ],
+ "bias_notes": "Roman patriotic history; dramatic speeches and moral lessons.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "not-opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000011",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Livy, History of Rome, books 21–30"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Not opened (Livy)",
+      "field": "alpine_crossing",
+      "id": "CLM-000036",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Split rocks in the Alps with fire and vinegar",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "not-opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000011",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Livy, History of Rome, books 21–30"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Literary (D). Evidence: A Livy scene, written two centuries later; the words are Livy's",
+      "field": "myth",
+      "id": "CLM-000097",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "An officer told him he knew how to win a victory but not how to use one",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "Late 1st c. BCE",
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000010",
+   "name": "Polybius, Histories",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000011",
+ "language": "Latin",
+ "opened": false,
+ "primary_name": "Livy, History of Rome, books 21–30",
+ "reliability_notes": "About 200 years from the events; partly follows Polybius.",
+ "reliability_tier": null,
+ "slug": "livy-history-of-rome-21-30",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Latin history of Rome; books 21–30 cover the Second Punic War.",
+ "title": "History of Rome, books 21–30",
+ "type": "source",
+ "updated": "2026-11-13"
+}

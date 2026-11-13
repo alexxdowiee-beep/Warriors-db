@@ -1,0 +1,108 @@
+{
+ "authors": [
+  "Kelly DeVries"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "hagiography"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000008",
+        "source_type": "academic-book",
+        "tier": "scholarly",
+        "title": "Kelly DeVries, Joan of Arc: A Military Leader"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Reviews of DeVries only. Flag note from the doc: hagiography (1456 testimony)",
+      "field": "command_role",
+      "id": "CLM-000013",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "She held real military command",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "E",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000008",
+        "source_type": "academic-book",
+        "tier": "scholarly",
+        "title": "Kelly DeVries, Joan of Arc: A Military Leader"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (E). Evidence: A later theory that she was a child of the House of Orléans; rejected by historians including DeVries",
+      "field": "myth",
+      "id": "CLM-000089",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "She was secretly a royal princess",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000008",
+ "opened": false,
+ "primary_name": "Kelly DeVries, Joan of Arc: A Military Leader",
+ "publisher": "Sutton",
+ "reliability_notes": "Specialist in medieval military history; the key study for this database's angle. Known from reviews only: H-Net review (https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/reviewsw150.htm) and Project MUSE review (https://muse.jhu.edu/article/170578/pdf). One reviewer notes the book still leaves open what exactly made her effective.",
+ "reliability_tier": "scholarly",
+ "slug": "devries-joan-of-arc-a-military-leader",
+ "source_type": "academic-book",
+ "status": "draft",
+ "summary": "Study arguing that Joan should be studied first as a soldier.",
+ "title": "Joan of Arc: A Military Leader",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 1999
+}

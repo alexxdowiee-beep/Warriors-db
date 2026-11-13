@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000049",
+   "name": "Krak des Chevaliers",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000045",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Knights Hospitaller",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "other",
+ "primary_name": "Knights Hospitaller",
+ "slug": "knights-hospitaller",
+ "status": "draft",
+ "summary": "Military order whose castle, Krak des Chevaliers, fell to Baibars in 1270 or 1271.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

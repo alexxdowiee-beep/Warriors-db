@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000003",
+   "name": "Beaugency",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000005",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Beaugency",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Beaugency",
+ "slug": "beaugency",
+ "status": "draft",
+ "summary": "Its English garrison surrendered on 17 June 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

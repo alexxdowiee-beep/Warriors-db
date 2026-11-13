@@ -1,0 +1,172 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Polybius"
+ ],
+ "bias_notes": "See SRC-000010.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers",
+       "patron-bias"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000015",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (Polybius, DCC repeating Polybius)",
+      "field": "casualties",
+      "id": "CLM-000026",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "About 70,000 Romans died at Cannae",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000015",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Polybius)",
+      "field": "casualties",
+      "id": "CLM-000027",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Hannibal lost about 5,700 at Cannae",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000015",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (Polybius, DCC)",
+      "field": "main_battles",
+      "id": "CLM-000028",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Won Cannae by double envelopment and cavalry",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000010",
+   "name": "Polybius, Histories",
+   "type": "source"
+  }
+ ],
+ "edition": "trans. E. S. Shuckburgh (1889)",
+ "id": "SRC-000015",
+ "opened": true,
+ "primary_name": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)",
+ "publisher": "Fordham University, Internet Ancient History Sourcebook",
+ "reliability_notes": "Public-domain translation of the key primary source.",
+ "reliability_tier": "scholarly",
+ "slug": "polybius-3-107-118-shuckburgh",
+ "source_type": "translation",
+ "status": "draft",
+ "summary": "Public-domain English translation of Polybius's account of Cannae.",
+ "title": "Histories 3.107–118",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://sourcebooks.web.fordham.edu/ancient/polybius-cannae.asp"
+}

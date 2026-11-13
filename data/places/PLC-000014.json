@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000012",
+   "name": "Trebia",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000014",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Trebia",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Trebia",
+ "slug": "trebia",
+ "status": "draft",
+ "summary": "Scene of Hannibal's victory in December 218 BCE.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

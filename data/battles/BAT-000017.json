@@ -1,0 +1,105 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000023",
+   "role": "His wing held"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "190 BCE",
+  "earliest": -189,
+  "latest": -189,
+  "precision": "year"
+ },
+ "id": "BAT-000017",
+ "kind": "naval",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Naval battle off Pamphylia",
+   "preferred": true
+  }
+ ],
+ "outcome": "Defeat (his wing held)",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000023",
+   "role": "His wing held"
+  }
+ ],
+ "place": {
+  "id": "PLC-000019",
+  "name": "Pamphylia",
+  "type": "place"
+ },
+ "place_id": "PLC-000019",
+ "primary_name": "Naval battle off Pamphylia",
+ "related_claims": [],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000002"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "label": "Fleet of Antiochus III, with Hannibal",
+   "polities": [
+    {
+     "id": "POL-000007",
+     "name": "Seleucid kingdom",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000007"
+   ],
+   "result": "Defeat (his wing held)"
+  },
+  {
+   "commanders": [],
+   "label": "Rhodes",
+   "polities": [
+    {
+     "id": "POL-000009",
+     "name": "Rhodes",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000009"
+   ]
+  }
+ ],
+ "slug": "naval-battle-off-pamphylia",
+ "status": "draft",
+ "summary": "Naval battle in which the Rhodians defeated a fleet in which Hannibal commanded; his wing held.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

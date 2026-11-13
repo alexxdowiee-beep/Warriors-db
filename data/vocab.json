@@ -1,0 +1,383 @@
+{
+ "access": {
+  "excerpt": {
+   "label": "Excerpt"
+  },
+  "not-opened": {
+   "label": "Not yet consulted"
+  },
+  "opened": {
+   "label": "Opened"
+  },
+  "via-secondary": {
+   "label": "Via a secondary source"
+  }
+ },
+ "bias_flags": {
+  "hagiography": {
+   "label": "Hagiography"
+  },
+  "hostile-source": {
+   "label": "Hostile source"
+  },
+  "inflated-numbers": {
+   "label": "Inflated numbers"
+  },
+  "late-source": {
+   "label": "Late source"
+  },
+  "nationalist-reinterpretation": {
+   "label": "Nationalist reinterpretation"
+  },
+  "oral-tradition": {
+   "label": "Oral tradition"
+  },
+  "patron-bias": {
+   "label": "Patron bias"
+  },
+  "popular-culture": {
+   "label": "Popular culture"
+  },
+  "propaganda": {
+   "label": "Propaganda"
+  },
+  "self-testimony": {
+   "label": "Self testimony"
+  },
+  "translation-issue": {
+   "label": "Translation issue"
+  }
+ },
+ "claim_types": {
+  "event": {
+   "label": "Event",
+   "meaning": "It happened."
+  },
+  "interpretation": {
+   "label": "Interpretation",
+   "meaning": "A historian's judgement."
+  },
+  "text": {
+   "label": "Text",
+   "meaning": "What a document says."
+  },
+  "tradition": {
+   "label": "Tradition",
+   "meaning": "What a tradition says."
+  }
+ },
+ "eras": {
+  "note": "A display convention for filtering, not a historical claim. A person's era is the one containing the midpoint of their active period.",
+  "values": [
+   {
+    "display": "before 500 BCE",
+    "earliest": null,
+    "key": "ancient",
+    "label": "Ancient",
+    "latest": -500
+   },
+   {
+    "display": "500 BCE to 500 CE",
+    "earliest": -499,
+    "key": "classical",
+    "label": "Classical",
+    "latest": 499
+   },
+   {
+    "display": "500 to 1500",
+    "earliest": 500,
+    "key": "medieval",
+    "label": "Medieval",
+    "latest": 1499
+   },
+   {
+    "display": "1500 to 1800",
+    "earliest": 1500,
+    "key": "early-modern",
+    "label": "Early modern",
+    "latest": 1799
+   },
+   {
+    "display": "1800 onward",
+    "earliest": 1800,
+    "key": "modern",
+    "label": "Modern",
+    "latest": null
+   }
+  ]
+ },
+ "grades": {
+  "A": {
+   "label": "Established",
+   "meaning": "Two or more independent sources, at least one opened and one contemporary or archaeological, or scholarly consensus."
+  },
+  "B": {
+   "label": "Probable",
+   "meaning": "One good source, or several later ones with a credible chain."
+  },
+  "C": {
+   "label": "Disputed",
+   "meaning": "Credible sources or scholars disagree."
+  },
+  "D": {
+   "label": "Weak",
+   "meaning": "A single late, partisan or second-hand source."
+  },
+  "E": {
+   "label": "Legendary or false",
+   "meaning": "Legend, or shown to be false."
+  }
+ },
+ "regions": {
+  "note": "Where a person or polity acted. A display classification for filtering, not a historical claim, so it has no grade.",
+  "values": [
+   "Africa",
+   "Asia",
+   "Europe",
+   "Americas",
+   "Pacific"
+  ]
+ },
+ "relations": {
+  "affected": {
+   "label": "Affected"
+  },
+  "affected_by": {
+   "label": "Affected by"
+  },
+  "allied_with": {
+   "label": "Allied with"
+  },
+  "attributed_author_of": {
+   "label": "Attributed author of"
+  },
+  "attributed_to": {
+   "label": "Attributed to"
+  },
+  "belongs_to": {
+   "label": "Belongs to"
+  },
+  "child_of": {
+   "label": "Child of"
+  },
+  "commanded": {
+   "label": "Commanded"
+  },
+  "commanded_by": {
+   "label": "Commanded by"
+  },
+  "commentary_by": {
+   "label": "Commentary by"
+  },
+  "commented_on": {
+   "label": "Commented on"
+  },
+  "compare_with": {
+   "label": "Compare with"
+  },
+  "conquered": {
+   "label": "Conquered"
+  },
+  "conquered_by": {
+   "label": "Conquered by"
+  },
+  "descendants_include": {
+   "label": "Descendants include"
+  },
+  "descended_from": {
+   "label": "Descended from"
+  },
+  "died_at": {
+   "label": "Died at"
+  },
+  "died_there": {
+   "label": "Died there"
+  },
+  "during": {
+   "label": "During"
+  },
+  "faced_rebellion_by": {
+   "label": "Faced rebellion by"
+  },
+  "featured": {
+   "label": "Featured"
+  },
+  "featured_in": {
+   "label": "Featured in"
+  },
+  "founded": {
+   "label": "Founded"
+  },
+  "founded_by": {
+   "label": "Founded by"
+  },
+  "includes": {
+   "label": "Includes"
+  },
+  "includes_polity": {
+   "label": "Includes polity"
+  },
+  "introduced": {
+   "label": "Introduced"
+  },
+  "introduced_by": {
+   "label": "Introduced by"
+  },
+  "killed": {
+   "label": "Killed"
+  },
+  "killed_by": {
+   "label": "Killed by"
+  },
+  "led": {
+   "label": "Led"
+  },
+  "led_by": {
+   "label": "Led by"
+  },
+  "mentored": {
+   "label": "Mentored"
+  },
+  "mentored_by": {
+   "label": "Mentored by"
+  },
+  "origin_of": {
+   "label": "Origin of"
+  },
+  "originated_from": {
+   "label": "Originated from"
+  },
+  "overlord_of": {
+   "label": "Overlord of"
+  },
+  "parent_of": {
+   "label": "Parent of"
+  },
+  "part_of": {
+   "label": "Part of"
+  },
+  "participant": {
+   "label": "Participant"
+  },
+  "participated": {
+   "label": "Participated"
+  },
+  "period_of": {
+   "label": "Period of"
+  },
+  "planned": {
+   "label": "Planned"
+  },
+  "planned_by": {
+   "label": "Planned by"
+  },
+  "rebelled_against": {
+   "label": "Rebelled against"
+  },
+  "reformed": {
+   "label": "Reformed"
+  },
+  "reformed_by": {
+   "label": "Reformed by"
+  },
+  "rival_of": {
+   "label": "Rival of"
+  },
+  "ruled": {
+   "label": "Ruled"
+  },
+  "ruled_by": {
+   "label": "Ruled by"
+  },
+  "served": {
+   "label": "Served"
+  },
+  "served_by": {
+   "label": "Served by"
+  },
+  "served_under": {
+   "label": "Served under"
+  },
+  "sibling_of": {
+   "label": "Sibling of"
+  },
+  "spouse_of": {
+   "label": "Spouse of"
+  },
+  "succeeded": {
+   "label": "Succeeded"
+  },
+  "succeeded_by": {
+   "label": "Succeeded by"
+  },
+  "superior_of": {
+   "label": "Superior of"
+  },
+  "used": {
+   "label": "Used"
+  },
+  "used_by": {
+   "label": "Used by"
+  },
+  "vassal_of": {
+   "label": "Vassal of"
+  },
+  "wounded_at": {
+   "label": "Wounded at"
+  },
+  "wounded_there": {
+   "label": "Wounded there"
+  },
+  "written_by": {
+   "label": "Written by"
+  },
+  "wrote": {
+   "label": "Wrote"
+  }
+ },
+ "reliability_tiers": {
+  "aggregator": {
+   "label": "Aggregator"
+  },
+  "ai-generated": {
+   "label": "AI-generated"
+  },
+  "popular": {
+   "label": "Popular"
+  },
+  "primary": {
+   "label": "Primary material"
+  },
+  "reference": {
+   "label": "Reference"
+  },
+  "scholarly": {
+   "label": "Scholarly"
+  }
+ },
+ "statuses": {
+  "draft": {
+   "label": "Draft"
+  },
+  "reviewed": {
+   "label": "Reviewed"
+  },
+  "sourced": {
+   "label": "Sourced"
+  },
+  "verified": {
+   "label": "Verified"
+  }
+ },
+ "verdicts": {
+  "accepted": {
+   "label": "Accepted"
+  },
+  "disputed": {
+   "label": "Disputed"
+  },
+  "rejected-myth": {
+   "label": "Rejected (myth)"
+  }
+ }
+}

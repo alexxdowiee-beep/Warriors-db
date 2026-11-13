@@ -1,0 +1,132 @@
+{
+ "authors": [
+  "T. Zerjal et al."
+ ],
+ "bias_notes": "No bias noted in the docs.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "popular-culture"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000055",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000057",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000055 (GK-S10) (excerpt); SRC-000057 (GK-S12) (excerpt)",
+      "field": "legacy",
+      "id": "CLM-000143",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "A Y-chromosome lineage in about 0.5% of the world's men was proposed to have spread with his male-line kin",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000055",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Overstated (C). Evidence: A 2003 study found a Y-chromosome lineage carried by about 0.5% of the world's men and proposed it spread with Genghis Khan's male-line kin; it may predate him, and it shows a lineage, not proof of individual descent (Zerjal et al. 2003, excerpts)",
+      "field": "myth",
+      "id": "CLM-000147",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "16 million living men are his direct descendants",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [
+  {
+   "id": "SRC-000057",
+   "name": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000055",
+ "isbn_doi": "10.1086/367774",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+ "publisher": "American Journal of Human Genetics 72",
+ "reliability_notes": "Cited from search excerpts.",
+ "reliability_tier": "scholarly",
+ "slug": "t-zerjal-et-al-the-genetic-legacy-of-the-mongols",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "2003 genetics study of a Y-chromosome lineage widespread in Asia, proposed to have spread with Genghis Khan's male-line kin.",
+ "title": "The Genetic Legacy of the Mongols",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1180246/",
+ "year": 2003
+}

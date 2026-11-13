@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000026",
+   "name": "Hikapu, Pelorus Sound",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000028",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Hikapu, Pelorus Sound",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Hikapu, Pelorus Sound",
+ "slug": "hikapu",
+ "status": "draft",
+ "summary": "Where Ngāti Kuia were heavily defeated, c. 1828.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

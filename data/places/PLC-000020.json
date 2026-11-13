@@ -1,0 +1,30 @@
+{
+ "battles": [],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000020",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Libyssa",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000002",
+   "name": "Hannibal Barca",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Libyssa",
+ "slug": "libyssa",
+ "status": "draft",
+ "summary": "In Bithynia; where Hannibal took poison.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

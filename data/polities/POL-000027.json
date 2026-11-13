@@ -1,0 +1,28 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000027",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ilkhanate",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Mongol Ilkhanate"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "other",
+ "primary_name": "Ilkhanate",
+ "slug": "ilkhanate",
+ "status": "draft",
+ "summary": "Mongol successor state ruling Iran; enemy of the Mamluks in Syria. It dissolved after the death of its last effective ruler in 1335.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

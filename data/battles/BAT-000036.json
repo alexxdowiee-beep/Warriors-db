@@ -1,0 +1,110 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000063",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1219–1220",
+  "earliest": 1219,
+  "latest": 1220,
+  "precision": "year"
+ },
+ "id": "BAT-000036",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Capture of Otrar",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000063",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000034",
+  "name": "Otrar",
+  "type": "place"
+ },
+ "place_id": "PLC-000034",
+ "primary_name": "Capture of Otrar",
+ "related_claims": [],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000006"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "label": "Mongol Empire",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Khwarazm",
+   "polities": [
+    {
+     "id": "POL-000031",
+     "name": "Khwarazmian Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000031"
+   ]
+  }
+ ],
+ "slug": "capture-of-otrar",
+ "status": "draft",
+ "summary": "Mongol capture of the Khwarazmian border town whose governor had massacred a Mongol caravan.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000017",
+  "name": "Invasion of Khwarazm",
+  "type": "war"
+ },
+ "war_id": "WAR-000017"
+}

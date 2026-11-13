@@ -1,0 +1,196 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000196",
+    "CLM-000197"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000085",
+   "role": "Commander"
+  }
+ ],
+ "date": {
+  "certainty": "C",
+  "display": "1270 or 1271",
+  "earliest": 1270,
+  "latest": 1271,
+  "precision": "year",
+  "qualifier": "between"
+ },
+ "id": "BAT-000049",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Krak des Chevaliers",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000196",
+    "CLM-000197"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000085",
+   "role": "Commander"
+  }
+ ],
+ "place": {
+  "id": "PLC-000047",
+  "name": "Krak des Chevaliers",
+  "type": "place"
+ },
+ "place_id": "PLC-000047",
+ "primary_name": "Krak des Chevaliers",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000196",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Took Krak des Chevaliers and other castles of the military orders",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08); SRC-000073 (BB-S10)",
+   "field": "career",
+   "id": "CLM-000197",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Year of Krak's capture: 1270 (Smith) or 1271 (Britannica)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000008"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "label": "Mamluk Sultanate",
+   "polities": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000030"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Knights Hospitaller",
+   "polities": [
+    {
+     "id": "POL-000045",
+     "name": "Knights Hospitaller",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000045"
+   ]
+  }
+ ],
+ "slug": "krak-des-chevaliers",
+ "status": "draft",
+ "summary": "Baibars' capture of the Hospitaller castle.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000020",
+  "name": "Campaigns against the crusader states",
+  "type": "war"
+ },
+ "war_id": "WAR-000020"
+}

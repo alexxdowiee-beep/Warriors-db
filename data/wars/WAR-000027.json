@@ -1,0 +1,62 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000106",
+   "role": null
+  }
+ ],
+ "id": "WAR-000027",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Planned invasion of China",
+   "preferred": true
+  }
+ ],
+ "outcome": "Abandoned at his death",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000106",
+   "role": null
+  }
+ ],
+ "primary_name": "Planned invasion of China",
+ "related_claims": [],
+ "slug": "planned-invasion-of-china",
+ "span": {
+  "certainty": "A",
+  "display": "1404–1405",
+  "earliest": 1404,
+  "latest": 1405,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Campaign against Ming China that ended when Timur died at Otrar in February 1405.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

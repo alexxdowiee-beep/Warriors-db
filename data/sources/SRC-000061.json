@@ -1,0 +1,478 @@
+{
+ "accessed": "2026-11-13",
+ "authors": [
+  "Stephen Pow"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "identity",
+      "id": "CLM-000155",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Subutai (Sübe'etei) was a leading Mongol general under Genghis Khan and Ögödei",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "active_period",
+      "id": "CLM-000156",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1200s–1240s",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "main_battles",
+      "id": "CLM-000157",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "translation-issue"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "field": "evidence",
+      "id": "CLM-000160",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "His biography, written in Mongolian, was translated into Chinese in the 1260s and survives in three Chinese versions",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000162"
+      ],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000062",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000061 (SB-S08) (opened); SRC-000062 (SB-S09) (opened, abstract)",
+      "field": "career",
+      "id": "CLM-000161",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "career",
+      "id": "CLM-000164",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000040",
+        "name": "Kingdom of Hungary",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "field": "career",
+      "id": "CLM-000165",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Ryazan fell in December 1237",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "field": "career",
+      "id": "CLM-000166",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "patron-bias"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "translating SRC-000058 (SB-S01)",
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000061 (SB-S08) (opened, translating SRC-000058 (SB-S01))",
+      "field": "leadership",
+      "id": "CLM-000168",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "His biography says Batu asked for him to take command when the princes stalled",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "translating SRC-000058 (SB-S01)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "translation-issue"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "field": "evidence",
+      "id": "CLM-000169",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "\"Ye-lie-ban\" in his biography is Ryazan, garbled in transcription",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000061",
+ "isbn_doi": "10.22378/2313-6197.2025-13-3.509-522",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+ "publisher": "Golden Horde Review 13.3",
+ "reliability_notes": "Golden Horde Review 13.3 (2025), open access (CC BY). Opened 13 Nov 2026. Same author as SB-S09: the doc says the two are not independent of each other (not expressible in derives_from; see CONVERSION_NOTES).",
+ "reliability_tier": "scholarly",
+ "slug": "stephen-pow-ye-lie-ban-ruler-of-the-russian-tribe",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Study of the Rus' material in Subutai's Yuan-era biographies.",
+ "title": "'Ye-lie-ban, Ruler of the Russian Tribe'",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://journal-vniispk.ru/2308-152X/article/download/333167/307974",
+ "year": 2025
+}

@@ -1,0 +1,759 @@
+{
+ "accessed": "2026-11-13",
+ "bias_notes": "Weak aggregator, internally inconsistent: its popular summary gives round numbers its own reference text contradicts (inflated-numbers).",
+ "certainty": "B",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06) (opened, abstract); SRC-000084 (TH-S10) (opened)",
+      "field": "identity",
+      "id": "CLM-000214",
+      "perspective": [
+       {
+        "id": "POL-000046",
+        "name": "Đại Việt",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Trần Hưng Đạo (Trần Quốc Tuấn), a Trần prince, led Đại Việt's resistance to the Mongol-Yuan invasions",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+      "field": "active_period",
+      "id": "CLM-000215",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1250s–1300",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+      "field": "main_battles",
+      "id": "CLM-000216",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06) (opened); SRC-000084 (TH-S10) (opened)",
+      "field": "birth",
+      "id": "CLM-000217",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born 1228 (alternative: 1213)",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+      "field": "death",
+      "id": "CLM-000218",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died 1300",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000081",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000081 (TH-S07) (opened, abstract); SRC-000084 (TH-S10)",
+      "field": "career",
+      "id": "CLM-000219",
+      "perspective": [
+       {
+        "id": "POL-000046",
+        "name": "Đại Việt",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The 1257–58 Mongol invasion took Thăng Long but withdrew after about a month",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10)",
+      "field": "career",
+      "id": "CLM-000221",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "In 1285 the Yuan vanguard was destroyed at Tây Kết and Sogetu killed",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10)",
+      "field": "career",
+      "id": "CLM-000222",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "In 1287–88 the Vietnamese captured the Yuan supply fleet",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10)",
+      "field": "career",
+      "id": "CLM-000223",
+      "perspective": [
+       {
+        "id": "POL-000046",
+        "name": "Đại Việt",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000029",
+        "name": "Yuan dynasty",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "popular part",
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10) (popular part)",
+      "field": "tactics",
+      "id": "CLM-000224",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Stakes were planted in the Bạch Đằng riverbed to trap the Yuan fleet",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "popular part"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000235"
+      ],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "reference part",
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10) (reference part)",
+      "field": "career",
+      "id": "CLM-000225",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "The 1287 Yuan force: about 70,000 regulars, 21,000 auxiliaries and 500 ships",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": "reference part"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10)",
+      "field": "politics",
+      "id": "CLM-000226",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Đại Việt kept paying tribute to the Yuan after 1288",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000084 (TH-S10)",
+      "field": "politics",
+      "id": "CLM-000227",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Prince Trần Ích Tắc defected; Kublai named him ruler of Annam in 1286",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: The Mamluks defeated them at Ain Jalut in 1260 (see Baibars), and their invasions of Japan and Java also failed; the same page that makes this claim describes the failure in Java",
+      "field": "myth",
+      "id": "CLM-000234",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Vietnam was the only place the Mongols were ever defeated militarily",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000225"
+      ],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Inflated (D). Evidence: The same page's reference text gives about 92,000 for 1287",
+      "field": "myth",
+      "id": "CLM-000235",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "500,000 Yuan troops invaded in 1284, and 300,000 in 1287",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "several Trần princes and both emperors shared command",
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Oversimplified (B). Evidence: Several Trần princes and both emperors shared command Citation added 13 Nov 2026 (user decision). SRC-000084: several Trần princes and both emperors shared command.",
+      "field": "myth",
+      "id": "CLM-000239",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He defeated the Mongols single-handed",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": "several Trần princes and both emperors shared command"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "tribute continued after 1288",
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (B). Evidence: Tribute continued; the dispute was over its form Citation added 13 Nov 2026 (user decision). SRC-000084: tribute continued after 1288.",
+      "field": "myth",
+      "id": "CLM-000240",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "After 1288, Vietnam broke off relations with the Yuan",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": "tribute continued after 1288"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Reported (C). Evidence: In the reference encyclopedia text; original source still to be traced",
+      "field": "myth",
+      "id": "CLM-000242",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "His soldiers tattooed \"Kill the Mongols\" on their arms",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000082",
+   "name": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000084",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+ "publisher": "WarHistory.org",
+ "reliability_notes": "Opened 13 Nov 2026. derives_from TH-S08 follows the doc's 'Probably S08, uncredited'. Independent of Kelley and Kozlovskyi, so usable as a second source for broad facts; cannot carry an A on its own. Author not named (grade B).",
+ "reliability_tier": "aggregator",
+ "slug": "mongol-invasions-of-vietnam-and-java-warhistory-org",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "Web page that reproduces, without credit, a reference-encyclopedia entry, with a popular summary attached.",
+ "title": "Mongol Invasions of Vietnam and Java",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://warhistory.org/2018/07/26/mongol-invasions-of-vietnam-and-java/",
+ "year": 2018
+}

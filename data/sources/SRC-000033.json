@@ -1,0 +1,32 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "cultural_guidance": "Knowledge held by the iwi as kaitiaki. Use only what the iwi has placed in the public record, follow the iwi's own guidance on anything sensitive, and do not reproduce taonga such as the words of Ka Mate in quizzes or games.",
+ "date_written": "Continuous",
+ "derived_by": [
+  {
+   "id": "SRC-000034",
+   "name": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000035",
+   "name": "Tāmihana Te Rauparaha, account of his father",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000033",
+ "primary_name": "Ngāti Toa Rangatira oral history and whakapapa",
+ "reliability_notes": "Held and transmitted within the iwi.",
+ "reliability_tier": null,
+ "slug": "ngati-toa-oral-history-and-whakapapa",
+ "source_type": "oral-tradition",
+ "status": "draft",
+ "summary": "Ngāti Toa's own history, including whakapapa, kōrero about the migration and the story of Ka Mate.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

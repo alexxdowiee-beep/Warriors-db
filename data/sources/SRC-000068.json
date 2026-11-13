@@ -1,0 +1,43 @@
+{
+ "authors": [
+  "al-Maqrizi"
+ ],
+ "bias_notes": "Draw on BB-S01 and BB-S02 (late-source).",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "14th–15th c.",
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000066",
+   "name": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000067",
+   "name": "Ibn Shaddad, life of al-Zahir Baybars",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000068",
+ "language": "Arabic",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Later Mamluk historians (e.g. al-Maqrizi)",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Later Mamluk historians (e.g. al-Maqrizi)",
+ "reliability_notes": "Group record (B). Not opened.",
+ "reliability_tier": null,
+ "slug": "later-mamluk-historians-e-g-al-maqrizi",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Fourteenth- and fifteenth-century Mamluk-era historians.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

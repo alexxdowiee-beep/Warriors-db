@@ -1,0 +1,96 @@
+{
+ "authors": [
+  "Hillary Mayell"
+ ],
+ "bias_notes": "Popular report of a scientific study.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "popular-culture"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000055",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000057",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000055 (GK-S10) (excerpt); SRC-000057 (GK-S12) (excerpt)",
+      "field": "legacy",
+      "id": "CLM-000143",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "A Y-chromosome lineage in about 0.5% of the world's men was proposed to have spread with his male-line kin",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000055",
+   "name": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000057",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+ "publisher": "National Geographic",
+ "reliability_notes": "Excerpt (popular report).",
+ "reliability_tier": "popular",
+ "slug": "hillary-mayell-genghis-khan-a-prolific-lover-dna-data-implies",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "National Geographic news report on the 2003 genetics study.",
+ "title": "Genghis Khan a Prolific Lover, DNA Data Implies",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.nationalgeographic.com/culture/article/mongolia-genghis-khan-dna",
+ "year": 2003
+}

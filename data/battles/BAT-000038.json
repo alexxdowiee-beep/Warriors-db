@@ -1,0 +1,175 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000065",
+   "role": null
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000134"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "died_there",
+   "relationship_id": "REL-000066",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1227",
+  "earliest": 1227,
+  "latest": 1227,
+  "precision": "year"
+ },
+ "id": "BAT-000038",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Siege of Zhongxing",
+   "preferred": true
+  }
+ ],
+ "outcome": "Fell after his death",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000065",
+   "role": null
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000134"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "died_there",
+   "relationship_id": "REL-000066",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000037",
+  "name": "Zhongxing",
+  "type": "place"
+ },
+ "place_id": "PLC-000037",
+ "primary_name": "Siege of Zhongxing",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000046",
+     "source_type": "primary-contemporary",
+     "tier": null,
+     "title": "The Secret History of the Mongols"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+   "field": "death",
+   "id": "CLM-000134",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Died in 1227 during the siege of Zhongxing",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000006"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "label": "Mongol Empire",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Fell after his death"
+  },
+  {
+   "commanders": [],
+   "label": "Xi Xia",
+   "polities": [
+    {
+     "id": "POL-000035",
+     "name": "Xi Xia",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000035"
+   ]
+  }
+ ],
+ "slug": "siege-of-zhongxing",
+ "status": "draft",
+ "summary": "Siege of the Xi Xia capital, during which Chinggis Khan died; the Tangut state was destroyed in 1227.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

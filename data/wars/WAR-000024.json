@@ -1,0 +1,103 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000251"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000097",
+   "role": null
+  }
+ ],
+ "id": "WAR-000024",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Conquest of Persia",
+   "preferred": true
+  }
+ ],
+ "outcome": "Conquest",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000251"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000097",
+   "role": null
+  }
+ ],
+ "primary_name": "Conquest of Persia",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12)",
+   "field": "career",
+   "id": "CLM-000251",
+   "perspective": [
+    {
+     "id": "POL-000054",
+     "name": "Iran",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Conquered Iran 1383–1394 and crushed revolts with massacres and skull towers",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "conquest-of-persia",
+ "span": {
+  "certainty": "A",
+  "display": "1383–1394",
+  "earliest": 1383,
+  "latest": 1394,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Timur's conquest of the successor dynasties of the Ilkhanate in Persia, with revolts crushed by massacres.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

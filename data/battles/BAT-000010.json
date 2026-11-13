@@ -1,0 +1,149 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000023"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000016",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "219 BCE",
+  "earliest": -218,
+  "latest": -218,
+  "precision": "year"
+ },
+ "id": "BAT-000010",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Siege of Saguntum",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000023"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000016",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000012",
+  "name": "Saguntum",
+  "type": "place"
+ },
+ "place_id": "PLC-000012",
+ "primary_name": "Siege of Saguntum",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000017",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000016",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (DCC, Nepos)",
+   "field": "main_battles",
+   "id": "CLM-000023",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Took Saguntum after an eight-month siege, 219 BCE",
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000002"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "label": "Carthage",
+   "polities": [
+    {
+     "id": "POL-000004",
+     "name": "Carthage",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000004"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Saguntum",
+   "polities": [
+    {
+     "id": "POL-000006",
+     "name": "Saguntum",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000006"
+   ]
+  }
+ ],
+ "slug": "siege-of-saguntum",
+ "status": "draft",
+ "summary": "Eight-month siege in which Hannibal took Saguntum, whose status under the 226 BCE Ebro treaty was ambiguous.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

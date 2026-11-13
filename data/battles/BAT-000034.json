@@ -1,0 +1,91 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000058",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1204",
+  "earliest": 1204,
+  "latest": 1204,
+  "precision": "year"
+ },
+ "id": "BAT-000034",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Defeat of the Naiman",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000058",
+   "role": null
+  }
+ ],
+ "place": null,
+ "primary_name": "Defeat of the Naiman",
+ "related_claims": [],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000006"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "label": "Temüjin's forces",
+   "polities": [],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Naiman",
+   "polities": [
+    {
+     "id": "POL-000034",
+     "name": "Naiman",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000034"
+   ]
+  }
+ ],
+ "slug": "defeat-of-the-naiman",
+ "status": "draft",
+ "summary": "Temüjin's defeat of the Naiman, the last of his steppe rivals.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

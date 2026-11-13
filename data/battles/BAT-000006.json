@@ -1,0 +1,183 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000008",
+   "role": "Led attack; wounded"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "wounded_there",
+   "relationship_id": "REL-000009",
+   "role": "Wounded in the thigh by a crossbow bolt"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "day": 8,
+  "display": "8 September 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "month": 9,
+  "precision": "day"
+ },
+ "id": "BAT-000006",
+ "kind": "assault",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Paris",
+   "preferred": true
+  }
+ ],
+ "outcome": "Failed",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000008",
+   "role": "Led attack; wounded"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "wounded_there",
+   "relationship_id": "REL-000009",
+   "role": "Wounded in the thigh by a crossbow bolt"
+  }
+ ],
+ "place": {
+  "id": "PLC-000008",
+  "name": "Paris",
+  "type": "place"
+ },
+ "place_id": "PLC-000008",
+ "primary_name": "Paris",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "the failed attack",
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "the failed attack and the wound",
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Failed attack: 2 opened; the wound: 1 opened",
+   "field": "main_battles",
+   "id": "CLM-000010",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Wounded attacking Paris, 8 September 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Valois France",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ],
+   "result": "Failed"
+  },
+  {
+   "commanders": [],
+   "label": "Anglo-Burgundian Paris",
+   "polities": [
+    {
+     "id": "POL-000002",
+     "name": "England",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000003",
+     "name": "Duchy of Burgundy",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000002",
+    "POL-000003"
+   ]
+  }
+ ],
+ "slug": "paris-1429",
+ "status": "draft",
+ "summary": "Failed attack on Paris; Joan of Arc was wounded by a crossbow bolt and the king ordered a withdrawal the next day.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "war_id": "WAR-000001"
+}

@@ -1,0 +1,213 @@
+{
+ "authors": [
+  "Stephen Pow"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000162"
+      ],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000062",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000061 (SB-S08) (opened); SRC-000062 (SB-S09) (opened, abstract)",
+      "field": "career",
+      "id": "CLM-000161",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "abstract"
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000161"
+      ],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": "of notes",
+        "source_id": "SRC-000062",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000059",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000062 (SB-S09) (excerpt of notes); SRC-000059 (SB-S04) (via-secondary)",
+      "field": "evidence",
+      "id": "CLM-000162",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "The Novgorod chronicle dates the Kalka to 1224",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "of notes"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000062",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000062 (SB-S09) (opened, abstract)",
+      "field": "career",
+      "id": "CLM-000163",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Jebe was captured and killed by the Qipchaqs during the campaign",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": "abstract"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000062",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: A common reading that Pow's work on Jebe's death complicates",
+      "field": "myth",
+      "id": "CLM-000182",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "The 1220–1223 raid was a planned reconnaissance of Europe",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000062",
+ "isbn_doi": "10.1017/S135618631600033X",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+ "publisher": "Journal of the Royal Asiatic Society 27.1",
+ "reliability_notes": "Abstract only. Same author as SB-S08 (not independent of it, per the doc).",
+ "reliability_tier": "scholarly",
+ "slug": "stephen-pow-the-last-campaign-and-death-of-jebe-noyan",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Article arguing that Jebe was captured and killed by the Qipchaqs during the 1220–1223 raid.",
+ "title": "The Last Campaign and Death of Jebe Noyan",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/last-campaign-and-death-of-jebe-noyan/A9D56DDD3328025ED8C43EBAC2153C52",
+ "year": 2017
+}

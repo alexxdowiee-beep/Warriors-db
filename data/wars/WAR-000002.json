@@ -1,0 +1,97 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "11–12 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000002",
+   "kind": "assault",
+   "name": "Jargeau",
+   "result": "Victory (for Joan of Arc's side)"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "day": 17,
+    "display": "17 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "day"
+   },
+   "id": "BAT-000003",
+   "kind": "siege",
+   "name": "Beaugency",
+   "result": "English garrison surrendered"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "day": 18,
+    "display": "18 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "day"
+   },
+   "id": "BAT-000004",
+   "kind": "field-battle",
+   "name": "Patay",
+   "result": "Victory (for Joan of Arc's side)"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000001",
+   "name": "Kingdom of France",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000002",
+   "name": "England",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000002",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Loire campaign (1429)",
+   "preferred": true
+  }
+ ],
+ "parent_war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "parent_war_id": "WAR-000001",
+ "people": [],
+ "primary_name": "Loire campaign (1429)",
+ "related_claims": [],
+ "slug": "loire-campaign-1429",
+ "span": {
+  "certainty": "A",
+  "display": "June 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "month": 6,
+  "precision": "month"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Campaign under the nominal command of the Duke of Alençon that took Jargeau, Meung-sur-Loire and Beaugency, then caught the retreating English at Patay.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

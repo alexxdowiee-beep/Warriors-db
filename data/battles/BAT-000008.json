@@ -1,0 +1,71 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000011",
+   "role": "Commander"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "November–December 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "precision": "month"
+ },
+ "id": "BAT-000008",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "La Charité-sur-Loire",
+   "preferred": true
+  }
+ ],
+ "outcome": "Failed",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000011",
+   "role": "Commander"
+  }
+ ],
+ "place": {
+  "id": "PLC-000010",
+  "name": "La Charité-sur-Loire",
+  "type": "place"
+ },
+ "place_id": "PLC-000010",
+ "primary_name": "La Charité-sur-Loire",
+ "related_claims": [],
+ "sides": [],
+ "slug": "la-charite-sur-loire-1429",
+ "status": "draft",
+ "summary": "Failed siege; the army left its artillery behind.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "war_id": "WAR-000001"
+}

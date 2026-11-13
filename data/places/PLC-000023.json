@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000021",
+   "name": "Siege of Te Arawī",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000023",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Arawī",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Te Arawī",
+ "slug": "te-arawi",
+ "status": "draft",
+ "summary": "Where Ngāti Toa were besieged by Waikato and Ngāti Maniapoto in 1820.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

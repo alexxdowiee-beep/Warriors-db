@@ -1,0 +1,97 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000128"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000059",
+   "role": null
+  }
+ ],
+ "id": "WAR-000015",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Subjugation of Xi Xia",
+   "preferred": true
+  }
+ ],
+ "outcome": "Submission",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000128"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000059",
+   "role": null
+  }
+ ],
+ "primary_name": "Subjugation of Xi Xia",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (GK-S09) (opened)",
+   "field": "career",
+   "id": "CLM-000128",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Xi Xia subdued by 1209",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "subjugation-of-xi-xia",
+ "span": {
+  "certainty": "A",
+  "display": "1205–1209",
+  "earliest": 1205,
+  "latest": 1209,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Mongol campaigns that subdued the Tangut kingdom of Xi Xia by 1209.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

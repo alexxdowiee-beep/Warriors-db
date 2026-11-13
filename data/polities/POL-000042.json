@@ -1,0 +1,75 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000048",
+   "name": "Fall of Antioch",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000042",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Principality of Antioch",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000195",
+   "perspective": [
+    {
+     "id": "POL-000042",
+     "name": "Principality of Antioch",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Took Safed (1266) and Antioch (1268)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "primary_name": "Principality of Antioch",
+ "slug": "principality-of-antioch",
+ "status": "draft",
+ "summary": "Crusader state whose city Baibars took and destroyed in 1268.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

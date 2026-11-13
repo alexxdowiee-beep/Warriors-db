@@ -1,0 +1,36 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000027",
+   "name": "First attack on Kaiapoi",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000028",
+   "name": "Kaiapoi siege",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000029",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kaiapoi pā",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "pā",
+ "primary_name": "Kaiapoi pā",
+ "slug": "kaiapoi",
+ "status": "draft",
+ "summary": "Ngāi Tahu pā; attacked c. 1828–29 and taken after a siege in 1831–32.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,146 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000257"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000102",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1400",
+  "earliest": 1400,
+  "latest": 1400,
+  "precision": "year"
+ },
+ "id": "BAT-000057",
+ "kind": "assault",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Sack of Aleppo",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000257"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000102",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000051",
+  "name": "Aleppo",
+  "type": "place"
+ },
+ "place_id": "PLC-000051",
+ "primary_name": "Sack of Aleppo",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12)",
+   "field": "career",
+   "id": "CLM-000257",
+   "perspective": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000010"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "label": "Timurid realm",
+   "polities": [
+    {
+     "id": "POL-000049",
+     "name": "Timurid realm",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000049"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Mamluk Sultanate",
+   "polities": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000030"
+   ]
+  }
+ ],
+ "slug": "sack-of-aleppo",
+ "status": "draft",
+ "summary": "Timur stormed and sacked Aleppo.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

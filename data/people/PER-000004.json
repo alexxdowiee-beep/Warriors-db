@@ -1,0 +1,1136 @@
+{
+ "active_period": {
+  "certainty": "C",
+  "display": "late 6th–early 5th century BCE (by tradition)",
+  "earliest": -549,
+  "latest": -450,
+  "precision": "century",
+  "qualifier": "circa"
+ },
+ "bias_flags_present": [
+  "hagiography",
+  "inflated-numbers",
+  "late-source",
+  "popular-culture"
+ ],
+ "certainty": "C",
+ "civilisations": [],
+ "claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000032",
+     "source_type": "museum",
+     "tier": "reference",
+     "title": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (Shandong Museum) + excerpts on tomb dating",
+   "field": "main_works",
+   "id": "CLM-000054",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Sunzi existed in near-received form by the 2nd century BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "1 opened (Giles, translating Shiji)",
+   "field": "text",
+   "id": "CLM-000055",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sima Qian knew the 13 chapters as a widely read book",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000032",
+     "source_type": "museum",
+     "tier": "reference",
+     "title": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (Shandong Museum) + excerpts",
+   "field": "authorship",
+   "id": "CLM-000056",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sun Bin's treatise is a separate work",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [
+    "CLM-000107"
+   ],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Excerpts; Giles's internal evidence",
+   "field": "main_works",
+   "id": "CLM-000057",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The text was composed c. 5th–4th century BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Sima Qian only, c. 400 years later",
+   "field": "identity",
+   "id": "CLM-000058",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "A historical Sun Wu existed",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Sima Qian only",
+   "field": "active_period",
+   "id": "CLM-000059",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "He served King Helü of Wu",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000029",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Zuo zhuan"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Contradicted by the Zuo zhuan's silence",
+   "field": "career",
+   "id": "CLM-000060",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "He commanded at Boju, 506 BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000029",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Zuo zhuan"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Zuo zhuan and Shiji, via Giles",
+   "field": "context",
+   "id": "CLM-000061",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Wu captured the Chu capital, Ying, in 506 BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "1 opened (Giles)",
+   "field": "text",
+   "id": "CLM-000062",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sima Qian tells the palace-drill story",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "hagiography"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Single late source; rejected by Ye Shi",
+   "field": "career",
+   "id": "CLM-000063",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "The palace drill happened",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000041",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Ye Shi, argument against Sun Wu's historicity"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "Giles; Ye Shi; excerpts",
+   "field": "text",
+   "id": "CLM-000064",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Zuo zhuan never mentions Sun Wu",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000030",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Han shu bibliographic treatise"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "1 opened (Giles)",
+   "field": "text",
+   "id": "CLM-000065",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Han bibliography lists Sunzi in 82 chapters with diagrams",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "9th-century claim",
+   "field": "text_history",
+   "id": "CLM-000066",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Cao Cao cut the book down to 13 chapters",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000026",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "1 opened (Giles)",
+   "field": "text",
+   "id": "CLM-000067",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The text names Yue, not Chu, as Wu's enemy",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "inflated-numbers",
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000042",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Liu Xiang, claim about Sun Wu's victory over Chu"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (Giles, quoting Liu Xiang)",
+   "field": "strength",
+   "id": "CLM-000068",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Sun Wu beat 200,000 Chu troops with 30,000",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "popular-culture"
+   ],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "text",
+   "evidence_status": "Pilot doc grade B; restore when cited. Full-text check pending",
+   "field": "quotation",
+   "id": "CLM-000069",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "\"Keep your friends close\" is not in the text",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [
+    "CLM-000058"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "WRK-000001",
+    "name": "The Art of War",
+    "type": "work"
+   },
+   "relation": "attributed_author_of",
+   "relationship_id": "REL-000031",
+   "role": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000049",
+   "role": "Sun Tzu doc: a well-documented career with no surviving writings, against Sun Tzu's surviving writings with no secure career."
+  },
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "POL-000014",
+    "name": "Qi",
+    "type": "polity"
+   },
+   "relation": "originated_from",
+   "relationship_id": "REL-000052",
+   "role": "Sima Qian says Sun Wu came from Qi; a 1st-century CE romance makes him a native of Wu instead"
+  },
+  {
+   "certainty": "D",
+   "claim_ids": [
+    "CLM-000060"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000020",
+    "name": "Boju and the capture of Ying",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000029",
+   "role": "Adviser or commander, per Shiji only"
+  },
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "WAR-000008",
+    "name": "Wu campaign against Chu (Shu), 512 BCE",
+    "type": "war"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000030",
+   "role": "Adviser, per Shiji"
+  },
+  {
+   "certainty": "C",
+   "claim_ids": [
+    "CLM-000059"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "POL-000012",
+    "name": "Wu",
+    "type": "polity"
+   },
+   "relation": "served",
+   "relationship_id": "REL-000028",
+   "role": "Served King Helü (Sima Qian only)"
+  }
+ ],
+ "core": {
+  "claim_ids": [
+   "CLM-000054",
+   "CLM-000057",
+   "CLM-000058",
+   "CLM-000059"
+  ],
+  "claim_set": "author",
+  "fields": [
+   "identity",
+   "active_period",
+   "main_works"
+  ],
+  "missing_fields": [],
+  "weakest_claim_ids": [
+   "CLM-000058",
+   "CLM-000059"
+  ]
+ },
+ "core_claim_set": "author",
+ "engagements": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "display": "512 BCE",
+    "earliest": -511,
+    "latest": -511,
+    "precision": "year"
+   },
+   "id": "WAR-000008",
+   "kind": "campaign",
+   "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "relation": "participated",
+   "result": null,
+   "role": "Adviser, per Shiji",
+   "type": "war",
+   "war": {
+    "id": "WAR-000007",
+    "name": "Wars between Wu and Chu",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "D",
+   "claim_ids": [
+    "CLM-000060"
+   ],
+   "date": {
+    "certainty": "A",
+    "claim_ids": [
+     "CLM-000061"
+    ],
+    "display": "506 BCE",
+    "earliest": -505,
+    "latest": -505,
+    "precision": "year"
+   },
+   "id": "BAT-000020",
+   "kind": "unknown",
+   "name": "Boju and the capture of Ying",
+   "relation": "participated",
+   "result": "Decisive victory (for Wu)",
+   "role": "Adviser or commander, per Shiji only",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000007",
+    "name": "Wars between Wu and Chu",
+    "type": "war"
+   }
+  }
+ ],
+ "era": "ancient",
+ "id": "PER-000004",
+ "key_source_ids": [
+  "SRC-000026",
+  "SRC-000028",
+  "SRC-000029",
+  "SRC-000030",
+  "SRC-000031",
+  "SRC-000032",
+  "SRC-000041",
+  "SRC-000042"
+ ],
+ "myth_claim_ids": [
+  "CLM-000069",
+  "CLM-000063",
+  "CLM-000060",
+  "CLM-000056",
+  "CLM-000066",
+  "CLM-000104",
+  "CLM-000105",
+  "CLM-000106",
+  "CLM-000107"
+ ],
+ "myths": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "popular-culture"
+   ],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "text",
+   "evidence_status": "Pilot doc grade B; restore when cited. Full-text check pending",
+   "field": "quotation",
+   "id": "CLM-000069",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "\"Keep your friends close\" is not in the text",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "hagiography"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Single late source; rejected by Ye Shi",
+   "field": "career",
+   "id": "CLM-000063",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "The palace drill happened",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000029",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Zuo zhuan"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Contradicted by the Zuo zhuan's silence",
+   "field": "career",
+   "id": "CLM-000060",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "He commanded at Boju, 506 BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000032",
+     "source_type": "museum",
+     "tier": "reference",
+     "title": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (Shandong Museum) + excerpts",
+   "field": "authorship",
+   "id": "CLM-000056",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sun Bin's treatise is a separate work",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "9th-century claim",
+   "field": "text_history",
+   "id": "CLM-000066",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Cao Cao cut the book down to 13 chapters",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": "ch. I",
+     "note": null,
+     "source_id": "SRC-000026",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "Myths table verdict: True (A). Evidence: Chapter I",
+   "field": "myth",
+   "id": "CLM-000104",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "\"All warfare is based on deception\" is from The Art of War",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": "ch. III",
+     "note": null,
+     "source_id": "SRC-000026",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "Myths table verdict: True (A). Evidence: Chapter III, in substance; English wordings vary by translation",
+   "field": "myth",
+   "id": "CLM-000105",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "\"Know the enemy and know yourself\" is from The Art of War",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Unsupported (D). Evidence: Often repeated; no evidence found that he read the French translation",
+   "field": "myth",
+   "id": "CLM-000106",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Napoleon studied Sun Tzu",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [
+    "CLM-000057"
+   ],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Disputed (C). Evidence: Most scholars date the text to the 5th–4th century BCE",
+   "field": "myth",
+   "id": "CLM-000107",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "The book was written in the 6th century BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Sun Tzu",
+   "preferred": true
+  },
+  {
+   "kind": "transliteration",
+   "name": "Sunzi",
+   "romanisation": "pinyin"
+  },
+  {
+   "kind": "other",
+   "name": "Sun Wu"
+  },
+  {
+   "kind": "other",
+   "name": "Changqing"
+  }
+ ],
+ "polities": [
+  {
+   "id": "POL-000012",
+   "name": "Wu",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000014",
+   "name": "Qi",
+   "type": "polity"
+  }
+ ],
+ "polity_ids": [
+  "POL-000012",
+  "POL-000014"
+ ],
+ "primary_name": "Sun Tzu",
+ "profile": {
+  "early_life": "\"Sun Tzu\" (Sunzi) is not a personal name but an honorific: \"Master Sun\". Ancient texts used it for both Sun Wu and his reputed descendant Sun Bin, which is one reason their stories became tangled ([Giles](https://sacred-texts.com/tao/aow/aow03.htm)). Sima Qian says Sun Wu came from the state of Qi; a 1st-century CE romance makes him a native of Wu instead. Later details, such as his father's name and his style name, first appear in a 12th-century genealogy that Giles himself found chronologically impossible (D).",
+  "evidence_note": "**Research note.** I opened two sources: Lionel Giles's 1910 translation with critical introduction (public domain, via sacred-texts.com), which translates Sima Qian's biography and the Song-dynasty arguments against Sun Wu's existence; and a 2022 Shandong Museum item on the 1972 bamboo-slip find (China Daily government site). Giles wrote before that find, so his conclusions are dated, though his translations and summaries of the older Chinese debate remain useful.\n\nThree pieces of evidence pull in different directions. Laid side by side, they show why scholars still disagree.\n\n### For: Sima Qian's biography (c. 100 BCE)\n\nThe Han historian Sima Qian, writing roughly four centuries after the events, gives a short biography of Sun Wu of Qi. His book of 13 chapters brought him to King Helü of Wu, who tested him by having him drill palace women; Sun Wu executed the king's two favourite concubines for laughing at orders, after which the women drilled perfectly and he was made a general. Sima Qian also says the 13 chapters were widely known in his own day ([Giles, Introduction](https://sacred-texts.com/tao/aow/aow03.htm)). Sima Qian clearly believed Sun Wu was real.\n\n### Against: the silence of the *Zuo zhuan*\n\nThe *Zuo zhuan*, a much older and more detailed chronicle of the period, describes Wu's wars and names Sun Wu's supposed colleagues, but never mentions him at all. In the Song dynasty, the scholar Ye Shi (d. 1223) made this the centrepiece of an argument that Sun Wu's career was invented: the chronicle names even minor figures, so a great general's absence is glaring. Ye Shi also argued that professional generals without civil office did not exist until the later Warring States period, and called the concubine story preposterous ([Giles](https://sacred-texts.com/tao/aow/aow03.htm), summarising Ye Shi).\n\nGiles adds a sharper point of his own: read closely, Sima Qian never actually says Sun Wu commanded at the capture of the Chu capital, only that the king's forces did.\n\n### The bamboo slips (found 1972)\n\nIn 1972, workers in Linyi, Shandong, uncovered Western Han tombs containing nearly 5,000 bamboo slips, including copies of the *Sunzi* and of the long-lost military treatise of Sun Bin, the later \"Master Sun\" ([Shandong Museum via China Daily](https://govt.chinadaily.com.cn/s/202206/14/WS62a82e87498ea2749279aae8/bamboo-slips-chronicle-chinas-ancient-military-philosophy.html)). The find proved two things. Sun Bin's treatise was a separate work, ending the theory that the two were one person. And the *Sunzi* existed in essentially its received form by the 2nd century BCE (tombs dated to roughly 140–118 BCE, search excerpts).\n\nWhat the slips do **not** prove is that a general named Sun Wu wrote the text in the 6th century BCE.\n\n### Where scholarship stands\n\n- **Text:** genuinely ancient, probably compiled in the 5th–4th century BCE, possibly over time by more than one hand (B).\n- **Author:** opinions range from a real Sun Wu who wrote a core that later students expanded, to a legendary figure attached to a school's teachings (C).\n- **Career:** the traditional battlefield career rests on Sima Qian alone and is contradicted by the older chronicle's silence (D).\n\n**What would strengthen this profile:** Roger Ames's 1993 translation, the first in English to use the Yinqueshan slips, and a recent scholarly translation with a modern introduction to the authorship debate.",
+  "historical_context": "Wu was a rising state in the lower Yangtze region. Under King Helü (r. 514–496 BCE) it fought its powerful western neighbour Chu almost every year and in 506 BCE captured Chu's capital, Ying. Wu's other great enemy was Yue to the south; Helü was mortally wounded fighting Yue in 496, and Yue destroyed Wu in 473 BCE (dates from the *Zuo zhuan* and *Shiji* as tabulated by Giles; B).\n\nThis matters for dating the book. The text twice names Yue as Wu's enemy but never mentions Chu. Giles argued this means it was written after 506, when Yue replaced Chu as the main threat, which already conflicts with Sima Qian's story that the king had read the 13 chapters before giving Sun Wu command ([Giles](https://sacred-texts.com/tao/aow/aow03.htm), B for the textual observation).\n\nThe text sits at a turning point. Spring and Autumn warfare was led by aristocrats, with chariots central and campaigns relatively short. The Warring States period that followed brought large conscript infantry armies, long campaigns and professional commanders. The *Sunzi* assumes large armies, careful logistics and the heavy cost of war to the state, features many scholars read as Warring States conditions; yet it also still mentions chariots. A text compiled across this transition would explain both (B as interpretation).",
+  "key_takeaways": [
+   "*The Art of War* is a genuine ancient text in 13 chapters, confirmed by bamboo-slip copies buried in the 2nd century BCE.",
+   "It was probably compiled in the 5th–4th century BCE, perhaps over time.",
+   "Whether a general named Sun Wu wrote it, or existed at all, is disputed; the only biography was written about four centuries later.",
+   "Its core teaching is that the best victory avoids battle, through planning, knowledge, deception and flexibility.",
+   "Many popular \"Sun Tzu quotes\" are not in the book."
+  ],
+  "leadership_and_strategy": "Because Sun Tzu's command record is itself disputed, the template merges leadership and strategy here, and draws them from the book rather than from deeds. Everything in this section is graded **A as text content**: we know the book says it. Short quotations are from Giles's public-domain 1910 translation.\n\n### Structure\n\nThirteen short chapters, in Giles's titles: Laying Plans; Waging War; Attack by Stratagem; Tactical Dispositions; Energy; Weak Points and Strong; Manoeuvring; Variation in Tactics; The Army on the March; Terrain; The Nine Situations; The Attack by Fire; The Use of Spies.\n\n### Core ideas\n\n- **War is a matter of state survival,** to be weighed by calculation before any fighting begins, comparing leadership, discipline, terrain and morale on each side.\n- **War is ruinously expensive.** Long campaigns drain the state, so speed matters and drawn-out sieges are a last resort.\n- **The best victory avoids battle.** The ideal is to defeat the enemy's plans first, then break up their alliances, then defeat their army, and only last attack walled cities.\n- **Knowledge is decisive:** of the enemy, of oneself, of the ground. Hence the closing chapter on spies, unusual among ancient military writings for its systematic treatment of intelligence.\n- **Deception.** \"All warfare is based on deception\" (ch. I) is the book's best-known line.\n- **Shape and flexibility.** Combine direct and indirect forces, avoid the enemy's strength, strike where they are weak, and adapt like water to the ground.\n\n### On leadership\n\nThe book lists the qualities of a good general (wisdom, sincerity, benevolence, courage and strictness) and insists that the general in the field must sometimes refuse a ruler's orders. That principle is exactly what the palace-drill story dramatises, which suggests the anecdote may have been told to illustrate the book, rather than the book being written from the event (C as interpretation).\n\n### What the text does not do\n\nIt describes no specific battles and gives no campaign history, with only passing references to a few earlier figures and to Wu and Yue. That is why it has travelled so well across cultures and centuries, and also why it cannot tell us anything about its supposed author's career.",
+  "legacy": "- **A classic in China for over two thousand years.** By Sima Qian's time it was one of the two military books everyone cited ([Giles](https://sacred-texts.com/tao/aow/aow03.htm), A). The warlord Cao Cao (155–220 CE) wrote the earliest surviving commentary, and dozens of commentators followed.\n- **East Asia.** It became part of the standard canon of Chinese military classics and was studied in Korea and Japan; well-known Japanese uses, such as the battle-standard slogan attributed to the warlord Takeda Shingen, are still to be sourced here (B).\n- **The West.** A French Jesuit missionary's translation in the late 18th century first brought it to Europe; Giles's 1910 English translation set the scholarly standard for decades (B).\n- **The 20th century.** Revolutionary and military leaders, including Mao Zedong, studied it, and from the 1980s it became a bestseller in business, sports and self-help (B; specific claims to be sourced individually).\n- **For this database,** Sun Tzu is the model case for a person known through a text. His influence on strategy is A even if his own life remains C or D.",
+  "military_career": "The whole traditional career comes from three short passages in Sima Qian, translated by Giles. Each is stored with its claim type, because \"Sima Qian says X\" (text) and \"X happened\" (event) have very different grades.\n\n**The palace drill.** Before appointing him, King Helü tests his methods on 180 palace women; Sun Wu executes the two favourites who lead them and the rest obey. *Text:* A (Sima Qian tells this story). *Event:* D to E. It is a moral tale about a general's authority over his own ruler, and Ye Shi rejected it outright in the 12th century. Giles thought it might have grown from some real incident (C).\n\n**Advice in 512 BCE.** During an attack on Chu, Sun Wu is said to have advised the king that the army was exhausted and could not yet march on the capital. *Text:* A. *Event:* C.\n\n**Boju and the capture of Ying (506 BCE).** Sima Qian has Sun Wu and Wu Zixu advise the king to win over two smaller states before attacking; Wu then beat Chu in five battles and took the capital. *Event (Wu's victory):* A, attested in both the *Zuo zhuan* and the *Shiji*. *Sun Wu's role:* D. The *Zuo zhuan* account of the same campaign names the leading commanders, including the king's brother, but not Sun Wu.\n\n**Exaggerated numbers.** A later Han writer, Liu Xiang, claims Sun Wu beat 200,000 Chu troops with 30,000 because the enemy was undisciplined ([Giles](https://sacred-texts.com/tao/aow/aow03.htm)). Stored as a text claim with `inflated-numbers` and `late-source` (D as an event).\n\n**After 506.** Nothing more is recorded. Giles inferred he did not outlive King Helü (d. 496 BCE)."
+ },
+ "regions": [
+  "Asia"
+ ],
+ "roles": [
+  "strategist",
+  "writer"
+ ],
+ "sex": "male",
+ "slug": "sun-tzu",
+ "status": "sourced",
+ "summary": "Sun Tzu is the reverse of Hannibal: his book is one of the best-preserved military texts in the world, but the man himself may barely have existed. This profile tests a figure whose importance lies in a text, not a battle record.",
+ "tags": [
+  "strategist",
+  "military-classic",
+  "authorship-disputed",
+  "china"
+ ],
+ "type": "person",
+ "updated": "2026-11-13"
+}

@@ -1,0 +1,32 @@
+{
+ "authors": [
+  "Ghiyath al-Din Ali Yazdi"
+ ],
+ "bias_notes": "patron-bias.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1398–99",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000086",
+ "language": "Persian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ghiyath al-Din Ali Yazdi, diary of the India campaign",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ghiyath al-Din Ali Yazdi, diary of the India campaign",
+ "reliability_notes": "Read via Manz.",
+ "reliability_tier": null,
+ "slug": "ghiyath-al-din-ali-yazdi-diary-of-the-india-campaign",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Official diary of Timur's India campaign, 1398–99.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

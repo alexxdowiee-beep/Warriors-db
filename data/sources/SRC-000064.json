@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Paul D. Buell"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000064",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Paul D. Buell, \"Sübötei Ba'atur\", in In the Service of the Khan",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Paul D. Buell, \"Sübötei Ba'atur\", in In the Service of the Khan",
+ "publisher": "in de Rachewiltz et al. (eds), In the Service of the Khan",
+ "reliability_notes": "Not opened.",
+ "reliability_tier": "scholarly",
+ "slug": "paul-d-buell-subotei-baatur-in-in-the-service-of-the-khan",
+ "source_type": "academic-book",
+ "status": "draft",
+ "summary": "Biographical chapter on Subutai in a collection on eminent personalities of the early Mongol-Yuan period.",
+ "title": "Sübötei Ba'atur",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 1993
+}

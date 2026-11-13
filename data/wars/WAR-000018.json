@@ -1,0 +1,133 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "May 1223",
+    "earliest": 1223,
+    "latest": 1223,
+    "month": 5,
+    "precision": "month"
+   },
+   "id": "BAT-000039",
+   "kind": "field-battle",
+   "name": "Kalka River",
+   "result": "Victory"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000026",
+   "name": "Mongol Empire",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000037",
+   "name": "Rus' principalities",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000157"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000070",
+   "role": "Co-commander with Jebe"
+  }
+ ],
+ "id": "WAR-000018",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Western raid of Jebe and Subutai",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000157"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000070",
+   "role": "Co-commander with Jebe"
+  }
+ ],
+ "primary_name": "Western raid of Jebe and Subutai",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "main_battles",
+   "id": "CLM-000157",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "western-raid-of-jebe-and-subutai",
+ "span": {
+  "certainty": "A",
+  "display": "1220–1223",
+  "earliest": 1220,
+  "latest": 1223,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Raid around the Caspian through the Caucasus to the steppe north of the Black Sea, fighting Georgians, Alans, Qipchaqs and Rus' in turn, and ending with the Kalka.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

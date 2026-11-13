@@ -1,0 +1,141 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000198"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "planned_by",
+   "relationship_id": "REL-000083",
+   "role": "Sent his army"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1266",
+  "earliest": 1266,
+  "latest": 1266,
+  "precision": "year"
+ },
+ "id": "BAT-000047",
+ "kind": "raid",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Invasion of Cilician Armenia",
+   "preferred": true
+  }
+ ],
+ "outcome": "Devastation",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000198"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "planned_by",
+   "relationship_id": "REL-000083",
+   "role": "Sent his army"
+  }
+ ],
+ "place": null,
+ "primary_name": "Invasion of Cilician Armenia",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000198",
+   "perspective": [
+    {
+     "id": "POL-000043",
+     "name": "Kingdom of Cilician Armenia",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Devastated Cilician Armenia",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Mamluk Sultanate",
+   "polities": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000030"
+   ],
+   "result": "Devastation"
+  },
+  {
+   "commanders": [],
+   "label": "Kingdom of Cilician Armenia",
+   "polities": [
+    {
+     "id": "POL-000043",
+     "name": "Kingdom of Cilician Armenia",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000043"
+   ]
+  }
+ ],
+ "slug": "invasion-of-cilician-armenia",
+ "status": "draft",
+ "summary": "Mamluk invasion and devastation of the Kingdom of Cilician Armenia, ally of the crusaders and the Mongols.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

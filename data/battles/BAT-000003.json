@@ -1,0 +1,103 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000005",
+   "role": "Present"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "day": 17,
+  "display": "17 June 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "month": 6,
+  "precision": "day"
+ },
+ "id": "BAT-000003",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Beaugency",
+   "preferred": true
+  }
+ ],
+ "outcome": "English garrison surrendered",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000005",
+   "role": "Present"
+  }
+ ],
+ "place": {
+  "id": "PLC-000005",
+  "name": "Beaugency",
+  "type": "place"
+ },
+ "place_id": "PLC-000005",
+ "primary_name": "Beaugency",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Valois France",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ],
+   "result": "English garrison surrendered"
+  },
+  {
+   "commanders": [],
+   "label": "English garrison",
+   "polities": [
+    {
+     "id": "POL-000002",
+     "name": "England",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000002"
+   ]
+  }
+ ],
+ "slug": "beaugency-1429",
+ "status": "draft",
+ "summary": "Siege in which the English garrison of Beaugency surrendered.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000002",
+  "name": "Loire campaign (1429)",
+  "type": "war"
+ },
+ "war_id": "WAR-000002"
+}

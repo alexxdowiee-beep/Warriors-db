@@ -1,0 +1,29 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000010",
+   "name": "Siege of Saguntum",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000006",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Saguntum",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Saguntum",
+ "slug": "saguntum",
+ "status": "draft",
+ "summary": "Iberian city with ties of friendship with Rome, taken by Hannibal in 219 BCE.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

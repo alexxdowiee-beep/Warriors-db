@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000040",
+   "name": "Siege of Kaifeng",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000039",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kaifeng",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Kaifeng",
+ "slug": "kaifeng",
+ "status": "draft",
+ "summary": "Jin capital besieged and taken by the Mongols in 1232–1233.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

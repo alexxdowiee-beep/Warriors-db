@@ -1,0 +1,480 @@
+{
+ "accessed": "2026-11-12",
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000070"
+      ],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "1 opened (2014 Act)",
+      "field": "birth",
+      "id": "CLM-000071",
+      "perspective": [
+       {
+        "id": "POL-000015",
+        "name": "Ngāti Toa Rangatira",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "Ngāti Toa's account: born in the 1770s at Kāwhia",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DNZB; Act gives year and place)",
+      "field": "death",
+      "id": "CLM-000072",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died at Ōtaki on 27 November 1849",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DNZB, Act)",
+      "field": "main_battles",
+      "id": "CLM-000074",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "1 opened (Act)",
+      "field": "tradition",
+      "id": "CLM-000082",
+      "perspective": [
+       {
+        "id": "POL-000015",
+        "name": "Ngāti Toa Rangatira",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "Ngāti Toa's account of composing Ka Mate in hiding at Lake Rotoaira",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Iwi account, acknowledged by the Crown in statute",
+      "field": "composition",
+      "id": "CLM-000083",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Te Rauparaha composed Ka Mate",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Act)",
+      "field": "cultural_heritage",
+      "id": "CLM-000084",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Ka Mate is a Ngāti Toa taonga with a statutory right of attribution",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Ngāti Toa's account: composed in hiding, celebrating survival and life over death",
+      "field": "myth",
+      "id": "CLM-000108",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Ka Mate was composed as a war cry before battle",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Myths table verdict: Incomplete (A). Evidence: Ngāti Toa render it as a question: \"Will I die?\" answered by \"Will I live?\"",
+      "field": "myth",
+      "id": "CLM-000109",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "\"Ka mate! Ka mate!\" simply means \"I die! I die!\"",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Detail varies (B). Evidence: The 2014 Act says a taewa (potato) pit; other retellings say kūmara",
+      "field": "myth",
+      "id": "CLM-000110",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He hid in a kūmara pit",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: 'identity, active period and main campaigns are well attested'. Cited: DNZB and the 2014 Act.",
+      "field": "identity",
+      "id": "CLM-000116",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Te Rauparaha, rangatira of Ngāti Toa Rangatira, is a historical person",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the migration",
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: Active period c. 1800s–1849, grade A. Cited: DNZB; the 2014 Act for the migration (as CLM-000074).",
+      "field": "active_period",
+      "id": "CLM-000117",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1800s–1849; leader of the migration south from c. 1820",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "the migration"
+    }
+   ],
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "cultural_guidance": "Knowledge held by the iwi as kaitiaki. Use only what the iwi has placed in the public record, follow the iwi's own guidance on anything sensitive, and do not reproduce taonga such as the words of Ka Mate in quizzes or games.",
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000033",
+   "name": "Ngāti Toa Rangatira oral history and whakapapa",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000034",
+ "opened": true,
+ "primary_name": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)",
+ "reliability_notes": "Statute with iwi statement (pilot doc type).",
+ "reliability_tier": null,
+ "slug": "haka-ka-mate-attribution-act-2014",
+ "source_type": "statute",
+ "status": "draft",
+ "summary": "Act whose schedule sets out Ngāti Toa's account of Te Rauparaha's birth and of the composition of Ka Mate.",
+ "title": "Haka Ka Mate Attribution Act 2014",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.legislation.govt.nz/act/public/2014/18/en/latest",
+ "year": 2014
+}

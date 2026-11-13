@@ -1,0 +1,183 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000045",
+   "name": "Ain Jalut",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000046",
+   "name": "Fall of Safed",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000047",
+   "name": "Invasion of Cilician Armenia",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000048",
+   "name": "Fall of Antioch",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000049",
+   "name": "Krak des Chevaliers",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000050",
+   "name": "Invasion of Anatolia",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000057",
+   "name": "Sack of Aleppo",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000058",
+   "name": "Occupation of Damascus",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000184"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "ruled_by",
+   "relationship_id": "REL-000077",
+   "role": "Sultan 1260–1277"
+  }
+ ],
+ "id": "POL-000030",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Mamluk Sultanate",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000008",
+   "name": "Baibars",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000192",
+   "perspective": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12)",
+   "field": "career",
+   "id": "CLM-000257",
+   "perspective": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "polity_type": "sultanate",
+ "primary_name": "Mamluk Sultanate",
+ "slug": "mamluk-sultanate",
+ "status": "draft",
+ "summary": "Sultanate of Egypt and Syria ruled by former slave soldiers (mamluks); it stopped the Mongols at Ain Jalut and lasted until the Ottoman conquest of the early 16th century.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

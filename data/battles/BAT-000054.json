@@ -1,0 +1,156 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000223"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000094",
+   "role": "Commander"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1288",
+  "earliest": 1288,
+  "latest": 1288,
+  "precision": "year"
+ },
+ "id": "BAT-000054",
+ "kind": "naval",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Bạch Đằng River",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory; fleet destroyed",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000223"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000094",
+   "role": "Commander"
+  }
+ ],
+ "place": {
+  "id": "PLC-000050",
+  "name": "Bạch Đằng River",
+  "type": "place"
+ },
+ "place_id": "PLC-000050",
+ "primary_name": "Bạch Đằng River",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000084",
+     "source_type": "other",
+     "tier": "aggregator",
+     "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000084 (TH-S10)",
+   "field": "career",
+   "id": "CLM-000223",
+   "perspective": [
+    {
+     "id": "POL-000046",
+     "name": "Đại Việt",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000029",
+     "name": "Yuan dynasty",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000009"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "label": "Đại Việt",
+   "polities": [
+    {
+     "id": "POL-000046",
+     "name": "Đại Việt",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000046"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Yuan fleet under Omar",
+   "polities": [
+    {
+     "id": "POL-000029",
+     "name": "Yuan dynasty",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000029"
+   ]
+  }
+ ],
+ "slug": "bach-dang-river",
+ "status": "draft",
+ "summary": "Destruction of the Yuan fleet under Omar as it withdrew down the river, traditionally using stakes planted in the riverbed.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000023",
+  "name": "Third Mongol-Yuan invasion of Đại Việt",
+  "type": "war"
+ },
+ "war_id": "WAR-000023"
+}

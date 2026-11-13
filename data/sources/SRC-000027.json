@@ -1,0 +1,27 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "Copied before c. 118 BCE; found 1972",
+ "derived_by": [
+  {
+   "id": "SRC-000032",
+   "name": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\"",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000027",
+ "opened": false,
+ "primary_name": "Yinqueshan bamboo slips, Linyi",
+ "reliability_notes": "Archaeological manuscript; known here only from a museum report (SRC-000032).",
+ "reliability_tier": null,
+ "slug": "yinqueshan-bamboo-slips",
+ "source_type": "archaeological",
+ "status": "draft",
+ "summary": "Western Han tomb find of nearly 5,000 bamboo slips, including copies of the Sunzi and of Sun Bin's treatise.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

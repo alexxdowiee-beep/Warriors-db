@@ -1,0 +1,391 @@
+{
+ "accessed": "2026-11-13",
+ "authors": [
+  "Liam C. Kelley"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06) (opened, abstract); SRC-000084 (TH-S10) (opened)",
+      "field": "identity",
+      "id": "CLM-000214",
+      "perspective": [
+       {
+        "id": "POL-000046",
+        "name": "Đại Việt",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Trần Hưng Đạo (Trần Quốc Tuấn), a Trần prince, led Đại Việt's resistance to the Mongol-Yuan invasions",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "abstract"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+      "field": "active_period",
+      "id": "CLM-000215",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1250s–1300",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+      "field": "main_battles",
+      "id": "CLM-000216",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06) (opened); SRC-000084 (TH-S10) (opened)",
+      "field": "birth",
+      "id": "CLM-000217",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born 1228 (alternative: 1213)",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+      "field": "death",
+      "id": "CLM-000218",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died 1300",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "nationalist-reinterpretation"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000080 (TH-S06)",
+      "field": "legacy",
+      "id": "CLM-000228",
+      "perspective": [
+       {
+        "id": "POL-000051",
+        "name": "Vietnam",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He has been portrayed as a national hero only since the early 20th century",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "SRC-000080 (TH-S06)",
+      "field": "legacy",
+      "id": "CLM-000229",
+      "perspective": [
+       {
+        "id": "POL-000046",
+        "name": "Đại Việt",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "Before that he was honoured as a moral exemplar and as a deity",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000080",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (B). Evidence: That portrayal dates from the early 20th century; before then he was a moral exemplar and a deity (Kelley)",
+      "field": "myth",
+      "id": "CLM-000238",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He has always been honoured as Vietnam's national hero",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000080",
+ "isbn_doi": "10.1017/S0026749X14000183",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+ "publisher": "Modern Asian Studies 49.6",
+ "reliability_notes": "Modern Asian Studies 49.6 (2015). Abstract only, 13 Nov 2026.",
+ "reliability_tier": "scholarly",
+ "slug": "liam-c-kelley-from-moral-exemplar-to-national-hero",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Study of how Trần Hưng Đạo became a national hero in the early 20th century.",
+ "title": "From Moral Exemplar to National Hero",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://resolve.cambridge.org/core/journals/modern-asian-studies/article/abs/from-moral-exemplar-to-national-hero-the-transformations-of-tran-hung-dao-and-the-emergence-of-vietnamese-nationalism/822DC11FD8212980E1CC0D7FD3CCBE19",
+ "year": 2015
+}

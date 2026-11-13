@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000024",
+   "name": "Hotuiti",
+   "type": "battle"
+  }
+ ],
+ "certainty": "C",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000026",
+ "location_certainty": "C",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Hotuiti",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Hotuiti",
+ "slug": "hotuiti",
+ "status": "draft",
+ "summary": "Where Rangitāne people were killed after a false offer of peace.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

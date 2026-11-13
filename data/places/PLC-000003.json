@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000001",
+   "name": "Siege of Orléans (relief)",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000003",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Orléans",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Orléans",
+ "slug": "orleans",
+ "status": "draft",
+ "summary": "City besieged by the English from October 1428; the key crossing into Charles VII's remaining territory.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

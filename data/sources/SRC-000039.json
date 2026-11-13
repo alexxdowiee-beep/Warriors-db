@@ -1,0 +1,22 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "cultural_guidance": "Knowledge held by the iwi as kaitiaki. Use only what the iwi has placed in the public record, follow the iwi's own guidance on anything sensitive, and do not reproduce taonga such as the words of Ka Mate in quizzes or games.",
+ "date_written": "Continuous",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000039",
+ "opened": false,
+ "primary_name": "Oral histories of Ngāi Tahu, Muaūpoko, Rangitāne, Ngāti Apa, Ngāti Kuia and others",
+ "reliability_notes": "Not yet consulted; the largest gap in the Te Rauparaha draft.",
+ "reliability_tier": null,
+ "slug": "oral-histories-of-other-iwi",
+ "source_type": "oral-tradition",
+ "status": "draft",
+ "summary": "The oral histories of the iwi on the other side of Te Rauparaha's wars.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

@@ -1,0 +1,25 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000017",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rome",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Rome",
+ "slug": "rome",
+ "status": "draft",
+ "summary": "The city of Rome; target of Hannibal's march in 211 BCE.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

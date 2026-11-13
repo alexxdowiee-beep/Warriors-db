@@ -1,0 +1,169 @@
+{
+ "accessed": "2026-11-13",
+ "authors": [
+  "Serhii Kozlovskyi"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "abstract",
+        "source_id": "SRC-000081",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000084",
+        "source_type": "other",
+        "tier": "aggregator",
+        "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000081 (TH-S07) (opened, abstract); SRC-000084 (TH-S10)",
+      "field": "career",
+      "id": "CLM-000219",
+      "perspective": [
+       {
+        "id": "POL-000046",
+        "name": "Đại Việt",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The 1257–58 Mongol invasion took Thăng Long but withdrew after about a month",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "abstract"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000081",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000081 (TH-S07)",
+      "field": "career",
+      "id": "CLM-000220",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "The 1257–58 Mongol force lost at least half its troops",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000081",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000081 (TH-S07)",
+      "field": "technology",
+      "id": "CLM-000232",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "In 1258 Vietnamese light infantry and elephants could not withstand Mongol cavalry in open battle",
+      "subject": {
+       "id": "PER-000009",
+       "name": "Trần Hưng Đạo",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000081",
+ "isbn_doi": "10.33782/eminak2026.1(53).851",
+ "language": "Ukrainian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+ "publisher": "Eminak 1(53)",
+ "reliability_notes": "Eminak 1(53) (2026), open access. Abstract only (full text in Ukrainian), 13 Nov 2026.",
+ "reliability_tier": "scholarly",
+ "slug": "serhii-kozlovskyi-mongol-military-campaign-against-the-kingdom-of-dai-viet-1257-1258",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Study of the first Mongol invasion of Đại Việt.",
+ "title": "Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://eminak.net.ua/index.php/eminak/article/view/851",
+ "year": 2026
+}

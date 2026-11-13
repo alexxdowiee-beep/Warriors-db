@@ -1,0 +1,146 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1285",
+    "earliest": 1285,
+    "latest": 1285,
+    "precision": "year"
+   },
+   "id": "BAT-000051",
+   "kind": "field-battle",
+   "name": "Chương Dương",
+   "result": "Victory"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1285",
+    "earliest": 1285,
+    "latest": 1285,
+    "precision": "year"
+   },
+   "id": "BAT-000052",
+   "kind": "field-battle",
+   "name": "Tây Kết",
+   "result": "Victory; Sogetu killed"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000029",
+   "name": "Yuan dynasty",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000046",
+   "name": "Đại Việt",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000216"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000089",
+   "role": "Supreme commander"
+  }
+ ],
+ "id": "WAR-000022",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Second Mongol-Yuan invasion of Đại Việt",
+   "preferred": true
+  }
+ ],
+ "outcome": "Yuan withdrew",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000216"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000089",
+   "role": "Supreme commander"
+  }
+ ],
+ "primary_name": "Second Mongol-Yuan invasion of Đại Việt",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000080",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000084",
+     "source_type": "other",
+     "tier": "aggregator",
+     "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+   "field": "main_battles",
+   "id": "CLM-000216",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "second-mongol-yuan-invasion-of-dai-viet",
+ "span": {
+  "certainty": "A",
+  "display": "1284–1285",
+  "earliest": 1284,
+  "latest": 1285,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Invasion under Toghan; Thăng Long was occupied, then the Vietnamese counterattacked at Chương Dương and Tây Kết and the Yuan withdrew.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

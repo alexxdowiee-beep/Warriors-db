@@ -1,0 +1,107 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000039",
+   "role": "His force of about 340"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "c. 1828",
+  "earliest": 1828,
+  "latest": 1828,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "id": "BAT-000026",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Hikapu, Pelorus Sound",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000039",
+   "role": "His force of about 340"
+  }
+ ],
+ "place": {
+  "id": "PLC-000028",
+  "name": "Hikapu, Pelorus Sound",
+  "type": "place"
+ },
+ "place_id": "PLC-000028",
+ "primary_name": "Hikapu, Pelorus Sound",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Victory",
+   "strength": {
+    "ancient_claim": 340,
+    "basis": "tradition",
+    "unit": "warriors"
+   }
+  },
+  {
+   "commanders": [],
+   "label": "Ngāti Kuia",
+   "polities": [
+    {
+     "id": "POL-000024",
+     "name": "Ngāti Kuia",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000024"
+   ]
+  }
+ ],
+ "slug": "hikapu",
+ "status": "draft",
+ "summary": "Te Rauparaha's force of about 340, mostly armed with guns, heavily defeated Ngāti Kuia.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000013",
+  "name": "Te Rauparaha's South Island campaigns",
+  "type": "war"
+ },
+ "war_id": "WAR-000013"
+}

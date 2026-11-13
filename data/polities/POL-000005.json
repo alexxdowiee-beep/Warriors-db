@@ -1,0 +1,49 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000011",
+   "name": "Ticinus",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000012",
+   "name": "Trebia",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000013",
+   "name": "Lake Trasimene",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000014",
+   "name": "Cannae",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000016",
+   "name": "Zama",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000005",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rome",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Rome",
+ "slug": "rome",
+ "status": "draft",
+ "summary": "Hannibal's enemy in the Second Punic War.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

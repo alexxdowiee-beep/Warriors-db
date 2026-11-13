@@ -1,0 +1,128 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000076"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000038",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "c. 1824",
+  "earliest": 1824,
+  "latest": 1824,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "id": "BAT-000025",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Waiorua, Kāpiti",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000076"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000038",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000027",
+  "name": "Waiorua, Kāpiti Island",
+  "type": "place"
+ },
+ "place_id": "PLC-000027",
+ "primary_name": "Waiorua, Kāpiti",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000036",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened",
+   "field": "main_battles",
+   "id": "CLM-000076",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Defeated a southern coalition at Waiorua, c. 1824",
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Coalition of southern iwi",
+   "polities": []
+  }
+ ],
+ "slug": "waiorua",
+ "status": "draft",
+ "summary": "A great canoe fleet from many southern iwi made a night attack on Kāpiti and was defeated.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000009",
+  "name": "Musket Wars",
+  "type": "war"
+ },
+ "war_id": "WAR-000009"
+}

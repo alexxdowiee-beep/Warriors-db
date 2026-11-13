@@ -1,0 +1,67 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000056",
+   "name": "Defeat of the Delhi sultan's army",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000047",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Delhi Sultanate",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12) (opened); excerpts (Larousse, World History Encyclopedia)",
+   "field": "career",
+   "id": "CLM-000255",
+   "perspective": [
+    {
+     "id": "POL-000047",
+     "name": "Delhi Sultanate",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sacked Delhi in December 1398",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "polity_type": "sultanate",
+ "primary_name": "Delhi Sultanate",
+ "slug": "delhi-sultanate",
+ "status": "draft",
+ "summary": "Sultanate of northern India whose army Timur destroyed in December 1398.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

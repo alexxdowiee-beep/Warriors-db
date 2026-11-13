@@ -1,0 +1,121 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000080"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000045",
+   "role": "Stopped the survey with Te Rangihaeata"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1843",
+  "earliest": 1843,
+  "latest": 1843,
+  "precision": "year"
+ },
+ "id": "BAT-000032",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Wairau (1843)",
+   "preferred": true
+  }
+ ],
+ "outcome": "The settlers surrendered; Te Rangihaeata then killed them in revenge for the killing of his wife, Te Rongo.",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000080"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000045",
+   "role": "Stopped the survey with Te Rangihaeata"
+  }
+ ],
+ "place": {
+  "id": "PLC-000032",
+  "name": "Wairau plains",
+  "type": "place"
+ },
+ "place_id": "PLC-000032",
+ "primary_name": "Wairau (1843)",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000036",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened",
+   "field": "controversy",
+   "id": "CLM-000080",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Te Rangihaeata, not Te Rauparaha, killed the Wairau prisoners",
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa, under Te Rauparaha and Te Rangihaeata",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ]
+  },
+  {
+   "commanders": [],
+   "label": "Armed settlers from Nelson, under Arthur Wakefield",
+   "polities": []
+  }
+ ],
+ "slug": "wairau-1843",
+ "status": "draft",
+ "summary": "After Te Rauparaha and Te Rangihaeata stopped the survey of the Wairau plains, Arthur Wakefield led armed settlers from Nelson to arrest Te Rauparaha. Governor FitzRoy later found that the settlers had provoked the clash.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

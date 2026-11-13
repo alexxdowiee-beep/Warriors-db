@@ -1,0 +1,80 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000044",
+   "name": "Al-Mansurah",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000001",
+   "name": "Siege of Orléans (relief)",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000003",
+   "name": "Beaugency",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000004",
+   "name": "Patay",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000005",
+   "name": "Montépilloy",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000006",
+   "name": "Paris",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000009",
+   "name": "Compiègne",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "served_by",
+   "relationship_id": "REL-000001",
+   "role": "Valois cause of Charles VII (Armagnac faction)"
+  }
+ ],
+ "id": "POL-000001",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kingdom of France",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000001",
+   "name": "Joan of Arc",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "polity_type": "kingdom",
+ "primary_name": "Kingdom of France",
+ "slug": "kingdom-of-france",
+ "status": "draft",
+ "summary": "The French kingdom. In 1428–31 the Valois cause of Charles VII (Armagnac faction), which Joan of Arc served, held most land south of the Loire.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

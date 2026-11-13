@@ -1,0 +1,70 @@
+{
+ "accessed": "2026-11-12",
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000024",
+        "source_type": "other",
+        "tier": "reference",
+        "title": "UNESCO, \"Manden Charter, proclaimed in Kurukan Fuga\""
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "1 opened (UNESCO)",
+      "field": "tradition",
+      "id": "CLM-000049",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Tradition places a founding assembly at Kurukan Fuga",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000024",
+ "opened": true,
+ "primary_name": "UNESCO, \"Manden Charter, proclaimed in Kurukan Fuga\"",
+ "publisher": "UNESCO",
+ "reliability_notes": "Heritage inscription (pilot doc type). Derives from Mali's nomination file, which has no source record yet.",
+ "reliability_tier": "reference",
+ "slug": "unesco-manden-charter",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "UNESCO Representative List inscription (2009) for the Manden Charter.",
+ "title": "Manden Charter, proclaimed in Kurukan Fuga",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://ich.unesco.org/en/RL/manden-charter-proclaimed-in-kouroukan-fouga-00290",
+ "year": 2009
+}

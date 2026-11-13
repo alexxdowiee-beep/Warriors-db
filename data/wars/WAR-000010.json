@@ -1,0 +1,57 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1820",
+    "earliest": 1820,
+    "latest": 1820,
+    "precision": "year"
+   },
+   "id": "BAT-000021",
+   "kind": "siege",
+   "name": "Siege of Te Arawī",
+   "result": "Negotiated withdrawal"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000015",
+   "name": "Ngāti Toa Rangatira",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000017",
+   "name": "Waikato",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000018",
+   "name": "Ngāti Maniapoto",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000010",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ngāti Toa–Waikato wars at Kāwhia",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Ngāti Toa–Waikato wars at Kāwhia",
+ "related_claims": [],
+ "slug": "ngati-toa-waikato-wars-kawhia",
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "From the late 18th century, Ngāti Toa and their relations were repeatedly at war with the Waikato iwi over the fertile land north of Kāwhia Harbour: a long chain of killings, revenge raids and peacemakings.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

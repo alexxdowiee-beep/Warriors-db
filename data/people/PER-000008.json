@@ -1,0 +1,1665 @@
+{
+ "active_period": {
+  "certainty": "A",
+  "display": "c. 1250–1277; sultan 1260–1277",
+  "earliest": 1250,
+  "latest": 1277,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "bias_flags_present": [],
+ "birth": {
+  "certainty": "C",
+  "claim_ids": [
+   "CLM-000187"
+  ],
+  "display": "c. 1223 (other dates proposed)",
+  "earliest": 1223,
+  "latest": 1223,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "certainty": "A",
+ "civilisation_ids": [
+  "CIV-000001"
+ ],
+ "civilisations": [
+  {
+   "id": "CIV-000001",
+   "name": "Kipchaks",
+   "type": "civilisation"
+  }
+ ],
+ "claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "identity",
+   "id": "CLM-000184",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Baibars, a Kipchak Turk enslaved young, became Mamluk sultan of Egypt and Syria",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "active_period",
+   "id": "CLM-000185",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Active c. 1250–1277; sultan 1260–1277",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "main_battles",
+   "id": "CLM-000186",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Vanguard commander at Ain Jalut; led the campaigns that took most crusader fortresses; invaded Seljuk Anatolia",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened); excerpts",
+   "field": "birth",
+   "id": "CLM-000187",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Born 1223 (alternatives: 1228; an earlier date in Kazakh sources)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened)",
+   "field": "origins",
+   "id": "CLM-000188",
+   "perspective": [
+    {
+     "id": "CIV-000001",
+     "name": "Kipchaks",
+     "type": "civilisation"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sold as a slave after the Mongol invasion of the Kipchak lands, c. 1242",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened); EBSCO (excerpt)",
+   "field": "career",
+   "id": "CLM-000189",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Commanded at al-Mansurah against Louis IX, February 1250",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened)",
+   "field": "controversies",
+   "id": "CLM-000190",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Led the officers who murdered Sultan Turanshah, 1250",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened)",
+   "field": "career",
+   "id": "CLM-000191",
+   "perspective": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000192",
+   "perspective": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "controversies",
+   "id": "CLM-000193",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Baibars led the conspiracy that killed Sultan Qutuz in 1260 and took the throne",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened); SRC-000054 (BB-S09) (opened)",
+   "field": "politics",
+   "id": "CLM-000194",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000195",
+   "perspective": [
+    {
+     "id": "POL-000042",
+     "name": "Principality of Antioch",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Took Safed (1266) and Antioch (1268)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000196",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Took Krak des Chevaliers and other castles of the military orders",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08); SRC-000073 (BB-S10)",
+   "field": "career",
+   "id": "CLM-000197",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Year of Krak's capture: 1270 (Smith) or 1271 (Britannica)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000198",
+   "perspective": [
+    {
+     "id": "POL-000043",
+     "name": "Kingdom of Cilician Armenia",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Devastated Cilician Armenia",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened). Doc grade: A (year C)",
+   "field": "career",
+   "id": "CLM-000199",
+   "perspective": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "postal service",
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened, postal service)",
+   "field": "administration",
+   "id": "CLM-000200",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Built a relay post, signal fires and a pigeon post",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened)",
+   "field": "strategy",
+   "id": "CLM-000201",
+   "perspective": [
+    {
+     "id": "POL-000053",
+     "name": "Syria",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Depopulated frontier zones and demolished coastal strongholds",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "reporting SRC-000075 (BB-S12)",
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000072 (BB-S08) (opened, reporting SRC-000075 (BB-S12))",
+   "field": "interpretation",
+   "id": "CLM-000202",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Mamluk success came from morale, leadership, failed Mongol–crusader cooperation, a larger army and Mongol civil wars",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened); SRC-000072 (BB-S08) (opened)",
+   "field": "death",
+   "id": "CLM-000203",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Died at Damascus in 1277",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened)",
+   "field": "death",
+   "id": "CLM-000204",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Died after drinking poison intended for someone else",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000073 (BB-S10) (opened); EBSCO (excerpt)",
+   "field": "legacy",
+   "id": "CLM-000205",
+   "perspective": [
+    {
+     "id": "CIV-000002",
+     "name": "Arabic-speaking world",
+     "type": "civilisation"
+    }
+   ],
+   "quiz_kind": "tradition",
+   "quiz_ready": true,
+   "statement": "The *Sirat Baybars* folk epic about him is still popular in the Arabic-speaking world",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000188"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   },
+   "relation": "affected_by",
+   "relationship_id": "REL-000078",
+   "role": "Enslaved after the Mongol invasion of the Kipchak lands, c. 1242"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000189"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000044",
+    "name": "Al-Mansurah",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000079",
+   "role": "Among the Bahri leaders"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000192"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000045",
+    "name": "Ain Jalut",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000080",
+   "role": "Vanguard commander under Qutuz"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000195"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000046",
+    "name": "Fall of Safed",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000082",
+   "role": "Commander"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000195"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000048",
+    "name": "Fall of Antioch",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000084",
+   "role": "Commander"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000196",
+    "CLM-000197"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000049",
+    "name": "Krak des Chevaliers",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000085",
+   "role": "Commander"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000199"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000050",
+    "name": "Invasion of Anatolia",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000086",
+   "role": "Commander"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000081",
+   "role": "Sultan and commander"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000111",
+   "role": "Baibars doc: the Mongol campaigns that destroyed the Kipchaks are the reason Baibars was enslaved, two lives linked by one war."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000112",
+   "role": "Baibars doc: the next profile, another commander who stopped the Mongols, by very different means and on the other side of Asia. Trần Hưng Đạo doc: the other commander in this batch who stopped the Mongols, with a heavy cavalry army in open battle, where Trần Hưng Đạo avoided one."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000114",
+   "role": "Timur doc: a later Mamluk sultan lost Syria's great cities to Timur, the state Baibars built a century earlier."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000198"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000047",
+    "name": "Invasion of Cilician Armenia",
+    "type": "battle"
+   },
+   "relation": "planned",
+   "relationship_id": "REL-000083",
+   "role": "Sent his army"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000184"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "POL-000030",
+    "name": "Mamluk Sultanate",
+    "type": "polity"
+   },
+   "relation": "ruled",
+   "relationship_id": "REL-000077",
+   "role": "Sultan 1260–1277"
+  }
+ ],
+ "core": {
+  "claim_ids": [
+   "CLM-000184",
+   "CLM-000185",
+   "CLM-000186"
+  ],
+  "claim_set": "commander",
+  "fields": [
+   "identity",
+   "active_period",
+   "main_battles"
+  ],
+  "missing_fields": [],
+  "weakest_claim_ids": [
+   "CLM-000184",
+   "CLM-000185",
+   "CLM-000186"
+  ]
+ },
+ "core_claim_set": "commander",
+ "cultural_guidance": "A national and religious hero in Egypt, Syria and Kazakhstan; record his reputation there respectfully alongside the record of violence.",
+ "death": {
+  "certainty": "A",
+  "claim_ids": [
+   "CLM-000203"
+  ],
+  "display": "1277",
+  "earliest": 1277,
+  "latest": 1277,
+  "precision": "year"
+ },
+ "death_place": {
+  "id": "PLC-000052",
+  "name": "Damascus",
+  "type": "place"
+ },
+ "death_place_id": "PLC-000052",
+ "engagements": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000188"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "1236–1242",
+    "earliest": 1236,
+    "latest": 1242,
+    "precision": "year"
+   },
+   "id": "WAR-000019",
+   "kind": "war",
+   "name": "Great western campaign",
+   "relation": "affected_by",
+   "result": "Victory; withdrawal 1242",
+   "role": "Enslaved after the Mongol invasion of the Kipchak lands, c. 1242",
+   "type": "war",
+   "war": null
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000189"
+   ],
+   "date": {
+    "certainty": "B",
+    "display": "February 1250",
+    "earliest": 1250,
+    "latest": 1250,
+    "month": 2,
+    "precision": "month"
+   },
+   "id": "BAT-000044",
+   "kind": "field-battle",
+   "name": "Al-Mansurah",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Among the Bahri leaders",
+   "type": "battle",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000192"
+   ],
+   "date": {
+    "certainty": "A",
+    "day": 3,
+    "display": "3 September 1260",
+    "earliest": 1260,
+    "latest": 1260,
+    "month": 9,
+    "precision": "day"
+   },
+   "id": "BAT-000045",
+   "kind": "field-battle",
+   "name": "Ain Jalut",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Vanguard commander under Qutuz",
+   "type": "battle",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "date": {
+    "certainty": "A",
+    "display": "1263–1271",
+    "earliest": 1263,
+    "latest": 1271,
+    "precision": "year"
+   },
+   "id": "WAR-000020",
+   "kind": "war",
+   "name": "Campaigns against the crusader states",
+   "relation": "commanded",
+   "result": "Most inland fortresses taken",
+   "role": "Sultan and commander",
+   "type": "war",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000195"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "1266",
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year"
+   },
+   "id": "BAT-000046",
+   "kind": "siege",
+   "name": "Fall of Safed",
+   "relation": "commanded",
+   "result": "Captured",
+   "role": "Commander",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000198"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "1266",
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year"
+   },
+   "id": "BAT-000047",
+   "kind": "raid",
+   "name": "Invasion of Cilician Armenia",
+   "relation": "planned",
+   "result": "Devastation",
+   "role": "Sent his army",
+   "type": "battle",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000195"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "1268",
+    "earliest": 1268,
+    "latest": 1268,
+    "precision": "year"
+   },
+   "id": "BAT-000048",
+   "kind": "siege",
+   "name": "Fall of Antioch",
+   "relation": "commanded",
+   "result": "Captured; city destroyed",
+   "role": "Commander",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000196",
+    "CLM-000197"
+   ],
+   "date": {
+    "certainty": "C",
+    "display": "1270 or 1271",
+    "earliest": 1270,
+    "latest": 1271,
+    "precision": "year",
+    "qualifier": "between"
+   },
+   "id": "BAT-000049",
+   "kind": "siege",
+   "name": "Krak des Chevaliers",
+   "relation": "commanded",
+   "result": "Captured",
+   "role": "Commander",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000199"
+   ],
+   "date": {
+    "certainty": "C",
+    "display": "1277",
+    "earliest": 1277,
+    "latest": 1277,
+    "precision": "year"
+   },
+   "id": "BAT-000050",
+   "kind": "field-battle",
+   "name": "Invasion of Anatolia",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Commander",
+   "type": "battle",
+   "war": null
+  }
+ ],
+ "era": "medieval",
+ "id": "PER-000008",
+ "key_source_ids": [
+  "SRC-000054",
+  "SRC-000072",
+  "SRC-000073"
+ ],
+ "myth_claim_ids": [
+  "CLM-000206",
+  "CLM-000207",
+  "CLM-000208",
+  "CLM-000209",
+  "CLM-000210",
+  "CLM-000211",
+  "CLM-000204",
+  "CLM-000212",
+  "CLM-000213"
+ ],
+ "myths": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: False (A). Evidence: A mistranslation: the source claimed 12,000 Mamluks. The Mongol empire in the Middle East as a whole greatly outnumbered them (Smith, reporting Amitai-Preiss)",
+   "field": "myth",
+   "id": "CLM-000206",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "At Ain Jalut 120,000 Mamluks faced 10,000 Mongols",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Doc grade B; dropped to C as uncited, as the doc says. Myths table verdict: False (B). Evidence: Mongol forces had suffered earlier defeats; Ain Jalut was the first time their advance in the region was stopped for good",
+   "field": "myth",
+   "id": "CLM-000207",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Ain Jalut was the first time the Mongols ever lost a battle",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "the Southern Song lasted until 1279",
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: False (A). Evidence: The Mongols went on to conquer the Song dynasty of southern China by 1279 Citation added 13 Nov 2026 (user decision). SRC-000054: the Southern Song lasted until 1279.",
+   "field": "myth",
+   "id": "CLM-000208",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Ain Jalut ended Mongol expansion everywhere",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "Qutuz commanded; Baibars led the vanguard",
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Misleading (B). Evidence: Sultan Qutuz commanded; Baibars led the vanguard Citation added 13 Nov 2026 (user decision). SRC-000073: Qutuz commanded; Baibars led the vanguard.",
+   "field": "myth",
+   "id": "CLM-000209",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Baibars commanded at Ain Jalut",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: False (A). Evidence: Smith: the victory was by no means conclusive; the Mamluks fought Mongol invasions for decades and lost a major battle in 1299",
+   "field": "myth",
+   "id": "CLM-000210",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Ain Jalut ended the Mongol threat to Syria",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Tradition (C). Evidence: Reported in contemporary Muslim accounts (Britannica, excerpt); the exact scene is not verifiable",
+   "field": "myth",
+   "id": "CLM-000211",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Qutuz threw down his helmet to rally his men",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000073 (BB-S10) (opened)",
+   "field": "death",
+   "id": "CLM-000204",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Died after drinking poison intended for someone else",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "the Sirat Baybars is a folk epic",
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: False (A). Evidence: A folk epic built up over centuries Citation added 13 Nov 2026 (user decision). SRC-000073: the Sirat Baybars is a folk epic.",
+   "field": "myth",
+   "id": "CLM-000212",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "The *Sirat Baybars* is a biography",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Anachronistic (C). Evidence: He was a Kipchak Turk; the Kipchaks were among the ancestors of several modern peoples, but Kazakh identity took shape later",
+   "field": "myth",
+   "id": "CLM-000213",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Baibars was Kazakh",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  }
+ ],
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Baibars",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Baybars"
+  },
+  {
+   "kind": "regnal",
+   "name": "al-Malik al-Zahir Rukn al-Din Baybars al-Bunduqdari"
+  },
+  {
+   "kind": "epithet",
+   "name": "Abu al-Futuh"
+  }
+ ],
+ "polities": [
+  {
+   "id": "POL-000030",
+   "name": "Mamluk Sultanate",
+   "type": "polity"
+  }
+ ],
+ "polity_ids": [
+  "POL-000030"
+ ],
+ "primary_name": "Baibars",
+ "profile": {
+  "controversies": "**Two murdered sultans**\n\nBaibars took part in the killing of Turanshah, the last Ayyubid heir in Egypt, in 1250, and led the conspiracy that killed Qutuz, the victor of Ain Jalut, in 1260 (A for both). Mamluk politics was violent, and several sultans of the period died this way, but the murder of a victorious sovereign weeks after his triumph is the defining stain on Baibars' reputation. His own court biographers, unsurprisingly, played it down (`patron-bias`).\n\n**Perspectives**\n\n| Perspective | How he is remembered | Grade | Perspective tag |\n| --- | --- | --- | --- |\n| Mamluk court | Defender of Islam, conqueror of crusaders and Mongols, renewer of the caliphate | A as their view | Mamluk Sultanate |\n| Arabic folk tradition | The hero of the *Sirat Baybars*, a just king who protects the weak; still part of popular storytelling | A as tradition content | Arabic-speaking world |\n| Crusader states | The destroyer of the crusader kingdom, remembered especially for Antioch in 1268, where much of the population was reported killed or enslaved | A for the conquest; B for the scale of killing, to source | Principality of Antioch |\n| Cilician Armenia | Repeated devastation of their kingdom | A | Cilician Armenia |\n| Mongol Ilkhanate | The enemy who blocked their expansion into Syria and Egypt | A | Mongol Empire |\n| Modern Egypt and Syria | A national hero; his mosque in Cairo and his tomb, the Zahiriyya in Damascus, are landmarks | B, to source | Egypt; Syria |\n| Modern Kazakhstan | Celebrated as a son of the Kipchak steppe and a national ancestor-hero (Kazakh government page, excerpt) | A that the claim is made; C for treating a 13th-century Kipchak as \"Kazakh\", since Kazakh identity formed later | Kazakhstan |\n\n**The frontier policy**\n\nHis deliberate depopulation of the zones bordering the Mongols, and the destruction of coastal towns, protected his realm at a great cost to its civilian inhabitants (Smith, A). This is recorded as a controversy in its own right, not only as strategy.",
+  "early_life": "Baibars was a Kipchak (Qipchaq) Turk from the steppe north of the Black Sea. According to Britannica, he was one of many Kipchaks sold as slaves after the Mongol invasion of their country around 1242 (excerpt, B). This links him directly to Subutai's profile: the western raid of 1220–1223 and the campaign of 1236–1242 shattered the Kipchaks and flooded the slave markets with young Kipchak men (B as interpretation).\n\nThe accounts of his sale vary. One tradition has him sold at the slave market of Sivas in Anatolia, then in Hama in Syria to an Egyptian officer, 'Ala' al-Din Aydakin al-Bunduqdar, whose title gave Baibars his surname \"al-Bunduqdari\". When Aydakin fell from favour, Sultan al-Salih Ayyub took his slaves, including Baibars (C; excerpts from several reference works that differ in detail). His birth year is given as 1223 or 1228, and some modern Kazakh sources give an earlier date (C, stored as alternatives).",
+  "evidence_note": "**Research note.** I opened two sources: John Masson Smith Jr.'s review of Reuven Amitai-Preiss, *Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281* (*Journal of the American Oriental Society* 118.1, 1998; most of the text was visible), and Timothy May's 2008 survey (already opened). Britannica, EBSCO Research Starters, Encyclopedia.com and a Kazakh government page are cited from search excerpts. Amitai-Preiss's book itself is cited through Smith's review. An AI-generated encyclopedia page on Ain Jalut appeared in the results and is excluded under the new rule.\n\nBaibars is unusually well documented for his reign, mostly by men who worked for him or for his successors. Little is reliably known about his life before he reached power.\n\n| Label | Source | Date | Viewpoint | Main bias |\n| --- | --- | --- | --- | --- |\n| BB-S01 | Ibn 'Abd al-Zahir, official biography of the sultan | During and just after his reign | His own chancery secretary | Official panegyric (`patron-bias`, `hagiography`) |\n| BB-S02 | Ibn Shaddad, life of al-Zahir Baybars | Late 13th c. | Syrian official historian | `patron-bias` |\n| BB-S03 | Later Mamluk historians, e.g. al-Maqrizi | 14th–15th c. | Mamluk-era scholars | Draw on BB-S01 and BB-S02 (`late-source`) |\n| BB-S04 | Rashid al-Din (as GK-S03) | Early 14th c. | Mongol Ilkhanate court | The enemy's view (`hostile-source`, `patron-bias`) |\n| BB-S05 | Crusader and Armenian sources | 13th c. | His Christian enemies | `hostile-source` |\n| BB-S06 | *Sirat Baybars* | Developed over centuries; still performed | Arabic folk epic | Legend; a just hero-king (`oral-tradition`, `popular-culture`) |\n\n### What this means for grading\n\n- **His reign and campaigns** are recorded by his own officials and by his enemies, Mongol and crusader. Where they agree, as on Ain Jalut and the fall of the crusader castles, claims reach A.\n- **His early life** comes from brief notes in later Mamluk writers and from the epic. Birth year and the details of his enslavement are C.\n- **Motives** (why he killed Qutuz, why he sent a caliph to his death) come from hostile sources or from modern historians' reasoning. They are graded as interpretation, usually C.\n- **The *Sirat Baybars*** is stored as `tradition`. It tells us how Arabic-speaking audiences have remembered him for centuries, not what he did.\n\n### Derived sources\n\nMost later Mamluk accounts copy or summarise Ibn 'Abd al-Zahir and Ibn Shaddad, so they are linked with `derives_from` and do not count as independent confirmation.",
+  "historical_context": "**The mamluk system**\n\nMamluks were slave soldiers, bought young, trained, converted to Islam, and freed into an elite cavalry whose loyalty was to their master and their fellow mamluks. Al-Salih Ayyub built a regiment of them, the Bahriyya, which Baibars joined (B). Turkish-speaking Kipchaks were especially prized as recruits.\n\n**Egypt and the crusades**\n\nIn 1249 King Louis IX of France invaded Egypt (the Seventh Crusade). At al-Mansurah in February 1250 the Bahriyya, with Baibars among their leaders, defeated the French, and Louis was soon captured (EBSCO excerpt; B). Al-Salih Ayyub had died during the campaign. Within weeks the Bahri mamluks, Baibars among them, murdered his son and heir Turanshah, ending the Ayyubid dynasty's rule in Egypt (B, excerpts).\n\nThe 1250s were a decade of mamluk infighting. Baibars spent years in exile in Syria after a rival faction took power in Cairo, returning in 1260 as the Mongol threat forced the factions together (B, to source).\n\n**The Mongol threat**\n\nIn 1256 the Mongols reinforced their presence in the Middle East. They destroyed the Ismaili Assassins, sacked Baghdad and killed the caliph in 1258, and in 1259 sent an army into Syria: Aleppo was taken by force and Homs, Hama and Damascus surrendered ([Smith 1998](https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548); [May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1); A). In 1259 Qutuz, the mamluk ruler of Egypt, executed Mongol envoys sent to demand his submission, committing Egypt to war (Smith, A).",
+  "key_takeaways": [
+   "Baibars was a Kipchak Turk, sold into slavery after the Mongols overran his homeland, who rose through the mamluk system of Egypt.",
+   "He led the vanguard at Ain Jalut in 1260, where the Mamluks defeated the Mongol force left in Syria, then murdered Sultan Qutuz and took the throne.",
+   "As sultan (1260–1277) he campaigned almost every year, taking most of the crusader fortresses and holding the Mongols at bay.",
+   "He built a state as well as an army: a Cairo caliphate for legitimacy, a postal and signal network, spies and frontier fortresses.",
+   "The famous \"120,000 against 10,000\" at Ain Jalut is a mistranslation; the Mongols, not the Mamluks, had the larger empire and armies."
+  ],
+  "leadership": "**Why the Mamluks held**\n\nAmitai-Preiss explains the Mamluks' success against a much larger Mongol empire through five factors: their morale and determination, Baibars' leadership, the failure of Mongol–crusader cooperation, the enlargement of the Mamluk army, and the Mongols' distraction by their own civil wars ([Smith 1998](https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548), reporting Amitai-Preiss; A as a specialist's interpretation). Smith, reviewing the book, thinks the crusader factor mattered less than Amitai-Preiss allows, because Baibars had already crippled the crusader states before any real cooperation came about (C: a scholarly disagreement, both views stored).\n\n**Leadership**\n\n- **Campaigning in person, every year.** He led his army out of Egypt almost annually (Smith, A).\n- **A mission and a title.** He brought a fugitive member of the Abbasid family to Cairo, re-established the caliphate there, received from it the title of the caliph's associate, and took on the duty of holy war against Mongols and crusaders (Smith; May; A). This gave a regime built on regicide religious legitimacy.\n- **Ruthlessness.** He reached power by killing his sultan, and Smith reads his handling of the new caliph, who died invading Mongol Iraq with only a few hundred men, as politically convenient (A for the events; C for Smith's reading of motive).",
+  "legacy": "- **The Mamluk state.** He is often called the true founder of the Mamluk Sultanate, which ruled Egypt and Syria until the Ottoman conquest of the early 16th century (B, to source).\n- **Cairo as a centre of Islam.** With Baghdad ruined and a caliph now resident in Cairo, May notes that Cairo became the most influential centre of learning and culture in the Islamic world (May, A as interpretation).\n- **The end of the crusader states.** His successors took Acre, the last major crusader city, in 1291, completing what he had largely achieved (B, to source).\n- **The Mongol frontier held.** The army he built won again at Homs in 1281, after his death (Smith, A).",
+  "military_career": "**Ain Jalut (3 September 1260).** In spring 1260 most of the Mongol army withdrew from Syria, leaving an occupying force of one tumen, nominally 10,000 men, under Kitbuqa ([Smith 1998](https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548)); May links the withdrawal to news of the Great Khan Möngke's death ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1)). The mamluk army under Sultan Qutuz marched from Egypt, with Baibars commanding the vanguard, and met Kitbuqa at Ain Jalut in Palestine. Smith notes that in this and later battles the Mongols defeated parts of the mamluk army in the first fighting, but the mamluks held instead of fleeing and finally prevailed. Kitbuqa was captured and killed (A for the battle and its outcome; B for Baibars' command of the vanguard, from excerpts).\n\n**Seizing the sultanate (October 1260).** On the march home, Baibars and fellow conspirators killed Qutuz, and Baibars took the throne (Smith; Britannica excerpt; A).\n\n**Campaigns as sultan (1260–1277).** Smith says he led his army from Egypt into Syria almost every year of his reign, sometimes to meet a Mongol threat but more often to take crusader fortresses or ravage Cilician Armenia, ally of the crusaders and the Mongols (A). The list is long:\n\n- Caesarea, Haifa and Arsuf (1264–1265)\n- Safed (1266)\n- the devastation of Cilician Armenia (1266)\n- Jaffa, Beaufort and the conquest of Antioch (1268)\n- the great castles of the military orders: Chastel Blanc, Krak des Chevaliers and Gibelacar (Smith dates them to 1270; Krak is usually dated 1271 elsewhere — C for the year)\n\nBy the time a Mongol advance from Anatolia coincided with a crusader landing at Acre in 1271, Smith observes, the crusaders had already been reduced to a toehold on the coast (A).\n\n**Anatolia (1277).** In the last year of his life he invaded Mongol-dominated Seljuk Anatolia, destroyed a Mongol army and briefly occupied the Seljuks' chief city (Smith, A). Britannica dates his capture of Caesarea (Kayseri) to 1276, while Smith places the invasion in 1277; both dates are stored and the year is graded C.\n\n**Other fronts.** Britannica says he sent expeditions into Nubia and Libya and personally commanded fifteen campaigns (excerpt, B).\n\n**Death (1277).** He died at Damascus in 1277. Britannica reports that he died after drinking poison intended for someone else, and was buried in Damascus under the dome of the Zahiriyya library he founded. With only one source for the poisoning, it stays C.\n\n**Major battles and campaigns**\n\n| Label | Engagement | Date | Kind | Opponent | Baibars' role | Result | Grade |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| BB-B01 | Al-Mansurah | Feb 1250 | field-battle | Seventh Crusade (Louis IX) | Among the Bahri leaders | Victory | B |\n| BB-B02 | Ain Jalut | 3 Sep 1260 | field-battle | Mongols under Kitbuqa | Vanguard commander under Qutuz | Victory | A |\n| BB-W01 | Campaigns against the crusader states | 1263–1271 | war (WAR) | Kingdom of Jerusalem, County of Tripoli, Principality of Antioch, military orders | Sultan and commander | Most inland fortresses taken | A |\n| BB-B03 | Fall of Safed | 1266 | siege | Knights Templar | Commander | Captured | A |\n| BB-B04 | Invasion of Cilician Armenia | 1266 | raid | Kingdom of Cilician Armenia | Sent his army | Devastation | A |\n| BB-B05 | Fall of Antioch | 1268 | siege | Principality of Antioch | Commander | Captured; city destroyed | A |\n| BB-B06 | Krak des Chevaliers | 1270 or 1271 | siege | Knights Hospitaller | Commander | Captured | A (year C) |\n| BB-B07 | Invasion of Anatolia | 1277 | field-battle | Mongols and Seljuks | Commander | Victory | A |\n\nArmy sizes: `unknown`, except for the corrected Ain Jalut figure discussed in the myths section.",
+  "strategy_and_tactics": "- **Defend Syria by making it hard to invade.** He demolished strongholds and towns on the coast so crusaders landing from the sea would find nothing defensible, and strengthened inland castles and two great frontier fortresses facing the Mongols, al-Bira and al-Rahba (Smith, A).\n- **Scorched frontiers.** In the zones nearest the Mongols (Cilician Armenia, Antioch, even Aleppo), populations were reduced by devastation or neglect, and people in northern Syria were urged or forced to flee when Mongols approached (Smith, A). A harsh policy, recorded plainly.\n- **Keep the enemies apart.** Annual campaigns against crusader fortresses and Cilician Armenia stopped Mongol–crusader cooperation from ever becoming effective (A).\n- **Diplomacy.** Alliances with the Mongol Golden Horde (enemies of the Ilkhans) and with Byzantium protected the route by which new mamluk recruits arrived (Smith, A).",
+  "technology": "- **Communications:** a relay horse post (the barid), fire and smoke signals, and a pigeon post (Smith, A).\n- **Intelligence:** an espionage network aimed at the Mongols (Smith, A).\n- **A larger, better-trained army**, plus Bedouin and Turkmen auxiliaries (Smith, A).\n- **Mamluk heavy cavalry:** mounted archers who could also fight at close quarters (B, to source).\n- **Siege warfare** against the strongest castles of the crusader period (A from the results)."
+ },
+ "regions": [
+  "Africa",
+  "Asia"
+ ],
+ "roles": [
+  "commander",
+  "ruler"
+ ],
+ "sex": "male",
+ "slug": "baibars",
+ "status": "sourced",
+ "summary": "Baibars was a Kipchak Turk enslaved as a boy who became sultan of Egypt and Syria, fought at the battle that first stopped the Mongols in the Middle East, and reduced the crusader states to a strip of coast. He reached the throne by murdering his sultan. This profile tests how the database handles a ruler celebrated by court biographers, a folk epic and modern nations, and condemned by his enemies.",
+ "tags": [
+  "mamluks",
+  "ain-jalut",
+  "crusades",
+  "regicide",
+  "folk-epic",
+  "batch-1"
+ ],
+ "type": "person",
+ "updated": "2026-11-13"
+}

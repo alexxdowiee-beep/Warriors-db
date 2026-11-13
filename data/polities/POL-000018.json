@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000021",
+   "name": "Siege of Te Arawī",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000018",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ngāti Maniapoto",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "iwi",
+ "primary_name": "Ngāti Maniapoto",
+ "slug": "ngati-maniapoto",
+ "status": "draft",
+ "summary": "Took part in the 1820–21 invasion of Kāwhia.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

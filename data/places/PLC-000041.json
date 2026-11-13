@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000042",
+   "name": "Sit River",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000041",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Sit River",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "river",
+ "primary_name": "Sit River",
+ "slug": "sit-river",
+ "status": "draft",
+ "summary": "River where Yuri II of Vladimir was defeated and killed in March 1238.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

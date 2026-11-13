@@ -1,0 +1,95 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000055",
+   "name": "Battle of 1395 against Tokhtamysh",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000056",
+   "name": "Defeat of the Delhi sultan's army",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000057",
+   "name": "Sack of Aleppo",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000058",
+   "name": "Occupation of Damascus",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000059",
+   "name": "Sack of Baghdad",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000060",
+   "name": "Ankara",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000243"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "founded_by",
+   "relationship_id": "REL-000095",
+   "role": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000244"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "ruled_by",
+   "relationship_id": "REL-000096",
+   "role": "Ruler from c. 1370"
+  }
+ ],
+ "id": "POL-000049",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Timurid realm",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Timurid dynasty"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000010",
+   "name": "Timur",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Timurid realm",
+ "slug": "timurid-realm",
+ "status": "draft",
+ "summary": "Realm founded by Timur from the Chagatai ulus, c. 1370; ruled by his descendants, who fought over it after his death.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

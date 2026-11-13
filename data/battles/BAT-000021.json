@@ -1,0 +1,107 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000034",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1820",
+  "earliest": 1820,
+  "latest": 1820,
+  "precision": "year"
+ },
+ "id": "BAT-000021",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Siege of Te Arawī",
+   "preferred": true
+  }
+ ],
+ "outcome": "Negotiated withdrawal",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000034",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000023",
+  "name": "Te Arawī",
+  "type": "place"
+ },
+ "place_id": "PLC-000023",
+ "primary_name": "Siege of Te Arawī",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Negotiated withdrawal"
+  },
+  {
+   "commanders": [],
+   "label": "Waikato and Ngāti Maniapoto",
+   "polities": [
+    {
+     "id": "POL-000017",
+     "name": "Waikato",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000018",
+     "name": "Ngāti Maniapoto",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000017",
+    "POL-000018"
+   ]
+  }
+ ],
+ "slug": "siege-of-te-arawi",
+ "status": "draft",
+ "summary": "Ngāti Toa were besieged by Waikato and Ngāti Maniapoto; kin among the besiegers helped them and they were allowed to leave.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000010",
+  "name": "Ngāti Toa–Waikato wars at Kāwhia",
+  "type": "war"
+ },
+ "war_id": "WAR-000010"
+}

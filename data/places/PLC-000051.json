@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000057",
+   "name": "Sack of Aleppo",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000051",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Aleppo",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Aleppo",
+ "slug": "aleppo",
+ "status": "draft",
+ "summary": "Syrian city stormed and sacked by Timur in 1400; taken by the Mongols in 1259.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

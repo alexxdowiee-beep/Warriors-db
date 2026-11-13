@@ -1,0 +1,82 @@
+{
+ "certainty": "C",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000027",
+   "role": "Listed among his major battles in the pilot doc"
+  }
+ ],
+ "id": "BAT-000019",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Taking of the Sosso capital",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000027",
+   "role": "Listed among his major battles in the pilot doc"
+  }
+ ],
+ "place": null,
+ "primary_name": "Taking of the Sosso capital",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Mande coalition",
+   "polities": [],
+   "result": "Victory",
+   "strength": "unknown"
+  },
+  {
+   "commanders": [],
+   "label": "Sosso",
+   "polities": [
+    {
+     "id": "POL-000011",
+     "name": "Sosso",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000011"
+   ],
+   "strength": "unknown"
+  }
+ ],
+ "slug": "taking-of-the-sosso-capital",
+ "status": "draft",
+ "summary": "Capture of the Sosso capital after Kirina.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000005",
+  "name": "Mande revolt against Sosso rule",
+  "type": "war"
+ },
+ "war_id": "WAR-000005"
+}

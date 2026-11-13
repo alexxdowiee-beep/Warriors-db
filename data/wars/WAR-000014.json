@@ -1,0 +1,67 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000021",
+   "role": null
+  }
+ ],
+ "id": "WAR-000014",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "March on Rome (211 BCE)",
+   "preferred": true
+  }
+ ],
+ "outcome": "No siege attempted",
+ "parent_war": {
+  "id": "WAR-000004",
+  "name": "Second Punic War",
+  "type": "war"
+ },
+ "parent_war_id": "WAR-000004",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000021",
+   "role": null
+  }
+ ],
+ "primary_name": "March on Rome (211 BCE)",
+ "related_claims": [],
+ "slug": "march-on-rome-211-bce",
+ "span": {
+  "certainty": "B",
+  "display": "211 BCE",
+  "earliest": -210,
+  "latest": -210,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Hannibal's march on Rome in 211 BCE: a diversion he could not turn into a siege.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

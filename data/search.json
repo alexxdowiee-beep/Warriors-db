@@ -1,0 +1,3622 @@
+[
+ {
+  "folded": [
+   "siege of orleans relief"
+  ],
+  "id": "BAT-000001",
+  "label": "Siege of Orléans (relief)",
+  "names": [
+   "Siege of Orléans (relief)"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "jargeau"
+  ],
+  "id": "BAT-000002",
+  "label": "Jargeau",
+  "names": [
+   "Jargeau"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "beaugency"
+  ],
+  "id": "BAT-000003",
+  "label": "Beaugency",
+  "names": [
+   "Beaugency"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "patay"
+  ],
+  "id": "BAT-000004",
+  "label": "Patay",
+  "names": [
+   "Patay"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "montepilloy"
+  ],
+  "id": "BAT-000005",
+  "label": "Montépilloy",
+  "names": [
+   "Montépilloy"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "paris"
+  ],
+  "id": "BAT-000006",
+  "label": "Paris",
+  "names": [
+   "Paris"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "saint pierre le moutier"
+  ],
+  "id": "BAT-000007",
+  "label": "Saint-Pierre-le-Moûtier",
+  "names": [
+   "Saint-Pierre-le-Moûtier"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "la charite sur loire"
+  ],
+  "id": "BAT-000008",
+  "label": "La Charité-sur-Loire",
+  "names": [
+   "La Charité-sur-Loire"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "compiegne"
+  ],
+  "id": "BAT-000009",
+  "label": "Compiègne",
+  "names": [
+   "Compiègne"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "siege of saguntum"
+  ],
+  "id": "BAT-000010",
+  "label": "Siege of Saguntum",
+  "names": [
+   "Siege of Saguntum"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "ticinus"
+  ],
+  "id": "BAT-000011",
+  "label": "Ticinus",
+  "names": [
+   "Ticinus"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "trebia"
+  ],
+  "id": "BAT-000012",
+  "label": "Trebia",
+  "names": [
+   "Trebia"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "lake trasimene"
+  ],
+  "id": "BAT-000013",
+  "label": "Lake Trasimene",
+  "names": [
+   "Lake Trasimene"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "cannae"
+  ],
+  "id": "BAT-000014",
+  "label": "Cannae",
+  "names": [
+   "Cannae"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "zama"
+  ],
+  "id": "BAT-000016",
+  "label": "Zama",
+  "names": [
+   "Zama"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "naval battle off pamphylia"
+  ],
+  "id": "BAT-000017",
+  "label": "Naval battle off Pamphylia",
+  "names": [
+   "Naval battle off Pamphylia"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "kirina",
+   "krina"
+  ],
+  "id": "BAT-000018",
+  "label": "Kirina",
+  "names": [
+   "Kirina",
+   "Krina"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "taking of the sosso capital"
+  ],
+  "id": "BAT-000019",
+  "label": "Taking of the Sosso capital",
+  "names": [
+   "Taking of the Sosso capital"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "boju and the capture of ying"
+  ],
+  "id": "BAT-000020",
+  "label": "Boju and the capture of Ying",
+  "names": [
+   "Boju and the capture of Ying"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "siege of te arawi"
+  ],
+  "id": "BAT-000021",
+  "label": "Siege of Te Arawī",
+  "names": [
+   "Siege of Te Arawī"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "motunui"
+  ],
+  "id": "BAT-000022",
+  "label": "Motunui",
+  "names": [
+   "Motunui"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "horowhenua lakes"
+  ],
+  "id": "BAT-000023",
+  "label": "Horowhenua lakes",
+  "names": [
+   "Horowhenua lakes"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "hotuiti"
+  ],
+  "id": "BAT-000024",
+  "label": "Hotuiti",
+  "names": [
+   "Hotuiti"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "waiorua kapiti"
+  ],
+  "id": "BAT-000025",
+  "label": "Waiorua, Kāpiti",
+  "names": [
+   "Waiorua, Kāpiti"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "hikapu pelorus sound"
+  ],
+  "id": "BAT-000026",
+  "label": "Hikapu, Pelorus Sound",
+  "names": [
+   "Hikapu, Pelorus Sound"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "first attack on kaiapoi"
+  ],
+  "id": "BAT-000027",
+  "label": "First attack on Kaiapoi",
+  "names": [
+   "First attack on Kaiapoi"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "kaiapoi siege"
+  ],
+  "id": "BAT-000028",
+  "label": "Kaiapoi siege",
+  "names": [
+   "Kaiapoi siege"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "onawe akaroa"
+  ],
+  "id": "BAT-000029",
+  "label": "Ōnawe, Akaroa",
+  "names": [
+   "Ōnawe, Akaroa"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "oraumoaiti and oraumoanui"
+  ],
+  "id": "BAT-000030",
+  "label": "Ōraumoaiti and Ōraumoanui",
+  "names": [
+   "Ōraumoaiti and Ōraumoanui"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "te kuititanga waikanae"
+  ],
+  "id": "BAT-000031",
+  "label": "Te Kūititanga, Waikanae",
+  "names": [
+   "Te Kūititanga, Waikanae"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "wairau 1843"
+  ],
+  "id": "BAT-000032",
+  "label": "Wairau (1843)",
+  "names": [
+   "Wairau (1843)"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "defeat of toghril and the kereit"
+  ],
+  "id": "BAT-000033",
+  "label": "Defeat of Toghril and the Kereit",
+  "names": [
+   "Defeat of Toghril and the Kereit"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "defeat of the naiman"
+  ],
+  "id": "BAT-000034",
+  "label": "Defeat of the Naiman",
+  "names": [
+   "Defeat of the Naiman"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "fall of zhongdu"
+  ],
+  "id": "BAT-000035",
+  "label": "Fall of Zhongdu",
+  "names": [
+   "Fall of Zhongdu"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "capture of otrar"
+  ],
+  "id": "BAT-000036",
+  "label": "Capture of Otrar",
+  "names": [
+   "Capture of Otrar"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "battle of the indus"
+  ],
+  "id": "BAT-000037",
+  "label": "Battle of the Indus",
+  "names": [
+   "Battle of the Indus"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "siege of zhongxing"
+  ],
+  "id": "BAT-000038",
+  "label": "Siege of Zhongxing",
+  "names": [
+   "Siege of Zhongxing"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "kalka river"
+  ],
+  "id": "BAT-000039",
+  "label": "Kalka River",
+  "names": [
+   "Kalka River"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "siege of kaifeng"
+  ],
+  "id": "BAT-000040",
+  "label": "Siege of Kaifeng",
+  "names": [
+   "Siege of Kaifeng"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "fall of ryazan"
+  ],
+  "id": "BAT-000041",
+  "label": "Fall of Ryazan",
+  "names": [
+   "Fall of Ryazan"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "sit river"
+  ],
+  "id": "BAT-000042",
+  "label": "Sit River",
+  "names": [
+   "Sit River"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "mohi sajo river"
+  ],
+  "id": "BAT-000043",
+  "label": "Mohi (Sajó River)",
+  "names": [
+   "Mohi (Sajó River)"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "al mansurah"
+  ],
+  "id": "BAT-000044",
+  "label": "Al-Mansurah",
+  "names": [
+   "Al-Mansurah"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "ain jalut"
+  ],
+  "id": "BAT-000045",
+  "label": "Ain Jalut",
+  "names": [
+   "Ain Jalut"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "fall of safed"
+  ],
+  "id": "BAT-000046",
+  "label": "Fall of Safed",
+  "names": [
+   "Fall of Safed"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "invasion of cilician armenia"
+  ],
+  "id": "BAT-000047",
+  "label": "Invasion of Cilician Armenia",
+  "names": [
+   "Invasion of Cilician Armenia"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "fall of antioch"
+  ],
+  "id": "BAT-000048",
+  "label": "Fall of Antioch",
+  "names": [
+   "Fall of Antioch"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "krak des chevaliers"
+  ],
+  "id": "BAT-000049",
+  "label": "Krak des Chevaliers",
+  "names": [
+   "Krak des Chevaliers"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "invasion of anatolia"
+  ],
+  "id": "BAT-000050",
+  "label": "Invasion of Anatolia",
+  "names": [
+   "Invasion of Anatolia"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "chuong duong"
+  ],
+  "id": "BAT-000051",
+  "label": "Chương Dương",
+  "names": [
+   "Chương Dương"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "tay ket"
+  ],
+  "id": "BAT-000052",
+  "label": "Tây Kết",
+  "names": [
+   "Tây Kết"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "capture of the yuan supply fleet"
+  ],
+  "id": "BAT-000053",
+  "label": "Capture of the Yuan supply fleet",
+  "names": [
+   "Capture of the Yuan supply fleet"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "bach dang river"
+  ],
+  "id": "BAT-000054",
+  "label": "Bạch Đằng River",
+  "names": [
+   "Bạch Đằng River"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "battle of 1395 against tokhtamysh"
+  ],
+  "id": "BAT-000055",
+  "label": "Battle of 1395 against Tokhtamysh",
+  "names": [
+   "Battle of 1395 against Tokhtamysh"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "defeat of the delhi sultan s army"
+  ],
+  "id": "BAT-000056",
+  "label": "Defeat of the Delhi sultan's army",
+  "names": [
+   "Defeat of the Delhi sultan's army"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "sack of aleppo"
+  ],
+  "id": "BAT-000057",
+  "label": "Sack of Aleppo",
+  "names": [
+   "Sack of Aleppo"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "occupation of damascus"
+  ],
+  "id": "BAT-000058",
+  "label": "Occupation of Damascus",
+  "names": [
+   "Occupation of Damascus"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "sack of baghdad"
+  ],
+  "id": "BAT-000059",
+  "label": "Sack of Baghdad",
+  "names": [
+   "Sack of Baghdad"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "ankara"
+  ],
+  "id": "BAT-000060",
+  "label": "Ankara",
+  "names": [
+   "Ankara"
+  ],
+  "type": "battle"
+ },
+ {
+  "folded": [
+   "kipchaks",
+   "qipchaq",
+   "kipchak turks"
+  ],
+  "id": "CIV-000001",
+  "label": "Kipchaks",
+  "names": [
+   "Kipchaks",
+   "Qipchaq",
+   "Kipchak Turks"
+  ],
+  "type": "civilisation"
+ },
+ {
+  "folded": [
+   "arabic speaking world"
+  ],
+  "id": "CIV-000002",
+  "label": "Arabic-speaking world",
+  "names": [
+   "Arabic-speaking world"
+  ],
+  "type": "civilisation"
+ },
+ {
+  "folded": [
+   "joan of arc",
+   "jeanne d arc",
+   "jehanne darc",
+   "la pucelle",
+   "the maid",
+   "the maid of orleans"
+  ],
+  "id": "PER-000001",
+  "label": "Joan of Arc",
+  "names": [
+   "Joan of Arc",
+   "Jeanne d'Arc",
+   "Jehanne Darc",
+   "La Pucelle",
+   "the Maid",
+   "the Maid of Orléans"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "hannibal barca",
+   "hannibal son of hamilcar",
+   "barca"
+  ],
+  "id": "PER-000002",
+  "label": "Hannibal Barca",
+  "names": [
+   "Hannibal Barca",
+   "Hannibal son of Hamilcar",
+   "Barca"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "sundiata keita",
+   "sunjata",
+   "sogolon jata",
+   "mari jata"
+  ],
+  "id": "PER-000003",
+  "label": "Sundiata Keita",
+  "names": [
+   "Sundiata Keita",
+   "Sunjata",
+   "Sogolon Jata",
+   "Mari Jata"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "sun tzu",
+   "sunzi",
+   "sun wu",
+   "changqing"
+  ],
+  "id": "PER-000004",
+  "label": "Sun Tzu",
+  "names": [
+   "Sun Tzu",
+   "Sunzi",
+   "Sun Wu",
+   "Changqing"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "te rauparaha",
+   "maui potiki"
+  ],
+  "id": "PER-000005",
+  "label": "Te Rauparaha",
+  "names": [
+   "Te Rauparaha",
+   "Māui Pōtiki"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "genghis khan",
+   "temujin",
+   "chinggis khan",
+   "cinggis qan"
+  ],
+  "id": "PER-000006",
+  "label": "Genghis Khan",
+  "names": [
+   "Genghis Khan",
+   "Temüjin",
+   "Chinggis Khan",
+   "Cinggis Qan"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "subutai",
+   "sube etei",
+   "subedei",
+   ""
+  ],
+  "id": "PER-000007",
+  "label": "Subutai",
+  "names": [
+   "Subutai",
+   "Sübe'etei",
+   "Sübedei",
+   "速不台"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "baibars",
+   "baybars",
+   "al malik al zahir rukn al din baybars al bunduqdari",
+   "abu al futuh"
+  ],
+  "id": "PER-000008",
+  "label": "Baibars",
+  "names": [
+   "Baibars",
+   "Baybars",
+   "al-Malik al-Zahir Rukn al-Din Baybars al-Bunduqdari",
+   "Abu al-Futuh"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "tran hung dao",
+   "tran quoc tuan",
+   "hung dao vuong",
+   "hung dao dai vuong",
+   "duc thanh tran"
+  ],
+  "id": "PER-000009",
+  "label": "Trần Hưng Đạo",
+  "names": [
+   "Trần Hưng Đạo",
+   "Trần Quốc Tuấn",
+   "Hưng Đạo Vương",
+   "Hưng Đạo Đại Vương",
+   "Đức Thánh Trần"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "timur",
+   "temur",
+   "tamerlane",
+   "tamburlaine",
+   "timur i lang",
+   "amir timur kuregen"
+  ],
+  "id": "PER-000010",
+  "label": "Timur",
+  "names": [
+   "Timur",
+   "Temür",
+   "Tamerlane",
+   "Tamburlaine",
+   "Timur-i Lang",
+   "Amir Timur Küregen"
+  ],
+  "type": "person"
+ },
+ {
+  "folded": [
+   "domremy"
+  ],
+  "id": "PLC-000001",
+  "label": "Domrémy",
+  "names": [
+   "Domrémy"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "rouen"
+  ],
+  "id": "PLC-000002",
+  "label": "Rouen",
+  "names": [
+   "Rouen"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "orleans"
+  ],
+  "id": "PLC-000003",
+  "label": "Orléans",
+  "names": [
+   "Orléans"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "jargeau"
+  ],
+  "id": "PLC-000004",
+  "label": "Jargeau",
+  "names": [
+   "Jargeau"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "beaugency"
+  ],
+  "id": "PLC-000005",
+  "label": "Beaugency",
+  "names": [
+   "Beaugency"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "patay"
+  ],
+  "id": "PLC-000006",
+  "label": "Patay",
+  "names": [
+   "Patay"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "montepilloy"
+  ],
+  "id": "PLC-000007",
+  "label": "Montépilloy",
+  "names": [
+   "Montépilloy"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "paris"
+  ],
+  "id": "PLC-000008",
+  "label": "Paris",
+  "names": [
+   "Paris"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "saint pierre le moutier"
+  ],
+  "id": "PLC-000009",
+  "label": "Saint-Pierre-le-Moûtier",
+  "names": [
+   "Saint-Pierre-le-Moûtier"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "la charite sur loire"
+  ],
+  "id": "PLC-000010",
+  "label": "La Charité-sur-Loire",
+  "names": [
+   "La Charité-sur-Loire"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "compiegne"
+  ],
+  "id": "PLC-000011",
+  "label": "Compiègne",
+  "names": [
+   "Compiègne"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "saguntum"
+  ],
+  "id": "PLC-000012",
+  "label": "Saguntum",
+  "names": [
+   "Saguntum"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "ticinus"
+  ],
+  "id": "PLC-000013",
+  "label": "Ticinus",
+  "names": [
+   "Ticinus"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "trebia"
+  ],
+  "id": "PLC-000014",
+  "label": "Trebia",
+  "names": [
+   "Trebia"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "lake trasimene"
+  ],
+  "id": "PLC-000015",
+  "label": "Lake Trasimene",
+  "names": [
+   "Lake Trasimene"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "cannae"
+  ],
+  "id": "PLC-000016",
+  "label": "Cannae",
+  "names": [
+   "Cannae"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "rome"
+  ],
+  "id": "PLC-000017",
+  "label": "Rome",
+  "names": [
+   "Rome"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "zama"
+  ],
+  "id": "PLC-000018",
+  "label": "Zama",
+  "names": [
+   "Zama"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "pamphylia"
+  ],
+  "id": "PLC-000019",
+  "label": "Pamphylia",
+  "names": [
+   "Pamphylia"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "libyssa"
+  ],
+  "id": "PLC-000020",
+  "label": "Libyssa",
+  "names": [
+   "Libyssa"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "kirina"
+  ],
+  "id": "PLC-000021",
+  "label": "Kirina",
+  "names": [
+   "Kirina"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "boju"
+  ],
+  "id": "PLC-000022",
+  "label": "Boju",
+  "names": [
+   "Boju"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "te arawi"
+  ],
+  "id": "PLC-000023",
+  "label": "Te Arawī",
+  "names": [
+   "Te Arawī"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "motunui"
+  ],
+  "id": "PLC-000024",
+  "label": "Motunui",
+  "names": [
+   "Motunui"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "horowhenua lakes"
+  ],
+  "id": "PLC-000025",
+  "label": "Horowhenua lakes",
+  "names": [
+   "Horowhenua lakes"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "hotuiti"
+  ],
+  "id": "PLC-000026",
+  "label": "Hotuiti",
+  "names": [
+   "Hotuiti"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "waiorua kapiti island"
+  ],
+  "id": "PLC-000027",
+  "label": "Waiorua, Kāpiti Island",
+  "names": [
+   "Waiorua, Kāpiti Island"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "hikapu pelorus sound"
+  ],
+  "id": "PLC-000028",
+  "label": "Hikapu, Pelorus Sound",
+  "names": [
+   "Hikapu, Pelorus Sound"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "kaiapoi pa"
+  ],
+  "id": "PLC-000029",
+  "label": "Kaiapoi pā",
+  "names": [
+   "Kaiapoi pā"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "onawe akaroa"
+  ],
+  "id": "PLC-000030",
+  "label": "Ōnawe, Akaroa",
+  "names": [
+   "Ōnawe, Akaroa"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "te kuititanga waikanae"
+  ],
+  "id": "PLC-000031",
+  "label": "Te Kūititanga, Waikanae",
+  "names": [
+   "Te Kūititanga, Waikanae"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "wairau plains"
+  ],
+  "id": "PLC-000032",
+  "label": "Wairau plains",
+  "names": [
+   "Wairau plains"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "otaki"
+  ],
+  "id": "PLC-000033",
+  "label": "Ōtaki",
+  "names": [
+   "Ōtaki"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "otrar"
+  ],
+  "id": "PLC-000034",
+  "label": "Otrar",
+  "names": [
+   "Otrar"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "indus river"
+  ],
+  "id": "PLC-000035",
+  "label": "Indus River",
+  "names": [
+   "Indus River"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "zhongdu"
+  ],
+  "id": "PLC-000036",
+  "label": "Zhongdu",
+  "names": [
+   "Zhongdu"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "zhongxing"
+  ],
+  "id": "PLC-000037",
+  "label": "Zhongxing",
+  "names": [
+   "Zhongxing"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "kalka river"
+  ],
+  "id": "PLC-000038",
+  "label": "Kalka River",
+  "names": [
+   "Kalka River"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "kaifeng"
+  ],
+  "id": "PLC-000039",
+  "label": "Kaifeng",
+  "names": [
+   "Kaifeng"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "ryazan"
+  ],
+  "id": "PLC-000040",
+  "label": "Ryazan",
+  "names": [
+   "Ryazan"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "sit river"
+  ],
+  "id": "PLC-000041",
+  "label": "Sit River",
+  "names": [
+   "Sit River"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "mohi"
+  ],
+  "id": "PLC-000042",
+  "label": "Mohi",
+  "names": [
+   "Mohi"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "al mansurah"
+  ],
+  "id": "PLC-000043",
+  "label": "al-Mansurah",
+  "names": [
+   "al-Mansurah"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "ain jalut"
+  ],
+  "id": "PLC-000044",
+  "label": "Ain Jalut",
+  "names": [
+   "Ain Jalut"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "safed"
+  ],
+  "id": "PLC-000045",
+  "label": "Safed",
+  "names": [
+   "Safed"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "antioch"
+  ],
+  "id": "PLC-000046",
+  "label": "Antioch",
+  "names": [
+   "Antioch"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "krak des chevaliers"
+  ],
+  "id": "PLC-000047",
+  "label": "Krak des Chevaliers",
+  "names": [
+   "Krak des Chevaliers"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "chuong duong"
+  ],
+  "id": "PLC-000048",
+  "label": "Chương Dương",
+  "names": [
+   "Chương Dương"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "tay ket"
+  ],
+  "id": "PLC-000049",
+  "label": "Tây Kết",
+  "names": [
+   "Tây Kết"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "bach dang river"
+  ],
+  "id": "PLC-000050",
+  "label": "Bạch Đằng River",
+  "names": [
+   "Bạch Đằng River"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "aleppo"
+  ],
+  "id": "PLC-000051",
+  "label": "Aleppo",
+  "names": [
+   "Aleppo"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "damascus"
+  ],
+  "id": "PLC-000052",
+  "label": "Damascus",
+  "names": [
+   "Damascus"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "baghdad"
+  ],
+  "id": "PLC-000053",
+  "label": "Baghdad",
+  "names": [
+   "Baghdad"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "ankara"
+  ],
+  "id": "PLC-000054",
+  "label": "Ankara",
+  "names": [
+   "Ankara"
+  ],
+  "type": "place"
+ },
+ {
+  "folded": [
+   "kingdom of france"
+  ],
+  "id": "POL-000001",
+  "label": "Kingdom of France",
+  "names": [
+   "Kingdom of France"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "england"
+  ],
+  "id": "POL-000002",
+  "label": "England",
+  "names": [
+   "England"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "duchy of burgundy"
+  ],
+  "id": "POL-000003",
+  "label": "Duchy of Burgundy",
+  "names": [
+   "Duchy of Burgundy"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "carthage"
+  ],
+  "id": "POL-000004",
+  "label": "Carthage",
+  "names": [
+   "Carthage"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "rome"
+  ],
+  "id": "POL-000005",
+  "label": "Rome",
+  "names": [
+   "Rome"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "saguntum"
+  ],
+  "id": "POL-000006",
+  "label": "Saguntum",
+  "names": [
+   "Saguntum"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "seleucid kingdom"
+  ],
+  "id": "POL-000007",
+  "label": "Seleucid kingdom",
+  "names": [
+   "Seleucid kingdom"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "bithynia"
+  ],
+  "id": "POL-000008",
+  "label": "Bithynia",
+  "names": [
+   "Bithynia"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "rhodes"
+  ],
+  "id": "POL-000009",
+  "label": "Rhodes",
+  "names": [
+   "Rhodes"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "mali empire",
+   "manden"
+  ],
+  "id": "POL-000010",
+  "label": "Mali Empire",
+  "names": [
+   "Mali Empire",
+   "Manden"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "sosso",
+   "soso",
+   "susu"
+  ],
+  "id": "POL-000011",
+  "label": "Sosso",
+  "names": [
+   "Sosso",
+   "Soso",
+   "Susu"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "wu",
+   "state of wu"
+  ],
+  "id": "POL-000012",
+  "label": "Wu",
+  "names": [
+   "Wu",
+   "State of Wu"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "chu",
+   "state of chu"
+  ],
+  "id": "POL-000013",
+  "label": "Chu",
+  "names": [
+   "Chu",
+   "State of Chu"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "qi",
+   "state of qi"
+  ],
+  "id": "POL-000014",
+  "label": "Qi",
+  "names": [
+   "Qi",
+   "State of Qi"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngati toa rangatira",
+   "ngati toa"
+  ],
+  "id": "POL-000015",
+  "label": "Ngāti Toa Rangatira",
+  "names": [
+   "Ngāti Toa Rangatira",
+   "Ngāti Toa"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngati raukawa"
+  ],
+  "id": "POL-000016",
+  "label": "Ngāti Raukawa",
+  "names": [
+   "Ngāti Raukawa"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "waikato"
+  ],
+  "id": "POL-000017",
+  "label": "Waikato",
+  "names": [
+   "Waikato"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngati maniapoto"
+  ],
+  "id": "POL-000018",
+  "label": "Ngāti Maniapoto",
+  "names": [
+   "Ngāti Maniapoto"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "te ati awa"
+  ],
+  "id": "POL-000019",
+  "label": "Te Āti Awa",
+  "names": [
+   "Te Āti Awa"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngati tama"
+  ],
+  "id": "POL-000020",
+  "label": "Ngāti Tama",
+  "names": [
+   "Ngāti Tama"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "muaupoko"
+  ],
+  "id": "POL-000021",
+  "label": "Muaūpoko",
+  "names": [
+   "Muaūpoko"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "rangitane"
+  ],
+  "id": "POL-000022",
+  "label": "Rangitāne",
+  "names": [
+   "Rangitāne"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngai tahu"
+  ],
+  "id": "POL-000023",
+  "label": "Ngāi Tahu",
+  "names": [
+   "Ngāi Tahu"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngati kuia"
+  ],
+  "id": "POL-000024",
+  "label": "Ngāti Kuia",
+  "names": [
+   "Ngāti Kuia"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ngati apa"
+  ],
+  "id": "POL-000025",
+  "label": "Ngāti Apa",
+  "names": [
+   "Ngāti Apa"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "mongol empire",
+   "yeke mongol ulus",
+   "khamag mongol ulus"
+  ],
+  "id": "POL-000026",
+  "label": "Mongol Empire",
+  "names": [
+   "Mongol Empire",
+   "Yeke Mongol Ulus",
+   "Khamag Mongol Ulus"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ilkhanate",
+   "mongol ilkhanate"
+  ],
+  "id": "POL-000027",
+  "label": "Ilkhanate",
+  "names": [
+   "Ilkhanate",
+   "Mongol Ilkhanate"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "golden horde"
+  ],
+  "id": "POL-000028",
+  "label": "Golden Horde",
+  "names": [
+   "Golden Horde"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "yuan dynasty",
+   "yuan china"
+  ],
+  "id": "POL-000029",
+  "label": "Yuan dynasty",
+  "names": [
+   "Yuan dynasty",
+   "Yuan China"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "mamluk sultanate"
+  ],
+  "id": "POL-000030",
+  "label": "Mamluk Sultanate",
+  "names": [
+   "Mamluk Sultanate"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "khwarazmian empire",
+   "khwarazm"
+  ],
+  "id": "POL-000031",
+  "label": "Khwarazmian Empire",
+  "names": [
+   "Khwarazmian Empire",
+   "Khwarazm"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "ottoman empire"
+  ],
+  "id": "POL-000032",
+  "label": "Ottoman Empire",
+  "names": [
+   "Ottoman Empire"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "kereit"
+  ],
+  "id": "POL-000033",
+  "label": "Kereit",
+  "names": [
+   "Kereit"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "naiman"
+  ],
+  "id": "POL-000034",
+  "label": "Naiman",
+  "names": [
+   "Naiman"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "xi xia",
+   "tangut kingdom"
+  ],
+  "id": "POL-000035",
+  "label": "Xi Xia",
+  "names": [
+   "Xi Xia",
+   "Tangut kingdom"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "jin dynasty",
+   "jin"
+  ],
+  "id": "POL-000036",
+  "label": "Jin dynasty",
+  "names": [
+   "Jin dynasty",
+   "Jin"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "rus principalities",
+   "rus"
+  ],
+  "id": "POL-000037",
+  "label": "Rus' principalities",
+  "names": [
+   "Rus' principalities",
+   "Rus'"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "principality of ryazan"
+  ],
+  "id": "POL-000038",
+  "label": "Principality of Ryazan",
+  "names": [
+   "Principality of Ryazan"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "vladimir suzdal"
+  ],
+  "id": "POL-000039",
+  "label": "Vladimir-Suzdal",
+  "names": [
+   "Vladimir-Suzdal"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "kingdom of hungary",
+   "hungary"
+  ],
+  "id": "POL-000040",
+  "label": "Kingdom of Hungary",
+  "names": [
+   "Kingdom of Hungary",
+   "Hungary"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "poland"
+  ],
+  "id": "POL-000041",
+  "label": "Poland",
+  "names": [
+   "Poland"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "principality of antioch"
+  ],
+  "id": "POL-000042",
+  "label": "Principality of Antioch",
+  "names": [
+   "Principality of Antioch"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "kingdom of cilician armenia",
+   "cilician armenia"
+  ],
+  "id": "POL-000043",
+  "label": "Kingdom of Cilician Armenia",
+  "names": [
+   "Kingdom of Cilician Armenia",
+   "Cilician Armenia"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "knights templar"
+  ],
+  "id": "POL-000044",
+  "label": "Knights Templar",
+  "names": [
+   "Knights Templar"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "knights hospitaller"
+  ],
+  "id": "POL-000045",
+  "label": "Knights Hospitaller",
+  "names": [
+   "Knights Hospitaller"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "dai viet"
+  ],
+  "id": "POL-000046",
+  "label": "Đại Việt",
+  "names": [
+   "Đại Việt"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "delhi sultanate"
+  ],
+  "id": "POL-000047",
+  "label": "Delhi Sultanate",
+  "names": [
+   "Delhi Sultanate"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "jalayirids"
+  ],
+  "id": "POL-000048",
+  "label": "Jalayirids",
+  "names": [
+   "Jalayirids"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "timurid realm",
+   "timurid dynasty"
+  ],
+  "id": "POL-000049",
+  "label": "Timurid realm",
+  "names": [
+   "Timurid realm",
+   "Timurid dynasty"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "mongolia"
+  ],
+  "id": "POL-000050",
+  "label": "Mongolia",
+  "names": [
+   "Mongolia"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "vietnam"
+  ],
+  "id": "POL-000051",
+  "label": "Vietnam",
+  "names": [
+   "Vietnam"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "uzbekistan"
+  ],
+  "id": "POL-000052",
+  "label": "Uzbekistan",
+  "names": [
+   "Uzbekistan"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "syria"
+  ],
+  "id": "POL-000053",
+  "label": "Syria",
+  "names": [
+   "Syria"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "iran",
+   "persia"
+  ],
+  "id": "POL-000054",
+  "label": "Iran",
+  "names": [
+   "Iran",
+   "Persia"
+  ],
+  "type": "polity"
+ },
+ {
+  "folded": [
+   "condemnation trial record rouen 1431"
+  ],
+  "id": "SRC-000001",
+  "label": "Condemnation trial record (Rouen), 1431",
+  "names": [
+   "Condemnation trial record (Rouen), 1431"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "nullification rehabilitation trial dossier 1452 1456"
+  ],
+  "id": "SRC-000002",
+  "label": "Nullification (rehabilitation) trial dossier, 1452–1456",
+  "names": [
+   "Nullification (rehabilitation) trial dossier, 1452–1456"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "joan of arc s dictated letters"
+  ],
+  "id": "SRC-000003",
+  "label": "Joan of Arc's dictated letters",
+  "names": [
+   "Joan of Arc's dictated letters"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "burgundian and french chronicles e g monstrelet perceval de cagny"
+  ],
+  "id": "SRC-000004",
+  "label": "Burgundian and French chronicles (e.g. Monstrelet, Perceval de Cagny)",
+  "names": [
+   "Burgundian and French chronicles (e.g. Monstrelet, Perceval de Cagny)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "deborah mcgrady the trials of joan of arc",
+   "the trials of joan of arc"
+  ],
+  "id": "SRC-000005",
+  "label": "Deborah McGrady, \"The Trials of Joan of Arc\"",
+  "names": [
+   "Deborah McGrady, \"The Trials of Joan of Arc\"",
+   "The Trials of Joan of Arc"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "allen williamson biography of joan of arc",
+   "biography of joan of arc"
+  ],
+  "id": "SRC-000006",
+  "label": "Allen Williamson, \"Biography of Joan of Arc\"",
+  "names": [
+   "Allen Williamson, \"Biography of Joan of Arc\"",
+   "Biography of Joan of Arc"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "saint joan of arc encyclopaedia britannica",
+   "saint joan of arc"
+  ],
+  "id": "SRC-000007",
+  "label": "\"Saint Joan of Arc\", Encyclopaedia Britannica",
+  "names": [
+   "\"Saint Joan of Arc\", Encyclopaedia Britannica",
+   "Saint Joan of Arc"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "kelly devries joan of arc a military leader",
+   "joan of arc a military leader"
+  ],
+  "id": "SRC-000008",
+  "label": "Kelly DeVries, Joan of Arc: A Military Leader",
+  "names": [
+   "Kelly DeVries, Joan of Arc: A Military Leader",
+   "Joan of Arc: A Military Leader"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "regine pernoud joan of arc by herself and her witnesses",
+   "joan of arc by herself and her witnesses"
+  ],
+  "id": "SRC-000009",
+  "label": "Régine Pernoud, Joan of Arc by Herself and Her Witnesses",
+  "names": [
+   "Régine Pernoud, Joan of Arc by Herself and Her Witnesses",
+   "Joan of Arc by Herself and Her Witnesses"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "polybius histories",
+   "histories"
+  ],
+  "id": "SRC-000010",
+  "label": "Polybius, Histories",
+  "names": [
+   "Polybius, Histories",
+   "Histories"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "livy history of rome books 21 30",
+   "history of rome books 21 30"
+  ],
+  "id": "SRC-000011",
+  "label": "Livy, History of Rome, books 21–30",
+  "names": [
+   "Livy, History of Rome, books 21–30",
+   "History of Rome, books 21–30"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "cornelius nepos life of hannibal",
+   "life of hannibal"
+  ],
+  "id": "SRC-000012",
+  "label": "Cornelius Nepos, Life of Hannibal",
+  "names": [
+   "Cornelius Nepos, Life of Hannibal",
+   "Life of Hannibal"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "appian cassius dio and others"
+  ],
+  "id": "SRC-000013",
+  "label": "Appian, Cassius Dio and others",
+  "names": [
+   "Appian, Cassius Dio and others"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "silenus sosylus and hannibal s own writings"
+  ],
+  "id": "SRC-000014",
+  "label": "Silenus, Sosylus, and Hannibal's own writings",
+  "names": [
+   "Silenus, Sosylus, and Hannibal's own writings"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "polybius histories 3 107 118 trans e s shuckburgh 1889",
+   "histories 3 107 118"
+  ],
+  "id": "SRC-000015",
+  "label": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)",
+  "names": [
+   "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)",
+   "Histories 3.107–118"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "nepos life of hannibal trans j c rolfe 1929",
+   "life of hannibal"
+  ],
+  "id": "SRC-000016",
+  "label": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)",
+  "names": [
+   "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)",
+   "Life of Hannibal"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "bret mulligan the second punic war dickinson college commentaries",
+   "the second punic war"
+  ],
+  "id": "SRC-000017",
+  "label": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries",
+  "names": [
+   "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries",
+   "The Second Punic War"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "mande oral tradition jeli performances"
+  ],
+  "id": "SRC-000018",
+  "label": "Mande oral tradition (jeli performances)",
+  "names": [
+   "Mande oral tradition (jeli performances)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "d t niane sundiata an epic of old mali",
+   "sundiata an epic of old mali"
+  ],
+  "id": "SRC-000019",
+  "label": "D. T. Niane, Sundiata: An Epic of Old Mali",
+  "names": [
+   "D. T. Niane, Sundiata: An Epic of Old Mali",
+   "Sundiata: An Epic of Old Mali"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn khaldun kitab al ibar",
+   "kitab al ibar"
+  ],
+  "id": "SRC-000020",
+  "label": "Ibn Khaldun, Kitab al-'Ibar",
+  "names": [
+   "Ibn Khaldun, Kitab al-'Ibar",
+   "Kitab al-'Ibar"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn battuta travel account"
+  ],
+  "id": "SRC-000021",
+  "label": "Ibn Battuta, travel account",
+  "names": [
+   "Ibn Battuta, travel account"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "n levtzion and j f p hopkins eds corpus of early arabic sources for west african history",
+   "corpus of early arabic sources for west african history"
+  ],
+  "id": "SRC-000022",
+  "label": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+  "names": [
+   "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+   "Corpus of Early Arabic Sources for West African History"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "metropolitan museum of art the empires of the western sudan mali empire",
+   "the empires of the western sudan mali empire"
+  ],
+  "id": "SRC-000023",
+  "label": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\"",
+  "names": [
+   "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\"",
+   "The Empires of the Western Sudan: Mali Empire"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "unesco manden charter proclaimed in kurukan fuga",
+   "manden charter proclaimed in kurukan fuga"
+  ],
+  "id": "SRC-000024",
+  "label": "UNESCO, \"Manden Charter, proclaimed in Kurukan Fuga\"",
+  "names": [
+   "UNESCO, \"Manden Charter, proclaimed in Kurukan Fuga\"",
+   "Manden Charter, proclaimed in Kurukan Fuga"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "stephan buhnen in quest of susu",
+   "in quest of susu"
+  ],
+  "id": "SRC-000025",
+  "label": "Stephan Bühnen, \"In Quest of Susu\"",
+  "names": [
+   "Stephan Bühnen, \"In Quest of Susu\"",
+   "In Quest of Susu"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "sunzi bingfa the art of war received 13 chapter text"
+  ],
+  "id": "SRC-000026",
+  "label": "Sunzi bingfa (The Art of War), received 13-chapter text",
+  "names": [
+   "Sunzi bingfa (The Art of War), received 13-chapter text"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "yinqueshan bamboo slips linyi"
+  ],
+  "id": "SRC-000027",
+  "label": "Yinqueshan bamboo slips, Linyi",
+  "names": [
+   "Yinqueshan bamboo slips, Linyi"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "sima qian shiji ch 65",
+   "shiji ch 65"
+  ],
+  "id": "SRC-000028",
+  "label": "Sima Qian, Shiji, ch. 65",
+  "names": [
+   "Sima Qian, Shiji, ch. 65",
+   "Shiji, ch. 65"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "zuo zhuan"
+  ],
+  "id": "SRC-000029",
+  "label": "Zuo zhuan",
+  "names": [
+   "Zuo zhuan"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "han shu bibliographic treatise",
+   "han shu"
+  ],
+  "id": "SRC-000030",
+  "label": "Han shu bibliographic treatise",
+  "names": [
+   "Han shu bibliographic treatise",
+   "Han shu"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "lionel giles sun tzu on the art of war introduction",
+   "sun tzu on the art of war"
+  ],
+  "id": "SRC-000031",
+  "label": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+  "names": [
+   "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+   "Sun Tzŭ on the Art of War"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "shandong museum bamboo slips chronicle china s ancient military philosophy",
+   "bamboo slips chronicle china s ancient military philosophy"
+  ],
+  "id": "SRC-000032",
+  "label": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\"",
+  "names": [
+   "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\"",
+   "Bamboo slips chronicle China's ancient military philosophy"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ngati toa rangatira oral history and whakapapa"
+  ],
+  "id": "SRC-000033",
+  "label": "Ngāti Toa Rangatira oral history and whakapapa",
+  "names": [
+   "Ngāti Toa Rangatira oral history and whakapapa"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "haka ka mate attribution act 2014 schedule ngati toa statement",
+   "haka ka mate attribution act 2014"
+  ],
+  "id": "SRC-000034",
+  "label": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)",
+  "names": [
+   "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)",
+   "Haka Ka Mate Attribution Act 2014"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "tamihana te rauparaha account of his father"
+  ],
+  "id": "SRC-000035",
+  "label": "Tāmihana Te Rauparaha, account of his father",
+  "names": [
+   "Tāmihana Te Rauparaha, account of his father"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "steven oliver te rauparaha dictionary of new zealand biography",
+   "te rauparaha"
+  ],
+  "id": "SRC-000036",
+  "label": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography",
+  "names": [
+   "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography",
+   "Te Rauparaha"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "a h mclintock ed an encyclopaedia of new zealand te rauparaha",
+   "an encyclopaedia of new zealand"
+  ],
+  "id": "SRC-000037",
+  "label": "A. H. McLintock (ed.), An Encyclopaedia of New Zealand, \"Te Rauparaha\"",
+  "names": [
+   "A. H. McLintock (ed.), An Encyclopaedia of New Zealand, \"Te Rauparaha\"",
+   "An Encyclopaedia of New Zealand"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "g h scholefield dictionary of new zealand biography 1940",
+   "dictionary of new zealand biography"
+  ],
+  "id": "SRC-000038",
+  "label": "G. H. Scholefield, Dictionary of New Zealand Biography (1940)",
+  "names": [
+   "G. H. Scholefield, Dictionary of New Zealand Biography (1940)",
+   "Dictionary of New Zealand Biography"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "oral histories of ngai tahu muaupoko rangitane ngati apa ngati kuia and others"
+  ],
+  "id": "SRC-000039",
+  "label": "Oral histories of Ngāi Tahu, Muaūpoko, Rangitāne, Ngāti Apa, Ngāti Kuia and others",
+  "names": [
+   "Oral histories of Ngāi Tahu, Muaūpoko, Rangitāne, Ngāti Apa, Ngāti Kuia and others"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "british library catalogue entry for a surviving copy of the 1456 nullification proceedings"
+  ],
+  "id": "SRC-000040",
+  "label": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings",
+  "names": [
+   "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ye shi argument against sun wu s historicity"
+  ],
+  "id": "SRC-000041",
+  "label": "Ye Shi, argument against Sun Wu's historicity",
+  "names": [
+   "Ye Shi, argument against Sun Wu's historicity"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "liu xiang claim about sun wu s victory over chu"
+  ],
+  "id": "SRC-000042",
+  "label": "Liu Xiang, claim about Sun Wu's victory over Chu",
+  "names": [
+   "Liu Xiang, claim about Sun Wu's victory over Chu"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "metropolitan museum of art the empires of the western sudan",
+   "the empires of the western sudan"
+  ],
+  "id": "SRC-000043",
+  "label": "Metropolitan Museum of Art, \"The Empires of the Western Sudan\"",
+  "names": [
+   "Metropolitan Museum of Art, \"The Empires of the Western Sudan\"",
+   "The Empires of the Western Sudan"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "jules michelet biography of joan of arc 1853"
+  ],
+  "id": "SRC-000044",
+  "label": "Jules Michelet, biography of Joan of Arc (1853)",
+  "names": [
+   "Jules Michelet, biography of Joan of Arc (1853)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "william shakespeare henry vi part 1",
+   "henry vi part 1"
+  ],
+  "id": "SRC-000045",
+  "label": "William Shakespeare, Henry VI, Part 1",
+  "names": [
+   "William Shakespeare, Henry VI, Part 1",
+   "Henry VI, Part 1"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "the secret history of the mongols"
+  ],
+  "id": "SRC-000046",
+  "label": "The Secret History of the Mongols",
+  "names": [
+   "The Secret History of the Mongols"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ata malik juvaini history of the world conqueror",
+   "history of the world conqueror"
+  ],
+  "id": "SRC-000047",
+  "label": "Ata-Malik Juvaini, History of the World Conqueror",
+  "names": [
+   "Ata-Malik Juvaini, History of the World Conqueror",
+   "History of the World Conqueror"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "rashid al din compendium of chronicles",
+   "compendium of chronicles"
+  ],
+  "id": "SRC-000048",
+  "label": "Rashid al-Din, Compendium of Chronicles",
+  "names": [
+   "Rashid al-Din, Compendium of Chronicles",
+   "Compendium of Chronicles"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "yuan shi history of the yuan and other chinese records",
+   "yuan shi"
+  ],
+  "id": "SRC-000049",
+  "label": "Yuan shi (History of the Yuan) and other Chinese records",
+  "names": [
+   "Yuan shi (History of the Yuan) and other Chinese records",
+   "Yuan shi"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "minhaj al siraj juzjani tabaqat i nasiri",
+   "tabaqat i nasiri"
+  ],
+  "id": "SRC-000050",
+  "label": "Minhaj al-Siraj Juzjani, Tabaqat-i Nasiri",
+  "names": [
+   "Minhaj al-Siraj Juzjani, Tabaqat-i Nasiri",
+   "Tabaqat-i Nasiri"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn al athir the complete history",
+   "the complete history"
+  ],
+  "id": "SRC-000051",
+  "label": "Ibn al-Athir, The Complete History",
+  "names": [
+   "Ibn al-Athir, The Complete History",
+   "The Complete History"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "european envoys carpini rubruck and marco polo"
+  ],
+  "id": "SRC-000052",
+  "label": "European envoys (Carpini, Rubruck) and Marco Polo",
+  "names": [
+   "European envoys (Carpini, Rubruck) and Marco Polo"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "igor de rachewiltz trans the secret history of the mongols shorter version ed j c street 2015",
+   "the secret history of the mongols"
+  ],
+  "id": "SRC-000053",
+  "label": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+  "names": [
+   "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+   "The Secret History of the Mongols"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "timothy may the mongol empire in world history",
+   "the mongol empire in world history"
+  ],
+  "id": "SRC-000054",
+  "label": "Timothy May, \"The Mongol Empire in World History\"",
+  "names": [
+   "Timothy May, \"The Mongol Empire in World History\"",
+   "The Mongol Empire in World History"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "t zerjal et al the genetic legacy of the mongols",
+   "the genetic legacy of the mongols"
+  ],
+  "id": "SRC-000055",
+  "label": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+  "names": [
+   "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+   "The Genetic Legacy of the Mongols"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "columbia university asia for educators the mongols in world history",
+   "the mongols in world history"
+  ],
+  "id": "SRC-000056",
+  "label": "Columbia University, Asia for Educators: The Mongols in World History",
+  "names": [
+   "Columbia University, Asia for Educators: The Mongols in World History",
+   "The Mongols in World History"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "hillary mayell genghis khan a prolific lover dna data implies",
+   "genghis khan a prolific lover dna data implies"
+  ],
+  "id": "SRC-000057",
+  "label": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+  "names": [
+   "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+   "Genghis Khan a Prolific Lover, DNA Data Implies"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "yuan shi chapters 121 and 122 and su tianjue lives of eminent ministers of the yuan",
+   "yuan shi ch 121 122 lives of eminent ministers of the yuan"
+  ],
+  "id": "SRC-000058",
+  "label": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+  "names": [
+   "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+   "Yuan shi ch. 121–122; Lives of Eminent Ministers of the Yuan"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "rus chronicles novgorod first galician volhynian laurentian"
+  ],
+  "id": "SRC-000059",
+  "label": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian",
+  "names": [
+   "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "hungarian and latin accounts master roger thomas of split c de bridia"
+  ],
+  "id": "SRC-000060",
+  "label": "Hungarian and Latin accounts: Master Roger, Thomas of Split, C. de Bridia",
+  "names": [
+   "Hungarian and Latin accounts: Master Roger, Thomas of Split, C. de Bridia"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "stephen pow ye lie ban ruler of the russian tribe",
+   "ye lie ban ruler of the russian tribe"
+  ],
+  "id": "SRC-000061",
+  "label": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+  "names": [
+   "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+   "'Ye-lie-ban, Ruler of the Russian Tribe'"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "stephen pow the last campaign and death of jebe noyan",
+   "the last campaign and death of jebe noyan"
+  ],
+  "id": "SRC-000062",
+  "label": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+  "names": [
+   "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+   "The Last Campaign and Death of Jebe Noyan"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "stephen pow and jingjing liao subutai sorting fact from fiction",
+   "subutai sorting fact from fiction"
+  ],
+  "id": "SRC-000063",
+  "label": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+  "names": [
+   "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+   "Subutai: Sorting Fact from Fiction"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "paul d buell subotei ba atur in in the service of the khan",
+   "subotei ba atur"
+  ],
+  "id": "SRC-000064",
+  "label": "Paul D. Buell, \"Sübötei Ba'atur\", in In the Service of the Khan",
+  "names": [
+   "Paul D. Buell, \"Sübötei Ba'atur\", in In the Service of the Khan",
+   "Sübötei Ba'atur"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "an ai generated online encyclopedia entry on subutai"
+  ],
+  "id": "SRC-000065",
+  "label": "An AI-generated online \"encyclopedia\" entry on Subutai",
+  "names": [
+   "An AI-generated online \"encyclopedia\" entry on Subutai"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn abd al zahir biography of al zahir baybars"
+  ],
+  "id": "SRC-000066",
+  "label": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+  "names": [
+   "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn shaddad life of al zahir baybars"
+  ],
+  "id": "SRC-000067",
+  "label": "Ibn Shaddad, life of al-Zahir Baybars",
+  "names": [
+   "Ibn Shaddad, life of al-Zahir Baybars"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "later mamluk historians e g al maqrizi"
+  ],
+  "id": "SRC-000068",
+  "label": "Later Mamluk historians (e.g. al-Maqrizi)",
+  "names": [
+   "Later Mamluk historians (e.g. al-Maqrizi)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "crusader and armenian sources"
+  ],
+  "id": "SRC-000069",
+  "label": "Crusader and Armenian sources",
+  "names": [
+   "Crusader and Armenian sources"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "sirat baybars"
+  ],
+  "id": "SRC-000070",
+  "label": "Sirat Baybars",
+  "names": [
+   "Sirat Baybars"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "an ai generated encyclopedia page on ain jalut"
+  ],
+  "id": "SRC-000071",
+  "label": "An AI-generated encyclopedia page on Ain Jalut",
+  "names": [
+   "An AI-generated encyclopedia page on Ain Jalut"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "john masson smith jr review of amitai preiss mongols and mamluks",
+   "review of mongols and mamluks"
+  ],
+  "id": "SRC-000072",
+  "label": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+  "names": [
+   "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+   "Review of Mongols and Mamluks"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "baybars i encyclopaedia britannica",
+   "baybars i"
+  ],
+  "id": "SRC-000073",
+  "label": "\"Baybars I\", Encyclopaedia Britannica",
+  "names": [
+   "\"Baybars I\", Encyclopaedia Britannica",
+   "Baybars I"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "kazakh government page on baybars"
+  ],
+  "id": "SRC-000074",
+  "label": "Kazakh government page on Baybars",
+  "names": [
+   "Kazakh government page on Baybars"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "reuven amitai preiss mongols and mamluks the mamluk ilkhanid war 1260 1281",
+   "mongols and mamluks the mamluk ilkhanid war 1260 1281"
+  ],
+  "id": "SRC-000075",
+  "label": "Reuven Amitai-Preiss, Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+  "names": [
+   "Reuven Amitai-Preiss, Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+   "Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ngo si lien et al dai viet su ky toan thu complete annals of dai viet",
+   "dai viet su ky toan thu"
+  ],
+  "id": "SRC-000076",
+  "label": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+  "names": [
+   "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+   "Đại Việt sử ký toàn thư"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "le tac an nam chi luoc",
+   "an nam chi luoc"
+  ],
+  "id": "SRC-000077",
+  "label": "Lê Tắc, An Nam chí lược",
+  "names": [
+   "Lê Tắc, An Nam chí lược",
+   "An Nam chí lược"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "texts attributed to tran hung dao"
+  ],
+  "id": "SRC-000078",
+  "label": "Texts attributed to Trần Hưng Đạo",
+  "names": [
+   "Texts attributed to Trần Hưng Đạo"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "temple and spirit writing traditions of duc thanh tran"
+  ],
+  "id": "SRC-000079",
+  "label": "Temple and spirit-writing traditions of Đức Thánh Trần",
+  "names": [
+   "Temple and spirit-writing traditions of Đức Thánh Trần"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "liam c kelley from moral exemplar to national hero",
+   "from moral exemplar to national hero"
+  ],
+  "id": "SRC-000080",
+  "label": "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+  "names": [
+   "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+   "From Moral Exemplar to National Hero"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "serhii kozlovskyi mongol military campaign against the kingdom of dai viet 1257 1258",
+   "mongol military campaign against the kingdom of dai viet 1257 1258"
+  ],
+  "id": "SRC-000081",
+  "label": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+  "names": [
+   "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+   "Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "christopher p atwood encyclopedia of mongolia and the mongol empire",
+   "encyclopedia of mongolia and the mongol empire"
+  ],
+  "id": "SRC-000082",
+  "label": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+  "names": [
+   "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+   "Encyclopedia of Mongolia and the Mongol Empire"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "keith w taylor a history of the vietnamese",
+   "a history of the vietnamese"
+  ],
+  "id": "SRC-000083",
+  "label": "Keith W. Taylor, A History of the Vietnamese",
+  "names": [
+   "Keith W. Taylor, A History of the Vietnamese",
+   "A History of the Vietnamese"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "mongol invasions of vietnam and java warhistory org",
+   "mongol invasions of vietnam and java"
+  ],
+  "id": "SRC-000084",
+  "label": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+  "names": [
+   "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+   "Mongol Invasions of Vietnam and Java"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "nizam al din shami zafarnama",
+   "zafarnama"
+  ],
+  "id": "SRC-000085",
+  "label": "Nizam al-Din Shami, Zafarnama",
+  "names": [
+   "Nizam al-Din Shami, Zafarnama",
+   "Zafarnama"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ghiyath al din ali yazdi diary of the india campaign"
+  ],
+  "id": "SRC-000086",
+  "label": "Ghiyath al-Din Ali Yazdi, diary of the India campaign",
+  "names": [
+   "Ghiyath al-Din Ali Yazdi, diary of the India campaign"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "sharaf al din ali yazdi zafarnama",
+   "zafarnama"
+  ],
+  "id": "SRC-000087",
+  "label": "Sharaf al-Din Ali Yazdi, Zafarnama",
+  "names": [
+   "Sharaf al-Din Ali Yazdi, Zafarnama",
+   "Zafarnama"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn arabshah life of timur"
+  ],
+  "id": "SRC-000088",
+  "label": "Ibn Arabshah, life of Timur",
+  "names": [
+   "Ibn Arabshah, life of Timur"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "ibn khaldun account of his meeting with timur"
+  ],
+  "id": "SRC-000089",
+  "label": "Ibn Khaldun, account of his meeting with Timur",
+  "names": [
+   "Ibn Khaldun, account of his meeting with Timur"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "clavijo embassy to tamerlane",
+   "embassy to tamerlane"
+  ],
+  "id": "SRC-000090",
+  "label": "Clavijo, Embassy to Tamerlane",
+  "names": [
+   "Clavijo, Embassy to Tamerlane",
+   "Embassy to Tamerlane"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "jean of sultaniyya memoir"
+  ],
+  "id": "SRC-000091",
+  "label": "Jean of Sultaniyya, memoir",
+  "names": [
+   "Jean of Sultaniyya, memoir"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "beltramo de mignanelli"
+  ],
+  "id": "SRC-000092",
+  "label": "Beltramo de Mignanelli",
+  "names": [
+   "Beltramo de Mignanelli"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "timur s letters to other rulers"
+  ],
+  "id": "SRC-000093",
+  "label": "Timur's letters to other rulers",
+  "names": [
+   "Timur's letters to other rulers"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "soviet exhumation report 1941"
+  ],
+  "id": "SRC-000094",
+  "label": "Soviet exhumation report (1941)",
+  "names": [
+   "Soviet exhumation report (1941)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "beatrice forbes manz tamerlane and the symbolism of sovereignty",
+   "tamerlane and the symbolism of sovereignty"
+  ],
+  "id": "SRC-000095",
+  "label": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+  "names": [
+   "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+   "Tamerlane and the Symbolism of Sovereignty"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "timur encyclopaedia britannica",
+   "timur"
+  ],
+  "id": "SRC-000096",
+  "label": "\"Timur\", Encyclopaedia Britannica",
+  "names": [
+   "\"Timur\", Encyclopaedia Britannica",
+   "Timur"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "beatrice forbes manz the rise and rule of tamerlane",
+   "the rise and rule of tamerlane"
+  ],
+  "id": "SRC-000097",
+  "label": "Beatrice Forbes Manz, The Rise and Rule of Tamerlane",
+  "names": [
+   "Beatrice Forbes Manz, The Rise and Rule of Tamerlane",
+   "The Rise and Rule of Tamerlane"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "beatrice forbes manz after the mongols 2021 and jras article 2015"
+  ],
+  "id": "SRC-000098",
+  "label": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)",
+  "names": [
+   "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "an ai generated encyclopedia page on timur"
+  ],
+  "id": "SRC-000099",
+  "label": "An AI-generated encyclopedia page on Timur",
+  "names": [
+   "An AI-generated encyclopedia page on Timur"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "timur lang larousse",
+   "timur lang"
+  ],
+  "id": "SRC-000100",
+  "label": "\"Timur Lang\", Larousse",
+  "names": [
+   "\"Timur Lang\", Larousse",
+   "Timur Lang"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "timur world history encyclopedia",
+   "timur"
+  ],
+  "id": "SRC-000101",
+  "label": "\"Timur\", World History Encyclopedia",
+  "names": [
+   "\"Timur\", World History Encyclopedia",
+   "Timur"
+  ],
+  "type": "source"
+ },
+ {
+  "folded": [
+   "hundred years war"
+  ],
+  "id": "WAR-000001",
+  "label": "Hundred Years' War",
+  "names": [
+   "Hundred Years' War"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "loire campaign 1429"
+  ],
+  "id": "WAR-000002",
+  "label": "Loire campaign (1429)",
+  "names": [
+   "Loire campaign (1429)"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "first punic war"
+  ],
+  "id": "WAR-000003",
+  "label": "First Punic War",
+  "names": [
+   "First Punic War"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "second punic war"
+  ],
+  "id": "WAR-000004",
+  "label": "Second Punic War",
+  "names": [
+   "Second Punic War"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "mande revolt against sosso rule"
+  ],
+  "id": "WAR-000005",
+  "label": "Mande revolt against Sosso rule",
+  "names": [
+   "Mande revolt against Sosso rule"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "western campaigns under tiramakhan traore"
+  ],
+  "id": "WAR-000006",
+  "label": "Western campaigns under Tiramakhan Traoré",
+  "names": [
+   "Western campaigns under Tiramakhan Traoré"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "wars between wu and chu"
+  ],
+  "id": "WAR-000007",
+  "label": "Wars between Wu and Chu",
+  "names": [
+   "Wars between Wu and Chu"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "wu campaign against chu shu 512 bce"
+  ],
+  "id": "WAR-000008",
+  "label": "Wu campaign against Chu (Shu), 512 BCE",
+  "names": [
+   "Wu campaign against Chu (Shu), 512 BCE"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "musket wars"
+  ],
+  "id": "WAR-000009",
+  "label": "Musket Wars",
+  "names": [
+   "Musket Wars"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "ngati toa waikato wars at kawhia"
+  ],
+  "id": "WAR-000010",
+  "label": "Ngāti Toa–Waikato wars at Kāwhia",
+  "names": [
+   "Ngāti Toa–Waikato wars at Kāwhia"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "te heke tahutahuahi"
+  ],
+  "id": "WAR-000011",
+  "label": "Te Heke Tahutahuahi",
+  "names": [
+   "Te Heke Tahutahuahi"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "te heke tataramoa"
+  ],
+  "id": "WAR-000012",
+  "label": "Te Heke Tātaramoa",
+  "names": [
+   "Te Heke Tātaramoa"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "te rauparaha s south island campaigns"
+  ],
+  "id": "WAR-000013",
+  "label": "Te Rauparaha's South Island campaigns",
+  "names": [
+   "Te Rauparaha's South Island campaigns"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "march on rome 211 bce"
+  ],
+  "id": "WAR-000014",
+  "label": "March on Rome (211 BCE)",
+  "names": [
+   "March on Rome (211 BCE)"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "subjugation of xi xia"
+  ],
+  "id": "WAR-000015",
+  "label": "Subjugation of Xi Xia",
+  "names": [
+   "Subjugation of Xi Xia"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "war against the jin"
+  ],
+  "id": "WAR-000016",
+  "label": "War against the Jin",
+  "names": [
+   "War against the Jin"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "invasion of khwarazm"
+  ],
+  "id": "WAR-000017",
+  "label": "Invasion of Khwarazm",
+  "names": [
+   "Invasion of Khwarazm"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "western raid of jebe and subutai"
+  ],
+  "id": "WAR-000018",
+  "label": "Western raid of Jebe and Subutai",
+  "names": [
+   "Western raid of Jebe and Subutai"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "great western campaign"
+  ],
+  "id": "WAR-000019",
+  "label": "Great western campaign",
+  "names": [
+   "Great western campaign"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "campaigns against the crusader states"
+  ],
+  "id": "WAR-000020",
+  "label": "Campaigns against the crusader states",
+  "names": [
+   "Campaigns against the crusader states"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "first mongol invasion of dai viet"
+  ],
+  "id": "WAR-000021",
+  "label": "First Mongol invasion of Đại Việt",
+  "names": [
+   "First Mongol invasion of Đại Việt"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "second mongol yuan invasion of dai viet"
+  ],
+  "id": "WAR-000022",
+  "label": "Second Mongol-Yuan invasion of Đại Việt",
+  "names": [
+   "Second Mongol-Yuan invasion of Đại Việt"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "third mongol yuan invasion of dai viet"
+  ],
+  "id": "WAR-000023",
+  "label": "Third Mongol-Yuan invasion of Đại Việt",
+  "names": [
+   "Third Mongol-Yuan invasion of Đại Việt"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "conquest of persia"
+  ],
+  "id": "WAR-000024",
+  "label": "Conquest of Persia",
+  "names": [
+   "Conquest of Persia"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "wars against tokhtamysh"
+  ],
+  "id": "WAR-000025",
+  "label": "Wars against Tokhtamysh",
+  "names": [
+   "Wars against Tokhtamysh"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "invasion of india"
+  ],
+  "id": "WAR-000026",
+  "label": "Invasion of India",
+  "names": [
+   "Invasion of India"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "planned invasion of china"
+  ],
+  "id": "WAR-000027",
+  "label": "Planned invasion of China",
+  "names": [
+   "Planned invasion of China"
+  ],
+  "type": "war"
+ },
+ {
+  "folded": [
+   "the art of war",
+   "sunzi bingfa",
+   "sunzi"
+  ],
+  "id": "WRK-000001",
+  "label": "The Art of War",
+  "names": [
+   "The Art of War",
+   "Sunzi bingfa",
+   "Sunzi"
+  ],
+  "type": "work"
+ }
+]

@@ -1,0 +1,82 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000030",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Han shu bibliographic treatise"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Giles)",
+      "field": "text",
+      "id": "CLM-000065",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Han bibliography lists Sunzi in 82 chapters with diagrams",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "1st c. CE",
+ "derived_by": [
+  {
+   "id": "SRC-000031",
+   "name": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000030",
+ "opened": false,
+ "primary_name": "Han shu bibliographic treatise",
+ "reliability_notes": "Bibliography (pilot doc type). Read via Giles.",
+ "reliability_tier": null,
+ "slug": "han-shu-bibliographic-treatise",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Han-dynasty bibliography that lists a Sunzi in 82 chapters with diagrams.",
+ "title": "Han shu",
+ "type": "source",
+ "updated": "2026-11-13"
+}

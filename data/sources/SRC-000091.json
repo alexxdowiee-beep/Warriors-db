@@ -1,0 +1,31 @@
+{
+ "authors": [
+  "Jean of Sultaniyya"
+ ],
+ "bias_notes": "Seeking his alliance for Europe.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1403",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000091",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Jean of Sultaniyya, memoir",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Jean of Sultaniyya, memoir",
+ "reliability_notes": "Read via Manz.",
+ "reliability_tier": null,
+ "slug": "jean-of-sultaniyya-memoir",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Memoir by a Dominican envoy seeking Timur's alliance for Europe.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

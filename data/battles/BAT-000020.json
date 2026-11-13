@@ -1,0 +1,161 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "D",
+   "claim_ids": [
+    "CLM-000060"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000029",
+   "role": "Adviser or commander, per Shiji only"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "claim_ids": [
+   "CLM-000061"
+  ],
+  "display": "506 BCE",
+  "earliest": -505,
+  "latest": -505,
+  "precision": "year"
+ },
+ "id": "BAT-000020",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Boju and the capture of Ying",
+   "preferred": true
+  }
+ ],
+ "outcome": "Decisive victory (for Wu)",
+ "people": [
+  {
+   "certainty": "D",
+   "claim_ids": [
+    "CLM-000060"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000029",
+   "role": "Adviser or commander, per Shiji only"
+  }
+ ],
+ "place": {
+  "id": "PLC-000022",
+  "name": "Boju",
+  "type": "place"
+ },
+ "place_id": "PLC-000022",
+ "primary_name": "Boju and the capture of Ying",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000029",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Zuo zhuan"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Contradicted by the Zuo zhuan's silence",
+   "field": "career",
+   "id": "CLM-000060",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "He commanded at Boju, 506 BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Wu",
+   "polities": [
+    {
+     "id": "POL-000012",
+     "name": "Wu",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000012"
+   ],
+   "result": "Decisive victory",
+   "strength": "unknown"
+  },
+  {
+   "commanders": [],
+   "label": "Chu",
+   "polities": [
+    {
+     "id": "POL-000013",
+     "name": "Chu",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000013"
+   ],
+   "strength": "unknown"
+  }
+ ],
+ "slug": "boju-and-capture-of-ying",
+ "status": "draft",
+ "summary": "Wu beat Chu in five battles and took the Chu capital, Ying.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000007",
+  "name": "Wars between Wu and Chu",
+  "type": "war"
+ },
+ "war_id": "WAR-000007"
+}

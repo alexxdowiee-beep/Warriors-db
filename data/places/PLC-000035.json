@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000037",
+   "name": "Battle of the Indus",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000035",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Indus River",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "river",
+ "primary_name": "Indus River",
+ "slug": "indus-river",
+ "status": "draft",
+ "summary": "River near which Chinggis Khan defeated Jalal al-Din in 1221.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

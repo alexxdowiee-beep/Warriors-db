@@ -1,0 +1,145 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000132"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000064",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1221",
+  "earliest": 1221,
+  "latest": 1221,
+  "precision": "year"
+ },
+ "id": "BAT-000037",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Battle of the Indus",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000132"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000064",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000035",
+  "name": "Indus River",
+  "type": "place"
+ },
+ "place_id": "PLC-000035",
+ "primary_name": "Battle of the Indus",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (GK-S09) (opened)",
+   "field": "career",
+   "id": "CLM-000132",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Defeated Jalal al-Din near the Indus in 1221",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000006"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "label": "Mongol Empire",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Jalal al-Din's army",
+   "polities": [
+    {
+     "id": "POL-000031",
+     "name": "Khwarazmian Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000031"
+   ]
+  }
+ ],
+ "slug": "battle-of-the-indus",
+ "status": "draft",
+ "summary": "Chinggis Khan's defeat of Jalal al-Din, son of the Khwarazm-shah, near the Indus.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000017",
+  "name": "Invasion of Khwarazm",
+  "type": "war"
+ },
+ "war_id": "WAR-000017"
+}

@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Keith W. Taylor"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000083",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Keith W. Taylor, A History of the Vietnamese",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Keith W. Taylor, A History of the Vietnamese",
+ "publisher": "Cambridge",
+ "reliability_notes": "Not opened; obtain first. One chapter would move about eight claims from B to A (doc).",
+ "reliability_tier": "scholarly",
+ "slug": "keith-w-taylor-a-history-of-the-vietnamese",
+ "source_type": "academic-book",
+ "status": "draft",
+ "summary": "The standard modern history of Vietnam.",
+ "title": "A History of the Vietnamese",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 2013
+}

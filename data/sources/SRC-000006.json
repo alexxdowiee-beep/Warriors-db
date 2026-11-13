@@ -1,0 +1,530 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Allen Williamson"
+ ],
+ "bias_notes": "Enthusiast site with a strongly pro-Joan, advocacy tone; relies heavily on 1456 testimony.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (Britannica, Williamson)",
+      "field": "birth",
+      "id": "CLM-000001",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Born c. 1412 in Domrémy",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "self-testimony"
+      ],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (McGrady, Williamson)",
+      "field": "religious_experience",
+      "id": "CLM-000003",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Claimed voices of Michael, Catherine and Margaret",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "career",
+      "id": "CLM-000004",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Examined at Poitiers; report found no fault but no proof",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "main_battles",
+      "id": "CLM-000005",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Orléans siege lifted 8 May 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "main_battles",
+      "id": "CLM-000006",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Wounded by arrow at Les Tourelles, 7 May 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "main_battles",
+      "id": "CLM-000007",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Patay won by the vanguard's charge, 18 June 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened + search excerpts",
+      "field": "politics",
+      "id": "CLM-000009",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Charles crowned at Reims, 17 July 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the failed attack",
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the failed attack and the wound",
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Failed attack: 2 opened; the wound: 1 opened",
+      "field": "main_battles",
+      "id": "CLM-000010",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Wounded attacking Paris, 8 September 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "the failed attack and the wound"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "main_battles",
+      "id": "CLM-000011",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Captured at Compiègne, 23 May 1430",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: 'the best-documented commoner of the Middle Ages'; recorded in two trials. Cited: Britannica and Williamson (birth and family), McGrady (the trials).",
+      "field": "identity",
+      "id": "CLM-000113",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "start: relief of Orléans",
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "start and end",
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "end: capture at Compiègne",
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: Active 1429–1430 (grade A, user decision 13 Nov 2026). Start: relief of Orléans (Britannica, Williamson); end: capture at Compiègne (McGrady, Williamson).",
+      "field": "active_period",
+      "id": "CLM-000114",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active as a military leader from April 1429 to May 1430",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "start and end"
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000001",
+   "name": "Condemnation trial record (Rouen), 1431",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000002",
+   "name": "Nullification (rehabilitation) trial dossier, 1452–1456",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000004",
+   "name": "Burgundian and French chronicles (e.g. Monstrelet, Perceval de Cagny)",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000006",
+ "opened": true,
+ "primary_name": "Allen Williamson, \"Biography of Joan of Arc\"",
+ "publisher": "Joan of Arc Archive",
+ "reliability_notes": "Detailed and well referenced to primary sources. derives_from records the pilot doc's statement that it summarises chronicles and trial testimony.",
+ "reliability_tier": "popular",
+ "slug": "williamson-biography-of-joan-of-arc",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "Biography on the Joan of Arc Archive website, summarising chronicles and trial testimony.",
+ "title": "Biography of Joan of Arc",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://archive.joan-of-arc.org/joanofarc_short_biography.html"
+}

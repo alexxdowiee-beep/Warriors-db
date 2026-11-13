@@ -1,0 +1,21 @@
+{
+ "bias_notes": "Her own voice, written through scribes.",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1429–1430",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000003",
+ "opened": false,
+ "primary_name": "Joan of Arc's dictated letters",
+ "reliability_notes": "Letters (pilot doc type); 11 surviving.",
+ "reliability_tier": null,
+ "slug": "joan-of-arc-dictated-letters",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Letters Joan of Arc dictated to towns, English commanders, the Duke of Burgundy and others; 11 survive according to the Joan of Arc Archive.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

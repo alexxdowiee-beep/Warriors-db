@@ -1,0 +1,85 @@
+{
+ "authors": [
+  "Jules Michelet"
+ ],
+ "bias_notes": "Mixed the trial records with novelistic invention; McGrady identifies an invented scene at her execution (CLM-000090).",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "not-opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000044",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Jules Michelet, biography of Joan of Arc (1853)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Embellished (D). Evidence: Michelet's invented scene, built from her earlier trial words (McGrady)",
+      "field": "myth",
+      "id": "CLM-000090",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "She cried out that her voices had not deceived her as she burned",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000044",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Jules Michelet, biography of Joan of Arc (1853)",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Jules Michelet, biography of Joan of Arc (1853)",
+ "reliability_notes": "Title not given in the pilot doc. derives_from left empty: the doc says it used 'the trial records' without saying which.",
+ "reliability_tier": "popular",
+ "slug": "michelet-joan-of-arc-1853",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "Biography that popularised Joan as a national hero after the Revolution.",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 1853
+}

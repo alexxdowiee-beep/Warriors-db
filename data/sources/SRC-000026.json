@@ -1,0 +1,151 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "C",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000026",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Giles)",
+      "field": "text",
+      "id": "CLM-000067",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The text names Yue, not Chu, as Wu's enemy",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": "ch. I",
+        "note": null,
+        "source_id": "SRC-000026",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Myths table verdict: True (A). Evidence: Chapter I",
+      "field": "myth",
+      "id": "CLM-000104",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "\"All warfare is based on deception\" is from The Art of War",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": "ch. I",
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": "ch. III",
+        "note": null,
+        "source_id": "SRC-000026",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Myths table verdict: True (A). Evidence: Chapter III, in substance; English wordings vary by translation",
+      "field": "myth",
+      "id": "CLM-000105",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "\"Know the enemy and know yourself\" is from The Art of War",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": "ch. III",
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "Compiled c. 5th–4th c. BCE",
+ "derived_by": [
+  {
+   "id": "SRC-000031",
+   "name": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000026",
+ "opened": false,
+ "primary_name": "Sunzi bingfa (The Art of War), received 13-chapter text",
+ "reliability_notes": "Text (pilot doc type). Read via Giles (SRC-000031).",
+ "reliability_tier": null,
+ "slug": "sunzi-bingfa-received-text",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "The received text of the Sunzi, the work itself (WRK record).",
+ "type": "source",
+ "updated": "2026-11-13"
+}

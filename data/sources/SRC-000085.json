@@ -1,0 +1,38 @@
+{
+ "authors": [
+  "Nizam al-Din Shami"
+ ],
+ "bias_notes": "patron-bias.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [
+  {
+   "id": "SRC-000087",
+   "name": "Sharaf al-Din Ali Yazdi, Zafarnama",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000085",
+ "language": "Persian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Nizam al-Din Shami, Zafarnama",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Nizam al-Din Shami, Zafarnama",
+ "reliability_notes": "Read via Manz.",
+ "reliability_tier": null,
+ "slug": "nizam-al-din-shami-zafarnama",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Official court history written at Timur's command and completed in his lifetime.",
+ "title": "Zafarnama",
+ "type": "source",
+ "updated": "2026-11-13"
+}

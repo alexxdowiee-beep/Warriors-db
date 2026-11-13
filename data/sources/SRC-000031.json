@@ -1,0 +1,618 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Lionel Giles"
+ ],
+ "bias_notes": "Dated: written before the 1972 bamboo-slip find.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Giles, translating Shiji)",
+      "field": "text",
+      "id": "CLM-000055",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sima Qian knew the 13 chapters as a widely read book",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000107"
+      ],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Excerpts; Giles's internal evidence",
+      "field": "main_works",
+      "id": "CLM-000057",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The text was composed c. 5th–4th century BCE",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Sima Qian only, c. 400 years later",
+      "field": "identity",
+      "id": "CLM-000058",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "A historical Sun Wu existed",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Sima Qian only",
+      "field": "active_period",
+      "id": "CLM-000059",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "He served King Helü of Wu",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "late-source"
+      ],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000029",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Zuo zhuan"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Contradicted by the Zuo zhuan's silence",
+      "field": "career",
+      "id": "CLM-000060",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "He commanded at Boju, 506 BCE",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000029",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Zuo zhuan"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Zuo zhuan and Shiji, via Giles",
+      "field": "context",
+      "id": "CLM-000061",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Wu captured the Chu capital, Ying, in 506 BCE",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Giles)",
+      "field": "text",
+      "id": "CLM-000062",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sima Qian tells the palace-drill story",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "hagiography"
+      ],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000028",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sima Qian, Shiji, ch. 65"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Single late source; rejected by Ye Shi",
+      "field": "career",
+      "id": "CLM-000063",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "The palace drill happened",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000041",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ye Shi, argument against Sun Wu's historicity"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Giles; Ye Shi; excerpts",
+      "field": "text",
+      "id": "CLM-000064",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Zuo zhuan never mentions Sun Wu",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000030",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Han shu bibliographic treatise"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Giles)",
+      "field": "text",
+      "id": "CLM-000065",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Han bibliography lists Sunzi in 82 chapters with diagrams",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000026",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Sunzi bingfa (The Art of War), received 13-chapter text"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "1 opened (Giles)",
+      "field": "text",
+      "id": "CLM-000067",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The text names Yue, not Chu, as Wu's enemy",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers",
+       "late-source"
+      ],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000042",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Liu Xiang, claim about Sun Wu's victory over Chu"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Giles, quoting Liu Xiang)",
+      "field": "strength",
+      "id": "CLM-000068",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Sun Wu beat 200,000 Chu troops with 30,000",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000026",
+   "name": "Sunzi bingfa (The Art of War), received 13-chapter text",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000028",
+   "name": "Sima Qian, Shiji, ch. 65",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000029",
+   "name": "Zuo zhuan",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000030",
+   "name": "Han shu bibliographic treatise",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000041",
+   "name": "Ye Shi, argument against Sun Wu's historicity",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000042",
+   "name": "Liu Xiang, claim about Sun Wu's victory over Chu",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000031",
+ "opened": true,
+ "primary_name": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+ "reliability_notes": "Public domain. His translations and summaries of the older Chinese debate remain useful; his conclusions are dated.",
+ "reliability_tier": "scholarly",
+ "slug": "giles-sun-tzu-on-the-art-of-war",
+ "source_type": "translation",
+ "status": "draft",
+ "summary": "1910 English translation with a critical introduction, translating Sima Qian's biography and summarising the Song-dynasty arguments against Sun Wu's existence.",
+ "title": "Sun Tzŭ on the Art of War",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://sacred-texts.com/tao/aow/aow03.htm",
+ "year": 1910
+}

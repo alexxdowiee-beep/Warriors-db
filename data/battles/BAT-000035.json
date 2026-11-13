@@ -1,0 +1,135 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000130"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000061",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1215",
+  "earliest": 1215,
+  "latest": 1215,
+  "precision": "year"
+ },
+ "id": "BAT-000035",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Fall of Zhongdu",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000130"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000061",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000036",
+  "name": "Zhongdu",
+  "type": "place"
+ },
+ "place_id": "PLC-000036",
+ "primary_name": "Fall of Zhongdu",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "none yet",
+   "field": "career",
+   "id": "CLM-000130",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Zhongdu fell in 1215",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000006"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "label": "Mongol Empire",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Jin",
+   "polities": [
+    {
+     "id": "POL-000036",
+     "name": "Jin dynasty",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000036"
+   ]
+  }
+ ],
+ "slug": "fall-of-zhongdu",
+ "status": "draft",
+ "summary": "Fall of the Jin central capital, on the site of modern Beijing.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000016",
+  "name": "War against the Jin",
+  "type": "war"
+ },
+ "war_id": "WAR-000016"
+}

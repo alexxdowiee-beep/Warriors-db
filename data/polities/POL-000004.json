@@ -1,0 +1,74 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000010",
+   "name": "Siege of Saguntum",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000011",
+   "name": "Ticinus",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000012",
+   "name": "Trebia",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000013",
+   "name": "Lake Trasimene",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000014",
+   "name": "Cannae",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000016",
+   "name": "Zama",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "served_by",
+   "relationship_id": "REL-000013",
+   "role": "General; later suffete (chief magistrate)"
+  }
+ ],
+ "id": "POL-000004",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Carthage",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000002",
+   "name": "Hannibal Barca",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Carthage",
+ "slug": "carthage",
+ "status": "draft",
+ "summary": "North African power that Hannibal served as general and later as suffete.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

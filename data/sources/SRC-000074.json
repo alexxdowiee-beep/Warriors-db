@@ -1,0 +1,27 @@
+{
+ "bias_notes": "A national-heritage view (nationalist-reinterpretation).",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000074",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kazakh government page on Baybars",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Kazakh government page on Baybars",
+ "reliability_notes": "Excerpt only. Tier 'popular' is a judgement call; URL not given in the doc.",
+ "reliability_tier": "popular",
+ "slug": "kazakh-government-page-on-baybars",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "Kazakh government web page celebrating Baibars as a national ancestor-hero.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

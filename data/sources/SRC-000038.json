@@ -1,0 +1,25 @@
+{
+ "authors": [
+  "G. H. Scholefield"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000038",
+ "opened": false,
+ "primary_name": "G. H. Scholefield, Dictionary of New Zealand Biography (1940)",
+ "reliability_notes": "Reference (superseded). Excerpt only.",
+ "reliability_tier": "reference",
+ "slug": "scholefield-dnzb-1940",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "1940 biographical dictionary.",
+ "title": "Dictionary of New Zealand Biography",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 1940
+}

@@ -1,0 +1,35 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000021",
+   "name": "Siege of Te Arawī",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000022",
+   "name": "Motunui",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000017",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Waikato",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "iwi",
+ "primary_name": "Waikato",
+ "slug": "waikato",
+ "status": "draft",
+ "summary": "Waikato iwi, repeatedly at war with Ngāti Toa over land north of Kāwhia Harbour.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,147 @@
+{
+ "authors": [
+  "Ibn Khaldun"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000023",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000020",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ibn Khaldun, Kitab al-'Ibar"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Met) + Ibn Khaldun via excerpts; both chains rest partly on Mande memory",
+      "field": "identity",
+      "id": "CLM-000039",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sundiata existed and founded Mali's power",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000023",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\""
+       },
+       {
+        "access": null,
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000018",
+        "source_type": "oral-tradition",
+        "tier": null,
+        "title": "Mande oral tradition (jeli performances)"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000020",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ibn Khaldun, Kitab al-'Ibar"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Met) + tradition + Ibn Khaldun (excerpt)",
+      "field": "main_battles",
+      "id": "CLM-000040",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "He defeated Sumanguru Kanté of Sosso",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "Late 14th c.",
+ "derived_by": [
+  {
+   "id": "SRC-000022",
+   "name": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+   "type": "source"
+  }
+ ],
+ "derives_from": [
+  {
+   "id": "SRC-000018",
+   "name": "Mande oral tradition (jeli performances)",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000020",
+ "language": "Arabic",
+ "opened": false,
+ "primary_name": "Ibn Khaldun, Kitab al-'Ibar",
+ "reliability_notes": "Arabic history (pilot doc type); more than a century after Sundiata. Partly derives from Mande oral tradition via Malian informants.",
+ "reliability_tier": null,
+ "slug": "ibn-khaldun-kitab-al-ibar",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Late 14th-century Arabic history that names Mari Jata as conqueror of the Sosso.",
+ "title": "Kitab al-'Ibar",
+ "type": "source",
+ "updated": "2026-11-13"
+}

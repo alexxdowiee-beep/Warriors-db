@@ -1,0 +1,160 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000195"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000082",
+   "role": "Commander"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1266",
+  "earliest": 1266,
+  "latest": 1266,
+  "precision": "year"
+ },
+ "id": "BAT-000046",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Fall of Safed",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000195"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000082",
+   "role": "Commander"
+  }
+ ],
+ "place": {
+  "id": "PLC-000045",
+  "name": "Safed",
+  "type": "place"
+ },
+ "place_id": "PLC-000045",
+ "primary_name": "Fall of Safed",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000195",
+   "perspective": [
+    {
+     "id": "POL-000042",
+     "name": "Principality of Antioch",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Took Safed (1266) and Antioch (1268)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000008"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "label": "Mamluk Sultanate",
+   "polities": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000030"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Knights Templar",
+   "polities": [
+    {
+     "id": "POL-000044",
+     "name": "Knights Templar",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000044"
+   ]
+  }
+ ],
+ "slug": "fall-of-safed",
+ "status": "draft",
+ "summary": "Baibars' capture of the Templar fortress of Safed.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000020",
+  "name": "Campaigns against the crusader states",
+  "type": "war"
+ },
+ "war_id": "WAR-000020"
+}

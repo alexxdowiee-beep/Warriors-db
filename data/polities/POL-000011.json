@@ -1,0 +1,64 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000018",
+   "name": "Kirina",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000019",
+   "name": "Taking of the Sosso capital",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000040"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "faced_rebellion_by",
+   "relationship_id": "REL-000025",
+   "role": "Led the Mande revolt against Sosso rule"
+  }
+ ],
+ "id": "POL-000011",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Sosso",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Soso"
+  },
+  {
+   "kind": "other",
+   "name": "Susu"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000003",
+   "name": "Sundiata Keita",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Sosso",
+ "slug": "sosso",
+ "status": "draft",
+ "summary": "Power that dominated the region, including the Mande chiefdoms, under Sumanguru Kanté before the rise of Mali. Oral tradition is the only evidence that a Sosso empire existed (Bühnen).",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

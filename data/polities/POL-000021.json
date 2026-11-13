@@ -1,0 +1,87 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000023",
+   "name": "Horowhenua lakes",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000021",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Muaūpoko",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000036",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "DNZB reports both views",
+   "field": "interpretation",
+   "id": "CLM-000085",
+   "perspective": [
+    {
+     "id": "POL-000023",
+     "name": "Ngāi Tahu",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000021",
+     "name": "Muaūpoko",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000022",
+     "name": "Rangitāne",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000025",
+     "name": "Ngāti Apa",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000024",
+     "name": "Ngāti Kuia",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "His success was due mainly to muskets",
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "polity_type": "iwi",
+ "primary_name": "Muaūpoko",
+ "slug": "muaupoko",
+ "status": "draft",
+ "summary": "Iwi of the Horowhenua lakes, attacked by Ngāti Toa c. 1822.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

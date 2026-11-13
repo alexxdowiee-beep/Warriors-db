@@ -1,0 +1,171 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000192"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000080",
+   "role": "Vanguard commander under Qutuz"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "day": 3,
+  "display": "3 September 1260",
+  "earliest": 1260,
+  "latest": 1260,
+  "month": 9,
+  "precision": "day"
+ },
+ "id": "BAT-000045",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ain Jalut",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000192"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000080",
+   "role": "Vanguard commander under Qutuz"
+  }
+ ],
+ "place": {
+  "id": "PLC-000044",
+  "name": "Ain Jalut",
+  "type": "place"
+ },
+ "place_id": "PLC-000044",
+ "primary_name": "Ain Jalut",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened); SRC-000073 (BB-S10) (opened)",
+   "field": "career",
+   "id": "CLM-000192",
+   "perspective": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000008"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "label": "Mamluk army under Sultan Qutuz (Baibars commanding the vanguard)",
+   "polities": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000030"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Mongols under Kitbuqa",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ]
+  }
+ ],
+ "slug": "ain-jalut",
+ "status": "draft",
+ "summary": "Mamluk victory over the Mongol force left in Syria under Kitbuqa, who was captured and killed.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

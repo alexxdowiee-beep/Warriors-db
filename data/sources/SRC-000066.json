@@ -1,0 +1,37 @@
+{
+ "authors": [
+  "Ibn 'Abd al-Zahir"
+ ],
+ "bias_notes": "Official panegyric (patron-bias, hagiography).",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [
+  {
+   "id": "SRC-000068",
+   "name": "Later Mamluk historians (e.g. al-Maqrizi)",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000066",
+ "language": "Arabic",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+ "reliability_notes": "Written during and just after his reign. Not opened.",
+ "reliability_tier": null,
+ "slug": "ibn-abd-al-zahir-biography-of-al-zahir-baybars",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Official biography of the sultan by his own chancery secretary.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

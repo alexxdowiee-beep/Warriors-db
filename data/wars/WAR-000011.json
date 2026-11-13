@@ -1,0 +1,110 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000074"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000032",
+   "role": "Led the migration"
+  }
+ ],
+ "id": "WAR-000011",
+ "kind": "migration",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Heke Tahutahuahi",
+   "preferred": true
+  }
+ ],
+ "parent_war": {
+  "id": "WAR-000009",
+  "name": "Musket Wars",
+  "type": "war"
+ },
+ "parent_war_id": "WAR-000009",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000074"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000032",
+   "role": "Led the migration"
+  }
+ ],
+ "primary_name": "Te Heke Tahutahuahi",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000036",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000034",
+     "source_type": "statute",
+     "tier": null,
+     "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (DNZB, Act)",
+   "field": "main_battles",
+   "id": "CLM-000074",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "te-heke-tahutahuahi",
+ "span": {
+  "certainty": "A",
+  "display": "1820–21",
+  "earliest": 1820,
+  "latest": 1821,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "First stage of Ngāti Toa's migration south from Kāwhia, after the siege of Te Arawī; about 1,500 Ngāti Toa reached Taranaki.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

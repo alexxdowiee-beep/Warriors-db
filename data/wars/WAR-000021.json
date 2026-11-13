@@ -1,0 +1,62 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000088",
+   "role": "Uncertain"
+  }
+ ],
+ "id": "WAR-000021",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "First Mongol invasion of Đại Việt",
+   "preferred": true
+  }
+ ],
+ "outcome": "Mongols withdrew",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000088",
+   "role": "Uncertain"
+  }
+ ],
+ "primary_name": "First Mongol invasion of Đại Việt",
+ "related_claims": [],
+ "slug": "first-mongol-invasion-of-dai-viet",
+ "span": {
+  "certainty": "A",
+  "display": "1257–1258",
+  "earliest": 1257,
+  "latest": 1258,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Invasion from the newly conquered kingdom of Dali in Yunnan; it took Thăng Long but withdrew after about a month.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

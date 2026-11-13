@@ -1,0 +1,32 @@
+{
+ "bias_notes": "Favourable: built to clear her; questions steered toward piety.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1452–1456",
+ "derived_by": [
+  {
+   "id": "SRC-000006",
+   "name": "Allen Williamson, \"Biography of Joan of Arc\"",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000009",
+   "name": "Régine Pernoud, Joan of Arc by Herself and Her Witnesses",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000002",
+ "opened": false,
+ "primary_name": "Nullification (rehabilitation) trial dossier, 1452–1456",
+ "reliability_notes": "Court record: witness depositions and legal arguments (pilot doc type). Summaries give 115 witnesses and also 135 depositions; to check against an edition.",
+ "reliability_tier": null,
+ "slug": "nullification-trial-dossier",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Witness depositions and legal arguments from the retrial that annulled Joan of Arc's conviction.",
+ "type": "source",
+ "updated": "2026-11-13"
+}
