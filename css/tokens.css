@@ -1,0 +1,64 @@
+/* Design tokens (docs/APP_BRIEF.md, "Design system"). Dark theme only in version 1.
+   Components use these custom properties only, so a light theme can be added later by
+   redefining them, without touching components. */
+:root {
+  color-scheme: dark;
+
+  /* Colours */
+  --bg: #0F1115;
+  --bg-header: #0B0D10;
+  --bg-band: #13161B;
+  --panel: #171A20;
+  --border: #2A2F38;
+  --text: #E7E4DC;
+  --text-2: #C9C4BA;
+  --muted: #A8A39A;
+  --accent: #E2B25C;
+  --accent-strong: #F5D08E;
+  --accent-bg: #241E12;
+  --era-active: #3A2E17;
+  --loss: #F0A090;
+  --loss-border: #C0705F;
+  --input-bg: #161920;
+
+  /* Certainty grades (letters are always shown; colour is never the only signal).
+     Contrast against --panel and --bg is checked in step 3. */
+  --grade-a: #7FC8A0;
+  --grade-b: #9DBBE0;
+  --grade-c: #E2B25C;
+  --grade-d: #E8956B;
+  --grade-e: #C9C4BA;
+
+  /* Type */
+  --font-display: 'Cinzel', 'Times New Roman', serif;
+  --font-body: 'Alegreya', Georgia, serif;
+  --text-body: 17px;
+  --line-body: 1.6;
+  --text-lead: 22px;
+  --text-h2: 26px;
+  --text-label: 12.5px;
+  --text-name: clamp(40px, 6vw, 68px);
+  --tracking-label: 0.12em;
+  --tracking-wordmark: 0.1em;
+
+  /* Layout */
+  --max-width: 1400px;
+  --gutter: 32px;
+  --radius: 6px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --header-height: 64px;
+  --touch: 44px;
+  --focus: 2px solid var(--accent);
+}
+
+@media (max-width: 767px) {
+  :root {
+    --gutter: 16px;
+  }
+}
