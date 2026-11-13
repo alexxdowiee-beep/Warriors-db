@@ -124,3 +124,10 @@ document.querySelector('[data-skip]').addEventListener('click', (event) => {
 
 window.addEventListener('hashchange', route);
 route();
+
+// Offline support (step 6): the service worker caches the app and the data bundle after one visit.
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch((err) => console.warn('Offline mode unavailable:', err));
+  });
+}
