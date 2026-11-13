@@ -1,0 +1,34 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000006",
+   "name": "Paris",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000009",
+   "name": "Compiègne",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000003",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Duchy of Burgundy",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Duchy of Burgundy",
+ "slug": "duchy-of-burgundy",
+ "status": "draft",
+ "summary": "Its duke backed Henry VI under the 1420 Treaty of Troyes; Burgundian troops captured Joan of Arc at Compiègne.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

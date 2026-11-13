@@ -1,0 +1,50 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000017",
+   "name": "Naval battle off Pamphylia",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "served_by",
+   "relationship_id": "REL-000014",
+   "role": "Adviser in exile to Antiochus III"
+  }
+ ],
+ "id": "POL-000007",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Seleucid kingdom",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000002",
+   "name": "Hannibal Barca",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "polity_type": "kingdom",
+ "primary_name": "Seleucid kingdom",
+ "slug": "seleucid-kingdom",
+ "status": "draft",
+ "summary": "Kingdom of Antiochus III, whom Hannibal advised in exile.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

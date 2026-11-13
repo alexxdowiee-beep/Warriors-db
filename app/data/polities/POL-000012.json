@@ -1,0 +1,55 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000020",
+   "name": "Boju and the capture of Ying",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [
+    "CLM-000059"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "served_by",
+   "relationship_id": "REL-000028",
+   "role": "Served King Helü (Sima Qian only)"
+  }
+ ],
+ "id": "POL-000012",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Wu",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "State of Wu"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000004",
+   "name": "Sun Tzu",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Wu",
+ "slug": "wu",
+ "status": "draft",
+ "summary": "Rising state in the lower Yangtze region; under King Helü (r. 514–496 BCE) it captured the Chu capital in 506 BCE.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

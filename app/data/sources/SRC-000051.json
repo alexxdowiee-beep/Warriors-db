@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Ibn al-Athir"
+ ],
+ "bias_notes": "Hostile and horrified; casualty figures inflated (hostile-source, inflated-numbers).",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "Before 1233",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000051",
+ "language": "Arabic",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ibn al-Athir, The Complete History",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ibn al-Athir, The Complete History",
+ "reliability_notes": "Used as GK-S06 and SB-S06. Not opened (Subutai doc: via Pow 2025).",
+ "reliability_tier": null,
+ "slug": "ibn-al-athir-the-complete-history",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Chronicle by a contemporary Arab historian in Mosul, covering the Mongol invasions.",
+ "title": "The Complete History",
+ "type": "source",
+ "updated": "2026-11-13"
+}

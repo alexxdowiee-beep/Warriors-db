@@ -1,0 +1,155 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000025"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000018",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "December 218 BCE",
+  "earliest": -217,
+  "latest": -217,
+  "month": 12,
+  "precision": "month"
+ },
+ "id": "BAT-000012",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Trebia",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000025"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000018",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000014",
+  "name": "Trebia",
+  "type": "place"
+ },
+ "place_id": "PLC-000014",
+ "primary_name": "Trebia",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000017",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000016",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (DCC, Nepos)",
+   "field": "main_battles",
+   "id": "CLM-000025",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000002"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "label": "Carthage",
+   "polities": [
+    {
+     "id": "POL-000004",
+     "name": "Carthage",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000004"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Rome, under Sempronius Longus and Scipio",
+   "polities": [
+    {
+     "id": "POL-000005",
+     "name": "Rome",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000005"
+   ]
+  }
+ ],
+ "slug": "trebia",
+ "status": "draft",
+ "summary": "Field battle in which Hannibal lured a Roman army into an ambush.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000004",
+  "name": "Second Punic War",
+  "type": "war"
+ },
+ "war_id": "WAR-000004"
+}

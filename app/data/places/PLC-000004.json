@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000002",
+   "name": "Jargeau",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000004",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Jargeau",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Jargeau",
+ "slug": "jargeau",
+ "status": "draft",
+ "summary": "Taken by the French army in June 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

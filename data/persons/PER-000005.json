@@ -67,6 +67,9 @@
     "war-leader",
     "composer"
   ],
+  "regions": [
+    "Pacific"
+  ],
   "polity_ids": [
     "POL-000015",
     "POL-000016"

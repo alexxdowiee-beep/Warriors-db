@@ -1,0 +1,73 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000040",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Pilot doc grade A; restore when cited. Search excerpts (British Library, OUP)",
+      "field": "rehabilitation",
+      "id": "CLM-000017",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "1431 verdict annulled, 7 July 1456",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000040",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings",
+ "publisher": "British Library",
+ "reliability_notes": "Known from a search excerpt only; the catalogue page has not been opened. Shelfmark and URL to record when opened.",
+ "reliability_tier": "reference",
+ "slug": "british-library-nullification-proceedings-copy",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "Library catalogue description of a surviving copy of the 1456 retrial proceedings; it attests the date of the annulment.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

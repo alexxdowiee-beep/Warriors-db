@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000048",
+   "name": "Fall of Antioch",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000046",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Antioch",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Antioch",
+ "slug": "antioch",
+ "status": "draft",
+ "summary": "Crusader city taken and destroyed by Baibars in 1268.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

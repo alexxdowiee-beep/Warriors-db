@@ -1,0 +1,174 @@
+{
+ "bias_notes": "No bias noted in the docs.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000056",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Columbia University, Asia for Educators: The Mongols in World History"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000056 (GK-S11) (excerpt)",
+      "field": "identity",
+      "id": "CLM-000120",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Temüjin, titled Chinggis Khan, founded the Mongol Empire",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000124"
+      ],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000056",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Columbia University, Asia for Educators: The Mongols in World History"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000053",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000056 (GK-S11) (excerpt); SRC-000053 (GK-S08) (excerpt)",
+      "field": "birth",
+      "id": "CLM-000123",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born 1162",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000056",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Columbia University, Asia for Educators: The Mongols in World History"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Trade, administration, a script and exchange across Eurasia followed the conquests (May; Columbia teaching site, excerpt)",
+      "field": "myth",
+      "id": "CLM-000152",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "The Mongols only destroyed and built nothing",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000056",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Columbia University, Asia for Educators: The Mongols in World History",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Columbia University, Asia for Educators: The Mongols in World History",
+ "publisher": "Columbia University",
+ "reliability_notes": "Cited from search excerpts.",
+ "reliability_tier": "reference",
+ "slug": "columbia-university-asia-for-educators-the-mongols-in-world-history",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "University teaching site on the Mongols in world history.",
+ "title": "The Mongols in World History",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://afe.easia.columbia.edu/mongols/pop/figures/images_fig.htm"
+}

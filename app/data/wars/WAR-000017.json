@@ -1,0 +1,172 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1219–1220",
+    "earliest": 1219,
+    "latest": 1220,
+    "precision": "year"
+   },
+   "id": "BAT-000036",
+   "kind": "siege",
+   "name": "Capture of Otrar",
+   "result": "Captured"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1221",
+    "earliest": 1221,
+    "latest": 1221,
+    "precision": "year"
+   },
+   "id": "BAT-000037",
+   "kind": "field-battle",
+   "name": "Battle of the Indus",
+   "result": "Victory"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000026",
+   "name": "Mongol Empire",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000031",
+   "name": "Khwarazmian Empire",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000131"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000062",
+   "role": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000069",
+   "role": "Commander under Genghis Khan"
+  }
+ ],
+ "id": "WAR-000017",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Invasion of Khwarazm",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000131"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000062",
+   "role": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000069",
+   "role": "Commander under Genghis Khan"
+  }
+ ],
+ "primary_name": "Invasion of Khwarazm",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000047",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Ata-Malik Juvaini, History of the World Conqueror"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000047 (GK-S02) (via-secondary)",
+   "field": "career",
+   "id": "CLM-000131",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Otrar caravan massacre led to war with Khwarazm",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "invasion-of-khwarazm",
+ "span": {
+  "certainty": "A",
+  "display": "1218–1221",
+  "earliest": 1218,
+  "latest": 1221,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "War that followed the Otrar caravan massacre: Chinggis Khan took Otrar, split his army against the Khwarazmian Empire, and defeated Jalal al-Din near the Indus in 1221.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

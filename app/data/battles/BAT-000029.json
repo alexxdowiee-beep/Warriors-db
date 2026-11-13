@@ -1,0 +1,101 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000042",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1832",
+  "earliest": 1832,
+  "latest": 1832,
+  "precision": "year"
+ },
+ "id": "BAT-000029",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ōnawe, Akaroa",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000042",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000030",
+  "name": "Ōnawe, Akaroa",
+  "type": "place"
+ },
+ "place_id": "PLC-000030",
+ "primary_name": "Ōnawe, Akaroa",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Ngāi Tahu",
+   "polities": [
+    {
+     "id": "POL-000023",
+     "name": "Ngāi Tahu",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000023"
+   ]
+  }
+ ],
+ "slug": "onawe",
+ "status": "draft",
+ "summary": "Ōnawe at Akaroa was captured after the fall of Kaiapoi.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000013",
+  "name": "Te Rauparaha's South Island campaigns",
+  "type": "war"
+ },
+ "war_id": "WAR-000013"
+}

@@ -1,0 +1,102 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000040",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "c. 1828–29",
+  "earliest": 1828,
+  "latest": 1829,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "id": "BAT-000027",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "First attack on Kaiapoi",
+   "preferred": true
+  }
+ ],
+ "outcome": "Defeat; chiefs killed",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000040",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000029",
+  "name": "Kaiapoi pā",
+  "type": "place"
+ },
+ "place_id": "PLC-000029",
+ "primary_name": "First attack on Kaiapoi",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Defeat; chiefs killed"
+  },
+  {
+   "commanders": [],
+   "label": "Ngāi Tahu",
+   "polities": [
+    {
+     "id": "POL-000023",
+     "name": "Ngāi Tahu",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000023"
+   ]
+  }
+ ],
+ "slug": "first-attack-on-kaiapoi",
+ "status": "draft",
+ "summary": "Ngāi Tahu killed Te Pēhi Kupe and seven other Ngāti Toa chiefs who had entered Kaiapoi pā to trade, and the first attack failed.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000013",
+  "name": "Te Rauparaha's South Island campaigns",
+  "type": "war"
+ },
+ "war_id": "WAR-000013"
+}

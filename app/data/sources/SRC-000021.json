@@ -1,0 +1,36 @@
+{
+ "authors": [
+  "Ibn Battuta"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1350s",
+ "derived_by": [
+  {
+   "id": "SRC-000022",
+   "name": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+   "type": "source"
+  }
+ ],
+ "derives_from": [
+  {
+   "id": "SRC-000018",
+   "name": "Mande oral tradition (jeli performances)",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000021",
+ "opened": false,
+ "primary_name": "Ibn Battuta, travel account",
+ "reliability_notes": "Eyewitness travel narrative (pilot doc type) for 1350s Mali; for Sundiata it is a later source that partly rests on Mande oral tradition.",
+ "reliability_tier": null,
+ "slug": "ibn-battuta-travel-account",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Account of Ibn Battuta's visit to Mali in 1352–53.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

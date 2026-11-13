@@ -1,0 +1,119 @@
+{
+ "authors": [
+  "Su Tianjue",
+  "Wang Yun"
+ ],
+ "bias_notes": "Translation of a lost Mongol original (translation-issue); honours its subject (patron-bias).",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000058",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000058 (SB-S01) (excerpt)",
+      "field": "origins",
+      "id": "CLM-000171",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "His biography tells of his father being seized by robbers while bringing sheep to Temüjin",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000058",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Unsupported (C). Evidence: A popular claim; no source establishes it, and his biography itself records Mongol forces being held up before he took command",
+      "field": "myth",
+      "id": "CLM-000177",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He never lost a battle",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [
+  {
+   "id": "SRC-000063",
+   "name": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000058",
+ "language": "Chinese",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+ "reliability_notes": "Doc type: 'primary-later (translation of a Mongol original)'; derives from a lost Mongolian biography (no source record). Read via Pow 2025 (SB-S08). Kept separate from the Yuan shi as a whole (GK-S04).",
+ "reliability_tier": null,
+ "slug": "yuan-shi-chapters-121-and-122-and-su-tianjue-lives-of-eminent-ministers-of-the-yuan",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Subutai's biography in three Chinese versions (Yuan shi ch. 121, ch. 122 dated 1264, and Wang Yun's stele text in Su Tianjue), all from a lost Mongolian original translated in the 1260s.",
+ "title": "Yuan shi ch. 121–122; Lives of Eminent Ministers of the Yuan",
+ "type": "source",
+ "updated": "2026-11-13"
+}

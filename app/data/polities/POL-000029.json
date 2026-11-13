@@ -1,0 +1,91 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000051",
+   "name": "Chương Dương",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000052",
+   "name": "Tây Kết",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000053",
+   "name": "Capture of the Yuan supply fleet",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000054",
+   "name": "Bạch Đằng River",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000029",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Yuan dynasty",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Yuan China"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000084",
+     "source_type": "other",
+     "tier": "aggregator",
+     "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000084 (TH-S10)",
+   "field": "career",
+   "id": "CLM-000223",
+   "perspective": [
+    {
+     "id": "POL-000046",
+     "name": "Đại Việt",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000029",
+     "name": "Yuan dynasty",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "polity_type": "empire",
+ "primary_name": "Yuan dynasty",
+ "slug": "yuan-dynasty",
+ "status": "draft",
+ "summary": "Mongol-ruled dynasty in China; it sent the failed invasions of Đại Việt and lost China to the Ming in 1368.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

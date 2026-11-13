@@ -1,0 +1,96 @@
+{
+ "authors": [
+  "Igor de Rachewiltz",
+  "J. C. Street"
+ ],
+ "bias_notes": "See GK-S01.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000124"
+      ],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000056",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Columbia University, Asia for Educators: The Mongols in World History"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000053",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000056 (GK-S11) (excerpt); SRC-000053 (GK-S08) (excerpt)",
+      "field": "birth",
+      "id": "CLM-000123",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born 1162",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000046",
+   "name": "The Secret History of the Mongols",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000053",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+ "reliability_notes": "Only the catalogue page was opened; the 5 MB PDF could not be loaded. Opening it would move about ten claims from B to A (doc).",
+ "reliability_tier": "scholarly",
+ "slug": "igor-de-rachewiltz-trans-the-secret-history-of-the-mongols-shorter-version-ed-j-c-street-2015",
+ "source_type": "translation",
+ "status": "draft",
+ "summary": "Open-access English translation of the Secret History.",
+ "title": "The Secret History of the Mongols",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://cedar.wwu.edu/cedarbooks/4",
+ "year": 2015
+}

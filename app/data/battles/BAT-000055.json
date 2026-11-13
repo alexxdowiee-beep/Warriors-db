@@ -1,0 +1,156 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000252"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000099",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "1395",
+  "earliest": 1395,
+  "latest": 1395,
+  "precision": "year"
+ },
+ "id": "BAT-000055",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Battle of 1395 against Tokhtamysh",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000252"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000099",
+   "role": null
+  }
+ ],
+ "place": null,
+ "primary_name": "Battle of 1395 against Tokhtamysh",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000098",
+     "source_type": "academic-book",
+     "tier": "scholarly",
+     "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+   "field": "career",
+   "id": "CLM-000252",
+   "perspective": [
+    {
+     "id": "POL-000028",
+     "name": "Golden Horde",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000010"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "label": "Timurid realm",
+   "polities": [
+    {
+     "id": "POL-000049",
+     "name": "Timurid realm",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000049"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Golden Horde",
+   "polities": [
+    {
+     "id": "POL-000028",
+     "name": "Golden Horde",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000028"
+   ]
+  }
+ ],
+ "site_certainty": "C",
+ "slug": "battle-of-1395-against-tokhtamysh",
+ "status": "draft",
+ "summary": "Timur's decisive defeat of Tokhtamysh, khan of the Golden Horde.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000025",
+  "name": "Wars against Tokhtamysh",
+  "type": "war"
+ },
+ "war_id": "WAR-000025"
+}

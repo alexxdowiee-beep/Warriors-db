@@ -1,0 +1,30 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000002",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rouen",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000001",
+   "name": "Joan of Arc",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Rouen",
+ "slug": "rouen",
+ "status": "draft",
+ "summary": "Where Joan of Arc was tried and burned in 1431.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

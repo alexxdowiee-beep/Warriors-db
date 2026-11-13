@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000020",
+   "name": "Boju and the capture of Ying",
+   "type": "battle"
+  }
+ ],
+ "certainty": "C",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000022",
+ "location_certainty": "C",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Boju",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Boju",
+ "slug": "boju",
+ "status": "draft",
+ "summary": "Where Wu defeated Chu in 506 BCE before taking the Chu capital, Ying.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

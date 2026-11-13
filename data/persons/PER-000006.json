@@ -41,6 +41,9 @@
     "ruler",
     "commander"
   ],
+  "regions": [
+    "Asia"
+  ],
   "polity_ids": [
     "POL-000026"
   ],

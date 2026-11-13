@@ -1,0 +1,60 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "CIV-000002",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Arabic-speaking world",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000073 (BB-S10) (opened); EBSCO (excerpt)",
+   "field": "legacy",
+   "id": "CLM-000205",
+   "perspective": [
+    {
+     "id": "CIV-000002",
+     "name": "Arabic-speaking world",
+     "type": "civilisation"
+    }
+   ],
+   "quiz_kind": "tradition",
+   "quiz_ready": true,
+   "statement": "The *Sirat Baybars* folk epic about him is still popular in the Arabic-speaking world",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "primary_name": "Arabic-speaking world",
+ "slug": "arabic-speaking-world",
+ "status": "draft",
+ "summary": "The Arabic-speaking peoples of the Middle East and North Africa. Used as a perspective: the audiences of the Sirat Baybars folk epic.",
+ "type": "civilisation",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -42,6 +42,10 @@
   "roles": [
     "commander"
   ],
+  "regions": [
+    "Asia",
+    "Europe"
+  ],
   "polity_ids": [
     "POL-000026"
   ],

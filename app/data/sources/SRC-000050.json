@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Minhaj al-Siraj Juzjani"
+ ],
+ "bias_notes": "Hostile (hostile-source).",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "Mid-13th c.",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000050",
+ "language": "Persian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Minhaj al-Siraj Juzjani, Tabaqat-i Nasiri",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Minhaj al-Siraj Juzjani, Tabaqat-i Nasiri",
+ "reliability_notes": "Read via May (GK-S09).",
+ "reliability_tier": null,
+ "slug": "minhaj-al-siraj-juzjani-tabaqat-i-nasiri",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "History by a refugee scholar in Delhi, giving a victim's-eye view of the Mongol conquests.",
+ "title": "Tabaqat-i Nasiri",
+ "type": "source",
+ "updated": "2026-11-13"
+}

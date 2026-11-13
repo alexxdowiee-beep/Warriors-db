@@ -1,0 +1,1151 @@
+{
+ "events": [
+  {
+   "certainty": "B",
+   "display": "512 BCE",
+   "earliest": -511,
+   "era": "ancient",
+   "id": "WAR-000008",
+   "latest": -511,
+   "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "people": [
+    "PER-000004"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "506 BCE",
+   "earliest": -505,
+   "era": "ancient",
+   "id": "BAT-000020",
+   "latest": -505,
+   "name": "Boju and the capture of Ying",
+   "people": [
+    "PER-000004"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "264–241 BCE",
+   "earliest": -263,
+   "era": "classical",
+   "id": "WAR-000003",
+   "latest": -240,
+   "name": "First Punic War",
+   "people": [],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "219 BCE",
+   "earliest": -218,
+   "era": "classical",
+   "id": "BAT-000010",
+   "latest": -218,
+   "name": "Siege of Saguntum",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "218 BCE",
+   "earliest": -217,
+   "era": "classical",
+   "id": "BAT-000011",
+   "latest": -217,
+   "name": "Ticinus",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "December 218 BCE",
+   "earliest": -217,
+   "era": "classical",
+   "id": "BAT-000012",
+   "latest": -217,
+   "name": "Trebia",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "217 BCE",
+   "earliest": -216,
+   "era": "classical",
+   "id": "BAT-000013",
+   "latest": -216,
+   "name": "Lake Trasimene",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "216 BCE",
+   "earliest": -215,
+   "era": "classical",
+   "id": "BAT-000014",
+   "latest": -215,
+   "name": "Cannae",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "211 BCE",
+   "earliest": -210,
+   "era": "classical",
+   "id": "WAR-000014",
+   "latest": -210,
+   "name": "March on Rome (211 BCE)",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "202 BCE",
+   "earliest": -201,
+   "era": "classical",
+   "id": "BAT-000016",
+   "latest": -201,
+   "name": "Zama",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "190 BCE",
+   "earliest": -189,
+   "era": "classical",
+   "id": "BAT-000017",
+   "latest": -189,
+   "name": "Naval battle off Pamphylia",
+   "people": [
+    "PER-000002"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1203",
+   "earliest": 1203,
+   "era": "medieval",
+   "id": "BAT-000033",
+   "latest": 1203,
+   "name": "Defeat of Toghril and the Kereit",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1204",
+   "earliest": 1204,
+   "era": "medieval",
+   "id": "BAT-000034",
+   "latest": 1204,
+   "name": "Defeat of the Naiman",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1205–1209",
+   "earliest": 1205,
+   "era": "medieval",
+   "id": "WAR-000015",
+   "latest": 1209,
+   "name": "Subjugation of Xi Xia",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1211–1234",
+   "earliest": 1211,
+   "era": "medieval",
+   "id": "WAR-000016",
+   "latest": 1234,
+   "name": "War against the Jin",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "1215",
+   "earliest": 1215,
+   "era": "medieval",
+   "id": "BAT-000035",
+   "latest": 1215,
+   "name": "Fall of Zhongdu",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1218–1221",
+   "earliest": 1218,
+   "era": "medieval",
+   "id": "WAR-000017",
+   "latest": 1221,
+   "name": "Invasion of Khwarazm",
+   "people": [
+    "PER-000006",
+    "PER-000007"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1219–1220",
+   "earliest": 1219,
+   "era": "medieval",
+   "id": "BAT-000036",
+   "latest": 1220,
+   "name": "Capture of Otrar",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1220–1223",
+   "earliest": 1220,
+   "era": "medieval",
+   "id": "WAR-000018",
+   "latest": 1223,
+   "name": "Western raid of Jebe and Subutai",
+   "people": [
+    "PER-000007"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1221",
+   "earliest": 1221,
+   "era": "medieval",
+   "id": "BAT-000037",
+   "latest": 1221,
+   "name": "Battle of the Indus",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "May 1223",
+   "earliest": 1223,
+   "era": "medieval",
+   "id": "BAT-000039",
+   "latest": 1223,
+   "name": "Kalka River",
+   "people": [
+    "PER-000007"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "1227",
+   "earliest": 1227,
+   "era": "medieval",
+   "id": "BAT-000038",
+   "latest": 1227,
+   "name": "Siege of Zhongxing",
+   "people": [
+    "PER-000006"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "1232–1233",
+   "earliest": 1232,
+   "era": "medieval",
+   "id": "BAT-000040",
+   "latest": 1233,
+   "name": "Siege of Kaifeng",
+   "people": [
+    "PER-000007"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "C",
+   "display": "c. 1235",
+   "earliest": 1235,
+   "era": "medieval",
+   "id": "BAT-000018",
+   "latest": 1235,
+   "name": "Kirina",
+   "people": [
+    "PER-000003"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1236–1242",
+   "earliest": 1236,
+   "era": "medieval",
+   "id": "WAR-000019",
+   "latest": 1242,
+   "name": "Great western campaign",
+   "people": [
+    "PER-000007",
+    "PER-000008"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "December 1237",
+   "earliest": 1237,
+   "era": "medieval",
+   "id": "BAT-000041",
+   "latest": 1237,
+   "name": "Fall of Ryazan",
+   "people": [
+    "PER-000007"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "March 1238",
+   "earliest": 1238,
+   "era": "medieval",
+   "id": "BAT-000042",
+   "latest": 1238,
+   "name": "Sit River",
+   "people": [
+    "PER-000007"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "April 1241",
+   "earliest": 1241,
+   "era": "medieval",
+   "id": "BAT-000043",
+   "latest": 1241,
+   "name": "Mohi (Sajó River)",
+   "people": [
+    "PER-000007"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "February 1250",
+   "earliest": 1250,
+   "era": "medieval",
+   "id": "BAT-000044",
+   "latest": 1250,
+   "name": "Al-Mansurah",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1257–1258",
+   "earliest": 1257,
+   "era": "medieval",
+   "id": "WAR-000021",
+   "latest": 1258,
+   "name": "First Mongol invasion of Đại Việt",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "3 September 1260",
+   "earliest": 1260,
+   "era": "medieval",
+   "id": "BAT-000045",
+   "latest": 1260,
+   "name": "Ain Jalut",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1263–1271",
+   "earliest": 1263,
+   "era": "medieval",
+   "id": "WAR-000020",
+   "latest": 1271,
+   "name": "Campaigns against the crusader states",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1266",
+   "earliest": 1266,
+   "era": "medieval",
+   "id": "BAT-000046",
+   "latest": 1266,
+   "name": "Fall of Safed",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1266",
+   "earliest": 1266,
+   "era": "medieval",
+   "id": "BAT-000047",
+   "latest": 1266,
+   "name": "Invasion of Cilician Armenia",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1268",
+   "earliest": 1268,
+   "era": "medieval",
+   "id": "BAT-000048",
+   "latest": 1268,
+   "name": "Fall of Antioch",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "C",
+   "display": "1270 or 1271",
+   "earliest": 1270,
+   "era": "medieval",
+   "id": "BAT-000049",
+   "latest": 1271,
+   "name": "Krak des Chevaliers",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "C",
+   "display": "1277",
+   "earliest": 1277,
+   "era": "medieval",
+   "id": "BAT-000050",
+   "latest": 1277,
+   "name": "Invasion of Anatolia",
+   "people": [
+    "PER-000008"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1284–1285",
+   "earliest": 1284,
+   "era": "medieval",
+   "id": "WAR-000022",
+   "latest": 1285,
+   "name": "Second Mongol-Yuan invasion of Đại Việt",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "1285",
+   "earliest": 1285,
+   "era": "medieval",
+   "id": "BAT-000051",
+   "latest": 1285,
+   "name": "Chương Dương",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "1285",
+   "earliest": 1285,
+   "era": "medieval",
+   "id": "BAT-000052",
+   "latest": 1285,
+   "name": "Tây Kết",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "1287–1288",
+   "earliest": 1287,
+   "era": "medieval",
+   "id": "BAT-000053",
+   "latest": 1288,
+   "name": "Capture of the Yuan supply fleet",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1287–1288",
+   "earliest": 1287,
+   "era": "medieval",
+   "id": "WAR-000023",
+   "latest": 1288,
+   "name": "Third Mongol-Yuan invasion of Đại Việt",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "1288",
+   "earliest": 1288,
+   "era": "medieval",
+   "id": "BAT-000054",
+   "latest": 1288,
+   "name": "Bạch Đằng River",
+   "people": [
+    "PER-000009"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1383–1394",
+   "earliest": 1383,
+   "era": "medieval",
+   "id": "WAR-000024",
+   "latest": 1394,
+   "name": "Conquest of Persia",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1385–1395",
+   "earliest": 1385,
+   "era": "medieval",
+   "id": "WAR-000025",
+   "latest": 1395,
+   "name": "Wars against Tokhtamysh",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1395",
+   "earliest": 1395,
+   "era": "medieval",
+   "id": "BAT-000055",
+   "latest": 1395,
+   "name": "Battle of 1395 against Tokhtamysh",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "17 December 1398",
+   "earliest": 1398,
+   "era": "medieval",
+   "id": "BAT-000056",
+   "latest": 1398,
+   "name": "Defeat of the Delhi sultan's army",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1398–1399",
+   "earliest": 1398,
+   "era": "medieval",
+   "id": "WAR-000026",
+   "latest": 1399,
+   "name": "Invasion of India",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "1400",
+   "earliest": 1400,
+   "era": "medieval",
+   "id": "BAT-000057",
+   "latest": 1400,
+   "name": "Sack of Aleppo",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1401",
+   "earliest": 1401,
+   "era": "medieval",
+   "id": "BAT-000058",
+   "latest": 1401,
+   "name": "Occupation of Damascus",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1401",
+   "earliest": 1401,
+   "era": "medieval",
+   "id": "BAT-000059",
+   "latest": 1401,
+   "name": "Sack of Baghdad",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "July 1402",
+   "earliest": 1402,
+   "era": "medieval",
+   "id": "BAT-000060",
+   "latest": 1402,
+   "name": "Ankara",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1404–1405",
+   "earliest": 1404,
+   "era": "medieval",
+   "id": "WAR-000027",
+   "latest": 1405,
+   "name": "Planned invasion of China",
+   "people": [
+    "PER-000010"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "29 April – 8 May 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000001",
+   "latest": 1429,
+   "name": "Siege of Orléans (relief)",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "11–12 June 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000002",
+   "latest": 1429,
+   "name": "Jargeau",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "17 June 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000003",
+   "latest": 1429,
+   "name": "Beaugency",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "18 June 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000004",
+   "latest": 1429,
+   "name": "Patay",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "14–15 August 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000005",
+   "latest": 1429,
+   "name": "Montépilloy",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "8 September 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000006",
+   "latest": 1429,
+   "name": "Paris",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "November 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000007",
+   "latest": 1429,
+   "name": "Saint-Pierre-le-Moûtier",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "November–December 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "BAT-000008",
+   "latest": 1429,
+   "name": "La Charité-sur-Loire",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "June 1429",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "WAR-000002",
+   "latest": 1429,
+   "name": "Loire campaign (1429)",
+   "people": [],
+   "type": "war"
+  },
+  {
+   "certainty": "A",
+   "display": "23 May 1430",
+   "earliest": 1430,
+   "era": "medieval",
+   "id": "BAT-000009",
+   "latest": 1430,
+   "name": "Compiègne",
+   "people": [
+    "PER-000001"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "c. 1807–1840s",
+   "earliest": 1807,
+   "era": "modern",
+   "id": "WAR-000009",
+   "latest": 1849,
+   "name": "Musket Wars",
+   "people": [],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "1820",
+   "earliest": 1820,
+   "era": "modern",
+   "id": "BAT-000021",
+   "latest": 1820,
+   "name": "Siege of Te Arawī",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1820–21",
+   "earliest": 1820,
+   "era": "modern",
+   "id": "WAR-000011",
+   "latest": 1821,
+   "name": "Te Heke Tahutahuahi",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "late 1821 or early 1822",
+   "earliest": 1821,
+   "era": "modern",
+   "id": "BAT-000022",
+   "latest": 1822,
+   "name": "Motunui",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "c. 1822",
+   "earliest": 1822,
+   "era": "modern",
+   "id": "BAT-000023",
+   "latest": 1822,
+   "name": "Horowhenua lakes",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "c. 1822–24",
+   "earliest": 1822,
+   "era": "modern",
+   "id": "BAT-000024",
+   "latest": 1824,
+   "name": "Hotuiti",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1822",
+   "earliest": 1822,
+   "era": "modern",
+   "id": "WAR-000012",
+   "latest": 1822,
+   "name": "Te Heke Tātaramoa",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "c. 1824",
+   "earliest": 1824,
+   "era": "modern",
+   "id": "BAT-000025",
+   "latest": 1824,
+   "name": "Waiorua, Kāpiti",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "c. 1827–1833",
+   "earliest": 1827,
+   "era": "modern",
+   "id": "WAR-000013",
+   "latest": 1833,
+   "name": "Te Rauparaha's South Island campaigns",
+   "people": [],
+   "type": "war"
+  },
+  {
+   "certainty": "B",
+   "display": "c. 1828",
+   "earliest": 1828,
+   "era": "modern",
+   "id": "BAT-000026",
+   "latest": 1828,
+   "name": "Hikapu, Pelorus Sound",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "c. 1828–29",
+   "earliest": 1828,
+   "era": "modern",
+   "id": "BAT-000027",
+   "latest": 1829,
+   "name": "First attack on Kaiapoi",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "C",
+   "display": "1830s",
+   "earliest": 1830,
+   "era": "modern",
+   "id": "BAT-000030",
+   "latest": 1839,
+   "name": "Ōraumoaiti and Ōraumoanui",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "1831–32",
+   "earliest": 1831,
+   "era": "modern",
+   "id": "BAT-000028",
+   "latest": 1832,
+   "name": "Kaiapoi siege",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "1832",
+   "earliest": 1832,
+   "era": "modern",
+   "id": "BAT-000029",
+   "latest": 1832,
+   "name": "Ōnawe, Akaroa",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "B",
+   "display": "16 October 1839",
+   "earliest": 1839,
+   "era": "modern",
+   "id": "BAT-000031",
+   "latest": 1839,
+   "name": "Te Kūititanga, Waikanae",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  },
+  {
+   "certainty": "A",
+   "display": "1843",
+   "earliest": 1843,
+   "era": "modern",
+   "id": "BAT-000032",
+   "latest": 1843,
+   "name": "Wairau (1843)",
+   "people": [
+    "PER-000005"
+   ],
+   "type": "battle"
+  }
+ ],
+ "people": [
+  {
+   "certainty": "C",
+   "display": "late 6th–early 5th century BCE (by tradition)",
+   "earliest": -549,
+   "era": "ancient",
+   "id": "PER-000004",
+   "latest": -450,
+   "name": "Sun Tzu",
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "certainty": "B",
+   "display": "221–190 BCE as a commander; Italy 218–203 BCE",
+   "earliest": -220,
+   "era": "classical",
+   "id": "PER-000002",
+   "latest": -189,
+   "name": "Hannibal Barca",
+   "regions": [
+    "Africa",
+    "Europe",
+    "Asia"
+   ]
+  },
+  {
+   "certainty": "B",
+   "display": "c. 1180s–1227; title Chinggis Khan from 1206",
+   "earliest": 1180,
+   "era": "medieval",
+   "id": "PER-000006",
+   "latest": 1227,
+   "name": "Genghis Khan",
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "certainty": "A",
+   "display": "c. 1200s–1240s",
+   "earliest": 1200,
+   "era": "medieval",
+   "id": "PER-000007",
+   "latest": 1249,
+   "name": "Subutai",
+   "regions": [
+    "Asia",
+    "Europe"
+   ]
+  },
+  {
+   "certainty": "C",
+   "display": "c. 1230s–1250s",
+   "earliest": 1230,
+   "era": "medieval",
+   "id": "PER-000003",
+   "latest": 1259,
+   "name": "Sundiata Keita",
+   "regions": [
+    "Africa"
+   ]
+  },
+  {
+   "certainty": "A",
+   "display": "c. 1250–1277; sultan 1260–1277",
+   "earliest": 1250,
+   "era": "medieval",
+   "id": "PER-000008",
+   "latest": 1277,
+   "name": "Baibars",
+   "regions": [
+    "Africa",
+    "Asia"
+   ]
+  },
+  {
+   "certainty": "A",
+   "display": "c. 1250s–1300; supreme commander in 1285 and 1287–88",
+   "earliest": 1250,
+   "era": "medieval",
+   "id": "PER-000009",
+   "latest": 1300,
+   "name": "Trần Hưng Đạo",
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "certainty": "A",
+   "display": "1360s–1405; ruler from c. 1370",
+   "earliest": 1360,
+   "era": "medieval",
+   "id": "PER-000010",
+   "latest": 1405,
+   "name": "Timur",
+   "regions": [
+    "Asia"
+   ]
+  },
+  {
+   "certainty": "A",
+   "display": "1429–1430 (about 13 months in the field)",
+   "earliest": 1429,
+   "era": "medieval",
+   "id": "PER-000001",
+   "latest": 1430,
+   "name": "Joan of Arc",
+   "regions": [
+    "Europe"
+   ]
+  },
+  {
+   "certainty": "A",
+   "display": "c. 1800s–1849; leader of the migration south from c. 1820",
+   "earliest": 1800,
+   "era": "modern",
+   "id": "PER-000005",
+   "latest": 1849,
+   "name": "Te Rauparaha",
+   "regions": [
+    "Pacific"
+   ]
+  }
+ ]
+}

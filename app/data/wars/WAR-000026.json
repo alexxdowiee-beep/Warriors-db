@@ -1,0 +1,90 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 17,
+    "display": "17 December 1398",
+    "earliest": 1398,
+    "latest": 1398,
+    "month": 12,
+    "precision": "day"
+   },
+   "id": "BAT-000056",
+   "kind": "field-battle",
+   "name": "Defeat of the Delhi sultan's army",
+   "result": "Victory"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000047",
+   "name": "Delhi Sultanate",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000049",
+   "name": "Timurid realm",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000100",
+   "role": null
+  }
+ ],
+ "id": "WAR-000026",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Invasion of India",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory; Delhi sacked",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000100",
+   "role": null
+  }
+ ],
+ "primary_name": "Invasion of India",
+ "related_claims": [],
+ "slug": "invasion-of-india",
+ "span": {
+  "certainty": "A",
+  "display": "1398–1399",
+  "earliest": 1398,
+  "latest": 1399,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Invasion of the Delhi Sultanate that destroyed the sultan's army and left Delhi in ruins.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

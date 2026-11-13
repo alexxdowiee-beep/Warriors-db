@@ -1,0 +1,10 @@
+{
+  "regions": [
+    "Africa",
+    "Asia",
+    "Europe",
+    "Americas",
+    "Pacific"
+  ],
+  "note": "Where a person or polity acted. A display classification for filtering, not a historical claim, so it has no grade."
+}

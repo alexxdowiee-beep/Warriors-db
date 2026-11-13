@@ -1,0 +1,102 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000036",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "c. 1822",
+  "earliest": 1822,
+  "latest": 1822,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "id": "BAT-000023",
+ "kind": "unknown",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Horowhenua lakes",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory; massacre",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000036",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000025",
+  "name": "Horowhenua lakes",
+  "type": "place"
+ },
+ "place_id": "PLC-000025",
+ "primary_name": "Horowhenua lakes",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Victory; massacre"
+  },
+  {
+   "commanders": [],
+   "label": "Muaūpoko",
+   "polities": [
+    {
+     "id": "POL-000021",
+     "name": "Muaūpoko",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000021"
+   ]
+  }
+ ],
+ "slug": "horowhenua-lakes-1822",
+ "status": "draft",
+ "summary": "After Muaūpoko tried to kill Te Rauparaha and his family at a feast near Lake Papaitonga, Muaūpoko's lake pā were taken and their people massacred in revenge.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000012",
+  "name": "Te Heke Tātaramoa",
+  "type": "war"
+ },
+ "war_id": "WAR-000012"
+}

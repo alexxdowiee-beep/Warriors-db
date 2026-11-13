@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000049",
+   "name": "Krak des Chevaliers",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000047",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Krak des Chevaliers",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "castle",
+ "primary_name": "Krak des Chevaliers",
+ "slug": "krak-des-chevaliers",
+ "status": "draft",
+ "summary": "Hospitaller castle taken by Baibars in 1270 or 1271.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

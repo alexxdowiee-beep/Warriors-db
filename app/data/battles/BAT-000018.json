@@ -1,0 +1,202 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000040",
+    "CLM-000041"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000026",
+   "role": "Led the Mande coalition"
+  }
+ ],
+ "date": {
+  "certainty": "C",
+  "claim_ids": [
+   "CLM-000042"
+  ],
+  "display": "c. 1235",
+  "earliest": 1235,
+  "latest": 1235,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "id": "BAT-000018",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kirina",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Krina"
+  }
+ ],
+ "outcome": "Decisive victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000040",
+    "CLM-000041"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000026",
+   "role": "Led the Mande coalition"
+  }
+ ],
+ "place": {
+  "id": "PLC-000021",
+  "name": "Kirina",
+  "type": "place"
+ },
+ "place_id": "PLC-000021",
+ "primary_name": "Kirina",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "oral-tradition"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000023",
+     "source_type": "museum",
+     "tier": "reference",
+     "title": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\""
+    },
+    {
+     "access": null,
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000018",
+     "source_type": "oral-tradition",
+     "tier": null,
+     "title": "Mande oral tradition (jeli performances)"
+    },
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000020",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Ibn Khaldun, Kitab al-'Ibar"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (Met) + tradition + Ibn Khaldun (excerpt)",
+   "field": "main_battles",
+   "id": "CLM-000040",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "He defeated Sumanguru Kanté of Sosso",
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "oral-tradition"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": null,
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000018",
+     "source_type": "oral-tradition",
+     "tier": null,
+     "title": "Mande oral tradition (jeli performances)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Tradition; excerpts",
+   "field": "main_battles",
+   "id": "CLM-000041",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The decisive battle was at Kirina",
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "casualties": "unknown",
+   "commander_ids": [
+    "PER-000003"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000003",
+     "name": "Sundiata Keita",
+     "type": "person"
+    }
+   ],
+   "label": "Mande coalition",
+   "polities": [],
+   "result": "Decisive victory",
+   "strength": "unknown"
+  },
+  {
+   "casualties": "unknown",
+   "commanders": [],
+   "label": "Sosso, under Sumanguru Kanté",
+   "polities": [
+    {
+     "id": "POL-000011",
+     "name": "Sosso",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000011"
+   ],
+   "strength": "unknown"
+  }
+ ],
+ "slug": "kirina",
+ "status": "draft",
+ "summary": "Decisive battle on the upper Niger in which Sundiata's Mande coalition defeated the Sosso king Sumanguru Kanté.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000005",
+  "name": "Mande revolt against Sosso rule",
+  "type": "war"
+ },
+ "war_id": "WAR-000005"
+}

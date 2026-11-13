@@ -1,0 +1,59 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "C",
+    "claim_ids": [
+     "CLM-000042"
+    ],
+    "display": "c. 1235",
+    "earliest": 1235,
+    "latest": 1235,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000018",
+   "kind": "field-battle",
+   "name": "Kirina",
+   "result": "Decisive victory"
+  },
+  {
+   "certainty": "C",
+   "date": null,
+   "id": "BAT-000019",
+   "kind": "unknown",
+   "name": "Taking of the Sosso capital",
+   "result": "Victory"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000011",
+   "name": "Sosso",
+   "type": "polity"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000005",
+ "kind": "rebellion",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Mande revolt against Sosso rule",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Mande revolt against Sosso rule",
+ "related_claims": [],
+ "slug": "mande-revolt-against-sosso",
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "The war, led by Sundiata, in which a coalition of Mande chiefdoms and neighbouring rulers overthrew Sosso rule, ending in the decisive victory at Kirina. Tradition also records earlier engagements against Sosso before Kirina, with mixed results (D, tradition only).",
+ "type": "war",
+ "updated": "2026-11-13"
+}

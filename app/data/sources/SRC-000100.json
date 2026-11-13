@@ -1,0 +1,89 @@
+{
+ "bias_notes": "No bias noted.",
+ "certainty": "B",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000100",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur Lang\", Larousse"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000101",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "\"Timur\", World History Encyclopedia"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Excerpts: SRC-000100 (Larousse), SRC-000101 (World History Encyclopedia). Sources added 13 Nov 2026 (user decision).",
+      "field": "career",
+      "id": "CLM-000262",
+      "perspective": [
+       {
+        "id": "POL-000032",
+        "name": "Ottoman Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Captured Sultan Bayezid I at Ankara",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000100",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "\"Timur Lang\", Larousse",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "\"Timur Lang\", Larousse",
+ "publisher": "Larousse",
+ "reliability_notes": "Cited from a search excerpt (Timur doc, TM-C20). URL and date not recorded; grade B until they are.",
+ "reliability_tier": "reference",
+ "slug": "timur-lang-larousse",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "Encyclopaedia entry on Timur.",
+ "title": "Timur Lang",
+ "type": "source",
+ "updated": "2026-11-13"
+}

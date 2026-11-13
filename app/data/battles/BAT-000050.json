@@ -1,0 +1,150 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000199"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000086",
+   "role": "Commander"
+  }
+ ],
+ "date": {
+  "certainty": "C",
+  "display": "1277",
+  "earliest": 1277,
+  "latest": 1277,
+  "precision": "year"
+ },
+ "id": "BAT-000050",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Invasion of Anatolia",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000199"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000086",
+   "role": "Commander"
+  }
+ ],
+ "place": null,
+ "primary_name": "Invasion of Anatolia",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000072",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000073",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Baybars I\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened). Doc grade: A (year C)",
+   "field": "career",
+   "id": "CLM-000199",
+   "perspective": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000008"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "label": "Mamluk Sultanate",
+   "polities": [
+    {
+     "id": "POL-000030",
+     "name": "Mamluk Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000030"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Mongols and Seljuks",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ]
+  }
+ ],
+ "slug": "invasion-of-anatolia",
+ "status": "draft",
+ "summary": "Baibars' invasion of Mongol-dominated Seljuk Anatolia, where he destroyed a Mongol army.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

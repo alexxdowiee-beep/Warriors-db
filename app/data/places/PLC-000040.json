@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000041",
+   "name": "Fall of Ryazan",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000040",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ryazan",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Ryazan",
+ "slug": "ryazan",
+ "status": "draft",
+ "summary": "Capital of the principality of Ryazan, which fell to the Mongols in December 1237.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000038",
+   "name": "Siege of Zhongxing",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000037",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Zhongxing",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Zhongxing",
+ "slug": "zhongxing",
+ "status": "draft",
+ "summary": "Capital of Xi Xia; Chinggis Khan died during its siege in 1227.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

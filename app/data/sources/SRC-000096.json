@@ -1,0 +1,1049 @@
+{
+ "accessed": "2026-11-13",
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11) (opened); SRC-000096 (TM-S12) (opened)",
+      "field": "identity",
+      "id": "CLM-000243",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Timur, of the Turkicised Mongol Barlas tribe of Transoxania, founded the Timurid realm",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11); SRC-000096 (TM-S12)",
+      "field": "active_period",
+      "id": "CLM-000244",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Active 1360s–1405; ruler from c. 1370",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000098",
+        "source_type": "academic-book",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000095 (TM-S11) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "field": "main_battles",
+      "id": "CLM-000245",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Conquered Iran, broke the Golden Horde, sacked Delhi, invaded Syria and defeated the Ottomans at Ankara",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000247",
+       "CLM-000267"
+      ],
+      "bias_flags": [
+       "patron-bias"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000095 (TM-S11) (opened)",
+      "field": "birth",
+      "id": "CLM-000246",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born in 1336 (Timurid tradition)",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); excerpts",
+      "field": "death",
+      "id": "CLM-000248",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died at Otrar in February 1405",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11); SRC-000096 (TM-S12)",
+      "field": "identity",
+      "id": "CLM-000249",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was not a descendant of Genghis Khan; his dynasty later built a descent myth",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000250",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Eliminated Amir Husayn and became ruler at Samarkand, c. 1370",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000251",
+      "perspective": [
+       {
+        "id": "POL-000054",
+        "name": "Iran",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Conquered Iran 1383–1394 and crushed revolts with massacres and skull towers",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000098",
+        "source_type": "academic-book",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "field": "career",
+      "id": "CLM-000252",
+      "perspective": [
+       {
+        "id": "POL-000028",
+        "name": "Golden Horde",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000253",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Site of the 1395 battle: the Terek (standard) or the Kur (Britannica)",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); standard accounts disagree",
+      "field": "career",
+      "id": "CLM-000254",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Occupied Moscow in 1395",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); excerpts (Larousse, World History Encyclopedia)",
+      "field": "career",
+      "id": "CLM-000255",
+      "perspective": [
+       {
+        "id": "POL-000047",
+        "name": "Delhi Sultanate",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sacked Delhi in December 1398",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000256",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Site of the 1398 battle: Panipat (Britannica) or outside Delhi",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000257",
+      "perspective": [
+       {
+        "id": "POL-000030",
+        "name": "Mamluk Sultanate",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000259",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Stormed Baghdad in 1401",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "career",
+      "id": "CLM-000260",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "20,000 people were massacred at Baghdad",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000098",
+        "source_type": "academic-book",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "field": "career",
+      "id": "CLM-000261",
+      "perspective": [
+       {
+        "id": "POL-000032",
+        "name": "Ottoman Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated the Ottoman army near Ankara in July 1402",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "evidence",
+      "id": "CLM-000263",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "His 1941 exhumation showed a powerfully built man lame on the right side",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000054 (TM-S15) (opened)",
+      "field": "legacy",
+      "id": "CLM-000264",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "His descendant Babur founded the Mughal dynasty",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "field": "legacy",
+      "id": "CLM-000265",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "His sons and grandsons fought over the succession; no orderly system existed",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: A Barlas, not a Chinggisid; the descent myth was built later by his dynasty (Manz; Britannica)",
+      "field": "myth",
+      "id": "CLM-000268",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was descended from Genghis Khan",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Misleading (A). Evidence: A European form of Timur-i Lang, \"Timur the Lame\", a contemptuous byname used by Persian enemies (Britannica)",
+      "field": "myth",
+      "id": "CLM-000269",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "\"Tamerlane\" was his name",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: He died at Otrar at the start of the campaign (Britannica)",
+      "field": "myth",
+      "id": "CLM-000270",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He conquered China",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Legend (C). Evidence: The tomb was opened in 1941 (Britannica); the curse story is folklore and no evidence supports any link",
+      "field": "myth",
+      "id": "CLM-000271",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Opening his tomb in 1941 brought a curse that started the German invasion of the USSR",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Oversimplified (B). Evidence: His Barlas tribe was of Mongol origin but Turkicised; he spoke Turkic and ruled through Persian culture (Britannica)",
+      "field": "myth",
+      "id": "CLM-000273",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was a Mongol",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000096",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "\"Timur\", Encyclopaedia Britannica",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "\"Timur\", Encyclopaedia Britannica",
+ "publisher": "Encyclopaedia Britannica",
+ "reliability_notes": "Opened in full, 13 Nov 2026. Disagrees with standard accounts on the 1395 battle site (Kur) and on Moscow.",
+ "reliability_tier": "reference",
+ "slug": "timur-encyclopaedia-britannica",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "Encyclopaedia entry on Timur.",
+ "title": "Timur",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.britannica.com/topic/Timur"
+}

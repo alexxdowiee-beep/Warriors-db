@@ -1,0 +1,155 @@
+{
+ "authors": [
+  "Stephen Pow",
+  "Jingjing Liao"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000063",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000063 (SB-S10) (via-secondary)",
+      "field": "origins",
+      "id": "CLM-000170",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "His family was tied to Chinggis Khan's ancestors for generations",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000063",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Unsupported (D). Evidence: Repeated in a popular modern history; Pow and Liao suggest descriptions of someone else were attached to him (excerpts)",
+      "field": "myth",
+      "id": "CLM-000175",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was so obese he was carried in an iron cart",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000063",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Official sources link his family to Chinggis Khan's ancestors for generations (Pow and Liao, via citing works)",
+      "field": "myth",
+      "id": "CLM-000176",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was a reindeer-herding outsider who rose from nothing",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000058",
+   "name": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000063",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+ "publisher": "Journal of Chinese Military History 7.1, pp. 37–76",
+ "reliability_notes": "Not opened: known from citing works. The doc's first source to obtain.",
+ "reliability_tier": "scholarly",
+ "slug": "stephen-pow-and-jingjing-liao-subutai-sorting-fact-from-fiction",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Study with full translations of both Yuan-era biographies of Subutai.",
+ "title": "Subutai: Sorting Fact from Fiction",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 2018
+}

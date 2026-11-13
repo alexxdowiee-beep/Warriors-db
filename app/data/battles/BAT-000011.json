@@ -1,0 +1,110 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000017",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "218 BCE",
+  "earliest": -217,
+  "latest": -217,
+  "precision": "year"
+ },
+ "id": "BAT-000011",
+ "kind": "skirmish",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ticinus",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000017",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000013",
+  "name": "Ticinus",
+  "type": "place"
+ },
+ "place_id": "PLC-000013",
+ "primary_name": "Ticinus",
+ "related_claims": [],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000002"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "label": "Carthage",
+   "polities": [
+    {
+     "id": "POL-000004",
+     "name": "Carthage",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000004"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Rome, under P. Cornelius Scipio",
+   "polities": [
+    {
+     "id": "POL-000005",
+     "name": "Rome",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000005"
+   ]
+  }
+ ],
+ "slug": "ticinus",
+ "status": "draft",
+ "summary": "Cavalry action won by Hannibal against P. Cornelius Scipio.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000004",
+  "name": "Second Punic War",
+  "type": "war"
+ },
+ "war_id": "WAR-000004"
+}

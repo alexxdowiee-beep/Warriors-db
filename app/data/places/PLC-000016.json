@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000014",
+   "name": "Cannae",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000016",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Cannae",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Cannae",
+ "slug": "cannae",
+ "status": "draft",
+ "summary": "Scene of Hannibal's victory over the largest army Rome had fielded, 216 BCE.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

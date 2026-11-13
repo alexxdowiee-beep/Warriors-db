@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000017",
+   "name": "Naval battle off Pamphylia",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000019",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Pamphylia",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Pamphylia",
+ "slug": "pamphylia",
+ "status": "draft",
+ "summary": "A naval battle was fought off Pamphylia in 190 BCE.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

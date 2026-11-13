@@ -1,0 +1,26 @@
+{
+ "authors": [
+  "Silenus",
+  "Sosylus",
+  "Hannibal"
+ ],
+ "bias_notes": "Unknown: the works are lost.",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "3rd–2nd c. BCE",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000014",
+ "opened": false,
+ "primary_name": "Silenus, Sosylus, and Hannibal's own writings",
+ "reliability_notes": "Lost; known only by mention (Nepos 13).",
+ "reliability_tier": null,
+ "slug": "silenus-sosylus-hannibal-writings",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Accounts by two Greek writers in Hannibal's camp, and books Hannibal wrote in Greek; all lost.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

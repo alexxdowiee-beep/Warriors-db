@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Beatrice Forbes Manz"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000097",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Beatrice Forbes Manz, The Rise and Rule of Tamerlane",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Beatrice Forbes Manz, The Rise and Rule of Tamerlane",
+ "publisher": "Cambridge",
+ "reliability_notes": "Not opened (reviews only).",
+ "reliability_tier": "scholarly",
+ "slug": "beatrice-forbes-manz-the-rise-and-rule-of-tamerlane",
+ "source_type": "academic-book",
+ "status": "draft",
+ "summary": "Monograph on Timur's rise and rule.",
+ "title": "The Rise and Rule of Tamerlane",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 1989
+}

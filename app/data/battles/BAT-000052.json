@@ -1,0 +1,145 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000221"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000091",
+   "role": "His forces"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1285",
+  "earliest": 1285,
+  "latest": 1285,
+  "precision": "year"
+ },
+ "id": "BAT-000052",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Tây Kết",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory; Sogetu killed",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000221"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000091",
+   "role": "His forces"
+  }
+ ],
+ "place": {
+  "id": "PLC-000049",
+  "name": "Tây Kết",
+  "type": "place"
+ },
+ "place_id": "PLC-000049",
+ "primary_name": "Tây Kết",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000084",
+     "source_type": "other",
+     "tier": "aggregator",
+     "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000084 (TH-S10)",
+   "field": "career",
+   "id": "CLM-000221",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "In 1285 the Yuan vanguard was destroyed at Tây Kết and Sogetu killed",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000009"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "label": "Trần Hưng Đạo's forces",
+   "polities": [
+    {
+     "id": "POL-000046",
+     "name": "Đại Việt",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000046"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Yuan vanguard",
+   "polities": [
+    {
+     "id": "POL-000029",
+     "name": "Yuan dynasty",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000029"
+   ]
+  }
+ ],
+ "slug": "tay-ket",
+ "status": "draft",
+ "summary": "Destruction of the isolated Yuan vanguard; the Yuan generals Sogetu and Li Heng were killed.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000022",
+  "name": "Second Mongol-Yuan invasion of Đại Việt",
+  "type": "war"
+ },
+ "war_id": "WAR-000022"
+}

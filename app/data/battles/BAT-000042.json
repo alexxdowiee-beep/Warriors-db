@@ -1,0 +1,143 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000166"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000075",
+   "role": "Part of Batu's army (his exact role unclear)"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "March 1238",
+  "earliest": 1238,
+  "latest": 1238,
+  "month": 3,
+  "precision": "month"
+ },
+ "id": "BAT-000042",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Sit River",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000166"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000075",
+   "role": "Part of Batu's army (his exact role unclear)"
+  }
+ ],
+ "place": {
+  "id": "PLC-000041",
+  "name": "Sit River",
+  "type": "place"
+ },
+ "place_id": "PLC-000041",
+ "primary_name": "Sit River",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000166",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Batu's army",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Vladimir-Suzdal",
+   "polities": [
+    {
+     "id": "POL-000039",
+     "name": "Vladimir-Suzdal",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000039"
+   ]
+  }
+ ],
+ "slug": "sit-river",
+ "status": "draft",
+ "summary": "Defeat and death of Grand Prince Yuri II of Vladimir.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000019",
+  "name": "Great western campaign",
+  "type": "war"
+ },
+ "war_id": "WAR-000019"
+}

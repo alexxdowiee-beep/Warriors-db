@@ -1,0 +1,156 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000261"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000105",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "July 1402",
+  "earliest": 1402,
+  "latest": 1402,
+  "month": 7,
+  "precision": "month"
+ },
+ "id": "BAT-000060",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ankara",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory; Bayezid I captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000261"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000105",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000054",
+  "name": "Ankara",
+  "type": "place"
+ },
+ "place_id": "PLC-000054",
+ "primary_name": "Ankara",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000098",
+     "source_type": "academic-book",
+     "tier": "scholarly",
+     "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+   "field": "career",
+   "id": "CLM-000261",
+   "perspective": [
+    {
+     "id": "POL-000032",
+     "name": "Ottoman Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Defeated the Ottoman army near Ankara in July 1402",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000010"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "label": "Timurid realm",
+   "polities": [
+    {
+     "id": "POL-000049",
+     "name": "Timurid realm",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000049"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Ottoman Empire under Bayezid I",
+   "polities": [
+    {
+     "id": "POL-000032",
+     "name": "Ottoman Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000032"
+   ]
+  }
+ ],
+ "slug": "ankara",
+ "status": "draft",
+ "summary": "Timur destroyed the Ottoman army near Ankara and took Sultan Bayezid I prisoner.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": null
+}

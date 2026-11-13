@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000046",
+   "name": "Fall of Safed",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000044",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Knights Templar",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "other",
+ "primary_name": "Knights Templar",
+ "slug": "knights-templar",
+ "status": "draft",
+ "summary": "Military order whose fortress of Safed fell to Baibars in 1266.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,213 @@
+{
+ "bias_notes": "Celebrates the Chinggisid line; epic and literary in style (patron-bias).",
+ "certainty": "B",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000046",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "The Secret History of the Mongols"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+      "field": "title",
+      "id": "CLM-000125",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Proclaimed Chinggis Khan in 1206",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000046",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "The Secret History of the Mongols"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+      "field": "death",
+      "id": "CLM-000134",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died in 1227 during the siege of Zhongxing",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000046",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "The Secret History of the Mongols"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: The *Secret History*'s account; other sources give different causes",
+      "field": "myth",
+      "id": "CLM-000154",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He died after falling from his horse",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  },
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000046",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "The Secret History of the Mongols"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000046 (SB-S02) (excerpt)",
+      "field": "evidence",
+      "id": "CLM-000172",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "The *Secret History* names him among Temüjin's four \"hounds\"",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "13th c. (exact date debated)",
+ "derived_by": [
+  {
+   "id": "SRC-000053",
+   "name": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000046",
+ "language": "Mongolian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "The Secret History of the Mongols",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "The Secret History of the Mongols",
+ "reliability_notes": "Written within the ruling family's circle; exact date debated. Doc access: via May (GK-S09) and excerpts. Rashid al-Din (GK-S03) drew on some of the same Mongol material.",
+ "reliability_tier": null,
+ "slug": "the-secret-history-of-the-mongols",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Anonymous Mongol-language chronicle of Temüjin's rise, the only account in Mongolian.",
+ "title": "The Secret History of the Mongols",
+ "type": "source",
+ "updated": "2026-11-13"
+}

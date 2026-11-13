@@ -1,0 +1,52 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000052",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Uzbekistan",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "nationalist-reinterpretation"
+   ],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "interpretation",
+   "evidence_status": "none opened",
+   "field": "legacy",
+   "id": "CLM-000266",
+   "perspective": [
+    {
+     "id": "POL-000052",
+     "name": "Uzbekistan",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Modern Uzbekistan celebrates him as a national founder",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "primary_name": "Uzbekistan",
+ "slug": "uzbekistan",
+ "status": "draft",
+ "summary": "The modern state of Uzbekistan. Used as a perspective: Timur as a national founding hero.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

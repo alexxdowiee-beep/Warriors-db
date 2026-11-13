@@ -1,0 +1,127 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1266",
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year"
+   },
+   "id": "BAT-000046",
+   "kind": "siege",
+   "name": "Fall of Safed",
+   "result": "Captured"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1268",
+    "earliest": 1268,
+    "latest": 1268,
+    "precision": "year"
+   },
+   "id": "BAT-000048",
+   "kind": "siege",
+   "name": "Fall of Antioch",
+   "result": "Captured; city destroyed"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "C",
+    "display": "1270 or 1271",
+    "earliest": 1270,
+    "latest": 1271,
+    "precision": "year",
+    "qualifier": "between"
+   },
+   "id": "BAT-000049",
+   "kind": "siege",
+   "name": "Krak des Chevaliers",
+   "result": "Captured"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000030",
+   "name": "Mamluk Sultanate",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000042",
+   "name": "Principality of Antioch",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000044",
+   "name": "Knights Templar",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000045",
+   "name": "Knights Hospitaller",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000081",
+   "role": "Sultan and commander"
+  }
+ ],
+ "id": "WAR-000020",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Campaigns against the crusader states",
+   "preferred": true
+  }
+ ],
+ "outcome": "Most inland fortresses taken",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000081",
+   "role": "Sultan and commander"
+  }
+ ],
+ "primary_name": "Campaigns against the crusader states",
+ "related_claims": [],
+ "slug": "campaigns-against-the-crusader-states",
+ "span": {
+  "certainty": "A",
+  "display": "1263–1271",
+  "earliest": 1263,
+  "latest": 1271,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Baibars' annual campaigns against the Kingdom of Jerusalem, the County of Tripoli, the Principality of Antioch and the military orders, which reduced the crusader states to a strip of coast.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

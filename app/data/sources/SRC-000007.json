@@ -1,0 +1,306 @@
+{
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (Britannica, Williamson)",
+      "field": "birth",
+      "id": "CLM-000001",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Born c. 1412 in Domrémy",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "main_battles",
+      "id": "CLM-000005",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Orléans siege lifted 8 May 1429",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened",
+      "field": "death",
+      "id": "CLM-000016",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Executed as a relapsed heretic, 30 May 1431",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened + search excerpts",
+      "field": "legacy",
+      "id": "CLM-000018",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Canonised 16 May 1920",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: 'the best-documented commoner of the Middle Ages'; recorded in two trials. Cited: Britannica and Williamson (birth and family), McGrady (the trials).",
+      "field": "identity",
+      "id": "CLM-000113",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "start: relief of Orléans",
+        "source_id": "SRC-000007",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "start and end",
+        "source_id": "SRC-000006",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "Allen Williamson, \"Biography of Joan of Arc\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "end: capture at Compiègne",
+        "source_id": "SRC-000005",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: Active 1429–1430 (grade A, user decision 13 Nov 2026). Start: relief of Orléans (Britannica, Williamson); end: capture at Compiègne (McGrady, Williamson).",
+      "field": "active_period",
+      "id": "CLM-000114",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active as a military leader from April 1429 to May 1430",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "start: relief of Orléans"
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000007",
+ "opened": true,
+ "primary_name": "\"Saint Joan of Arc\", Encyclopaedia Britannica",
+ "publisher": "Encyclopaedia Britannica",
+ "reliability_notes": "Reputable reference; used for basic dates. Only the free summary was read (paywalled).",
+ "reliability_tier": "reference",
+ "slug": "britannica-saint-joan-of-arc",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "Encyclopaedia entry on Joan of Arc.",
+ "title": "Saint Joan of Arc",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.britannica.com:443/biography/Saint-Joan-of-Arc"
+}

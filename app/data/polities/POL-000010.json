@@ -1,0 +1,65 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000039"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "founded_by",
+   "relationship_id": "REL-000024",
+   "role": null
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000039"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "ruled_by",
+   "relationship_id": "REL-000051",
+   "role": "Founder-king in tradition and in Ibn Khaldun; his title (mansa) and the succession are disputed"
+  }
+ ],
+ "id": "POL-000010",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Mali Empire",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Manden"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000003",
+   "name": "Sundiata Keita",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "polity_type": "empire",
+ "primary_name": "Mali Empire",
+ "slug": "mali-empire",
+ "status": "draft",
+ "summary": "Empire founded in the 13th century after Sundiata's victory over the Sosso; later famous under Mansa Musa.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

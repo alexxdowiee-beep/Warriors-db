@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000022",
+   "name": "Motunui",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000024",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Motunui",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Motunui",
+ "slug": "motunui",
+ "status": "draft",
+ "summary": "Where a pursuing Waikato force was defeated in late 1821 or early 1822.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

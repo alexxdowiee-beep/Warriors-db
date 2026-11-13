@@ -1,0 +1,30 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000033",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ōtaki",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000005",
+   "name": "Te Rauparaha",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Ōtaki",
+ "slug": "otaki",
+ "status": "draft",
+ "summary": "Where Te Rauparaha died in 1849; he was buried near Rangiātea church.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

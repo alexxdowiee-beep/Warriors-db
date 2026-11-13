@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000006",
+   "name": "Paris",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000008",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Paris",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Paris",
+ "slug": "paris",
+ "status": "draft",
+ "summary": "Under Anglo-Burgundian control from 1418; Joan of Arc's attack on it failed in September 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

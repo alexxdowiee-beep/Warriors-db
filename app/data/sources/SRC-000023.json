@@ -1,0 +1,133 @@
+{
+ "accessed": "2026-11-12",
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000023",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000020",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ibn Khaldun, Kitab al-'Ibar"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Met) + Ibn Khaldun via excerpts; both chains rest partly on Mande memory",
+      "field": "identity",
+      "id": "CLM-000039",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sundiata existed and founded Mali's power",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000023",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\""
+       },
+       {
+        "access": null,
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000018",
+        "source_type": "oral-tradition",
+        "tier": null,
+        "title": "Mande oral tradition (jeli performances)"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000020",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ibn Khaldun, Kitab al-'Ibar"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Met) + tradition + Ibn Khaldun (excerpt)",
+      "field": "main_battles",
+      "id": "CLM-000040",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "He defeated Sumanguru Kanté of Sosso",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000023",
+ "opened": true,
+ "primary_name": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\"",
+ "publisher": "Metropolitan Museum of Art, Heilbrunn Timeline",
+ "reliability_tier": "reference",
+ "slug": "met-mali-empire",
+ "source_type": "museum",
+ "status": "draft",
+ "summary": "Heilbrunn Timeline of Art History essay on the Mali Empire.",
+ "title": "The Empires of the Western Sudan: Mali Empire",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.metmuseum.org/essays/the-empires-of-the-western-sudan-mali-empire",
+ "year": 2000
+}

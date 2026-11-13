@@ -1,0 +1,26 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "D",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000006",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Western campaigns under Tiramakhan Traoré",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Western campaigns under Tiramakhan Traoré",
+ "related_claims": [],
+ "slug": "western-campaigns-tiramakhan-traore",
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Expedition to kingdoms in the west after Kirina, associated in tradition with Sundiata's commander Tiramakhan Traoré. Regional traditions with their own interest in claiming a link to the founder.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

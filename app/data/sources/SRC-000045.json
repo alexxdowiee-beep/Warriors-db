@@ -1,0 +1,76 @@
+{
+ "authors": [
+  "William Shakespeare"
+ ],
+ "bias_notes": "Fiction based on hostile sources.",
+ "certainty": "B",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "not-opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "E",
+      "citations": [
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000045",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "William Shakespeare, Henry VI, Part 1"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Fiction (E). Evidence: From Shakespeare's Henry VI, Part 1, based on hostile sources",
+      "field": "myth",
+      "id": "CLM-000091",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "She claimed to be pregnant to escape death",
+      "subject": {
+       "id": "PER-000001",
+       "name": "Joan of Arc",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000045",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "William Shakespeare, Henry VI, Part 1",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "William Shakespeare, Henry VI, Part 1",
+ "reliability_notes": "Grade B: authorship is partly disputed (possible collaboration); date not given in the pilot doc.",
+ "reliability_tier": "popular",
+ "slug": "shakespeare-henry-vi-part-1",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "History play in which Joan claims to be pregnant to escape death.",
+ "title": "Henry VI, Part 1",
+ "type": "source",
+ "updated": "2026-11-13"
+}

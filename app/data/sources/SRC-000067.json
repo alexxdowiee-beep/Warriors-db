@@ -1,0 +1,37 @@
+{
+ "authors": [
+  "Ibn Shaddad"
+ ],
+ "bias_notes": "patron-bias.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [
+  {
+   "id": "SRC-000068",
+   "name": "Later Mamluk historians (e.g. al-Maqrizi)",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000067",
+ "language": "Arabic",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ibn Shaddad, life of al-Zahir Baybars",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ibn Shaddad, life of al-Zahir Baybars",
+ "reliability_notes": "Late 13th c. Not opened.",
+ "reliability_tier": null,
+ "slug": "ibn-shaddad-life-of-al-zahir-baybars",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Life of the sultan by a Syrian official historian.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

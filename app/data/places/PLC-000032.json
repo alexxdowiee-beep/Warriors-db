@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000032",
+   "name": "Wairau (1843)",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000032",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Wairau plains",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Wairau plains",
+ "slug": "wairau",
+ "status": "draft",
+ "summary": "Where the 1843 survey was stopped and the Wairau fighting took place.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

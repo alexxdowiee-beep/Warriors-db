@@ -1,0 +1,66 @@
+{
+ "battles": [],
+ "belligerents": [],
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000030",
+   "role": "Adviser, per Shiji"
+  }
+ ],
+ "id": "WAR-000008",
+ "kind": "campaign",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "preferred": true
+  }
+ ],
+ "parent_war": {
+  "id": "WAR-000007",
+  "name": "Wars between Wu and Chu",
+  "type": "war"
+ },
+ "parent_war_id": "WAR-000007",
+ "people": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000030",
+   "role": "Adviser, per Shiji"
+  }
+ ],
+ "primary_name": "Wu campaign against Chu (Shu), 512 BCE",
+ "related_claims": [],
+ "slug": "wu-campaign-against-chu-512-bce",
+ "span": {
+  "certainty": "B",
+  "display": "512 BCE",
+  "earliest": -511,
+  "latest": -511,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Wu campaign against Chu in 512 BCE, during which Sima Qian says Sun Wu advised that the army was exhausted.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

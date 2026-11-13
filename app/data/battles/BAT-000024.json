@@ -1,0 +1,102 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000037",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "c. 1822–24",
+  "earliest": 1822,
+  "latest": 1824,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "id": "BAT-000024",
+ "kind": "massacre",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Hotuiti",
+   "preferred": true
+  }
+ ],
+ "outcome": "Killing after false peace offer",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000037",
+   "role": null
+  }
+ ],
+ "place": {
+  "id": "PLC-000026",
+  "name": "Hotuiti",
+  "type": "place"
+ },
+ "place_id": "PLC-000026",
+ "primary_name": "Hotuiti",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Ngāti Toa",
+   "polities": [
+    {
+     "id": "POL-000015",
+     "name": "Ngāti Toa Rangatira",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000015"
+   ],
+   "result": "Killing after false peace offer"
+  },
+  {
+   "commanders": [],
+   "label": "Rangitāne",
+   "polities": [
+    {
+     "id": "POL-000022",
+     "name": "Rangitāne",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000022"
+   ]
+  }
+ ],
+ "slug": "hotuiti",
+ "status": "draft",
+ "summary": "Rangitāne people were killed at Hotuiti after a false offer of peace.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000012",
+  "name": "Te Heke Tātaramoa",
+  "type": "war"
+ },
+ "war_id": "WAR-000012"
+}

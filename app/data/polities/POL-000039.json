@@ -1,0 +1,29 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000042",
+   "name": "Sit River",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000039",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Vladimir-Suzdal",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Vladimir-Suzdal",
+ "slug": "vladimir-suzdal",
+ "status": "draft",
+ "summary": "Rus' principality whose grand prince, Yuri II, was killed at the Sit River in 1238.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

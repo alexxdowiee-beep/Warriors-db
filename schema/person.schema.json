@@ -122,6 +122,9 @@
       "items": {
         "$ref": "common.schema.json#/$defs/claimId"
       }
+    },
+    "regions": {
+      "$ref": "common.schema.json#/$defs/regions"
     }
   },
   "required": [

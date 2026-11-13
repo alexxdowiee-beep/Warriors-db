@@ -1,0 +1,163 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000161"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000071",
+   "role": "Co-commander"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "May 1223",
+  "earliest": 1223,
+  "latest": 1223,
+  "month": 5,
+  "precision": "month"
+ },
+ "id": "BAT-000039",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kalka River",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000161"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000071",
+   "role": "Co-commander"
+  }
+ ],
+ "place": {
+  "id": "PLC-000038",
+  "name": "Kalka River",
+  "type": "place"
+ },
+ "place_id": "PLC-000038",
+ "primary_name": "Kalka River",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [
+    "CLM-000162"
+   ],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "abstract",
+     "source_id": "SRC-000062",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened); SRC-000062 (SB-S09) (opened, abstract)",
+   "field": "career",
+   "id": "CLM-000161",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000007"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "label": "Mongols under Jebe and Subutai",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Rus' princes and Qipchaqs",
+   "polities": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000037"
+   ]
+  }
+ ],
+ "slug": "kalka-river",
+ "status": "draft",
+ "summary": "Catastrophic defeat of a combined Rus' and Qipchaq army by Jebe and Subutai; two princes named Mstislav died.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000018",
+  "name": "Western raid of Jebe and Subutai",
+  "type": "war"
+ },
+ "war_id": "WAR-000018"
+}

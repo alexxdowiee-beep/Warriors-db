@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000007",
+   "name": "Saint-Pierre-le-Moûtier",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000009",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Saint-Pierre-le-Moûtier",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Saint-Pierre-le-Moûtier",
+ "slug": "saint-pierre-le-moutier",
+ "status": "draft",
+ "summary": "Taken by the French in November 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

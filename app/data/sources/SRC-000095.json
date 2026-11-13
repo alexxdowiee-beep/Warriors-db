@@ -1,0 +1,433 @@
+{
+ "accessed": "2026-11-13",
+ "authors": [
+  "Beatrice Forbes Manz"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11) (opened); SRC-000096 (TM-S12) (opened)",
+      "field": "identity",
+      "id": "CLM-000243",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Timur, of the Turkicised Mongol Barlas tribe of Transoxania, founded the Timurid realm",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11); SRC-000096 (TM-S12)",
+      "field": "active_period",
+      "id": "CLM-000244",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Active 1360s–1405; ruler from c. 1370",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000098",
+        "source_type": "academic-book",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000095 (TM-S11) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "field": "main_battles",
+      "id": "CLM-000245",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Conquered Iran, broke the Golden Horde, sacked Delhi, invaded Syria and defeated the Ottomans at Ankara",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000247",
+       "CLM-000267"
+      ],
+      "bias_flags": [
+       "patron-bias"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000095 (TM-S11) (opened)",
+      "field": "birth",
+      "id": "CLM-000246",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born in 1336 (Timurid tradition)",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000246"
+      ],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "citing SRC-000088 (TM-S04), SRC-000089 (TM-S05), SRC-000091 (TM-S07), SRC-000092 (TM-S08)",
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000095 (TM-S11) (opened, citing SRC-000088 (TM-S04), SRC-000089 (TM-S05), SRC-000091 (TM-S07), SRC-000092 (TM-S08))",
+      "field": "birth",
+      "id": "CLM-000247",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Contemporaries' estimates of his age point to a birth in the 1320s or early 1330s",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "citing SRC-000088 (TM-S04), SRC-000089 (TM-S05), SRC-000091 (TM-S07), SRC-000092 (TM-S08)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11); SRC-000096 (TM-S12)",
+      "field": "identity",
+      "id": "CLM-000249",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was not a descendant of Genghis Khan; his dynasty later built a descent myth",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "citing SRC-000089 (TM-S05)",
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000095 (TM-S11) (opened, citing SRC-000089 (TM-S05))",
+      "field": "career",
+      "id": "CLM-000258",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Met the historian Ibn Khaldun outside Damascus in 1401",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "citing SRC-000089 (TM-S05)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000246"
+      ],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: Probably a date chosen to match the death of the last Ilkhan; contemporaries' estimates point earlier (Manz)",
+      "field": "myth",
+      "id": "CLM-000267",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was born in 1336",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000095",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: A Barlas, not a Chinggisid; the descent myth was built later by his dynasty (Manz; Britannica)",
+      "field": "myth",
+      "id": "CLM-000268",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He was descended from Genghis Khan",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000095",
+ "isbn_doi": "10.1080/00210868808701711",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+ "publisher": "Iranian Studies 21",
+ "reliability_notes": "Iranian Studies 21 (1988). Opening extract and full notes visible, 13 Nov 2026.",
+ "reliability_tier": "scholarly",
+ "slug": "beatrice-forbes-manz-tamerlane-and-the-symbolism-of-sovereignty",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Study of how Timur built his legitimacy, by the leading specialist.",
+ "title": "Tamerlane and the Symbolism of Sovereignty",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://www.cambridge.org/core/product/identifier/S0021086200014924/type/journal_article",
+ "year": 1988
+}

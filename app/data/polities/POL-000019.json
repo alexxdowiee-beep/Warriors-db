@@ -1,0 +1,35 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000022",
+   "name": "Motunui",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000031",
+   "name": "Te Kūititanga, Waikanae",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000019",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Āti Awa",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "iwi",
+ "primary_name": "Te Āti Awa",
+ "slug": "te-ati-awa",
+ "status": "draft",
+ "summary": "Allowed Ngāti Toa to cultivate land in Taranaki and later joined them in the south.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

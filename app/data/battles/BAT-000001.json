@@ -1,0 +1,205 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000005"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000002",
+   "role": "Leading figure alongside Dunois; wounded"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000006"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "wounded_there",
+   "relationship_id": "REL-000003",
+   "role": "Hit by an arrow at Les Tourelles, 7 May 1429"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "29 April – 8 May 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "precision": "day"
+ },
+ "id": "BAT-000001",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Siege of Orléans (relief)",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory (for Joan of Arc's side)",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000005"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000002",
+   "role": "Leading figure alongside Dunois; wounded"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000006"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "wounded_there",
+   "relationship_id": "REL-000003",
+   "role": "Hit by an arrow at Les Tourelles, 7 May 1429"
+  }
+ ],
+ "place": {
+  "id": "PLC-000003",
+  "name": "Orléans",
+  "type": "place"
+ },
+ "place_id": "PLC-000003",
+ "primary_name": "Siege of Orléans (relief)",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened",
+   "field": "main_battles",
+   "id": "CLM-000005",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Orléans siege lifted 8 May 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened",
+   "field": "main_battles",
+   "id": "CLM-000006",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Wounded by arrow at Les Tourelles, 7 May 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Valois France",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "English",
+   "polities": [
+    {
+     "id": "POL-000002",
+     "name": "England",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000002"
+   ]
+  }
+ ],
+ "slug": "siege-of-orleans-1429",
+ "status": "draft",
+ "summary": "Relief of the English siege of Orléans; the French took the forts of Saint-Loup, the Augustins and Les Tourelles and the English abandoned the siege on 8 May 1429.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "war_id": "WAR-000001"
+}

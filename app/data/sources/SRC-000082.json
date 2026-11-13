@@ -1,0 +1,38 @@
+{
+ "authors": [
+  "Christopher P. Atwood"
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [
+  {
+   "id": "SRC-000084",
+   "name": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000082",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+ "reliability_notes": "Not opened; probable origin of TH-S10's main text.",
+ "reliability_tier": "reference",
+ "slug": "christopher-p-atwood-encyclopedia-of-mongolia-and-the-mongol-empire",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "Reference encyclopedia of Mongolia and the Mongol Empire.",
+ "title": "Encyclopedia of Mongolia and the Mongol Empire",
+ "type": "source",
+ "updated": "2026-11-13",
+ "year": 2004
+}

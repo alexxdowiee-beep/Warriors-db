@@ -1,0 +1,239 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000039",
+   "name": "Kalka River",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000037",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rus' principalities",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Rus'"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [
+    "CLM-000162"
+   ],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "abstract",
+     "source_id": "SRC-000062",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened); SRC-000062 (SB-S09) (opened, abstract)",
+   "field": "career",
+   "id": "CLM-000161",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000164",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000165",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Ryazan fell in December 1237",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000166",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12) (opened); standard accounts disagree",
+   "field": "career",
+   "id": "CLM-000254",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Occupied Moscow in 1395",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  }
+ ],
+ "primary_name": "Rus' principalities",
+ "slug": "rus-principalities",
+ "status": "draft",
+ "summary": "The principalities of the Rus', whose princes were defeated at the Kalka in 1223 and which the Mongols conquered in 1237–1240.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

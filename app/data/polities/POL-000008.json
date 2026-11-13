@@ -1,0 +1,43 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "served_by",
+   "relationship_id": "REL-000015",
+   "role": "In exile with Prusias I"
+  }
+ ],
+ "id": "POL-000008",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Bithynia",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000002",
+   "name": "Hannibal Barca",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Bithynia",
+ "slug": "bithynia",
+ "status": "draft",
+ "summary": "Kingdom of Prusias I, whom Hannibal served in exile and where he died.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

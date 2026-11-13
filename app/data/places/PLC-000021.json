@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000018",
+   "name": "Kirina",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000021",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kirina",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Kirina",
+ "slug": "kirina",
+ "status": "draft",
+ "summary": "On the upper Niger; site of Sundiata's decisive victory over the Sosso.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

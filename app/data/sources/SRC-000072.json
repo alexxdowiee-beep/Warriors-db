@@ -1,0 +1,866 @@
+{
+ "accessed": "2026-11-13",
+ "authors": [
+  "John Masson Smith Jr."
+ ],
+ "bias_notes": "No bias noted in the doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "identity",
+      "id": "CLM-000184",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Baibars, a Kipchak Turk enslaved young, became Mamluk sultan of Egypt and Syria",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "active_period",
+      "id": "CLM-000185",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Active c. 1250–1277; sultan 1260–1277",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "main_battles",
+      "id": "CLM-000186",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Vanguard commander at Ain Jalut; led the campaigns that took most crusader fortresses; invaded Seljuk Anatolia",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened)",
+      "field": "career",
+      "id": "CLM-000191",
+      "perspective": [
+       {
+        "id": "POL-000026",
+        "name": "Mongol Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "career",
+      "id": "CLM-000192",
+      "perspective": [
+       {
+        "id": "POL-000030",
+        "name": "Mamluk Sultanate",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000026",
+        "name": "Mongol Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "controversies",
+      "id": "CLM-000193",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Baibars led the conspiracy that killed Sultan Qutuz in 1260 and took the throne",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened); SRC-000054 (BB-S09) (opened)",
+      "field": "politics",
+      "id": "CLM-000194",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "career",
+      "id": "CLM-000195",
+      "perspective": [
+       {
+        "id": "POL-000042",
+        "name": "Principality of Antioch",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Took Safed (1266) and Antioch (1268)",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "career",
+      "id": "CLM-000196",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Took Krak des Chevaliers and other castles of the military orders",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08); SRC-000073 (BB-S10)",
+      "field": "career",
+      "id": "CLM-000197",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Year of Krak's capture: 1270 (Smith) or 1271 (Britannica)",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "career",
+      "id": "CLM-000198",
+      "perspective": [
+       {
+        "id": "POL-000043",
+        "name": "Kingdom of Cilician Armenia",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Devastated Cilician Armenia",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened). Doc grade: A (year C)",
+      "field": "career",
+      "id": "CLM-000199",
+      "perspective": [
+       {
+        "id": "POL-000026",
+        "name": "Mongol Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "postal service",
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened, postal service)",
+      "field": "administration",
+      "id": "CLM-000200",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Built a relay post, signal fires and a pigeon post",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened)",
+      "field": "strategy",
+      "id": "CLM-000201",
+      "perspective": [
+       {
+        "id": "POL-000053",
+        "name": "Syria",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Depopulated frontier zones and demolished coastal strongholds",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "reporting SRC-000075 (BB-S12)",
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000072 (BB-S08) (opened, reporting SRC-000075 (BB-S12))",
+      "field": "interpretation",
+      "id": "CLM-000202",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Mamluk success came from morale, leadership, failed Mongol–crusader cooperation, a larger army and Mongol civil wars",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "reporting SRC-000075 (BB-S12)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000073 (BB-S10) (opened); SRC-000072 (BB-S08) (opened)",
+      "field": "death",
+      "id": "CLM-000203",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died at Damascus in 1277",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: A mistranslation: the source claimed 12,000 Mamluks. The Mongol empire in the Middle East as a whole greatly outnumbered them (Smith, reporting Amitai-Preiss)",
+      "field": "myth",
+      "id": "CLM-000206",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "At Ain Jalut 120,000 Mamluks faced 10,000 Mongols",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: Smith: the victory was by no means conclusive; the Mamluks fought Mongol invasions for decades and lost a major battle in 1299",
+      "field": "myth",
+      "id": "CLM-000210",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Ain Jalut ended the Mongol threat to Syria",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000075",
+   "name": "Reuven Amitai-Preiss, Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000072",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+ "publisher": "Journal of the American Oriental Society 118.1",
+ "reliability_notes": "Journal of the American Oriental Society 118.1 (1998). Most of the text was visible; opened 13 Nov 2026. Where Smith only reports Amitai-Preiss, the two count as one source (derives_from BB-S12).",
+ "reliability_tier": "scholarly",
+ "slug": "john-masson-smith-jr-review-of-amitai-preiss-mongols-and-mamluks",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Review essay on Amitai-Preiss's study of the Mamluk-Ilkhanid war, 1260–1281.",
+ "title": "Review of Mongols and Mamluks",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548",
+ "year": 1998
+}

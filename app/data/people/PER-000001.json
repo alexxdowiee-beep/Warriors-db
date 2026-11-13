@@ -1,0 +1,1554 @@
+{
+ "active_period": {
+  "certainty": "A",
+  "display": "1429–1430 (about 13 months in the field)",
+  "earliest": 1429,
+  "latest": 1430,
+  "precision": "year"
+ },
+ "bias_flags_present": [
+  "hagiography",
+  "inflated-numbers",
+  "late-source",
+  "propaganda",
+  "self-testimony"
+ ],
+ "birth": {
+  "certainty": "B",
+  "claim_ids": [
+   "CLM-000001"
+  ],
+  "display": "c. 1412",
+  "earliest": 1412,
+  "latest": 1412,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "birth_place": {
+  "id": "PLC-000001",
+  "name": "Domrémy",
+  "type": "place"
+ },
+ "birth_place_id": "PLC-000001",
+ "certainty": "B",
+ "civilisations": [],
+ "claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (Britannica, Williamson)",
+   "field": "birth",
+   "id": "CLM-000001",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Born c. 1412 in Domrémy",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "late-source"
+   ],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "1 opened; original source to identify",
+   "field": "birth",
+   "id": "CLM-000002",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Born on 6 January",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "self-testimony"
+   ],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (McGrady, Williamson)",
+   "field": "religious_experience",
+   "id": "CLM-000003",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Claimed voices of Michael, Catherine and Margaret",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened",
+   "field": "career",
+   "id": "CLM-000004",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Examined at Poitiers; report found no fault but no proof",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened",
+   "field": "main_battles",
+   "id": "CLM-000005",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Orléans siege lifted 8 May 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened",
+   "field": "main_battles",
+   "id": "CLM-000006",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Wounded by arrow at Les Tourelles, 7 May 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened",
+   "field": "main_battles",
+   "id": "CLM-000007",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Patay won by the vanguard's charge, 18 June 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "inflated-numbers",
+    "propaganda"
+   ],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "1 opened; herald's figure only",
+   "field": "casualties",
+   "id": "CLM-000008",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "English losses at Patay of 2,200 against 3 French",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened + search excerpts",
+   "field": "politics",
+   "id": "CLM-000009",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Charles crowned at Reims, 17 July 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "the failed attack",
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "the failed attack and the wound",
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Failed attack: 2 opened; the wound: 1 opened",
+   "field": "main_battles",
+   "id": "CLM-000010",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Wounded attacking Paris, 8 September 1429",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened",
+   "field": "main_battles",
+   "id": "CLM-000011",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Captured at Compiègne, 23 May 1430",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened; English accounts to locate",
+   "field": "captivity",
+   "id": "CLM-000012",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Transferred to the English for 10,000 livres",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "hagiography"
+   ],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000008",
+     "source_type": "academic-book",
+     "tier": "scholarly",
+     "title": "Kelly DeVries, Joan of Arc: A Military Leader"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Reviews of DeVries only. Flag note from the doc: hagiography (1456 testimony)",
+   "field": "command_role",
+   "id": "CLM-000013",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "She held real military command",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Conflicting sources",
+   "field": "controversy",
+   "id": "CLM-000014",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Charles VII abandoned her",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "1 opened; suspicion only",
+   "field": "controversy",
+   "id": "CLM-000015",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "De Flavy betrayed her at Compiègne",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened",
+   "field": "death",
+   "id": "CLM-000016",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Executed as a relapsed heretic, 30 May 1431",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000040",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Pilot doc grade A; restore when cited. Search excerpts (British Library, OUP)",
+   "field": "rehabilitation",
+   "id": "CLM-000017",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "1431 verdict annulled, 7 July 1456",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened + search excerpts",
+   "field": "legacy",
+   "id": "CLM-000018",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Canonised 16 May 1920",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Record card: 'the best-documented commoner of the Middle Ages'; recorded in two trials. Cited: Britannica and Williamson (birth and family), McGrady (the trials).",
+   "field": "identity",
+   "id": "CLM-000113",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "start: relief of Orléans",
+     "source_id": "SRC-000007",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Saint Joan of Arc\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "start and end",
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "end: capture at Compiègne",
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Record card: Active 1429–1430 (grade A, user decision 13 Nov 2026). Start: relief of Orléans (Britannica, Williamson); end: capture at Compiègne (McGrady, Williamson).",
+   "field": "active_period",
+   "id": "CLM-000114",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Active as a military leader from April 1429 to May 1430",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000008",
+    "name": "La Charité-sur-Loire",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000011",
+   "role": "Commander"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000046",
+   "role": "Joan of Arc doc: a commander known almost entirely through hostile sources, the opposite evidence problem to Joan's partisan-on-both-sides record. Hannibal doc: the opposite evidence problem. Joan's record is partisan on both sides; Hannibal's is almost entirely from one side."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000047",
+   "role": "Sundiata doc: both stories hinge on divine or spiritual authority, recorded by very different systems: courtroom notaries versus hereditary oral historians."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000005"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000001",
+    "name": "Siege of Orléans (relief)",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000002",
+   "role": "Leading figure alongside Dunois; wounded"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000002",
+    "name": "Jargeau",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000004",
+   "role": "In the assault; struck on the helmet by a stone"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000003",
+    "name": "Beaugency",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000005",
+   "role": "Present"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000007"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000004",
+    "name": "Patay",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000006",
+   "role": "With main army; vanguard did the fighting"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000005",
+    "name": "Montépilloy",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000007",
+   "role": "Present"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000006",
+    "name": "Paris",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000008",
+   "role": "Led attack; wounded"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000007",
+    "name": "Saint-Pierre-le-Moûtier",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000010",
+   "role": "Rallied the renewed attack"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000011"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000009",
+    "name": "Compiègne",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000012",
+   "role": "Led the sortie; captured"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "POL-000001",
+    "name": "Kingdom of France",
+    "type": "polity"
+   },
+   "relation": "served",
+   "relationship_id": "REL-000001",
+   "role": "Valois cause of Charles VII (Armagnac faction)"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000006"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000001",
+    "name": "Siege of Orléans (relief)",
+    "type": "battle"
+   },
+   "relation": "wounded_at",
+   "relationship_id": "REL-000003",
+   "role": "Hit by an arrow at Les Tourelles, 7 May 1429"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000006",
+    "name": "Paris",
+    "type": "battle"
+   },
+   "relation": "wounded_at",
+   "relationship_id": "REL-000009",
+   "role": "Wounded in the thigh by a crossbow bolt"
+  }
+ ],
+ "core": {
+  "claim_ids": [
+   "CLM-000005",
+   "CLM-000006",
+   "CLM-000007",
+   "CLM-000010",
+   "CLM-000011",
+   "CLM-000113",
+   "CLM-000114"
+  ],
+  "claim_set": "commander",
+  "fields": [
+   "identity",
+   "active_period",
+   "main_battles"
+  ],
+  "missing_fields": [],
+  "weakest_claim_ids": [
+   "CLM-000006",
+   "CLM-000007",
+   "CLM-000010"
+  ]
+ },
+ "core_claim_set": "commander",
+ "death": {
+  "certainty": "A",
+  "claim_ids": [
+   "CLM-000016"
+  ],
+  "day": 30,
+  "display": "30 May 1431",
+  "earliest": 1431,
+  "latest": 1431,
+  "month": 5,
+  "precision": "day"
+ },
+ "death_cause": "Executed by burning",
+ "death_place": {
+  "id": "PLC-000002",
+  "name": "Rouen",
+  "type": "place"
+ },
+ "death_place_id": "PLC-000002",
+ "engagements": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000005"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "29 April – 8 May 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000001",
+   "kind": "siege",
+   "name": "Siege of Orléans (relief)",
+   "relation": "participated",
+   "result": "Victory (for Joan of Arc's side)",
+   "role": "Leading figure alongside Dunois; wounded",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000006"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "29 April – 8 May 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000001",
+   "kind": "siege",
+   "name": "Siege of Orléans (relief)",
+   "relation": "wounded_at",
+   "result": "Victory (for Joan of Arc's side)",
+   "role": "Hit by an arrow at Les Tourelles, 7 May 1429",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "display": "11–12 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000002",
+   "kind": "assault",
+   "name": "Jargeau",
+   "relation": "participated",
+   "result": "Victory (for Joan of Arc's side)",
+   "role": "In the assault; struck on the helmet by a stone",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000002",
+    "name": "Loire campaign (1429)",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "day": 17,
+    "display": "17 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "day"
+   },
+   "id": "BAT-000003",
+   "kind": "siege",
+   "name": "Beaugency",
+   "relation": "participated",
+   "result": "English garrison surrendered",
+   "role": "Present",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000002",
+    "name": "Loire campaign (1429)",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000007"
+   ],
+   "date": {
+    "certainty": "B",
+    "day": 18,
+    "display": "18 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "day"
+   },
+   "id": "BAT-000004",
+   "kind": "field-battle",
+   "name": "Patay",
+   "relation": "participated",
+   "result": "Victory (for Joan of Arc's side)",
+   "role": "With main army; vanguard did the fighting",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000002",
+    "name": "Loire campaign (1429)",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "display": "14–15 August 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000005",
+   "kind": "standoff",
+   "name": "Montépilloy",
+   "relation": "participated",
+   "result": "Inconclusive",
+   "role": "Present",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "date": {
+    "certainty": "A",
+    "day": 8,
+    "display": "8 September 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 9,
+    "precision": "day"
+   },
+   "id": "BAT-000006",
+   "kind": "assault",
+   "name": "Paris",
+   "relation": "participated",
+   "result": "Failed",
+   "role": "Led attack; wounded",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000010"
+   ],
+   "date": {
+    "certainty": "A",
+    "day": 8,
+    "display": "8 September 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 9,
+    "precision": "day"
+   },
+   "id": "BAT-000006",
+   "kind": "assault",
+   "name": "Paris",
+   "relation": "wounded_at",
+   "result": "Failed",
+   "role": "Wounded in the thigh by a crossbow bolt",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "display": "November 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 11,
+    "precision": "month"
+   },
+   "id": "BAT-000007",
+   "kind": "assault",
+   "name": "Saint-Pierre-le-Moûtier",
+   "relation": "participated",
+   "result": "Victory (for Joan of Arc's side)",
+   "role": "Rallied the renewed attack",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "display": "November–December 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "month"
+   },
+   "id": "BAT-000008",
+   "kind": "siege",
+   "name": "La Charité-sur-Loire",
+   "relation": "commanded",
+   "result": "Failed",
+   "role": "Commander",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000011"
+   ],
+   "date": {
+    "certainty": "A",
+    "day": 23,
+    "display": "23 May 1430",
+    "earliest": 1430,
+    "latest": 1430,
+    "month": 5,
+    "precision": "day"
+   },
+   "id": "BAT-000009",
+   "kind": "sortie",
+   "name": "Compiègne",
+   "relation": "participated",
+   "result": "Defeat (for Joan of Arc's side)",
+   "role": "Led the sortie; captured",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  }
+ ],
+ "era": "medieval",
+ "id": "PER-000001",
+ "key_source_ids": [
+  "SRC-000005",
+  "SRC-000006",
+  "SRC-000007",
+  "SRC-000008",
+  "SRC-000040"
+ ],
+ "myth_claim_ids": [
+  "CLM-000014",
+  "CLM-000086",
+  "CLM-000087",
+  "CLM-000088",
+  "CLM-000089",
+  "CLM-000090",
+  "CLM-000091",
+  "CLM-000092"
+ ],
+ "myths": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Conflicting sources",
+   "field": "controversy",
+   "id": "CLM-000014",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Charles VII abandoned her",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "E",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: False (E). Evidence: Convicted as a relapsed heretic; witchcraft-style accusations were dropped before the final charges",
+   "field": "myth",
+   "id": "CLM-000086",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "She was burned as a witch",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Misleading (C). Evidence: Trial evidence emphasises spinning and sewing; one relative said she also tended animals; she was a farmer's daughter",
+   "field": "myth",
+   "id": "CLM-000087",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "She was a shepherd girl",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Unsupported (D). Evidence: She testified that she carried her banner and had killed no one; no source contradicts this",
+   "field": "myth",
+   "id": "CLM-000088",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "She killed many enemies in battle",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "E",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000008",
+     "source_type": "academic-book",
+     "tier": "scholarly",
+     "title": "Kelly DeVries, Joan of Arc: A Military Leader"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: False (E). Evidence: A later theory that she was a child of the House of Orléans; rejected by historians including DeVries",
+   "field": "myth",
+   "id": "CLM-000089",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "She was secretly a royal princess",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "not-opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000044",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Jules Michelet, biography of Joan of Arc (1853)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Embellished (D). Evidence: Michelet's invented scene, built from her earlier trial words (McGrady)",
+   "field": "myth",
+   "id": "CLM-000090",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "She cried out that her voices had not deceived her as she burned",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "E",
+   "citations": [
+    {
+     "access": "not-opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000045",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "William Shakespeare, Henry VI, Part 1"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Fiction (E). Evidence: From Shakespeare's Henry VI, Part 1, based on hostile sources",
+   "field": "myth",
+   "id": "CLM-000091",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "She claimed to be pregnant to escape death",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "Myths table verdict: False (B). Evidence: The 1431 record is a Latin translation of a French summary, only rarely verbatim (McGrady)",
+   "field": "myth",
+   "id": "CLM-000092",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Her trial words are a verbatim record",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  }
+ ],
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Joan of Arc",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "language": "fr",
+   "name": "Jeanne d'Arc"
+  },
+  {
+   "kind": "other",
+   "language": "frm",
+   "name": "Jehanne Darc"
+  },
+  {
+   "kind": "epithet",
+   "language": "fr",
+   "name": "La Pucelle"
+  },
+  {
+   "kind": "epithet",
+   "language": "en",
+   "name": "the Maid"
+  },
+  {
+   "kind": "epithet",
+   "language": "en",
+   "name": "the Maid of Orléans"
+  }
+ ],
+ "polities": [
+  {
+   "id": "POL-000001",
+   "name": "Kingdom of France",
+   "type": "polity"
+  }
+ ],
+ "polity_ids": [
+  "POL-000001"
+ ],
+ "primary_name": "Joan of Arc",
+ "profile": {
+  "controversies": "- **Failures at Paris and La Charité** exposed limits as a commander against strong fortifications.\n- **Abandonment by Charles VII (C · Disputed).** One reading holds that Charles made no real effort to ransom her; another points to diplomatic threats and rescue campaigns by Dunois and La Hire. McGrady notes that scholars still debate why Charles later backed her rehabilitation, given that he *appeared* to have abandoned her.\n- **Betrayal at Compiègne (D).** The garrison commander, Guillaume de Flavy, was suspected of closing the gate on her deliberately. It was never proved.\n- **Religious belligerence.** In 1430 she threatened the Hussites of Bohemia with crusade unless they returned to the Catholic faith (letter of 23 March 1430, B).\n- **The trial.** She was handed to the English for 10,000 livres, tried by a church court under Bishop Pierre Cauchon from January 1431, and convicted of heresy. After first abjuring, she was declared a relapsed heretic, chiefly over resuming men's clothing, and burned at Rouen on 30 May 1431 ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)). Witnesses in the 1450s said she wore men's clothing to protect herself from assault by guards; that account comes from the favourable later trial (B, flag `hagiography`).\n- **Annulment (7 July 1456).** A papally authorised retrial declared the 1431 proceedings invalid for fraud and procedural error. The date is attested by the British Library's catalogue of a surviving copy of the proceedings and by multiple scholarly summaries (A, search excerpts; page to be opened).",
+  "early_life": "Joan was born around 1412 in Domrémy, a village in the Duchy of Bar on France's eastern border, to Jacques d'Arc and Isabelle Romée, a farming family of modest means ([Britannica](https://www.britannica.com:443/biography/Saint-Joan-of-Arc); [Williamson](https://archive.joan-of-arc.org/joanofarc_short_biography.html)). The year rests on her own statement of her age at trial. A precise birthday of 6 January appears in some accounts but traces to a single near-contemporary letter, so it is graded D until checked.\n\nThe 1431 trial record shows a conventional upbringing: her mother taught her prayers, sewing and spinning ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)). Village witnesses questioned in the 1450s stressed her piety, but they were answering questions designed to show exactly that, so their unanimity is weaker evidence than it looks.\n\nShe said she began hearing voices at about age twelve or thirteen, which she identified as Saint Michael, Saint Catherine and Saint Margaret. This is graded A as a statement of what she *claimed*; the database takes no position on the nature of the experience.",
+  "evidence_note": "**Research note.** I opened three pages for this draft: a History Today article by Deborah McGrady (professor of French, University of Virginia), the Joan of Arc Archive biography by Allen Williamson, and Britannica's entry (only its summary is free). Other details come from search-result excerpts, marked as such. Books such as Kelly DeVries's military study are cited from reviews, not read. Every claim below says which.\n\nJoan's record is unusually large for a medieval commoner, but its two core sources are courtroom dossiers, each built to prove a verdict. McGrady warns that later writers have mostly accepted the 1456 witnesses without questioning them. This profile follows her caution.\n\nA published English translation of both trial records, and full access to DeVries and to Helen Castor's 2014 biography, would allow most B claims to move to A. These need a library or e-book; a public library's online loans may give access.",
+  "historical_context": "By 1428 France was split three ways. Henry VI of England claimed the French crown, backed by the Duke of Burgundy under the 1420 Treaty of Troyes. Charles of Valois, the disinherited dauphin, held most land south of the Loire but had not been crowned. Paris had been under Anglo-Burgundian control since 1418.\n\nIn October 1428 an English army besieged Orléans, the key crossing into Charles's remaining territory. Charles was short of money, his armies had lost repeatedly, and his own legitimacy was openly questioned. It was into this near-collapse that Joan arrived in early 1429, after persuading the local captain, Robert de Baudricourt, to give her an escort to Chinon.",
+  "key_takeaways": [
+   "In about 13 months, from 1429 to 1430, Joan helped lift the siege of Orléans and brought Charles VII to his coronation at Reims.",
+   "Her greatest achievement may have been political: the coronation gave the Valois cause a legitimacy that battles alone could not.",
+   "She was convicted of heresy, not witchcraft, and burned at Rouen on 30 May 1431; the verdict was annulled in 1456.",
+   "How much she personally commanded is still disputed.",
+   "Both main sources are trial records written to win a case, so even her famous words come to us filtered through a court."
+  ],
+  "leadership": "This is the central historical question about Joan, and it is graded **C · Disputed**. Formal command belonged to nobles: Dunois at Orléans, Alençon on the Loire. Older and popular accounts treat her as a figurehead who lifted morale. Kelly DeVries, a specialist in medieval warfare, argues instead that she should be studied first as a soldier, and that her contemporaries treated her as a real military leader (DeVries, *Joan of Arc: A Military Leader*, 1999; known here from [two](https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/reviewsw150.htm) [reviews](https://muse.jhu.edu/article/170578/pdf), not read in full). One reviewer notes the book still leaves open what exactly made her effective.\n\nThe evidence pulls both ways. Soldiers testifying in the 1450s praised her skill and courage ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)), but that trial existed to restore her reputation. The Bastard of Orléans recalled her positioning troops before Troyes as well as experienced captains could have; that is the same kind of favourable, after-the-fact testimony.\n\n- **Leading from the front.** She was wounded at Orléans and Paris and struck at Jargeau. Several independent incidents make her physical presence in assaults probable (B).\n- **Discipline and religious reform of the army.** Witnesses describe her expelling camp followers, banning swearing and requiring confession. Source: favourable 1450s testimony (B, flag `hagiography`).\n- **Recruitment and morale.** Accounts say volunteers joined once word spread of a holy maid with the army. Plausible but hard to measure (C).\n- **Aggression.** She consistently pushed for direct assault and pursuit (Orléans, Patay, Paris) while the royal council preferred negotiation. This contrast is well attested (B).",
+  "legacy": "Her reputation has been rebuilt several times, and each version served the people telling it.\n\n- **15th century:** a political dispute. Charles's supporters cast her as divinely sent; Anglo-Burgundian writers called her a witch or worse ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)).\n- **16th–18th centuries:** largely a figure of fiction and satire, including Shakespeare and Voltaire.\n- **19th century:** after the Revolution she became a national hero, popularised by Jules Michelet's 1853 biography, which mixed the trial records with novelistic invention.\n- **20th century:** beatified in 1909 and canonised on 16 May 1920 ([Britannica](https://www.britannica.com:443/biography/Saint-Joan-of-Arc)); France also keeps a national day in her honour.\n- **Militarily**, her direct influence on later warfare is slight. Her lasting effect is on how leadership, faith and morale are understood, and on the long-standing question of women in command.",
+  "military_career": "Joan's active career lasted from April 1429 to May 1430: two months of striking success, followed by a year of stalled or failed operations. Unless marked, events below come from the Williamson archive biography, which summarises chronicles and trial testimony; dates are standard in the literature but most still need a second opened source.\n\n**Chinon and Poitiers (March–April 1429).** She met Charles at Chinon in early March. He had churchmen examine her at Poitiers for several weeks; their report found nothing against her but no proof of divine mission either, and advised giving her a chance ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)). She was equipped with armour and a banner and joined the relief army at Blois.\n\n**Relief of Orléans (29 April – 8 May 1429).** She entered the city with Jean, Bastard of Orléans (later Count of Dunois), who commanded its defence. Over five days the French took the English forts of Saint-Loup, the Augustins and Les Tourelles. She was hit by an arrow at Les Tourelles on 7 May, returned to the fighting later that day, and the English abandoned the siege on 8 May.\n\n**Loire campaign (June 1429).** Under the nominal command of the Duke of Alençon, the army took Jargeau, Meung-sur-Loire and Beaugency, then caught the retreating English at Patay on 18 June. Patay was won by a cavalry charge of the vanguard under La Hire and others; Joan was with the main body.\n\n**March to Reims (July 1429).** She pressed Charles to be crowned at Reims, deep in hostile territory. Troyes, Châlons and Reims submitted with little fighting, and Charles was crowned on 17 July 1429 with Joan beside him.\n\n**Paris and after (August–December 1429).** A standoff with Bedford's army at Montépilloy in August produced only skirmishes. Her attack on Paris on 8 September failed; she was wounded in the thigh by a crossbow bolt, and the king ordered a withdrawal the next day. She took Saint-Pierre-le-Moûtier in November but failed at La Charité-sur-Loire, where the army left its artillery behind.\n\n**Compiègne and capture (May 1430).** Going to help Compiègne against a Burgundian siege, she led a sortie on 23 May 1430, was caught outside the walls when the town's gate or drawbridge was closed behind the rearguard, and was taken prisoner by Burgundian troops.",
+  "political_achievements": "- **The coronation at Reims (17 July 1429)** turned Charles from a disputed dauphin into an anointed king. This was a political act with lasting effect, well beyond any single battle.\n- **Breaking English momentum.** Orléans is widely seen as the high-water mark of English conquest in France, although final French victory took until 1453.\n- **Letters.** She dictated letters to towns, to the English commanders and to the Duke of Burgundy, eleven of which survive according to the Williamson archive (B). They show her acting as a political voice, not only a soldier.",
+  "strategy_and_tactics": "- **Rapid assault of siege forts** rather than waiting out the English siege lines at Orléans (links to TAC: siege relief by sortie).\n- **Pursuit after victory**, pressing the army to chase the English to Patay.\n- **Political strategy:** the coronation at Reims, which gave Charles a legitimacy his rivals could not match. Many historians see this as her most important contribution.\n- **Weaknesses:** no success against a fully defended major city (Paris, La Charité), and dependence on a royal court that increasingly preferred truces with Burgundy.",
+  "technology": "- **Plate armour** made for her before Orléans.\n- **Her banner**, which she said she carried in battle rather than her sword, adding that she had never killed anyone (her own trial testimony; graded B as her claim, flag `self-testimony`).\n- **Gunpowder artillery**, decisive at Jargeau, where a large cannon from Orléans brought down a tower; at La Charité she requested saltpetre and sulphur from nearby towns.\n- **Missile weapons used against her:** an arrow at Orléans and a crossbow bolt at Paris.",
+  "victories_and_defeats": "Her record splits sharply in two. From April to July 1429 the Valois side won every major engagement she took part in. From September 1429 to May 1430 it won only Saint-Pierre-le-Moûtier and failed at Paris, La Charité and Compiègne. Explanations differ: her supporters blame royal advisers and truces with Burgundy, while sceptics note that the early successes came against an overstretched English army whose commanders had already suffered losses."
+ },
+ "regions": [
+  "Europe"
+ ],
+ "roles": [
+  "war-leader",
+  "religious-leader"
+ ],
+ "sex": "female",
+ "slug": "joan-of-arc",
+ "status": "sourced",
+ "summary": "Joan of Arc is the best-documented commoner of the Middle Ages, but nearly everything we know comes from two church trials that each set out to prove a verdict. This profile tests how the template handles rich but partisan evidence.",
+ "tags": [
+  "women-commanders",
+  "sieges",
+  "religious-leadership",
+  "hundred-years-war"
+ ],
+ "type": "person",
+ "updated": "2026-11-13"
+}

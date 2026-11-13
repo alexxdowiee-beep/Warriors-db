@@ -1,0 +1,147 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000011"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000012",
+   "role": "Led the sortie; captured"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "day": 23,
+  "display": "23 May 1430",
+  "earliest": 1430,
+  "latest": 1430,
+  "month": 5,
+  "precision": "day"
+ },
+ "id": "BAT-000009",
+ "kind": "sortie",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Compiègne",
+   "preferred": true
+  }
+ ],
+ "outcome": "Defeat (for Joan of Arc's side)",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000011"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000012",
+   "role": "Led the sortie; captured"
+  }
+ ],
+ "place": {
+  "id": "PLC-000011",
+  "name": "Compiègne",
+  "type": "place"
+ },
+ "place_id": "PLC-000011",
+ "primary_name": "Compiègne",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000005",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Deborah McGrady, \"The Trials of Joan of Arc\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000006",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "Allen Williamson, \"Biography of Joan of Arc\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened",
+   "field": "main_battles",
+   "id": "CLM-000011",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Captured at Compiègne, 23 May 1430",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Valois France",
+   "polities": [
+    {
+     "id": "POL-000001",
+     "name": "Kingdom of France",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000001"
+   ],
+   "result": "Defeat"
+  },
+  {
+   "commanders": [],
+   "label": "Burgundian besiegers",
+   "polities": [
+    {
+     "id": "POL-000003",
+     "name": "Duchy of Burgundy",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000003"
+   ]
+  }
+ ],
+ "slug": "compiegne-1430",
+ "status": "draft",
+ "summary": "Sortie from Compiègne against a Burgundian siege; Joan of Arc was caught outside the walls and captured.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000001",
+  "name": "Hundred Years' War",
+  "type": "war"
+ },
+ "war_id": "WAR-000001"
+}

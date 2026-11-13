@@ -1,0 +1,101 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000090",
+   "role": "Under overall command; led by Trần Quang Khải"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1285",
+  "earliest": 1285,
+  "latest": 1285,
+  "precision": "year"
+ },
+ "id": "BAT-000051",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Chương Dương",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000090",
+   "role": "Under overall command; led by Trần Quang Khải"
+  }
+ ],
+ "place": {
+  "id": "PLC-000048",
+  "name": "Chương Dương",
+  "type": "place"
+ },
+ "place_id": "PLC-000048",
+ "primary_name": "Chương Dương",
+ "related_claims": [],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Đại Việt, led by Trần Quang Khải",
+   "polities": [
+    {
+     "id": "POL-000046",
+     "name": "Đại Việt",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000046"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Yuan",
+   "polities": [
+    {
+     "id": "POL-000029",
+     "name": "Yuan dynasty",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000029"
+   ]
+  }
+ ],
+ "slug": "chuong-duong",
+ "status": "draft",
+ "summary": "Counterattack against the Yuan led by Prince Trần Quang Khải.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000022",
+  "name": "Second Mongol-Yuan invasion of Đại Việt",
+  "type": "war"
+ },
+ "war_id": "WAR-000022"
+}

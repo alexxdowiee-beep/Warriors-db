@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000031",
+   "name": "Te Kūititanga, Waikanae",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000031",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Kūititanga, Waikanae",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Te Kūititanga, Waikanae",
+ "slug": "te-kuititanga",
+ "status": "draft",
+ "summary": "Where Ngāti Raukawa were defeated by Te Āti Awa on 16 October 1839.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

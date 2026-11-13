@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000023",
+   "name": "Horowhenua lakes",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000025",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Horowhenua lakes",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Horowhenua lakes",
+ "slug": "horowhenua-lakes",
+ "status": "draft",
+ "summary": "Where Muaūpoko's lake pā were taken, c. 1822.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

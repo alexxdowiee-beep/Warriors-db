@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000059",
+   "name": "Sack of Baghdad",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000053",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Baghdad",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Baghdad",
+ "slug": "baghdad",
+ "status": "draft",
+ "summary": "City sacked by the Mongols in 1258 and stormed by Timur in 1401.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

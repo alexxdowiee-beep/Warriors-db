@@ -1,0 +1,37 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000036",
+   "name": "Capture of Otrar",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000034",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Otrar",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000010",
+   "name": "Timur",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Otrar",
+ "slug": "otrar",
+ "status": "draft",
+ "summary": "Khwarazmian border town whose governor massacred a Mongol caravan; taken by the Mongols in 1219–1220; Timur died there in 1405.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

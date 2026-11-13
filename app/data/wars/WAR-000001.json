@@ -1,0 +1,138 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "29 April – 8 May 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000001",
+   "kind": "siege",
+   "name": "Siege of Orléans (relief)",
+   "result": "Victory (for Joan of Arc's side)"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "14–15 August 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000005",
+   "kind": "standoff",
+   "name": "Montépilloy",
+   "result": "Inconclusive"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 8,
+    "display": "8 September 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 9,
+    "precision": "day"
+   },
+   "id": "BAT-000006",
+   "kind": "assault",
+   "name": "Paris",
+   "result": "Failed"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "November 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 11,
+    "precision": "month"
+   },
+   "id": "BAT-000007",
+   "kind": "assault",
+   "name": "Saint-Pierre-le-Moûtier",
+   "result": "Victory (for Joan of Arc's side)"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "November–December 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "month"
+   },
+   "id": "BAT-000008",
+   "kind": "siege",
+   "name": "La Charité-sur-Loire",
+   "result": "Failed"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 23,
+    "display": "23 May 1430",
+    "earliest": 1430,
+    "latest": 1430,
+    "month": 5,
+    "precision": "day"
+   },
+   "id": "BAT-000009",
+   "kind": "sortie",
+   "name": "Compiègne",
+   "result": "Defeat (for Joan of Arc's side)"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000001",
+   "name": "Kingdom of France",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000002",
+   "name": "England",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000003",
+   "name": "Duchy of Burgundy",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000001",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Hundred Years' War",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Hundred Years' War",
+ "related_claims": [],
+ "slug": "hundred-years-war",
+ "status": "draft",
+ "sub_wars": [
+  {
+   "id": "WAR-000002",
+   "name": "Loire campaign (1429)",
+   "type": "war"
+  }
+ ],
+ "summary": "War in which Henry VI of England, backed by Burgundy, claimed the French crown against Charles of Valois; final French victory took until 1453.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

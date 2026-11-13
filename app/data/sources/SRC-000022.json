@@ -1,0 +1,83 @@
+{
+ "authors": [
+  "N. Levtzion",
+  "J. F. P. Hopkins"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "excerpt",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "translation-issue"
+      ],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000022",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Excerpts citing Levtzion and Hopkins; not opened",
+      "field": "name",
+      "id": "CLM-000048",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Ibn Khaldun calls him Mari Jata",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "1981; repr. 2000",
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000020",
+   "name": "Ibn Khaldun, Kitab al-'Ibar",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000021",
+   "name": "Ibn Battuta, travel account",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000022",
+ "opened": false,
+ "primary_name": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+ "reliability_tier": "scholarly",
+ "slug": "levtzion-hopkins-corpus",
+ "source_type": "translation",
+ "status": "draft",
+ "summary": "Standard English translation of Arabic sources on West Africa.",
+ "title": "Corpus of Early Arabic Sources for West African History",
+ "type": "source",
+ "updated": "2026-11-13"
+}

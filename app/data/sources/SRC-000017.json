@@ -1,0 +1,374 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Bret Mulligan"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "field": "main_battles",
+      "id": "CLM-000023",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Took Saguntum after an eight-month siege, 219 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (DCC, based on Polybius)",
+      "field": "strength",
+      "id": "CLM-000024",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Reached the Alps with c. 38,000 infantry, 8,000 cavalry, 37 elephants",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "field": "main_battles",
+      "id": "CLM-000025",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers",
+       "patron-bias"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000015",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (Polybius, DCC repeating Polybius)",
+      "field": "casualties",
+      "id": "CLM-000026",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "About 70,000 Romans died at Cannae",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000015",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (Polybius, DCC)",
+      "field": "main_battles",
+      "id": "CLM-000028",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Won Cannae by double envelopment and cavalry",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "1 opened (DCC)",
+      "field": "strategy",
+      "id": "CLM-000030",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Aimed at a negotiated peace, not Rome's destruction",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000016",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "field": "main_battles",
+      "id": "CLM-000031",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated by Scipio at Zama, 202 BCE",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "hostile-source",
+       "inflated-numbers"
+      ],
+      "certainty": "D",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000017",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (DCC)",
+      "field": "casualties",
+      "id": "CLM-000032",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Roman losses at Zama under 2,000, Carthaginian about ten times that",
+      "subject": {
+       "id": "PER-000002",
+       "name": "Hannibal Barca",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000010",
+   "name": "Polybius, Histories",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000017",
+ "opened": true,
+ "primary_name": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries",
+ "publisher": "Dickinson College Commentaries",
+ "reliability_notes": "Academic classicist; overview, sometimes repeats ancient figures without comment. derives_from records the pilot doc's note that its figures are based on / repeat Polybius.",
+ "reliability_tier": "reference",
+ "slug": "mulligan-second-punic-war",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "Overview essay on the Second Punic War.",
+ "title": "The Second Punic War",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://dcc.dickinson.edu/nepos-hannibal/second-punic-war"
+}

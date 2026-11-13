@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000035",
+   "name": "Fall of Zhongdu",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000036",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Zhongdu",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Zhongdu",
+ "slug": "zhongdu",
+ "status": "draft",
+ "summary": "Jin central capital, on the site of modern Beijing; fell to the Mongols in 1215.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

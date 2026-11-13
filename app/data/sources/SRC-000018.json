@@ -1,0 +1,210 @@
+{
+ "bias_notes": "A living performance: each version is shaped by the performer, the audience and the family being praised.",
+ "certainty": "B",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": null,
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000023",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\""
+       },
+       {
+        "access": null,
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000018",
+        "source_type": "oral-tradition",
+        "tier": null,
+        "title": "Mande oral tradition (jeli performances)"
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000020",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ibn Khaldun, Kitab al-'Ibar"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Met) + tradition + Ibn Khaldun (excerpt)",
+      "field": "main_battles",
+      "id": "CLM-000040",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "He defeated Sumanguru Kanté of Sosso",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": null,
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": null,
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000018",
+        "source_type": "oral-tradition",
+        "tier": null,
+        "title": "Mande oral tradition (jeli performances)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Tradition; excerpts",
+      "field": "main_battles",
+      "id": "CLM-000041",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The decisive battle was at Kirina",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": null,
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": null,
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000018",
+        "source_type": "oral-tradition",
+        "tier": null,
+        "title": "Mande oral tradition (jeli performances)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Tradition only",
+      "field": "early_life",
+      "id": "CLM-000045",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Spent a period of exile, ending in Mema",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": null,
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": null,
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000018",
+        "source_type": "oral-tradition",
+        "tier": null,
+        "title": "Mande oral tradition (jeli performances)"
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "Consistent across versions (excerpts)",
+      "field": "tradition",
+      "id": "CLM-000046",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "The epic says he could not walk as a child",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "Continuous to today",
+ "derived_by": [
+  {
+   "id": "SRC-000019",
+   "name": "D. T. Niane, Sundiata: An Epic of Old Mali",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000020",
+   "name": "Ibn Khaldun, Kitab al-'Ibar",
+   "type": "source"
+  },
+  {
+   "id": "SRC-000021",
+   "name": "Ibn Battuta, travel account",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000018",
+ "primary_name": "Mande oral tradition (jeli performances)",
+ "reliability_notes": "Strong evidence for the broad shape of events remembered across many communities; weak evidence for dates, numbers, speeches and miracles.",
+ "reliability_tier": null,
+ "slug": "mande-oral-tradition",
+ "source_type": "oral-tradition",
+ "status": "draft",
+ "summary": "The Sundiata epic and related history performed by jeli (griots), hereditary specialists in history, genealogy and music.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

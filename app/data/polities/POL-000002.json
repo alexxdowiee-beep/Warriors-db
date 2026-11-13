@@ -1,0 +1,49 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000001",
+   "name": "Siege of Orléans (relief)",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000003",
+   "name": "Beaugency",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000004",
+   "name": "Patay",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000005",
+   "name": "Montépilloy",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000006",
+   "name": "Paris",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000002",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "England",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "England",
+ "slug": "england",
+ "status": "draft",
+ "summary": "Henry VI of England claimed the French crown during the Hundred Years' War.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

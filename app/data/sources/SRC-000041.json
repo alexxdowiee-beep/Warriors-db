@@ -1,0 +1,91 @@
+{
+ "authors": [
+  "Ye Shi"
+ ],
+ "bias_notes": "A deliberately sceptical argument against the tradition.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "via-secondary",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000031",
+        "source_type": "translation",
+        "tier": "scholarly",
+        "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000041",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ye Shi, argument against Sun Wu's historicity"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Giles; Ye Shi; excerpts",
+      "field": "text",
+      "id": "CLM-000064",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Zuo zhuan never mentions Sun Wu",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "Song dynasty (Ye Shi d. 1223)",
+ "derived_by": [
+  {
+   "id": "SRC-000031",
+   "name": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000041",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ye Shi, argument against Sun Wu's historicity",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ye Shi, argument against Sun Wu's historicity",
+ "reliability_notes": "Known only as summarised and translated by Giles (SRC-000031); the work itself is not identified by title in the pilot doc.",
+ "reliability_tier": null,
+ "slug": "ye-shi-against-sun-wu",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Song-dynasty scholar's argument that Sun Wu's career was invented, citing the silence of the Zuo zhuan, the late rise of professional generals and the implausible palace-drill story.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

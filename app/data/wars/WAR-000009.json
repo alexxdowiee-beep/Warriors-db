@@ -1,0 +1,123 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "late 1821 or early 1822",
+    "earliest": 1821,
+    "latest": 1822,
+    "precision": "year",
+    "qualifier": "between"
+   },
+   "id": "BAT-000022",
+   "kind": "unknown",
+   "name": "Motunui",
+   "result": "Victory (with Te Āti Awa, Ngāti Tama)"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1824",
+    "earliest": 1824,
+    "latest": 1824,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000025",
+   "kind": "unknown",
+   "name": "Waiorua, Kāpiti",
+   "result": "Victory"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "day": 16,
+    "display": "16 October 1839",
+    "earliest": 1839,
+    "latest": 1839,
+    "month": 10,
+    "precision": "day"
+   },
+   "id": "BAT-000031",
+   "kind": "unknown",
+   "name": "Te Kūititanga, Waikanae",
+   "result": "Allies defeated"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000015",
+   "name": "Ngāti Toa Rangatira",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000016",
+   "name": "Ngāti Raukawa",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000017",
+   "name": "Waikato",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000019",
+   "name": "Te Āti Awa",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000020",
+   "name": "Ngāti Tama",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000009",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Musket Wars",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Musket Wars",
+ "related_claims": [],
+ "slug": "musket-wars",
+ "span": {
+  "certainty": "A",
+  "display": "c. 1807–1840s",
+  "earliest": 1807,
+  "latest": 1849,
+  "precision": "decade",
+  "qualifier": "circa"
+ },
+ "status": "draft",
+ "sub_wars": [
+  {
+   "id": "WAR-000011",
+   "name": "Te Heke Tahutahuahi",
+   "type": "war"
+  },
+  {
+   "id": "WAR-000012",
+   "name": "Te Heke Tātaramoa",
+   "type": "war"
+  },
+  {
+   "id": "WAR-000013",
+   "name": "Te Rauparaha's South Island campaigns",
+   "type": "war"
+  }
+ ],
+ "summary": "Decades-long upheaval in which the musket, unevenly spread between iwi, transformed long-running tribal conflicts.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

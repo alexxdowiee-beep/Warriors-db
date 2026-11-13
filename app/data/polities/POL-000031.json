@@ -1,0 +1,126 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000036",
+   "name": "Capture of Otrar",
+   "type": "battle"
+  },
+  {
+   "id": "BAT-000037",
+   "name": "Battle of the Indus",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000031",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Khwarazmian Empire",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Khwarazm"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "inflated-numbers"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000054 (GK-S09) (opened)",
+   "field": "controversies",
+   "id": "CLM-000138",
+   "perspective": [
+    {
+     "id": "POL-000031",
+     "name": "Khwarazmian Empire",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000035",
+     "name": "Xi Xia",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000036",
+     "name": "Jin dynasty",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Source death tolls are exaggerated, but the conquests caused mass killing",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "patron-bias"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "quoting SRC-000047 (GK-S02)",
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000047 (GK-S02))",
+   "field": "strategy",
+   "id": "CLM-000144",
+   "perspective": [
+    {
+     "id": "POL-000031",
+     "name": "Khwarazmian Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Juvaini reports his \"punishment of God\" speech at Bukhara",
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "polity_type": "empire",
+ "primary_name": "Khwarazmian Empire",
+ "slug": "khwarazmian-empire",
+ "status": "draft",
+ "summary": "Central Asian empire of the Khwarazm-shahs, destroyed by Chinggis Khan's invasion of 1218–1221 after the Otrar caravan massacre.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

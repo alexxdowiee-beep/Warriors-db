@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000051",
+   "name": "Chương Dương",
+   "type": "battle"
+  }
+ ],
+ "certainty": "B",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000048",
+ "location_certainty": "B",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Chương Dương",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Chương Dương",
+ "slug": "chuong-duong",
+ "status": "draft",
+ "summary": "Where Prince Trần Quang Khải counterattacked the Yuan in 1285.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,1688 @@
+{
+ "accessed": "2026-11-13",
+ "authors": [
+  "Timothy May"
+ ],
+ "bias_notes": "No bias noted in the docs.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000056",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Columbia University, Asia for Educators: The Mongols in World History"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000056 (GK-S11) (excerpt)",
+      "field": "identity",
+      "id": "CLM-000120",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Temüjin, titled Chinggis Khan, founded the Mongol Empire",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "active_period",
+      "id": "CLM-000121",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1180s–1227",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "main_battles",
+      "id": "CLM-000122",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Led the steppe wars to 1206 and the campaigns against Xi Xia, the Jin and Khwarazm",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000123"
+      ],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "birth",
+      "id": "CLM-000124",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born 1165 (alternative to C04)",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000046",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "The Secret History of the Mongols"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+      "field": "title",
+      "id": "CLM-000125",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Proclaimed Chinggis Khan in 1206",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "career",
+      "id": "CLM-000126",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated Toghril of the Kereit in 1203",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "organisation",
+      "id": "CLM-000127",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Reorganised his people into decimal units of 10, 100 and 1,000",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "career",
+      "id": "CLM-000128",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Xi Xia subdued by 1209",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "career",
+      "id": "CLM-000129",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Invaded the Jin in 1211; most of the Jin empire taken by 1216",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000047",
+        "source_type": "primary-later",
+        "tier": null,
+        "title": "Ata-Malik Juvaini, History of the World Conqueror"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000047 (GK-S02) (via-secondary)",
+      "field": "career",
+      "id": "CLM-000131",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Otrar caravan massacre led to war with Khwarazm",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "career",
+      "id": "CLM-000132",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated Jalal al-Din near the Indus in 1221",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "strategy",
+      "id": "CLM-000133",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Annexed only the lands north of the Amu Darya",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "via-secondary",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000046",
+        "source_type": "primary-contemporary",
+        "tier": null,
+        "title": "The Secret History of the Mongols"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+      "field": "death",
+      "id": "CLM-000134",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died in 1227 during the siege of Zhongxing",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "quoting SRC-000046 (GK-S01)",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000046 (GK-S01))",
+      "field": "death",
+      "id": "CLM-000135",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "The *Secret History* says he died after a fall from his horse",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "quoting SRC-000046 (GK-S01)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "implicit",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened, implicit); to strengthen",
+      "field": "burial",
+      "id": "CLM-000136",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "His burial place is unknown",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "implicit"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "legacy",
+      "id": "CLM-000137",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Ordered a Mongolian script adapted from the Uighur alphabet after 1204",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "inflated-numbers"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "controversies",
+      "id": "CLM-000138",
+      "perspective": [
+       {
+        "id": "POL-000031",
+        "name": "Khwarazmian Empire",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000035",
+        "name": "Xi Xia",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000036",
+        "name": "Jin dynasty",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Source death tolls are exaggerated, but the conquests caused mass killing",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "patron-bias"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "quoting SRC-000046 (GK-S01)",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000046 (GK-S01))",
+      "field": "controversies",
+      "id": "CLM-000139",
+      "perspective": [
+       {
+        "id": "POL-000035",
+        "name": "Xi Xia",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "The *Secret History* records a deathbed order to destroy the Tangut",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "quoting SRC-000046 (GK-S01)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "legacy",
+      "id": "CLM-000140",
+      "perspective": [
+       {
+        "id": "POL-000050",
+        "name": "Mongolia",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Denigrated under Mongolian communism; now honoured as national founder",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "field": "legacy",
+      "id": "CLM-000141",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Descent from him became the main claim to rule across Central Eurasia",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "citing de Rachewiltz 1989",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000054 (GK-S09) (opened, citing de Rachewiltz 1989)",
+      "field": "names",
+      "id": "CLM-000142",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "\"Chinggis\" means firm, fierce or resolute",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "citing de Rachewiltz 1989"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "patron-bias"
+      ],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "quoting SRC-000047 (GK-S02)",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000047 (GK-S02))",
+      "field": "strategy",
+      "id": "CLM-000144",
+      "perspective": [
+       {
+        "id": "POL-000031",
+        "name": "Khwarazmian Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Juvaini reports his \"punishment of God\" speech at Bukhara",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": "quoting SRC-000047 (GK-S02)"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "title granted in 1206; birth name Temüjin",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: A title granted in 1206; his birth name was Temüjin Citation added 13 Nov 2026 (user decision). SRC-000054: title granted in 1206; birth name Temüjin.",
+      "field": "myth",
+      "id": "CLM-000145",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "\"Genghis Khan\" was his name",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": "title granted in 1206; birth name Temüjin"
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Outdated (B). Evidence: An early 20th-century theory; now read as firm, fierce or resolute (May, following de Rachewiltz)",
+      "field": "myth",
+      "id": "CLM-000146",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "The title means \"oceanic ruler\"",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (B). Evidence: In Khwarazm the Khwarazm-shah's army was the larger; Mongol mobility and coordination decided it (May)",
+      "field": "myth",
+      "id": "CLM-000148",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "The Mongols won by sheer numbers",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "excerpt",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000056",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Columbia University, Asia for Educators: The Mongols in World History"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Trade, administration, a script and exchange across Eurasia followed the conquests (May; Columbia teaching site, excerpt)",
+      "field": "myth",
+      "id": "CLM-000152",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "The Mongols only destroyed and built nothing",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: A modern Mongolian view; May notes khans were chosen only from his family",
+      "field": "myth",
+      "id": "CLM-000153",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "He founded Mongolian democracy",
+      "subject": {
+       "id": "PER-000006",
+       "name": "Genghis Khan",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   }
+  },
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "identity",
+      "id": "CLM-000155",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Subutai (Sübe'etei) was a leading Mongol general under Genghis Khan and Ögödei",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "active_period",
+      "id": "CLM-000156",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1200s–1240s",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "main_battles",
+      "id": "CLM-000157",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); Wikipedia (excerpt, not stored as a source)",
+      "field": "birth",
+      "id": "CLM-000158",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Born 1176 (alternative: c. 1175)",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened)",
+      "field": "death",
+      "id": "CLM-000159",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died 1248",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000061",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "field": "career",
+      "id": "CLM-000164",
+      "perspective": [
+       {
+        "id": "POL-000037",
+        "name": "Rus' principalities",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000040",
+        "name": "Kingdom of Hungary",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "SRC-000054 (SB-S07) (opened)",
+      "field": "career",
+      "id": "CLM-000173",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000054 (SB-S07) (opened)",
+      "field": "controversies",
+      "id": "CLM-000174",
+      "perspective": [
+       {
+        "id": "POL-000040",
+        "name": "Kingdom of Hungary",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000041",
+        "name": "Poland",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Mongols left Hungary and Poland devastated",
+      "subject": {
+       "id": "PER-000007",
+       "name": "Subutai",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   }
+  },
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened)",
+      "field": "career",
+      "id": "CLM-000191",
+      "perspective": [
+       {
+        "id": "POL-000026",
+        "name": "Mongol Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened); SRC-000073 (BB-S10) (opened)",
+      "field": "career",
+      "id": "CLM-000192",
+      "perspective": [
+       {
+        "id": "POL-000030",
+        "name": "Mamluk Sultanate",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000026",
+        "name": "Mongol Empire",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000072",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000073",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Baybars I\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened); SRC-000054 (BB-S09) (opened)",
+      "field": "politics",
+      "id": "CLM-000194",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the Southern Song lasted until 1279",
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Myths table verdict: False (A). Evidence: The Mongols went on to conquer the Song dynasty of southern China by 1279 Citation added 13 Nov 2026 (user decision). SRC-000054: the Southern Song lasted until 1279.",
+      "field": "myth",
+      "id": "CLM-000208",
+      "perspective": [],
+      "quiz_kind": "myth-busting",
+      "quiz_ready": true,
+      "statement": "Ain Jalut ended Mongol expansion everywhere",
+      "subject": {
+       "id": "PER-000008",
+       "name": "Baibars",
+       "type": "person"
+      },
+      "verdict": "rejected-myth"
+     },
+     "locator": null,
+     "note": "the Southern Song lasted until 1279"
+    }
+   ],
+   "subject": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   }
+  },
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000096",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "\"Timur\", Encyclopaedia Britannica"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000054",
+        "source_type": "journal-article",
+        "tier": "scholarly",
+        "title": "Timothy May, \"The Mongol Empire in World History\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000054 (TM-S15) (opened)",
+      "field": "legacy",
+      "id": "CLM-000264",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "His descendant Babur founded the Mughal dynasty",
+      "subject": {
+       "id": "PER-000010",
+       "name": "Timur",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000054",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Timothy May, \"The Mongol Empire in World History\"",
+   "preferred": true
+  }
+ ],
+ "opened": true,
+ "primary_name": "Timothy May, \"The Mongol Empire in World History\"",
+ "publisher": "World History Connected 5.2",
+ "reliability_notes": "World History Connected 5.2 (2008). Opened 13 Nov 2026. Used as GK-S09, SB-S07, BB-S09, TM-S15.",
+ "reliability_tier": "scholarly",
+ "slug": "timothy-may-the-mongol-empire-in-world-history",
+ "source_type": "journal-article",
+ "status": "draft",
+ "summary": "Peer-reviewed survey of the Mongol Empire and its place in world history.",
+ "title": "The Mongol Empire in World History",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://journals.gmu.edu/whc/article/download/4894/2835?inline=1",
+ "year": 2008
+}

@@ -1,0 +1,62 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000051",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Vietnam",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "nationalist-reinterpretation"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000080",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000080 (TH-S06)",
+   "field": "legacy",
+   "id": "CLM-000228",
+   "perspective": [
+    {
+     "id": "POL-000051",
+     "name": "Vietnam",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He has been portrayed as a national hero only since the early 20th century",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "primary_name": "Vietnam",
+ "slug": "vietnam",
+ "status": "draft",
+ "summary": "The modern state of Vietnam. Used as a perspective: modern Vietnamese national memory.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

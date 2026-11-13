@@ -1,0 +1,111 @@
+{
+ "authors": [
+  "D. T. Niane"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "not-opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000019",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "D. T. Niane, Sundiata: An Epic of Old Mali"
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "Excerpts; Niane to check",
+      "field": "tradition",
+      "id": "CLM-000047",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "The epic says Sumanguru could not be harmed by ordinary weapons",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "not-opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "not-opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000019",
+        "source_type": "other",
+        "tier": "popular",
+        "title": "D. T. Niane, Sundiata: An Epic of Old Mali"
+       }
+      ],
+      "claim_type": "text",
+      "evidence_status": "Excerpt; Niane's preface to check",
+      "field": "historiography",
+      "id": "CLM-000053",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Niane's book reworks a griot's tales, not a transcript",
+      "subject": {
+       "id": "PER-000003",
+       "name": "Sundiata Keita",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "date_written": "1960 (French), 1965 (English)",
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000018",
+   "name": "Mande oral tradition (jeli performances)",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000019",
+ "opened": false,
+ "primary_name": "D. T. Niane, Sundiata: An Epic of Old Mali",
+ "reliability_notes": "Literary version of oral tradition (pilot doc type): a reworking of tales told by the griot Mamadou Kouyaté, not a word-for-word transcript (search excerpt; to verify against Niane's preface).",
+ "reliability_tier": "popular",
+ "slug": "niane-sundiata-epic-of-old-mali",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "The best-known version of the Sundiata epic in English.",
+ "title": "Sundiata: An Epic of Old Mali",
+ "type": "source",
+ "updated": "2026-11-13"
+}

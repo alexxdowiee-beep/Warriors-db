@@ -1,0 +1,146 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1287–1288",
+    "earliest": 1287,
+    "latest": 1288,
+    "precision": "year"
+   },
+   "id": "BAT-000053",
+   "kind": "naval",
+   "name": "Capture of the Yuan supply fleet",
+   "result": "Victory"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1288",
+    "earliest": 1288,
+    "latest": 1288,
+    "precision": "year"
+   },
+   "id": "BAT-000054",
+   "kind": "naval",
+   "name": "Bạch Đằng River",
+   "result": "Victory; fleet destroyed"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000029",
+   "name": "Yuan dynasty",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000046",
+   "name": "Đại Việt",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000216"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000092",
+   "role": "Supreme commander"
+  }
+ ],
+ "id": "WAR-000023",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Third Mongol-Yuan invasion of Đại Việt",
+   "preferred": true
+  }
+ ],
+ "outcome": "Yuan withdrew",
+ "parent_war": null,
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000216"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000092",
+   "role": "Supreme commander"
+  }
+ ],
+ "primary_name": "Third Mongol-Yuan invasion of Đại Việt",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000080",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Liam C. Kelley, \"From Moral Exemplar to National Hero\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000084",
+     "source_type": "other",
+     "tier": "aggregator",
+     "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000080 (TH-S06); SRC-000084 (TH-S10)",
+   "field": "main_battles",
+   "id": "CLM-000216",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "third-mongol-yuan-invasion-of-dai-viet",
+ "span": {
+  "certainty": "A",
+  "display": "1287–1288",
+  "earliest": 1287,
+  "latest": 1288,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Larger, partly seaborne invasion under Toghan; the Vietnamese captured the Yuan supply fleet and destroyed the Yuan fleet at the Bạch Đằng River in 1288.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

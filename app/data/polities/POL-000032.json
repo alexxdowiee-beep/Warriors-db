@@ -1,0 +1,121 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000060",
+   "name": "Ankara",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000032",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ottoman Empire",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    },
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000098",
+     "source_type": "academic-book",
+     "tier": "scholarly",
+     "title": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+   "field": "career",
+   "id": "CLM-000261",
+   "perspective": [
+    {
+     "id": "POL-000032",
+     "name": "Ottoman Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Defeated the Ottoman army near Ankara in July 1402",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000100",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur Lang\", Larousse"
+    },
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000101",
+     "source_type": "other",
+     "tier": "popular",
+     "title": "\"Timur\", World History Encyclopedia"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Excerpts: SRC-000100 (Larousse), SRC-000101 (World History Encyclopedia). Sources added 13 Nov 2026 (user decision).",
+   "field": "career",
+   "id": "CLM-000262",
+   "perspective": [
+    {
+     "id": "POL-000032",
+     "name": "Ottoman Empire",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Captured Sultan Bayezid I at Ankara",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "polity_type": "empire",
+ "primary_name": "Ottoman Empire",
+ "slug": "ottoman-empire",
+ "status": "draft",
+ "summary": "Turkish state in Anatolia and the Balkans; Timur defeated its army and captured Sultan Bayezid I near Ankara in 1402, and it later conquered the Mamluk Sultanate.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

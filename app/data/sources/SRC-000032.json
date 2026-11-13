@@ -1,0 +1,113 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Shandong Museum"
+ ],
+ "bias_notes": "State media (China Daily government site); used for factual points only.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000032",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Shandong Museum) + excerpts on tomb dating",
+      "field": "main_works",
+      "id": "CLM-000054",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "The Sunzi existed in near-received form by the 2nd century BCE",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000032",
+        "source_type": "museum",
+        "tier": "reference",
+        "title": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\""
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (Shandong Museum) + excerpts",
+      "field": "authorship",
+      "id": "CLM-000056",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Sun Bin's treatise is a separate work",
+      "subject": {
+       "id": "PER-000004",
+       "name": "Sun Tzu",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000027",
+   "name": "Yinqueshan bamboo slips, Linyi",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000032",
+ "opened": true,
+ "primary_name": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\"",
+ "publisher": "China Daily government site",
+ "reliability_tier": "reference",
+ "slug": "shandong-museum-bamboo-slips",
+ "source_type": "museum",
+ "status": "draft",
+ "summary": "2022 museum item on the 1972 Yinqueshan bamboo-slip find.",
+ "title": "Bamboo slips chronicle China's ancient military philosophy",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://govt.chinadaily.com.cn/s/202206/14/WS62a82e87498ea2749279aae8/bamboo-slips-chronicle-chinas-ancient-military-philosophy.html",
+ "year": 2022
+}

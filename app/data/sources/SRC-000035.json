@@ -1,0 +1,30 @@
+{
+ "authors": [
+  "Tāmihana Te Rauparaha"
+ ],
+ "bias_notes": "A son's record of a famous father (pilot doc flags it hagiography).",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "19th c.",
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000033",
+   "name": "Ngāti Toa Rangatira oral history and whakapapa",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000035",
+ "opened": false,
+ "primary_name": "Tāmihana Te Rauparaha, account of his father",
+ "reliability_notes": "Family memoir (pilot doc type); partly derives from Ngāti Toa oral history. To locate and verify.",
+ "reliability_tier": null,
+ "slug": "tamihana-te-rauparaha-account",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Account of Te Rauparaha's life written by his son.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

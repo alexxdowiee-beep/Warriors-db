@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Rashid al-Din"
+ ],
+ "bias_notes": "Official history for the Ilkhans (patron-bias); the enemy's view of the Mamluks (hostile-source).",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "Early 14th c.",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000048",
+ "language": "Persian",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rashid al-Din, Compendium of Chronicles",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Rashid al-Din, Compendium of Chronicles",
+ "reliability_notes": "Doc: 'partly Mongol records shared with S01' (the Secret History). The shared origin is a lost record, not a source record, so derives_from is empty (open question in CONVERSION_NOTES). Used as GK-S03, SB-S03, BB-S04.",
+ "reliability_tier": null,
+ "slug": "rashid-al-din-compendium-of-chronicles",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Official history by the Persian vizier of the Mongol Ilkhans, using Mongol records now lost.",
+ "title": "Compendium of Chronicles",
+ "type": "source",
+ "updated": "2026-11-13"
+}

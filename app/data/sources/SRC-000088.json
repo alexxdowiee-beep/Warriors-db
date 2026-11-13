@@ -1,0 +1,33 @@
+{
+ "authors": [
+  "Ibn Arabshah"
+ ],
+ "bias_notes": "hostile-source.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1430s",
+ "derived_by": [],
+ "derives_from": [],
+ "edition": "trans. Sanders (1936)",
+ "id": "SRC-000088",
+ "language": "Arabic",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ibn Arabshah, life of Timur",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Ibn Arabshah, life of Timur",
+ "reliability_notes": "Doc edition: trans. Sanders (1936). Read via Manz.",
+ "reliability_tier": null,
+ "slug": "ibn-arabshah-life-of-timur",
+ "source_type": "primary-later",
+ "status": "draft",
+ "summary": "Hostile life of Timur by a Syrian taken captive as a boy at Damascus.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

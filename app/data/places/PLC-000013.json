@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000011",
+   "name": "Ticinus",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000013",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ticinus",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Ticinus",
+ "slug": "ticinus",
+ "status": "draft",
+ "summary": "Scene of Hannibal's cavalry action in 218 BCE.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

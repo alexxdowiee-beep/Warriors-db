@@ -1,0 +1,28 @@
+{
+ "bias_notes": "Physical evidence.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "1941",
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000094",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Soviet exhumation report (1941)",
+   "preferred": true
+  }
+ ],
+ "opened": false,
+ "primary_name": "Soviet exhumation report (1941)",
+ "reliability_notes": "Read via Britannica.",
+ "reliability_tier": null,
+ "slug": "soviet-exhumation-report-1941",
+ "source_type": "archaeological",
+ "status": "draft",
+ "summary": "Physical-anthropology report on the opening of Timur's tomb in Samarkand in 1941.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

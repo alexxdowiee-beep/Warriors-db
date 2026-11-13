@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000008",
+   "name": "La Charité-sur-Loire",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000010",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "La Charité-sur-Loire",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "La Charité-sur-Loire",
+ "slug": "la-charite-sur-loire",
+ "status": "draft",
+ "summary": "Unsuccessfully besieged by the French in November–December 1429.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,30 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000022",
+   "name": "Motunui",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000020",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Ngāti Tama",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "polity_type": "iwi",
+ "primary_name": "Ngāti Tama",
+ "slug": "ngati-tama",
+ "status": "draft",
+ "summary": "Allied with Ngāti Toa at Motunui and later in the south.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

@@ -1,0 +1,47 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "origin_of",
+   "relationship_id": "REL-000052",
+   "role": "Sima Qian says Sun Wu came from Qi; a 1st-century CE romance makes him a native of Wu instead"
+  }
+ ],
+ "id": "POL-000014",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Qi",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "State of Qi"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000004",
+   "name": "Sun Tzu",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "Qi",
+ "slug": "qi",
+ "status": "draft",
+ "summary": "State that Sima Qian says Sun Wu came from.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

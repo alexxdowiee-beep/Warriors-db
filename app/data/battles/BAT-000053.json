@@ -1,0 +1,140 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000222"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000093",
+   "role": "Under his overall command"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "1287–1288",
+  "earliest": 1287,
+  "latest": 1288,
+  "precision": "year"
+ },
+ "id": "BAT-000053",
+ "kind": "naval",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Capture of the Yuan supply fleet",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000222"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000093",
+   "role": "Under his overall command"
+  }
+ ],
+ "place": null,
+ "primary_name": "Capture of the Yuan supply fleet",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000084",
+     "source_type": "other",
+     "tier": "aggregator",
+     "title": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000084 (TH-S10)",
+   "field": "career",
+   "id": "CLM-000222",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "In 1287–88 the Vietnamese captured the Yuan supply fleet",
+   "subject": {
+    "id": "PER-000009",
+    "name": "Trần Hưng Đạo",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000009"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "label": "Đại Việt",
+   "polities": [
+    {
+     "id": "POL-000046",
+     "name": "Đại Việt",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000046"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Yuan",
+   "polities": [
+    {
+     "id": "POL-000029",
+     "name": "Yuan dynasty",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000029"
+   ]
+  }
+ ],
+ "slug": "capture-of-the-yuan-supply-fleet",
+ "status": "draft",
+ "summary": "Vietnamese capture of the Yuan supply fleet, which cut off Toghan's army.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000023",
+  "name": "Third Mongol-Yuan invasion of Đại Việt",
+  "type": "war"
+ },
+ "war_id": "WAR-000023"
+}

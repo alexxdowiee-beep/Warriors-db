@@ -1,0 +1,664 @@
+{
+ "accessed": "2026-11-12",
+ "authors": [
+  "Steven Oliver"
+ ],
+ "bias_notes": "No bias noted in the pilot doc.",
+ "certainty": "A",
+ "cited_by": [
+  {
+   "claims": [
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [
+       "CLM-000071"
+      ],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened (DNZB)",
+      "field": "birth",
+      "id": "CLM-000070",
+      "perspective": [],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "Born in the 1760s, at Kāwhia or Maungatautari",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DNZB; Act gives year and place)",
+      "field": "death",
+      "id": "CLM-000072",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Died at Ōtaki on 27 November 1849",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [
+       "oral-tradition"
+      ],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "tradition",
+      "evidence_status": "1 opened (DNZB)",
+      "field": "name",
+      "id": "CLM-000073",
+      "perspective": [],
+      "quiz_kind": "tradition",
+      "quiz_ready": true,
+      "statement": "Named in defiance of a threat to eat him with rauparaha leaves",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "2 opened (DNZB, Act)",
+      "field": "main_battles",
+      "id": "CLM-000074",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "strength",
+      "id": "CLM-000075",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "About 1,500 Ngāti Toa reached Taranaki",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "main_battles",
+      "id": "CLM-000076",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Defeated a southern coalition at Waiorua, c. 1824",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "main_battles",
+      "id": "CLM-000077",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Took Kaiapoi pā by sapping and fire, 1831–32",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "1 opened",
+      "field": "strategy",
+      "id": "CLM-000078",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "His power rested on controlling the musket trade",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened; A once Treaty records are checked",
+      "field": "politics",
+      "id": "CLM-000079",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Signed the Treaty on 14 May and 19 June 1840",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "controversy",
+      "id": "CLM-000080",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Te Rangihaeata, not Te Rauparaha, killed the Wairau prisoners",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "1 opened",
+      "field": "detention",
+      "id": "CLM-000081",
+      "perspective": [],
+      "quiz_kind": "plain-fact",
+      "quiz_ready": true,
+      "statement": "Held without charge for ten months, 1846–47",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "C",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "interpretation",
+      "evidence_status": "DNZB reports both views",
+      "field": "interpretation",
+      "id": "CLM-000085",
+      "perspective": [
+       {
+        "id": "POL-000023",
+        "name": "Ngāi Tahu",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000021",
+        "name": "Muaūpoko",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000022",
+        "name": "Rangitāne",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000025",
+        "name": "Ngāti Apa",
+        "type": "polity"
+       },
+       {
+        "id": "POL-000024",
+        "name": "Ngāti Kuia",
+        "type": "polity"
+       }
+      ],
+      "quiz_kind": "debate",
+      "quiz_ready": true,
+      "statement": "His success was due mainly to muskets",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "disputed"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: 'identity, active period and main campaigns are well attested'. Cited: DNZB and the 2014 Act.",
+      "field": "identity",
+      "id": "CLM-000116",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Te Rauparaha, rangatira of Ngāti Toa Rangatira, is a historical person",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "A",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       },
+       {
+        "access": "opened",
+        "locator": null,
+        "note": "the migration",
+        "source_id": "SRC-000034",
+        "source_type": "statute",
+        "tier": null,
+        "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "Record card: Active period c. 1800s–1849, grade A. Cited: DNZB; the 2014 Act for the migration (as CLM-000074).",
+      "field": "active_period",
+      "id": "CLM-000117",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Active c. 1800s–1849; leader of the migration south from c. 1820",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "A once a second source is opened (e.g. the iwi histories on Te Ara)",
+      "field": "descent",
+      "id": "CLM-000118",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Te Rauparaha descended from Ngāti Toa Rangatira through his father, Werawera",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    },
+    {
+     "access": "opened",
+     "claim": {
+      "alternative_claim_ids": [],
+      "bias_flags": [],
+      "certainty": "B",
+      "citations": [
+       {
+        "access": "opened",
+        "locator": null,
+        "note": null,
+        "source_id": "SRC-000036",
+        "source_type": "reference",
+        "tier": "reference",
+        "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+       }
+      ],
+      "claim_type": "event",
+      "evidence_status": "A once a second source is opened (e.g. the iwi histories on Te Ara)",
+      "field": "descent",
+      "id": "CLM-000119",
+      "perspective": [],
+      "quiz_kind": null,
+      "quiz_ready": false,
+      "statement": "Te Rauparaha descended from Ngāti Raukawa through his mother, Parekōwhatu",
+      "subject": {
+       "id": "PER-000005",
+       "name": "Te Rauparaha",
+       "type": "person"
+      },
+      "verdict": "accepted"
+     },
+     "locator": null,
+     "note": null
+    }
+   ],
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   }
+  }
+ ],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [],
+ "id": "SRC-000036",
+ "opened": true,
+ "primary_name": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography",
+ "publisher": "Dictionary of New Zealand Biography (Te Ara)",
+ "reliability_notes": "Scholarly biography (pilot doc type). Derives from multiple traditions and records (not itemised).",
+ "reliability_tier": "reference",
+ "slug": "oliver-dnzb-te-rauparaha",
+ "source_type": "reference",
+ "status": "draft",
+ "summary": "The standard modern summary of Te Rauparaha's life, recording events as remembered by several iwi.",
+ "title": "Te Rauparaha",
+ "type": "source",
+ "updated": "2026-11-13",
+ "url": "https://teara.govt.nz/en/biographies/1t74/te-rauparaha",
+ "year": 1990
+}

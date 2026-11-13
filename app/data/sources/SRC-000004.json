@@ -1,0 +1,31 @@
+{
+ "authors": [
+  "Enguerrand de Monstrelet",
+  "Perceval de Cagny"
+ ],
+ "bias_notes": "Partisan on both sides.",
+ "certainty": "B",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "date_written": "15th c.",
+ "derived_by": [
+  {
+   "id": "SRC-000006",
+   "name": "Allen Williamson, \"Biography of Joan of Arc\"",
+   "type": "source"
+  }
+ ],
+ "derives_from": [],
+ "id": "SRC-000004",
+ "opened": false,
+ "primary_name": "Burgundian and French chronicles (e.g. Monstrelet, Perceval de Cagny)",
+ "reliability_notes": "Chronicles (pilot doc type).",
+ "reliability_tier": null,
+ "slug": "burgundian-and-french-chronicles",
+ "source_type": "primary-contemporary",
+ "status": "draft",
+ "summary": "Fifteenth-century chronicles from both sides of the conflict.",
+ "type": "source",
+ "updated": "2026-11-13"
+}

@@ -1,0 +1,152 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000043",
+   "name": "Mohi (Sajó River)",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000040",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Kingdom of Hungary",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Hungary"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000164",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Doc grade B; restore when cited. Excerpts only; to source",
+   "field": "career",
+   "id": "CLM-000167",
+   "perspective": [
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened)",
+   "field": "controversies",
+   "id": "CLM-000174",
+   "perspective": [
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000041",
+     "name": "Poland",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mongols left Hungary and Poland devastated",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "polity_type": "kingdom",
+ "primary_name": "Kingdom of Hungary",
+ "slug": "kingdom-of-hungary",
+ "status": "draft",
+ "summary": "Kingdom of Béla IV, whose army the Mongols destroyed at Mohi in 1241.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

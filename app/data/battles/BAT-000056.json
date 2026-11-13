@@ -1,0 +1,149 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000255"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000101",
+   "role": null
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "day": 17,
+  "display": "17 December 1398",
+  "earliest": 1398,
+  "latest": 1398,
+  "month": 12,
+  "precision": "day"
+ },
+ "id": "BAT-000056",
+ "kind": "field-battle",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Defeat of the Delhi sultan's army",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000255"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000101",
+   "role": null
+  }
+ ],
+ "place": null,
+ "primary_name": "Defeat of the Delhi sultan's army",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12) (opened); excerpts (Larousse, World History Encyclopedia)",
+   "field": "career",
+   "id": "CLM-000255",
+   "perspective": [
+    {
+     "id": "POL-000047",
+     "name": "Delhi Sultanate",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Sacked Delhi in December 1398",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commander_ids": [
+    "PER-000010"
+   ],
+   "commanders": [
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "label": "Timurid realm",
+   "polities": [
+    {
+     "id": "POL-000049",
+     "name": "Timurid realm",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000049"
+   ],
+   "result": "Victory"
+  },
+  {
+   "commanders": [],
+   "label": "Delhi Sultanate",
+   "polities": [
+    {
+     "id": "POL-000047",
+     "name": "Delhi Sultanate",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000047"
+   ]
+  }
+ ],
+ "site_certainty": "C",
+ "slug": "defeat-of-the-delhi-sultans-army",
+ "status": "draft",
+ "summary": "Timur's destruction of the Delhi sultan's army, after which Delhi was left in ruins.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000026",
+  "name": "Invasion of India",
+  "type": "war"
+ },
+ "war_id": "WAR-000026"
+}

@@ -1,0 +1,30 @@
+{
+ "authors": [
+  "Régine Pernoud"
+ ],
+ "bias_notes": "McGrady notes it leans on 1456 testimony without critique.",
+ "certainty": "A",
+ "cited_by": [],
+ "claims": [],
+ "connections": [],
+ "derived_by": [],
+ "derives_from": [
+  {
+   "id": "SRC-000002",
+   "name": "Nullification (rehabilitation) trial dossier, 1452–1456",
+   "type": "source"
+  }
+ ],
+ "id": "SRC-000009",
+ "opened": false,
+ "primary_name": "Régine Pernoud, Joan of Arc by Herself and Her Witnesses",
+ "reliability_notes": "Standard source collection (pilot doc).",
+ "reliability_tier": "scholarly",
+ "slug": "pernoud-joan-of-arc-by-herself",
+ "source_type": "other",
+ "status": "draft",
+ "summary": "Standard collection of sources on Joan of Arc.",
+ "title": "Joan of Arc by Herself and Her Witnesses",
+ "type": "source",
+ "updated": "2026-11-13"
+}

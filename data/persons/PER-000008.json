@@ -40,6 +40,10 @@
     "commander",
     "ruler"
   ],
+  "regions": [
+    "Africa",
+    "Asia"
+  ],
   "polity_ids": [
     "POL-000030"
   ],

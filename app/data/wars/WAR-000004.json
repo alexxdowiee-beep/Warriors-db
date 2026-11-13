@@ -1,0 +1,115 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "218 BCE",
+    "earliest": -217,
+    "latest": -217,
+    "precision": "year"
+   },
+   "id": "BAT-000011",
+   "kind": "skirmish",
+   "name": "Ticinus",
+   "result": "Victory"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "December 218 BCE",
+    "earliest": -217,
+    "latest": -217,
+    "month": 12,
+    "precision": "month"
+   },
+   "id": "BAT-000012",
+   "kind": "field-battle",
+   "name": "Trebia",
+   "result": "Victory"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "217 BCE",
+    "earliest": -216,
+    "latest": -216,
+    "precision": "year"
+   },
+   "id": "BAT-000013",
+   "kind": "ambush",
+   "name": "Lake Trasimene",
+   "result": "Victory"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "216 BCE",
+    "earliest": -215,
+    "latest": -215,
+    "precision": "year"
+   },
+   "id": "BAT-000014",
+   "kind": "field-battle",
+   "name": "Cannae",
+   "result": "Victory"
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "202 BCE",
+    "earliest": -201,
+    "latest": -201,
+    "precision": "year"
+   },
+   "id": "BAT-000016",
+   "kind": "field-battle",
+   "name": "Zama",
+   "result": "Defeat"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000004",
+   "name": "Carthage",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000005",
+   "name": "Rome",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "WAR-000004",
+ "kind": "war",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Second Punic War",
+   "preferred": true
+  }
+ ],
+ "parent_war": null,
+ "people": [],
+ "primary_name": "Second Punic War",
+ "related_claims": [],
+ "slug": "second-punic-war",
+ "status": "draft",
+ "sub_wars": [
+  {
+   "id": "WAR-000014",
+   "name": "March on Rome (211 BCE)",
+   "type": "war"
+  }
+ ],
+ "summary": "War between Carthage and Rome that followed Hannibal's capture of Saguntum, beginning in 218 BCE; decided by Hannibal's defeat at Zama in 202 BCE.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

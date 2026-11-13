@@ -1,0 +1,157 @@
+{
+ "battles": [
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1822",
+    "earliest": 1822,
+    "latest": 1822,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000023",
+   "kind": "unknown",
+   "name": "Horowhenua lakes",
+   "result": "Victory; massacre"
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1822–24",
+    "earliest": 1822,
+    "latest": 1824,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000024",
+   "kind": "massacre",
+   "name": "Hotuiti",
+   "result": "Killing after false peace offer"
+  }
+ ],
+ "belligerents": [
+  {
+   "id": "POL-000015",
+   "name": "Ngāti Toa Rangatira",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000021",
+   "name": "Muaūpoko",
+   "type": "polity"
+  },
+  {
+   "id": "POL-000022",
+   "name": "Rangitāne",
+   "type": "polity"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000074"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000033",
+   "role": "Led the migration"
+  }
+ ],
+ "id": "WAR-000012",
+ "kind": "migration",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Te Heke Tātaramoa",
+   "preferred": true
+  }
+ ],
+ "parent_war": {
+  "id": "WAR-000009",
+  "name": "Musket Wars",
+  "type": "war"
+ },
+ "parent_war_id": "WAR-000009",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000074"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "relation": "commanded_by",
+   "relationship_id": "REL-000033",
+   "role": "Led the migration"
+  }
+ ],
+ "primary_name": "Te Heke Tātaramoa",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000036",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000034",
+     "source_type": "statute",
+     "tier": null,
+     "title": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (DNZB, Act)",
+   "field": "main_battles",
+   "id": "CLM-000074",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+   "subject": {
+    "id": "PER-000005",
+    "name": "Te Rauparaha",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "slug": "te-heke-tataramoa",
+ "span": {
+  "certainty": "A",
+  "display": "1822",
+  "earliest": 1822,
+  "latest": 1822,
+  "precision": "year"
+ },
+ "status": "draft",
+ "sub_wars": [],
+ "summary": "Second stage of the migration, joined by some Te Āti Awa, about 250 miles south to Kāpiti; peaceful at first through marriage alliances, then violent in Manawatū and Horowhenua.",
+ "type": "war",
+ "updated": "2026-11-13"
+}

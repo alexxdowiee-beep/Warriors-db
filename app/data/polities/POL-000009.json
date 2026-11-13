@@ -1,0 +1,29 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000017",
+   "name": "Naval battle off Pamphylia",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000009",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Rhodes",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Rhodes",
+ "slug": "rhodes",
+ "status": "draft",
+ "summary": "The Rhodians defeated Hannibal in a naval battle off Pamphylia in 190 BCE.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

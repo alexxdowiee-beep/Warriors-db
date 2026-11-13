@@ -1,0 +1,29 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000059",
+   "name": "Sack of Baghdad",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000048",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Jalayirids",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Jalayirids",
+ "slug": "jalayirids",
+ "status": "draft",
+ "summary": "Dynasty ruling Baghdad when Timur stormed it in 1401.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

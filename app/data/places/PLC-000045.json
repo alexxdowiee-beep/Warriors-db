@@ -1,0 +1,31 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000046",
+   "name": "Fall of Safed",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000045",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Safed",
+   "preferred": true
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "place_type": "fortress",
+ "primary_name": "Safed",
+ "slug": "safed",
+ "status": "draft",
+ "summary": "Templar fortress taken by Baibars in 1266.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

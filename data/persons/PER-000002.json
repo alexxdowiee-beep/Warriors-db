@@ -69,6 +69,11 @@
     "magistrate",
     "adviser"
   ],
+  "regions": [
+    "Africa",
+    "Europe",
+    "Asia"
+  ],
   "polity_ids": [
     "POL-000004",
     "POL-000007",

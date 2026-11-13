@@ -1,0 +1,33 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000020",
+   "name": "Boju and the capture of Ying",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000013",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Chu",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "State of Chu"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [],
+ "primary_name": "Chu",
+ "slug": "chu",
+ "status": "draft",
+ "summary": "Wu's powerful western neighbour; its capital, Ying, fell to Wu in 506 BCE.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

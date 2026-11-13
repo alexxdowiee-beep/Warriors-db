@@ -1,0 +1,64 @@
+{
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "POL-000054",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Iran",
+   "preferred": true
+  },
+  {
+   "kind": "other",
+   "name": "Persia"
+  }
+ ],
+ "people": [],
+ "perspective_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000096",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "\"Timur\", Encyclopaedia Britannica"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000096 (TM-S12)",
+   "field": "career",
+   "id": "CLM-000251",
+   "perspective": [
+    {
+     "id": "POL-000054",
+     "name": "Iran",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Conquered Iran 1383–1394 and crushed revolts with massacres and skull towers",
+   "subject": {
+    "id": "PER-000010",
+    "name": "Timur",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "primary_name": "Iran",
+ "slug": "iran",
+ "status": "draft",
+ "summary": "Iran (Persia), conquered by Timur in 1383–1394 and today a modern state. Used as a perspective: the cities and dynasties of Iran.",
+ "type": "polity",
+ "updated": "2026-11-13",
+ "wars": []
+}

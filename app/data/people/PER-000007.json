@@ -1,0 +1,1491 @@
+{
+ "active_period": {
+  "certainty": "A",
+  "display": "c. 1200s–1240s",
+  "earliest": 1200,
+  "latest": 1249,
+  "precision": "decade",
+  "qualifier": "circa"
+ },
+ "bias_flags_present": [
+  "patron-bias",
+  "translation-issue"
+ ],
+ "birth": {
+  "certainty": "C",
+  "claim_ids": [
+   "CLM-000158"
+  ],
+  "display": "c. 1175–1176",
+  "earliest": 1175,
+  "latest": 1176,
+  "precision": "year",
+  "qualifier": "circa"
+ },
+ "certainty": "A",
+ "civilisations": [],
+ "claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "identity",
+   "id": "CLM-000155",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Subutai (Sübe'etei) was a leading Mongol general under Genghis Khan and Ögödei",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "active_period",
+   "id": "CLM-000156",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Active c. 1200s–1240s",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "main_battles",
+   "id": "CLM-000157",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); Wikipedia (excerpt, not stored as a source)",
+   "field": "birth",
+   "id": "CLM-000158",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "Born 1176 (alternative: c. 1175)",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened)",
+   "field": "death",
+   "id": "CLM-000159",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Died 1248",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "translation-issue"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "evidence",
+   "id": "CLM-000160",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "His biography, written in Mongolian, was translated into Chinese in the 1260s and survives in three Chinese versions",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [
+    "CLM-000162"
+   ],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "abstract",
+     "source_id": "SRC-000062",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened); SRC-000062 (SB-S09) (opened, abstract)",
+   "field": "career",
+   "id": "CLM-000161",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [
+    "CLM-000161"
+   ],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": "of notes",
+     "source_id": "SRC-000062",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000059",
+     "source_type": "primary-contemporary",
+     "tier": null,
+     "title": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000062 (SB-S09) (excerpt of notes); SRC-000059 (SB-S04) (via-secondary)",
+   "field": "evidence",
+   "id": "CLM-000162",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "The Novgorod chronicle dates the Kalka to 1224",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "abstract",
+     "source_id": "SRC-000062",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000062 (SB-S09) (opened, abstract)",
+   "field": "career",
+   "id": "CLM-000163",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "Jebe was captured and killed by the Qipchaqs during the campaign",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000164",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000165",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Ryazan fell in December 1237",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000166",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Doc grade B; restore when cited. Excerpts only; to source",
+   "field": "career",
+   "id": "CLM-000167",
+   "perspective": [
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "patron-bias"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": "translating SRC-000058 (SB-S01)",
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000061 (SB-S08) (opened, translating SRC-000058 (SB-S01))",
+   "field": "leadership",
+   "id": "CLM-000168",
+   "perspective": [],
+   "quiz_kind": "tradition",
+   "quiz_ready": true,
+   "statement": "His biography says Batu asked for him to take command when the princes stalled",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "translation-issue"
+   ],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "evidence",
+   "id": "CLM-000169",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "statement": "\"Ye-lie-ban\" in his biography is Ryazan, garbled in transcription",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000063",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000063 (SB-S10) (via-secondary)",
+   "field": "origins",
+   "id": "CLM-000170",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "His family was tied to Chinggis Khan's ancestors for generations",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000058",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000058 (SB-S01) (excerpt)",
+   "field": "origins",
+   "id": "CLM-000171",
+   "perspective": [],
+   "quiz_kind": "tradition",
+   "quiz_ready": true,
+   "statement": "His biography tells of his father being seized by robbers while bringing sheep to Temüjin",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000046",
+     "source_type": "primary-contemporary",
+     "tier": null,
+     "title": "The Secret History of the Mongols"
+    }
+   ],
+   "claim_type": "text",
+   "evidence_status": "SRC-000046 (SB-S02) (excerpt)",
+   "field": "evidence",
+   "id": "CLM-000172",
+   "perspective": [],
+   "quiz_kind": "tradition",
+   "quiz_ready": true,
+   "statement": "The *Secret History* names him among Temüjin's four \"hounds\"",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000054 (SB-S07) (opened)",
+   "field": "career",
+   "id": "CLM-000173",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000054 (SB-S07) (opened)",
+   "field": "controversies",
+   "id": "CLM-000174",
+   "perspective": [
+    {
+     "id": "POL-000040",
+     "name": "Kingdom of Hungary",
+     "type": "polity"
+    },
+    {
+     "id": "POL-000041",
+     "name": "Poland",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "The Mongols left Hungary and Poland devastated",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000161"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000039",
+    "name": "Kalka River",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000071",
+   "role": "Co-commander"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000040",
+    "name": "Siege of Kaifeng",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000072",
+   "role": "Commander"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000167"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000043",
+    "name": "Mohi (Sajó River)",
+    "type": "battle"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000076",
+   "role": "Senior commander with Batu"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "WAR-000017",
+    "name": "Invasion of Khwarazm",
+    "type": "war"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000069",
+   "role": "Commander under Genghis Khan"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000157"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "WAR-000018",
+    "name": "Western raid of Jebe and Subutai",
+    "type": "war"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000070",
+   "role": "Co-commander with Jebe"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000164"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   },
+   "relation": "commanded",
+   "relationship_id": "REL-000073",
+   "role": "Senior general under Batu"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000109",
+   "role": "Subutai doc: brilliant battles, judged almost entirely through the records of his enemies."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000110",
+   "role": "Subutai doc: the same campaigns seen from the top of the command."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000008",
+    "name": "Baibars",
+    "type": "person"
+   },
+   "relation": "compare_with",
+   "relationship_id": "REL-000111",
+   "role": "Baibars doc: the Mongol campaigns that destroyed the Kipchaks are the reason Baibars was enslaved, two lives linked by one war."
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000165"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000041",
+    "name": "Fall of Ryazan",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000074",
+   "role": "Part of Batu's army"
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000166"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "BAT-000042",
+    "name": "Sit River",
+    "type": "battle"
+   },
+   "relation": "participated",
+   "relationship_id": "REL-000075",
+   "role": "Part of Batu's army (his exact role unclear)"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000155"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "POL-000026",
+    "name": "Mongol Empire",
+    "type": "polity"
+   },
+   "relation": "served",
+   "relationship_id": "REL-000067",
+   "role": "General under Genghis Khan, Ögödei and the princes"
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000155"
+   ],
+   "direction": "stored",
+   "other": {
+    "id": "PER-000006",
+    "name": "Genghis Khan",
+    "type": "person"
+   },
+   "relation": "served_under",
+   "relationship_id": "REL-000068",
+   "role": null
+  }
+ ],
+ "core": {
+  "claim_ids": [
+   "CLM-000155",
+   "CLM-000156",
+   "CLM-000157"
+  ],
+  "claim_set": "commander",
+  "fields": [
+   "identity",
+   "active_period",
+   "main_battles"
+  ],
+  "missing_fields": [],
+  "weakest_claim_ids": [
+   "CLM-000155",
+   "CLM-000156",
+   "CLM-000157"
+  ]
+ },
+ "core_claim_set": "commander",
+ "death": {
+  "certainty": "B",
+  "claim_ids": [
+   "CLM-000159"
+  ],
+  "display": "1248",
+  "earliest": 1248,
+  "latest": 1248,
+  "precision": "year"
+ },
+ "engagements": [
+  {
+   "certainty": "A",
+   "claim_ids": [],
+   "date": {
+    "certainty": "A",
+    "display": "1218–1221",
+    "earliest": 1218,
+    "latest": 1221,
+    "precision": "year"
+   },
+   "id": "WAR-000017",
+   "kind": "war",
+   "name": "Invasion of Khwarazm",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Commander under Genghis Khan",
+   "type": "war",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000157"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "1220–1223",
+    "earliest": 1220,
+    "latest": 1223,
+    "precision": "year"
+   },
+   "id": "WAR-000018",
+   "kind": "campaign",
+   "name": "Western raid of Jebe and Subutai",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Co-commander with Jebe",
+   "type": "war",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000161"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "May 1223",
+    "earliest": 1223,
+    "latest": 1223,
+    "month": 5,
+    "precision": "month"
+   },
+   "id": "BAT-000039",
+   "kind": "field-battle",
+   "name": "Kalka River",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Co-commander",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000018",
+    "name": "Western raid of Jebe and Subutai",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "date": {
+    "certainty": "B",
+    "display": "1232–1233",
+    "earliest": 1232,
+    "latest": 1233,
+    "precision": "year"
+   },
+   "id": "BAT-000040",
+   "kind": "siege",
+   "name": "Siege of Kaifeng",
+   "relation": "commanded",
+   "result": "Captured",
+   "role": "Commander",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000016",
+    "name": "War against the Jin",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000164"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "1236–1242",
+    "earliest": 1236,
+    "latest": 1242,
+    "precision": "year"
+   },
+   "id": "WAR-000019",
+   "kind": "war",
+   "name": "Great western campaign",
+   "relation": "commanded",
+   "result": "Victory; withdrawal 1242",
+   "role": "Senior general under Batu",
+   "type": "war",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000165"
+   ],
+   "date": {
+    "certainty": "A",
+    "display": "December 1237",
+    "earliest": 1237,
+    "latest": 1237,
+    "month": 12,
+    "precision": "month"
+   },
+   "id": "BAT-000041",
+   "kind": "siege",
+   "name": "Fall of Ryazan",
+   "relation": "participated",
+   "result": "Captured",
+   "role": "Part of Batu's army",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000166"
+   ],
+   "date": {
+    "certainty": "B",
+    "display": "March 1238",
+    "earliest": 1238,
+    "latest": 1238,
+    "month": 3,
+    "precision": "month"
+   },
+   "id": "BAT-000042",
+   "kind": "field-battle",
+   "name": "Sit River",
+   "relation": "participated",
+   "result": "Victory",
+   "role": "Part of Batu's army (his exact role unclear)",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "claim_ids": [
+    "CLM-000167"
+   ],
+   "date": {
+    "certainty": "B",
+    "display": "April 1241",
+    "earliest": 1241,
+    "latest": 1241,
+    "month": 4,
+    "precision": "month"
+   },
+   "id": "BAT-000043",
+   "kind": "field-battle",
+   "name": "Mohi (Sajó River)",
+   "relation": "commanded",
+   "result": "Victory",
+   "role": "Senior commander with Batu",
+   "type": "battle",
+   "war": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   }
+  }
+ ],
+ "era": "medieval",
+ "id": "PER-000007",
+ "key_source_ids": [
+  "SRC-000046",
+  "SRC-000054",
+  "SRC-000058",
+  "SRC-000059",
+  "SRC-000061",
+  "SRC-000062",
+  "SRC-000063"
+ ],
+ "myth_claim_ids": [
+  "CLM-000175",
+  "CLM-000176",
+  "CLM-000177",
+  "CLM-000178",
+  "CLM-000179",
+  "CLM-000180",
+  "CLM-000181",
+  "CLM-000182",
+  "CLM-000173",
+  "CLM-000183"
+ ],
+ "myths": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000063",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Unsupported (D). Evidence: Repeated in a popular modern history; Pow and Liao suggest descriptions of someone else were attached to him (excerpts)",
+   "field": "myth",
+   "id": "CLM-000175",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He was so obese he was carried in an iron cart",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000063",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Misleading (B). Evidence: Official sources link his family to Chinggis Khan's ancestors for generations (Pow and Liao, via citing works)",
+   "field": "myth",
+   "id": "CLM-000176",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He was a reindeer-herding outsider who rose from nothing",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000058",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Unsupported (C). Evidence: A popular claim; no source establishes it, and his biography itself records Mongol forces being held up before he took command",
+   "field": "myth",
+   "id": "CLM-000177",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He never lost a battle",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Doc grade B; restore when cited. Myths table verdict: False (B). Evidence: Legnica was fought by a separate Mongol force under other princes, two days before Mohi",
+   "field": "myth",
+   "id": "CLM-000178",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He commanded at Legnica (1241)",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Overstated (C). Evidence: Senior role attested; sole authorship is not",
+   "field": "myth",
+   "id": "CLM-000179",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He alone planned the invasion of Europe",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "E",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Untraced (E). Evidence: No source found; army sizes unknown",
+   "field": "myth",
+   "id": "CLM-000180",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "20,000 Mongols beat 80,000 Rus' at the Kalka",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Disputed (C). Evidence: Depends on which father the sources give him",
+   "field": "myth",
+   "id": "CLM-000181",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "He was the brother of Jelme",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000062",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Disputed (C). Evidence: A common reading that Pow's work on Jebe's death complicates",
+   "field": "myth",
+   "id": "CLM-000182",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "The 1220–1223 raid was a planned reconnaissance of Europe",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000054",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Timothy May, \"The Mongol Empire in World History\""
+    }
+   ],
+   "claim_type": "interpretation",
+   "evidence_status": "SRC-000054 (SB-S07) (opened)",
+   "field": "career",
+   "id": "CLM-000173",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "E",
+   "citations": [
+    {
+     "access": "excerpt",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000065",
+     "source_type": "ai-generated",
+     "tier": "ai-generated",
+     "title": "An AI-generated online \"encyclopedia\" entry on Subutai"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Myths table verdict: Fabricated (E). Evidence: From an AI-generated web page with no sources; nothing similar exists in the evidence",
+   "field": "myth",
+   "id": "CLM-000183",
+   "perspective": [],
+   "quiz_kind": "myth-busting",
+   "quiz_ready": true,
+   "statement": "Online \"encyclopedia\" details about his washing captured banners in a river or sending patrols to record weather and soil",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "rejected-myth"
+  }
+ ],
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Subutai",
+   "preferred": true
+  },
+  {
+   "kind": "transliteration",
+   "language": "Mongolian",
+   "name": "Sübe'etei"
+  },
+  {
+   "kind": "other",
+   "name": "Sübedei"
+  },
+  {
+   "kind": "native-script",
+   "language": "Chinese",
+   "name": "速不台",
+   "script": "Han"
+  }
+ ],
+ "polities": [
+  {
+   "id": "POL-000026",
+   "name": "Mongol Empire",
+   "type": "polity"
+  }
+ ],
+ "polity_ids": [
+  "POL-000026"
+ ],
+ "primary_name": "Subutai",
+ "profile": {
+  "controversies": "**How much credit is his?**\n\nMongol and Chinese sources assign great campaigns to princes: the western campaign of 1236–1242 is Batu's. Modern popular history often credits Subutai as its true planner. The Yuan biography supports an important role, saying he was in the vanguard and was sent to take command when the princes stalled, but it was written to honour him. **Graded C:** he was clearly a senior and trusted commander; \"mastermind of the invasion of Europe\" goes beyond the evidence opened so far.\n\n**Perspectives**\n\n| Perspective | How the events are remembered | Grade |\n| --- | --- | --- |\n| Rus' | The Kalka and the campaigns of 1237–1240 as catastrophe: cities sacked, princes killed. The 16th-century *Tale of the Destruction of Ryazan* contains inaccuracies and romantic detail, but likely reflects genuine events, as other sources and archaeology confirm (Pow 2025) | A for the destruction |\n| Rus' (Kalka) | Popular retellings say the captured princes were crushed beneath boards on which the victors feasted. This is a Rus' chronicle account, still to be checked against the chronicle text | B, to verify |\n| Hungary and Poland | May: the Mongols did not try to hold Hungary and Poland but left them devastated | A |\n| Mongol and Yuan | Honoured as a loyal and successful general in his official biography | A as the tradition's view |\n| Modern Mongolia | Celebrated as one of the nation's great generals | B, to source |\n\n**Violence**\n\nAs with Genghis Khan, the campaigns he commanded involved the sack of cities and mass killing of civilians, recorded by the victims' chroniclers. No source gives reliable death tolls, and none are stored.",
+  "early_life": "**Family and origins**\n\nSubutai belonged to the Uriankhai (Uriangqai), a people of the forest-steppe edge north of the Mongols. Popular books often make him a reindeer-herding outsider who rose from nothing. Pow and Liao reject this: the official sources say his family had been tied to Chinggis Khan's ancestors for generations, and they suggest the \"outsider\" image survives because its irony appeals to modern writers (Pow and Liao 2018, via citing works; B).\n\nThe sources disagree about his father. The *Yuan shi* biography tells how his father, bringing sheep to Temüjin, was seized by robbers and rescued by his sons. Popular accounts name the father Jarchigudai, who in the *Secret History* is the father of Jelme, another of Temüjin's companions; whether Subutai and Jelme were brothers is therefore uncertain (C, stored as linked alternatives). A brother named Ca'urqan is mentioned in the *Secret History* (B, excerpt).\n\n**Rise in Temüjin's service**\n\nHe served Temüjin from youth. Popular accounts of his joining at fourteen or serving as a door guard are not traced to a source here (C). The first event of his life the sources actually describe comes around 1203, when Temüjin was at his lowest point near Lake Baljuna (B, excerpt summarising Pow and Liao).\n\nThe *Secret History* names him among Temüjin's four \"hounds\" (with Jebe, Khubilai and Jelme), fierce companions loosed against his enemies (B, excerpts quoting the text).",
+  "evidence_note": "**Research note.** I opened three sources: Timothy May's \"The Mongol Empire in World History\" (2008, already opened for Genghis Khan); Stephen Pow's 2025 article on the Rus' material in Subutai's Yuan-era biographies (*Golden Horde Review*, open access, CC BY); and the abstract of Pow's 2017 article on Jebe's last campaign (*Journal of the Royal Asiatic Society*). The key study, Pow and Liao's 2018 \"Subutai: Sorting Fact from Fiction\" (*Journal of Chinese Military History*), with full translations of both biographies, is known here only from citations; it is the first source to obtain. One search result was an AI-generated \"encyclopedia\" page containing invented details; it is excluded and noted in the myths section.\n\n### The biographies\n\nSubutai's biography was originally composed in Mongolian in the mid-13th century and translated into Chinese in the 1260s; it survives only in Chinese, in three versions from the same basic source material. The fullest is in chapter 121 of the *Yuan shi*, a second (under the name Xuebutai) is in chapter 122 and can be dated to 1264, and a third, from a temple stele inscription by Wang Yun (1228–1304), is preserved in Su Tianjue's *Lives of Eminent Ministers of the Yuan* ([Pow 2025](https://journal-vniispk.ru/2308-152X/article/download/333167/307974), A).\n\nPow shows how unevenly these biographies record distant events. Their account of the 1223 battle against the Rus' accurately names the two Rus' leaders called Mstislav. But their account of the much larger conquest of 1237–1240 is so garbled that a \"ruler of the Rus'\" named Ye-lie-ban appears in it, whom Pow argues is really the city of Ryazan, turned into a person by a copying or transcription error (Pow 2025, B for his argument). For the database this means the biographies are strong evidence for events near the Mongol court, and weaker the further away the events took place.\n\n### Other sources\n\n| Label | Source | Viewpoint | Main use and bias |\n| --- | --- | --- | --- |\n| SB-S01 | *Yuan shi* chapters 121 and 122, and Su Tianjue's version | Mongol original via Chinese translation | Core career; `translation-issue`, `patron-bias` |\n| SB-S02 | *The Secret History of the Mongols* | Mongol | Brief mentions, among the four \"hounds\" of Temüjin; `patron-bias` |\n| SB-S03 | Rashid al-Din, *Compendium of Chronicles* | Persian, from Mongol originals | Western campaign; `patron-bias` |\n| SB-S04 | Rus' chronicles (Novgorod First, Galician-Volhynian, Laurentian) | The defeated | Kalka, 1237–1240; `hostile-source`. The Novgorod chronicle dates Kalka to 1224, a year later than most scholars accept |\n| SB-S05 | Hungarian and Latin accounts (Master Roger, Thomas of Split, C. de Bridia) | The defeated and Western observers | Hungary 1241; `hostile-source` |\n| SB-S06 | Ibn al-Athir | Contemporary Arab historian | Kalka and the western raid; `hostile-source` |\n\n### What this means for grading\n\n- Events attested in both Mongol-side and enemy sources, such as Kalka and the western campaign, can reach A.\n- Personal details (his family, his appearance, his sayings) rest on one Mongol-side tradition and are B or C.\n- Popular claims about his genius, his \"undefeated\" record and his appearance need checking one by one: many trace back to modern books, not to sources.",
+  "historical_context": "He rose with the empire. Every stage of his career is part of a wider Mongol campaign led by a member of the ruling family: Genghis Khan himself, then Ögödei's sons and nephews such as Batu. Subutai was always a general serving a prince. That matters for judging how much credit he deserves for victories the sources assign to the princes he served (see Controversies).",
+  "key_takeaways": [
+   "Subutai was a leading Mongol general for about forty years, under Genghis Khan, Ögödei and the princes of the next generation.",
+   "With Jebe he led the 1220–1223 raid around the Caspian that destroyed a Rus' and Qipchaq army at the Kalka.",
+   "He was a senior commander in the 1236–1242 campaign that conquered the Rus' principalities and devastated Hungary and Poland.",
+   "His biography survives only in Chinese translation, accurate for some distant events and garbled for others.",
+   "Much of his popular image (an obese outsider, a lone mastermind, never defeated) is modern invention."
+  ],
+  "leadership": "His command role is not in doubt, so leadership and strategy stay separate. But both sections are thin on purpose: the sources record what his armies did, almost never how he thought.\n\n**Leadership**\n\n- **Longevity and trust.** He held major commands for about forty years under Genghis Khan, Ögödei and the princes of the next generation (A). Few commanders in any army kept the confidence of three successive rulers.\n- **The trouble-shooter.** The Yuan biography says that when Batu's forces were held up by a Rus' city, Batu asked the khan to send Subutai to take over, and the city then fell ([Pow 2025](https://journal-vniispk.ru/2308-152X/article/download/333167/307974), translating the *Yuan shi*). A text claim, B, flagged `patron-bias`: a biography naturally credits its subject.\n- **Sayings.** A pledge of loyalty attributed to him, comparing himself to felt cloth keeping out the wind, appears in popular accounts but is not traced to a source here (D).",
+  "legacy": "- **The model of Mongol operational art.** Modern military writers rank him among the greatest commanders in history; that reputation took shape in 20th-century Western military writing (B, to source).\n- **The western steppe.** The campaign of 1236–1242 created the western Mongol realm later called the Golden Horde, which dominated the Rus' principalities for more than two centuries (May, A).\n- **A cautionary case for this database.** No figure in batch 1 shows better how far a popular image can drift from the sources. Most of what circulates about Subutai's character and record is modern.",
+  "military_career": "**Northern China (1211 onwards).** He served in the invasion of the Jin, often alongside the senior general Jebe; a 1212 capture of the town of Huan is said to be his first independent exploit (C, excerpts only).\n\n**Khwarazm (1219–1220).** He served in the invasion of the Khwarazmian Empire, and, with Jebe, led the force that pursued the fleeing Khwarazm-shah Muhammad II westward (B; May confirms a Mongol force pursued Muhammad without naming its commanders).\n\n**The western raid and the Kalka (1220–1223).** After Muhammad's death, Jebe and Subutai led their force through the Caucasus and onto the steppe north of the Black Sea, defeating the Qipchaqs (Cumans) in 1222. The Rus' princes sided with the Qipchaqs, and in May 1223 their combined army was catastrophically defeated at the Kalka River. Two leading princes, Mstislav of Kiev and Mstislav of Chernigov, died; a third, Mstislav of Galicia, escaped. The Rus' chronicles record Mstislav of Kiev surrendering after holding out in a fortified camp, and both the Yuan biography and other contemporary accounts call it a fierce and desperate battle ([Pow 2025](https://journal-vniispk.ru/2308-152X/article/download/333167/307974), A). Pow argues elsewhere that Jebe himself was captured and killed by the Qipchaqs during this campaign, and that Mongol-side sources kept quiet about it ([Pow 2017](https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/last-campaign-and-death-of-jebe-noyan/A9D56DDD3328025ED8C43EBAC2153C52), C as one scholar's argument). The Novgorod chronicle dates the battle to 1224, a year later; most historians accept 1223 (B).\n\n**The end of the Jin (1230–1234).** Under Ögödei he took part in the final conquest of the Jin, including the siege of their capital, Kaifeng (B, to source).\n\n**The great western campaign (1236–1242).** He went west with Batu and other princes in a campaign that conquered the Rus' principalities and the steppe north of the Black and Caspian Seas, then invaded Hungary and Poland ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A). Ryazan fell in December 1237; Grand Prince Yuri II of Vladimir was defeated and killed at the Sit River in March 1238; Kozelsk resisted for weeks; the campaign in the south culminated in the sack of Kiev in 1240 (Pow 2025, A). In April 1241 a Mongol army destroyed the army of King Béla IV of Hungary at Mohi on the Sajó River (B, to source). The Mongols left Hungary in 1242; May notes Ögödei's death in December 1241 is one possible reason, but historians debate it (C).\n\n**Death (1248).** He died in 1248 (May, B).\n\n**Major campaigns and battles**\n\n| Label | Engagement | Date | Kind | Opponent | Subutai's role | Result | Grade |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| GK-W03 | Invasion of Khwarazm (shared with Genghis Khan) | 1219–1221 | war (WAR) | Khwarazmian Empire | Commander under Genghis Khan | Victory | A |\n| SB-W01 | Western raid of Jebe and Subutai | 1220–1223 | campaign (WAR) | Georgia, Alans, Qipchaqs, Rus' | Co-commander with Jebe | Victory | A |\n| SB-B01 | Kalka River | May 1223 | field-battle | Rus' princes and Qipchaqs | Co-commander | Victory | A |\n| SB-B02 | Siege of Kaifeng | 1232–1233 | siege | Jin | Commander | Captured | B |\n| SB-W02 | Great western campaign | 1236–1242 | war (WAR) | Volga Bulgars, Rus', Qipchaqs, Poland, Hungary | Senior general under Batu | Victory; withdrawal 1242 | A |\n| SB-B03 | Fall of Ryazan | Dec 1237 | siege | Principality of Ryazan | Part of Batu's army | Captured | A |\n| SB-B04 | Sit River | Mar 1238 | field-battle | Vladimir-Suzdal | Part of Batu's army (his exact role unclear) | Victory | B |\n| SB-B05 | Mohi (Sajó River) | Apr 1241 | field-battle | Kingdom of Hungary | Senior commander with Batu | Victory | B |\n\nArmy sizes are `unknown` for all of these. Popular figures such as \"20,000 Mongols against 80,000 Rus' at the Kalka\" are not traced to any source and are not stored.",
+  "strategy_and_tactics": "**Strategy**\n\n- **Campaigning at continental scale.** The western raid took a single Mongol force from Iran, through the Caucasus, to the steppe north of the Black Sea and back, fighting several peoples in turn (A).\n- **A raid, or a reconnaissance?** The 1220–1223 campaign is often described as deliberate reconnaissance for the later conquest. Pow argues that Jebe's death during it has implications for that reading, for how the Mongol leadership viewed the peoples west of the Volga afterwards, and for the preparations they made before returning in the 1230s ([Pow 2017](https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/last-campaign-and-death-of-jebe-noyan/A9D56DDD3328025ED8C43EBAC2153C52), C).\n\n**Tactics**\n\n- **Coordinated columns.** The Mongol army in this period operated on several fronts in separate corps that were coordinated (May, A for the Mongol army in general). Assigning specific manoeuvres to Subutai personally needs battle-by-battle evidence, which is still to be gathered (C).\n- **Siege warfare** in China and Rus', using engineers and machines drawn from conquered peoples (B).",
+  "technology": "The Mongol cavalry army of mounted archers, with remounts, plus Chinese and Muslim siege engineers (B, as for Genghis Khan's profile). Nothing is recorded of weapons specific to Subutai."
+ },
+ "regions": [
+  "Asia",
+  "Europe"
+ ],
+ "roles": [
+  "commander"
+ ],
+ "sex": "male",
+ "slug": "subutai",
+ "status": "sourced",
+ "summary": "Subutai served three Mongol khans and fought from northern China to Hungary, yet he is a shadowy figure as a person. His biography survives only in Chinese translation, and much of what is popularly said about him is modern invention. This profile tests how the database handles a famous name whose popular image has run far ahead of the evidence.",
+ "tags": [
+  "mongol-empire",
+  "operational-art",
+  "myth-heavy",
+  "batch-1"
+ ],
+ "type": "person",
+ "updated": "2026-11-13"
+}

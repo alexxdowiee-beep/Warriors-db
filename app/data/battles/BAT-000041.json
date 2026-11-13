@@ -1,0 +1,143 @@
+{
+ "certainty": "A",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000165"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000074",
+   "role": "Part of Batu's army"
+  }
+ ],
+ "date": {
+  "certainty": "A",
+  "display": "December 1237",
+  "earliest": 1237,
+  "latest": 1237,
+  "month": 12,
+  "precision": "month"
+ },
+ "id": "BAT-000041",
+ "kind": "siege",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Fall of Ryazan",
+   "preferred": true
+  }
+ ],
+ "outcome": "Captured",
+ "people": [
+  {
+   "certainty": "A",
+   "claim_ids": [
+    "CLM-000165"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000074",
+   "role": "Part of Batu's army"
+  }
+ ],
+ "place": {
+  "id": "PLC-000040",
+  "name": "Ryazan",
+  "type": "place"
+ },
+ "place_id": "PLC-000040",
+ "primary_name": "Fall of Ryazan",
+ "related_claims": [
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "B",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000061",
+     "source_type": "journal-article",
+     "tier": "scholarly",
+     "title": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\""
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "SRC-000061 (SB-S08) (opened)",
+   "field": "career",
+   "id": "CLM-000165",
+   "perspective": [
+    {
+     "id": "POL-000037",
+     "name": "Rus' principalities",
+     "type": "polity"
+    }
+   ],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "statement": "Ryazan fell in December 1237",
+   "subject": {
+    "id": "PER-000007",
+    "name": "Subutai",
+    "type": "person"
+   },
+   "verdict": "accepted"
+  }
+ ],
+ "sides": [
+  {
+   "commanders": [],
+   "label": "Batu's army",
+   "polities": [
+    {
+     "id": "POL-000026",
+     "name": "Mongol Empire",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000026"
+   ],
+   "result": "Captured"
+  },
+  {
+   "commanders": [],
+   "label": "Principality of Ryazan",
+   "polities": [
+    {
+     "id": "POL-000038",
+     "name": "Principality of Ryazan",
+     "type": "polity"
+    }
+   ],
+   "polity_ids": [
+    "POL-000038"
+   ]
+  }
+ ],
+ "slug": "fall-of-ryazan",
+ "status": "draft",
+ "summary": "Fall of the city of Ryazan to Batu's army.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000019",
+  "name": "Great western campaign",
+  "type": "war"
+ },
+ "war_id": "WAR-000019"
+}

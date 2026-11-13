@@ -1,0 +1,37 @@
+{
+ "battles": [
+  {
+   "id": "BAT-000058",
+   "name": "Occupation of Damascus",
+   "type": "battle"
+  }
+ ],
+ "certainty": "A",
+ "claims": [],
+ "connections": [],
+ "id": "PLC-000052",
+ "location_certainty": "A",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Damascus",
+   "preferred": true
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000008",
+   "name": "Baibars",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "place_type": "city",
+ "primary_name": "Damascus",
+ "slug": "damascus",
+ "status": "draft",
+ "summary": "Syrian city where Baibars died in 1277; occupied by Timur in 1401.",
+ "type": "place",
+ "updated": "2026-11-13",
+ "wars": []
+}

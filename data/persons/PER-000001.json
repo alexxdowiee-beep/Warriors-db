@@ -85,6 +85,9 @@
     "war-leader",
     "religious-leader"
   ],
+  "regions": [
+    "Europe"
+  ],
   "polity_ids": [
     "POL-000001"
   ],

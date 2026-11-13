@@ -1,0 +1,71 @@
+{
+ "certainty": "B",
+ "claims": [],
+ "connections": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000004",
+   "role": "In the assault; struck on the helmet by a stone"
+  }
+ ],
+ "date": {
+  "certainty": "B",
+  "display": "11–12 June 1429",
+  "earliest": 1429,
+  "latest": 1429,
+  "precision": "day"
+ },
+ "id": "BAT-000002",
+ "kind": "assault",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "Jargeau",
+   "preferred": true
+  }
+ ],
+ "outcome": "Victory (for Joan of Arc's side)",
+ "people": [
+  {
+   "certainty": "B",
+   "claim_ids": [],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "relation": "participant",
+   "relationship_id": "REL-000004",
+   "role": "In the assault; struck on the helmet by a stone"
+  }
+ ],
+ "place": {
+  "id": "PLC-000004",
+  "name": "Jargeau",
+  "type": "place"
+ },
+ "place_id": "PLC-000004",
+ "primary_name": "Jargeau",
+ "related_claims": [],
+ "sides": [],
+ "slug": "jargeau-1429",
+ "status": "draft",
+ "summary": "Assault in which the French took Jargeau; a large cannon from Orléans brought down a tower.",
+ "type": "battle",
+ "updated": "2026-11-13",
+ "war": {
+  "id": "WAR-000002",
+  "name": "Loire campaign (1429)",
+  "type": "war"
+ },
+ "war_id": "WAR-000002"
+}

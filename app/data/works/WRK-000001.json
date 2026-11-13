@@ -1,0 +1,86 @@
+{
+ "author_ids": [
+  "PER-000004"
+ ],
+ "authorship_certainty": "C",
+ "battles": [],
+ "certainty": "A",
+ "claims": [],
+ "composed": {
+  "certainty": "B",
+  "claim_ids": [
+   "CLM-000057"
+  ],
+  "display": "c. 5th–4th century BCE",
+  "earliest": -499,
+  "latest": -300,
+  "precision": "century",
+  "qualifier": "circa"
+ },
+ "connections": [
+  {
+   "certainty": "C",
+   "claim_ids": [
+    "CLM-000058"
+   ],
+   "direction": "reverse",
+   "other": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "relation": "attributed_to",
+   "relationship_id": "REL-000031",
+   "role": null
+  }
+ ],
+ "earliest_witness": "Yinqueshan bamboo slips, Linyi (tombs dated to roughly 140–118 BCE; found 1972)",
+ "id": "WRK-000001",
+ "names": [
+  {
+   "kind": "primary",
+   "name": "The Art of War",
+   "preferred": true
+  },
+  {
+   "kind": "transliteration",
+   "name": "Sunzi bingfa",
+   "romanisation": "pinyin"
+  },
+  {
+   "kind": "other",
+   "name": "Sunzi"
+  }
+ ],
+ "people": [
+  {
+   "id": "PER-000004",
+   "name": "Sun Tzu",
+   "type": "person"
+  }
+ ],
+ "perspective_claims": [],
+ "primary_name": "The Art of War",
+ "slug": "the-art-of-war",
+ "source_ids": [
+  "SRC-000026",
+  "SRC-000027",
+  "SRC-000031",
+  "SRC-000032"
+ ],
+ "status": "draft",
+ "structure": "Thirteen short chapters, in Giles's titles: Laying Plans; Waging War; Attack by Stratagem; Tactical Dispositions; Energy; Weak Points and Strong; Manoeuvring; Variation in Tactics; The Army on the March; Terrain; The Nine Situations; The Attack by Fire; The Use of Spies.",
+ "summary": "Ancient Chinese military text in 13 chapters, attributed to Sun Wu (Sun Tzu). Confirmed by bamboo-slip copies buried in the 2nd century BCE; probably compiled in the 5th–4th century BCE, perhaps over time.",
+ "type": "work",
+ "updated": "2026-11-13",
+ "versions_and_translations": [
+  "Received 13-chapter text (SRC-000026)",
+  "Yinqueshan bamboo-slip copy, before c. 118 BCE (SRC-000027)",
+  "Han shu bibliography lists a Sunzi in 82 chapters with diagrams (CLM-000065)",
+  "Cao Cao (155–220 CE): earliest surviving commentary",
+  "French Jesuit missionary's translation, late 18th century",
+  "Lionel Giles, English translation, 1910 (SRC-000031)",
+  "Roger Ames, 1993: first English translation to use the Yinqueshan slips (not yet consulted)"
+ ],
+ "wars": []
+}
