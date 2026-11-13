@@ -65,6 +65,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
    "subject": {
     "id": "PER-000007",
@@ -91,6 +93,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
    "subject": {
     "id": "PER-000007",
@@ -132,6 +136,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Mongols left Hungary and Poland devastated",
    "subject": {
     "id": "PER-000007",

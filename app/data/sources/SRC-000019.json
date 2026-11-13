@@ -31,6 +31,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The epic says Sumanguru could not be harmed by ordinary weapons",
       "subject": {
        "id": "PER-000003",
@@ -66,6 +68,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Niane's book reworks a griot's tales, not a transcript",
       "subject": {
        "id": "PER-000003",

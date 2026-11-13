@@ -40,6 +40,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "She cried out that her voices had not deceived her as she burned",
       "subject": {
        "id": "PER-000001",

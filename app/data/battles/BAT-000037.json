@@ -82,6 +82,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Defeated Jalal al-Din near the Indus in 1221",
    "subject": {
     "id": "PER-000006",

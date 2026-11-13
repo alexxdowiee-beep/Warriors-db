@@ -41,6 +41,8 @@
    ],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The *Sirat Baybars* folk epic about him is still popular in the Arabic-speaking world",
    "subject": {
     "id": "PER-000008",

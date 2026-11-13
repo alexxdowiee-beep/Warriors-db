@@ -91,6 +91,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Won Cannae by double envelopment and cavalry",
    "subject": {
     "id": "PER-000002",

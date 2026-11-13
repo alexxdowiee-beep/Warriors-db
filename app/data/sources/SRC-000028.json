@@ -40,6 +40,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sima Qian knew the 13 chapters as a widely read book",
       "subject": {
        "id": "PER-000004",
@@ -86,6 +88,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "A historical Sun Wu existed",
       "subject": {
        "id": "PER-000004",
@@ -132,6 +136,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He served King Helü of Wu",
       "subject": {
        "id": "PER-000004",
@@ -187,6 +193,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He commanded at Boju, 506 BCE",
       "subject": {
        "id": "PER-000004",
@@ -240,6 +248,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Wu captured the Chu capital, Ying, in 506 BCE",
       "subject": {
        "id": "PER-000004",
@@ -284,6 +294,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sima Qian tells the palace-drill story",
       "subject": {
        "id": "PER-000004",
@@ -330,6 +342,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The palace drill happened",
       "subject": {
        "id": "PER-000004",

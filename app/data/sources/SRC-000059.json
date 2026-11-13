@@ -39,6 +39,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Novgorod chronicle dates the Kalka to 1224",
       "subject": {
        "id": "PER-000007",

@@ -37,6 +37,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Temüjin, titled Chinggis Khan, founded the Mongol Empire",
       "subject": {
        "id": "PER-000006",
@@ -83,6 +85,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born 1162",
       "subject": {
        "id": "PER-000006",
@@ -127,6 +131,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mongols only destroyed and built nothing",
       "subject": {
        "id": "PER-000006",

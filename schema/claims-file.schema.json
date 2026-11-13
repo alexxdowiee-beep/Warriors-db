@@ -107,6 +107,13 @@
               "tradition",
               "myth-busting"
             ]
+          },
+          "restricted": {
+            "type": "boolean",
+            "description": "True when the statement or evidence_status reproduces restricted material (e.g. the words of a taonga). The data keeps it; the app shows neither, only restricted_reason."
+          },
+          "restricted_reason": {
+            "type": "string"
           }
         }
       }

@@ -56,6 +56,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Took Safed (1266) and Antioch (1268)",
    "subject": {
     "id": "PER-000008",

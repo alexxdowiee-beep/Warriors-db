@@ -149,6 +149,15 @@ class Export(unittest.TestCase):
         person = self.bundle["people/PER-000005.json"]
         self.assertTrue(person["cultural_guidance"])
 
+    def test_restricted_text_never_leaves_the_database(self):
+        text = " ".join(json.dumps(obj, ensure_ascii=False) for obj in self.bundle.values()).lower()
+        self.assertNotIn("ka mate! ka mate", text)
+        myth = next(c for c in self.bundle["people/PER-000005.json"]["myths"] if c["id"] == "CLM-000109")
+        self.assertTrue(myth["restricted"])
+        self.assertIsNone(myth["statement"])
+        self.assertIsNone(myth["evidence_status"])
+        self.assertTrue(myth["restricted_reason"])
+
 
 if __name__ == "__main__":
     unittest.main()

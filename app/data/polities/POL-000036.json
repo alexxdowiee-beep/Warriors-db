@@ -68,6 +68,8 @@
    ],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Source death tolls are exaggerated, but the conquests caused mass killing",
    "subject": {
     "id": "PER-000006",

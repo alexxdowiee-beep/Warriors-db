@@ -72,6 +72,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Zhongdu fell in 1215",
    "subject": {
     "id": "PER-000006",

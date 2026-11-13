@@ -41,6 +41,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Denigrated under Mongolian communism; now honoured as national founder",
    "subject": {
     "id": "PER-000006",

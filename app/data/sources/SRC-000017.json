@@ -41,6 +41,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Saguntum after an eight-month siege, 219 BCE",
       "subject": {
        "id": "PER-000002",
@@ -76,6 +78,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Reached the Alps with c. 38,000 infantry, 8,000 cavalry, 37 elephants",
       "subject": {
        "id": "PER-000002",
@@ -120,6 +124,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
       "subject": {
        "id": "PER-000002",
@@ -167,6 +173,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "About 70,000 Romans died at Cannae",
       "subject": {
        "id": "PER-000002",
@@ -211,6 +219,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Won Cannae by double envelopment and cavalry",
       "subject": {
        "id": "PER-000002",
@@ -246,6 +256,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Aimed at a negotiated peace, not Rome's destruction",
       "subject": {
        "id": "PER-000002",
@@ -290,6 +302,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated by Scipio at Zama, 202 BCE",
       "subject": {
        "id": "PER-000002",
@@ -328,6 +342,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Roman losses at Zama under 2,000, Carthaginian about ten times that",
       "subject": {
        "id": "PER-000002",

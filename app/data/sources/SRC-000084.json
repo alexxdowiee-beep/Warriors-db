@@ -44,6 +44,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Trần Hưng Đạo (Trần Quốc Tuấn), a Trần prince, led Đại Việt's resistance to the Mongol-Yuan invasions",
       "subject": {
        "id": "PER-000009",
@@ -88,6 +90,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1250s–1300",
       "subject": {
        "id": "PER-000009",
@@ -132,6 +136,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
       "subject": {
        "id": "PER-000009",
@@ -176,6 +182,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born 1228 (alternative: 1213)",
       "subject": {
        "id": "PER-000009",
@@ -220,6 +228,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died 1300",
       "subject": {
        "id": "PER-000009",
@@ -270,6 +280,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The 1257–58 Mongol invasion took Thăng Long but withdrew after about a month",
       "subject": {
        "id": "PER-000009",
@@ -305,6 +317,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "In 1285 the Yuan vanguard was destroyed at Tây Kết and Sogetu killed",
       "subject": {
        "id": "PER-000009",
@@ -340,6 +354,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "In 1287–88 the Vietnamese captured the Yuan supply fleet",
       "subject": {
        "id": "PER-000009",
@@ -386,6 +402,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288",
       "subject": {
        "id": "PER-000009",
@@ -421,6 +439,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Stakes were planted in the Bạch Đằng riverbed to trap the Yuan fleet",
       "subject": {
        "id": "PER-000009",
@@ -458,6 +478,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The 1287 Yuan force: about 70,000 regulars, 21,000 auxiliaries and 500 ships",
       "subject": {
        "id": "PER-000009",
@@ -493,6 +515,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Đại Việt kept paying tribute to the Yuan after 1288",
       "subject": {
        "id": "PER-000009",
@@ -528,6 +552,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Prince Trần Ích Tắc defected; Kublai named him ruler of Annam in 1286",
       "subject": {
        "id": "PER-000009",
@@ -563,6 +589,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Vietnam was the only place the Mongols were ever defeated militarily",
       "subject": {
        "id": "PER-000009",
@@ -600,6 +628,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "500,000 Yuan troops invaded in 1284, and 300,000 in 1287",
       "subject": {
        "id": "PER-000009",
@@ -635,6 +665,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He defeated the Mongols single-handed",
       "subject": {
        "id": "PER-000009",
@@ -670,6 +702,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "After 1288, Vietnam broke off relations with the Yuan",
       "subject": {
        "id": "PER-000009",
@@ -705,6 +739,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His soldiers tattooed \"Kill the Mongols\" on their arms",
       "subject": {
        "id": "PER-000009",

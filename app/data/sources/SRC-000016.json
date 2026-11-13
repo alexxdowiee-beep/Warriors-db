@@ -32,6 +32,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born c. 247 BCE",
       "subject": {
        "id": "PER-000002",
@@ -67,6 +69,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Son of Hamilcar Barca",
       "subject": {
        "id": "PER-000002",
@@ -105,6 +109,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Swore lifelong enmity to Rome as a boy",
       "subject": {
        "id": "PER-000002",
@@ -140,6 +146,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Chosen commander by the army in 221 BCE",
       "subject": {
        "id": "PER-000002",
@@ -184,6 +192,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Saguntum after an eight-month siege, 219 BCE",
       "subject": {
        "id": "PER-000002",
@@ -228,6 +238,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
       "subject": {
        "id": "PER-000002",
@@ -263,6 +275,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Lost the full use of one eye in 217 BCE",
       "subject": {
        "id": "PER-000002",
@@ -307,6 +321,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated by Scipio at Zama, 202 BCE",
       "subject": {
        "id": "PER-000002",
@@ -342,6 +358,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "As suffete, raised taxes to pay the indemnity with a surplus",
       "subject": {
        "id": "PER-000002",
@@ -377,6 +395,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took poison at Libyssa to avoid surrender to Rome",
       "subject": {
        "id": "PER-000002",
@@ -412,6 +432,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died in 183, 182 or 181 BCE",
       "subject": {
        "id": "PER-000002",
@@ -449,6 +471,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Had pots of snakes thrown at enemy ships",
       "subject": {
        "id": "PER-000002",
@@ -484,6 +508,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Silenus and Sosylus served with him and wrote accounts, now lost",
       "subject": {
        "id": "PER-000002",
@@ -519,6 +545,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He swore his oath by dipping his hand in blood",
       "subject": {
        "id": "PER-000002",
@@ -554,6 +582,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He was never beaten in Italy",
       "subject": {
        "id": "PER-000002",

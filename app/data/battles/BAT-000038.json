@@ -117,6 +117,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Died in 1227 during the siege of Zhongxing",
    "subject": {
     "id": "PER-000006",

@@ -92,6 +92,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
    "subject": {
     "id": "PER-000010",

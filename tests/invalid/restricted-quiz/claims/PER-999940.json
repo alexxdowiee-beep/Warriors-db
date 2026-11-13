@@ -1,0 +1,16 @@
+{
+  "subject": "PER-999940",
+  "claims": [
+    {
+      "id": "CLM-999940",
+      "field": "myth",
+      "statement": "Test restricted text.",
+      "claim_type": "text",
+      "certainty": "C",
+      "verdict": "disputed",
+      "citations": [],
+      "quiz_ready": true,
+      "restricted": true
+    }
+  ]
+}

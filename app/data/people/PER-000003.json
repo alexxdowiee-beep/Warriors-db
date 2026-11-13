@@ -56,6 +56,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Sundiata existed and founded Mali's power",
    "subject": {
     "id": "PER-000003",
@@ -106,6 +108,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He defeated Sumanguru Kanté of Sosso",
    "subject": {
     "id": "PER-000003",
@@ -138,6 +142,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The decisive battle was at Kirina",
    "subject": {
     "id": "PER-000003",
@@ -158,6 +164,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Kirina was fought c. 1235",
    "subject": {
     "id": "PER-000003",
@@ -178,6 +186,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Born in 1217",
    "subject": {
     "id": "PER-000003",
@@ -198,6 +208,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Died c. 1255",
    "subject": {
     "id": "PER-000003",
@@ -230,6 +242,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Spent a period of exile, ending in Mema",
    "subject": {
     "id": "PER-000003",
@@ -260,6 +274,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The epic says he could not walk as a child",
    "subject": {
     "id": "PER-000003",
@@ -290,6 +306,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The epic says Sumanguru could not be harmed by ordinary weapons",
    "subject": {
     "id": "PER-000003",
@@ -322,6 +340,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Ibn Khaldun calls him Mari Jata",
    "subject": {
     "id": "PER-000003",
@@ -352,6 +372,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Tradition places a founding assembly at Kurukan Fuga",
    "subject": {
     "id": "PER-000003",
@@ -374,6 +396,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Charter's present wording is 13th-century",
    "subject": {
     "id": "PER-000003",
@@ -406,6 +430,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "A Sosso empire existed before Mali",
    "subject": {
     "id": "PER-000003",
@@ -426,6 +452,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Sundiata was a Muslim",
    "subject": {
     "id": "PER-000003",
@@ -456,6 +484,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Niane's book reworks a griot's tales, not a transcript",
    "subject": {
     "id": "PER-000003",
@@ -476,6 +506,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Active c. 1230s–1250s",
    "subject": {
     "id": "PER-000003",
@@ -723,6 +755,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The epic says he could not walk as a child",
    "subject": {
     "id": "PER-000003",
@@ -753,6 +787,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The epic says Sumanguru could not be harmed by ordinary weapons",
    "subject": {
     "id": "PER-000003",
@@ -773,6 +809,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Kirina was fought c. 1235",
    "subject": {
     "id": "PER-000003",
@@ -795,6 +833,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Charter's present wording is 13th-century",
    "subject": {
     "id": "PER-000003",
@@ -825,6 +865,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Niane's book reworks a griot's tales, not a transcript",
    "subject": {
     "id": "PER-000003",
@@ -845,6 +887,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Disney's The Lion King is based on Sundiata",
    "subject": {
     "id": "PER-000003",
@@ -865,6 +909,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Mali was larger than western Europe under Sundiata",
    "subject": {
     "id": "PER-000003",
@@ -895,6 +941,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Griot versions calling him \"Mari Jata\" independently confirm Ibn Khaldun",
    "subject": {
     "id": "PER-000003",

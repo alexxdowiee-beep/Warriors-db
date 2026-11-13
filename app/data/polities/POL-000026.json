@@ -171,6 +171,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
    "subject": {
     "id": "PER-000008",
@@ -230,6 +232,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
    "subject": {
     "id": "PER-000008",
@@ -275,6 +279,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
    "subject": {
     "id": "PER-000008",

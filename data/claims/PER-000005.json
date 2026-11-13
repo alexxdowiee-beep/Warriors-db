@@ -354,7 +354,9 @@
         }
       ],
       "evidence_status": "Myths table verdict: Incomplete (A). Evidence: Ngāti Toa render it as a question: \"Will I die?\" answered by \"Will I live?\"",
-      "quiz_ready": false
+      "quiz_ready": false,
+      "restricted": true,
+      "restricted_reason": "It quotes the words of Ka Mate, a taonga of Ngāti Toa Rangatira (see the cultural guidance)."
     },
     {
       "id": "CLM-000110",

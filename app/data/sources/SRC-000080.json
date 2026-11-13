@@ -47,6 +47,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Trần Hưng Đạo (Trần Quốc Tuấn), a Trần prince, led Đại Việt's resistance to the Mongol-Yuan invasions",
       "subject": {
        "id": "PER-000009",
@@ -91,6 +93,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1250s–1300",
       "subject": {
        "id": "PER-000009",
@@ -135,6 +139,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
       "subject": {
        "id": "PER-000009",
@@ -179,6 +185,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born 1228 (alternative: 1213)",
       "subject": {
        "id": "PER-000009",
@@ -223,6 +231,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died 1300",
       "subject": {
        "id": "PER-000009",
@@ -266,6 +276,8 @@
       ],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He has been portrayed as a national hero only since the early 20th century",
       "subject": {
        "id": "PER-000009",
@@ -307,6 +319,8 @@
       ],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Before that he was honoured as a moral exemplar and as a deity",
       "subject": {
        "id": "PER-000009",
@@ -342,6 +356,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He has always been honoured as Vietnam's national hero",
       "subject": {
        "id": "PER-000009",

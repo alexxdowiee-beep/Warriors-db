@@ -108,6 +108,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
    "subject": {
     "id": "PER-000007",

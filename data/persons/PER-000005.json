@@ -9,7 +9,8 @@
     {
       "name": "Te Rauparaha",
       "kind": "primary",
-      "preferred": true
+      "preferred": true,
+      "language": "Māori"
     },
     {
       "name": "Māui Pōtiki",

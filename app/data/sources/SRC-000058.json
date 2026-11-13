@@ -32,6 +32,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His biography tells of his father being seized by robbers while bringing sheep to Temüjin",
       "subject": {
        "id": "PER-000007",
@@ -67,6 +69,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He never lost a battle",
       "subject": {
        "id": "PER-000007",

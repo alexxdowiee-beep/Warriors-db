@@ -44,6 +44,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "About 70,000 Romans died at Cannae",
       "subject": {
        "id": "PER-000002",
@@ -81,6 +83,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Hannibal lost about 5,700 at Cannae",
       "subject": {
        "id": "PER-000002",
@@ -125,6 +129,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Won Cannae by double envelopment and cavalry",
       "subject": {
        "id": "PER-000002",

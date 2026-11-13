@@ -33,6 +33,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "She held real military command",
       "subject": {
        "id": "PER-000001",
@@ -68,6 +70,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "She was secretly a royal princess",
       "subject": {
        "id": "PER-000001",

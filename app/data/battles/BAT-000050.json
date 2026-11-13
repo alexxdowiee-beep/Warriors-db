@@ -92,6 +92,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
    "subject": {
     "id": "PER-000008",

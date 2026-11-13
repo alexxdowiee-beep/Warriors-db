@@ -41,6 +41,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Temüjin, titled Chinggis Khan, founded the Mongol Empire",
       "subject": {
        "id": "PER-000006",
@@ -76,6 +78,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1180s–1227",
       "subject": {
        "id": "PER-000006",
@@ -111,6 +115,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Led the steppe wars to 1206 and the campaigns against Xi Xia, the Jin and Khwarazm",
       "subject": {
        "id": "PER-000006",
@@ -148,6 +154,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born 1165 (alternative to C04)",
       "subject": {
        "id": "PER-000006",
@@ -192,6 +200,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Proclaimed Chinggis Khan in 1206",
       "subject": {
        "id": "PER-000006",
@@ -227,6 +237,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated Toghril of the Kereit in 1203",
       "subject": {
        "id": "PER-000006",
@@ -262,6 +274,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Reorganised his people into decimal units of 10, 100 and 1,000",
       "subject": {
        "id": "PER-000006",
@@ -297,6 +311,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Xi Xia subdued by 1209",
       "subject": {
        "id": "PER-000006",
@@ -332,6 +348,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Invaded the Jin in 1211; most of the Jin empire taken by 1216",
       "subject": {
        "id": "PER-000006",
@@ -376,6 +394,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Otrar caravan massacre led to war with Khwarazm",
       "subject": {
        "id": "PER-000006",
@@ -411,6 +431,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated Jalal al-Din near the Indus in 1221",
       "subject": {
        "id": "PER-000006",
@@ -446,6 +468,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Annexed only the lands north of the Amu Darya",
       "subject": {
        "id": "PER-000006",
@@ -490,6 +514,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died in 1227 during the siege of Zhongxing",
       "subject": {
        "id": "PER-000006",
@@ -525,6 +551,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The *Secret History* says he died after a fall from his horse",
       "subject": {
        "id": "PER-000006",
@@ -560,6 +588,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His burial place is unknown",
       "subject": {
        "id": "PER-000006",
@@ -595,6 +625,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ordered a Mongolian script adapted from the Uighur alphabet after 1204",
       "subject": {
        "id": "PER-000006",
@@ -648,6 +680,8 @@
       ],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Source death tolls are exaggerated, but the conquests caused mass killing",
       "subject": {
        "id": "PER-000006",
@@ -691,6 +725,8 @@
       ],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The *Secret History* records a deathbed order to destroy the Tangut",
       "subject": {
        "id": "PER-000006",
@@ -732,6 +768,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Denigrated under Mongolian communism; now honoured as national founder",
       "subject": {
        "id": "PER-000006",
@@ -767,6 +805,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Descent from him became the main claim to rule across Central Eurasia",
       "subject": {
        "id": "PER-000006",
@@ -802,6 +842,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "\"Chinggis\" means firm, fierce or resolute",
       "subject": {
        "id": "PER-000006",
@@ -845,6 +887,8 @@
       ],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Juvaini reports his \"punishment of God\" speech at Bukhara",
       "subject": {
        "id": "PER-000006",
@@ -880,6 +924,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "\"Genghis Khan\" was his name",
       "subject": {
        "id": "PER-000006",
@@ -915,6 +961,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The title means \"oceanic ruler\"",
       "subject": {
        "id": "PER-000006",
@@ -950,6 +998,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mongols won by sheer numbers",
       "subject": {
        "id": "PER-000006",
@@ -994,6 +1044,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mongols only destroyed and built nothing",
       "subject": {
        "id": "PER-000006",
@@ -1029,6 +1081,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He founded Mongolian democracy",
       "subject": {
        "id": "PER-000006",
@@ -1082,6 +1136,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Subutai (Sübe'etei) was a leading Mongol general under Genghis Khan and Ögödei",
       "subject": {
        "id": "PER-000007",
@@ -1126,6 +1182,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1200s–1240s",
       "subject": {
        "id": "PER-000007",
@@ -1170,6 +1228,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
       "subject": {
        "id": "PER-000007",
@@ -1205,6 +1265,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born 1176 (alternative: c. 1175)",
       "subject": {
        "id": "PER-000007",
@@ -1240,6 +1302,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died 1248",
       "subject": {
        "id": "PER-000007",
@@ -1295,6 +1359,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
       "subject": {
        "id": "PER-000007",
@@ -1330,6 +1396,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
       "subject": {
        "id": "PER-000007",
@@ -1376,6 +1444,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mongols left Hungary and Poland devastated",
       "subject": {
        "id": "PER-000007",
@@ -1435,6 +1505,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
       "subject": {
        "id": "PER-000008",
@@ -1499,6 +1571,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
       "subject": {
        "id": "PER-000008",
@@ -1552,6 +1626,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
       "subject": {
        "id": "PER-000008",
@@ -1587,6 +1663,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ain Jalut ended Mongol expansion everywhere",
       "subject": {
        "id": "PER-000008",
@@ -1640,6 +1718,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His descendant Babur founded the Mughal dynasty",
       "subject": {
        "id": "PER-000010",

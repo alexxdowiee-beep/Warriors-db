@@ -34,6 +34,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born in the 1760s, at Kāwhia or Maungatautari",
       "subject": {
        "id": "PER-000005",
@@ -78,6 +80,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died at Ōtaki on 27 November 1849",
       "subject": {
        "id": "PER-000005",
@@ -115,6 +119,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Named in defiance of a threat to eat him with rauparaha leaves",
       "subject": {
        "id": "PER-000005",
@@ -159,6 +165,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
       "subject": {
        "id": "PER-000005",
@@ -194,6 +202,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "About 1,500 Ngāti Toa reached Taranaki",
       "subject": {
        "id": "PER-000005",
@@ -229,6 +239,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated a southern coalition at Waiorua, c. 1824",
       "subject": {
        "id": "PER-000005",
@@ -264,6 +276,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Kaiapoi pā by sapping and fire, 1831–32",
       "subject": {
        "id": "PER-000005",
@@ -299,6 +313,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His power rested on controlling the musket trade",
       "subject": {
        "id": "PER-000005",
@@ -334,6 +350,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Signed the Treaty on 14 May and 19 June 1840",
       "subject": {
        "id": "PER-000005",
@@ -369,6 +387,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Te Rangihaeata, not Te Rauparaha, killed the Wairau prisoners",
       "subject": {
        "id": "PER-000005",
@@ -404,6 +424,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Held without charge for ten months, 1846–47",
       "subject": {
        "id": "PER-000005",
@@ -465,6 +487,8 @@
       ],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His success was due mainly to muskets",
       "subject": {
        "id": "PER-000005",
@@ -509,6 +533,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Te Rauparaha, rangatira of Ngāti Toa Rangatira, is a historical person",
       "subject": {
        "id": "PER-000005",
@@ -553,6 +579,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1800s–1849; leader of the migration south from c. 1820",
       "subject": {
        "id": "PER-000005",
@@ -588,6 +616,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Te Rauparaha descended from Ngāti Toa Rangatira through his father, Werawera",
       "subject": {
        "id": "PER-000005",
@@ -623,6 +653,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Te Rauparaha descended from Ngāti Raukawa through his mother, Parekōwhatu",
       "subject": {
        "id": "PER-000005",

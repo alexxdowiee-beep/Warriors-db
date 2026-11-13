@@ -112,6 +112,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He defeated Sumanguru Kanté of Sosso",
    "subject": {
     "id": "PER-000003",
@@ -144,6 +146,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The decisive battle was at Kirina",
    "subject": {
     "id": "PER-000003",

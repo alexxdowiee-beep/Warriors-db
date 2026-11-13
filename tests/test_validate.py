@@ -42,6 +42,7 @@ INVALID_CASES = {
     "ai-source-as-evidence": {"AI_SOURCE"},       # rule 9, an ai-generated source cited by an accepted claim
     "ai-tier-mismatch": {"AI_SOURCE"},            # rule 9, tier ai-generated on a source not typed ai-generated
     "tier-null-not-primary": {"TIER"},            # rule 10, an academic book with no tier
+    "restricted-quiz": {"RESTRICTED"},            # rule 11, no reason and quiz_ready
 }
 
 

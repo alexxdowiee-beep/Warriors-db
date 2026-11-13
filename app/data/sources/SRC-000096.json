@@ -38,6 +38,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Timur, of the Turkicised Mongol Barlas tribe of Transoxania, founded the Timurid realm",
       "subject": {
        "id": "PER-000010",
@@ -82,6 +84,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active 1360s–1405; ruler from c. 1370",
       "subject": {
        "id": "PER-000010",
@@ -135,6 +139,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Conquered Iran, broke the Golden Horde, sacked Delhi, invaded Syria and defeated the Ottomans at Ankara",
       "subject": {
        "id": "PER-000010",
@@ -184,6 +190,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born in 1336 (Timurid tradition)",
       "subject": {
        "id": "PER-000010",
@@ -219,6 +227,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died at Otrar in February 1405",
       "subject": {
        "id": "PER-000010",
@@ -263,6 +273,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He was not a descendant of Genghis Khan; his dynasty later built a descent myth",
       "subject": {
        "id": "PER-000010",
@@ -298,6 +310,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Eliminated Amir Husayn and became ruler at Samarkand, c. 1370",
       "subject": {
        "id": "PER-000010",
@@ -339,6 +353,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Conquered Iran 1383–1394 and crushed revolts with massacres and skull towers",
       "subject": {
        "id": "PER-000010",
@@ -389,6 +405,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
       "subject": {
        "id": "PER-000010",
@@ -424,6 +442,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Site of the 1395 battle: the Terek (standard) or the Kur (Britannica)",
       "subject": {
        "id": "PER-000010",
@@ -465,6 +485,8 @@
       ],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Occupied Moscow in 1395",
       "subject": {
        "id": "PER-000010",
@@ -506,6 +528,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sacked Delhi in December 1398",
       "subject": {
        "id": "PER-000010",
@@ -541,6 +565,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Site of the 1398 battle: Panipat (Britannica) or outside Delhi",
       "subject": {
        "id": "PER-000010",
@@ -582,6 +608,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
       "subject": {
        "id": "PER-000010",
@@ -617,6 +645,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Stormed Baghdad in 1401",
       "subject": {
        "id": "PER-000010",
@@ -654,6 +684,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "20,000 people were massacred at Baghdad",
       "subject": {
        "id": "PER-000010",
@@ -704,6 +736,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Defeated the Ottoman army near Ankara in July 1402",
       "subject": {
        "id": "PER-000010",
@@ -739,6 +773,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His 1941 exhumation showed a powerfully built man lame on the right side",
       "subject": {
        "id": "PER-000010",
@@ -783,6 +819,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His descendant Babur founded the Mughal dynasty",
       "subject": {
        "id": "PER-000010",
@@ -818,6 +856,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His sons and grandsons fought over the succession; no orderly system existed",
       "subject": {
        "id": "PER-000010",
@@ -862,6 +902,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He was descended from Genghis Khan",
       "subject": {
        "id": "PER-000010",
@@ -897,6 +939,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "\"Tamerlane\" was his name",
       "subject": {
        "id": "PER-000010",
@@ -932,6 +976,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He conquered China",
       "subject": {
        "id": "PER-000010",
@@ -967,6 +1013,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Opening his tomb in 1941 brought a curse that started the German invasion of the USSR",
       "subject": {
        "id": "PER-000010",
@@ -1002,6 +1050,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He was a Mongol",
       "subject": {
        "id": "PER-000010",

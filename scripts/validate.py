@@ -30,6 +30,7 @@ Checks (numbers follow SETUP_BRIEF.md, Step 2):
   9 AI_SOURCE      an ai-generated source may be cited only by a claim with verdict "rejected-myth";
                    source_type ai-generated and reliability_tier ai-generated go together
  10 TIER           reliability_tier may be null only for primary material (PRIMARY_MATERIAL)
+ 11 RESTRICTED     a restricted claim needs a restricted_reason and cannot be quiz_ready
 Housekeeping: JSON (unreadable file), DUP_KEY (duplicate key in a JSON object), UNKNOWN_FOLDER,
 NO_SCHEMA (file in a folder without a schema yet), and warnings STRAY_FILE, REL_SUBJECT, REPLACED_BY.
 """
@@ -198,6 +199,7 @@ class DatabaseValidator:
         self.check_core_claims()  # rule 7
         self.check_tombstones()  # rule 8
         self.check_sources()  # rules 9 and 10
+        self.check_restricted()  # rule 11
         return self.issues
 
     # ---------------------------------------------------------------- loading (rules 1 and 2)
@@ -452,6 +454,16 @@ class DatabaseValidator:
                            f"({weakest.get('field')}) is graded {weakest['certainty']}")
 
     # ---------------------------------------------------------------- rule 8
+    # ---------------------------------------------------------------- rule 11
+    def check_restricted(self):
+        for cid, (claim, _subject, f) in sorted(self.claims.items()):
+            if not claim.get("restricted"):
+                continue
+            if not claim.get("restricted_reason"):
+                self.error("RESTRICTED", f, f"{cid} is restricted but has no restricted_reason")
+            if claim.get("quiz_ready"):
+                self.error("RESTRICTED", f, f"{cid} is restricted, so it cannot be quiz_ready")
+
     # ---------------------------------------------------------------- rules 9 and 10
     def check_sources(self):
         sources = {rid: lf for rid, lf in self.records.items() if lf.data.get("type") == "source"}

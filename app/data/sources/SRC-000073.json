@@ -38,6 +38,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Baibars, a Kipchak Turk enslaved young, became Mamluk sultan of Egypt and Syria",
       "subject": {
        "id": "PER-000008",
@@ -82,6 +84,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1250–1277; sultan 1260–1277",
       "subject": {
        "id": "PER-000008",
@@ -126,6 +130,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Vanguard commander at Ain Jalut; led the campaigns that took most crusader fortresses; invaded Seljuk Anatolia",
       "subject": {
        "id": "PER-000008",
@@ -161,6 +167,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born 1223 (alternatives: 1228; an earlier date in Kazakh sources)",
       "subject": {
        "id": "PER-000008",
@@ -202,6 +210,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sold as a slave after the Mongol invasion of the Kipchak lands, c. 1242",
       "subject": {
        "id": "PER-000008",
@@ -237,6 +247,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Commanded at al-Mansurah against Louis IX, February 1250",
       "subject": {
        "id": "PER-000008",
@@ -272,6 +284,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Led the officers who murdered Sultan Turanshah, 1250",
       "subject": {
        "id": "PER-000008",
@@ -336,6 +350,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
       "subject": {
        "id": "PER-000008",
@@ -380,6 +396,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Baibars led the conspiracy that killed Sultan Qutuz in 1260 and took the throne",
       "subject": {
        "id": "PER-000008",
@@ -433,6 +451,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
       "subject": {
        "id": "PER-000008",
@@ -483,6 +503,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Safed (1266) and Antioch (1268)",
       "subject": {
        "id": "PER-000008",
@@ -527,6 +549,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Krak des Chevaliers and other castles of the military orders",
       "subject": {
        "id": "PER-000008",
@@ -571,6 +595,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Year of Krak's capture: 1270 (Smith) or 1271 (Britannica)",
       "subject": {
        "id": "PER-000008",
@@ -621,6 +647,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Devastated Cilician Armenia",
       "subject": {
        "id": "PER-000008",
@@ -671,6 +699,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
       "subject": {
        "id": "PER-000008",
@@ -715,6 +745,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Built a relay post, signal fires and a pigeon post",
       "subject": {
        "id": "PER-000008",
@@ -759,6 +791,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died at Damascus in 1277",
       "subject": {
        "id": "PER-000008",
@@ -794,6 +828,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died after drinking poison intended for someone else",
       "subject": {
        "id": "PER-000008",
@@ -835,6 +871,8 @@
       ],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The *Sirat Baybars* folk epic about him is still popular in the Arabic-speaking world",
       "subject": {
        "id": "PER-000008",
@@ -870,6 +908,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Baibars commanded at Ain Jalut",
       "subject": {
        "id": "PER-000008",
@@ -905,6 +945,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Qutuz threw down his helmet to rally his men",
       "subject": {
        "id": "PER-000008",
@@ -940,6 +982,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The *Sirat Baybars* is a biography",
       "subject": {
        "id": "PER-000008",

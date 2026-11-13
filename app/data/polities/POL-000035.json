@@ -63,6 +63,8 @@
    ],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Source death tolls are exaggerated, but the conquests caused mass killing",
    "subject": {
     "id": "PER-000006",
@@ -101,6 +103,8 @@
    ],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The *Secret History* records a deathbed order to destroy the Tangut",
    "subject": {
     "id": "PER-000006",

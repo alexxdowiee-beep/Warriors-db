@@ -48,6 +48,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He defeated Sumanguru Kanté of Sosso",
       "subject": {
        "id": "PER-000003",
@@ -85,6 +87,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The decisive battle was at Kirina",
       "subject": {
        "id": "PER-000003",
@@ -122,6 +126,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Spent a period of exile, ending in Mema",
       "subject": {
        "id": "PER-000003",
@@ -157,6 +163,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The epic says he could not walk as a child",
       "subject": {
        "id": "PER-000003",

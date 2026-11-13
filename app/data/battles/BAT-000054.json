@@ -93,6 +93,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288",
    "subject": {
     "id": "PER-000009",

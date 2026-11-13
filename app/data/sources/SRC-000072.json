@@ -41,6 +41,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Baibars, a Kipchak Turk enslaved young, became Mamluk sultan of Egypt and Syria",
       "subject": {
        "id": "PER-000008",
@@ -85,6 +87,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1250–1277; sultan 1260–1277",
       "subject": {
        "id": "PER-000008",
@@ -129,6 +133,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Vanguard commander at Ain Jalut; led the campaigns that took most crusader fortresses; invaded Seljuk Anatolia",
       "subject": {
        "id": "PER-000008",
@@ -179,6 +185,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
       "subject": {
        "id": "PER-000008",
@@ -243,6 +251,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
       "subject": {
        "id": "PER-000008",
@@ -287,6 +297,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Baibars led the conspiracy that killed Sultan Qutuz in 1260 and took the throne",
       "subject": {
        "id": "PER-000008",
@@ -340,6 +352,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
       "subject": {
        "id": "PER-000008",
@@ -390,6 +404,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Safed (1266) and Antioch (1268)",
       "subject": {
        "id": "PER-000008",
@@ -434,6 +450,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Took Krak des Chevaliers and other castles of the military orders",
       "subject": {
        "id": "PER-000008",
@@ -478,6 +496,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Year of Krak's capture: 1270 (Smith) or 1271 (Britannica)",
       "subject": {
        "id": "PER-000008",
@@ -528,6 +548,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Devastated Cilician Armenia",
       "subject": {
        "id": "PER-000008",
@@ -578,6 +600,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
       "subject": {
        "id": "PER-000008",
@@ -622,6 +646,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Built a relay post, signal fires and a pigeon post",
       "subject": {
        "id": "PER-000008",
@@ -663,6 +689,8 @@
       ],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Depopulated frontier zones and demolished coastal strongholds",
       "subject": {
        "id": "PER-000008",
@@ -698,6 +726,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Mamluk success came from morale, leadership, failed Mongol–crusader cooperation, a larger army and Mongol civil wars",
       "subject": {
        "id": "PER-000008",
@@ -742,6 +772,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died at Damascus in 1277",
       "subject": {
        "id": "PER-000008",
@@ -777,6 +809,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "At Ain Jalut 120,000 Mamluks faced 10,000 Mongols",
       "subject": {
        "id": "PER-000008",
@@ -812,6 +846,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ain Jalut ended the Mongol threat to Syria",
       "subject": {
        "id": "PER-000008",

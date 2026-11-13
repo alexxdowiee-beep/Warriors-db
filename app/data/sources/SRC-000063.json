@@ -32,6 +32,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "His family was tied to Chinggis Khan's ancestors for generations",
       "subject": {
        "id": "PER-000007",
@@ -67,6 +69,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He was so obese he was carried in an iron cart",
       "subject": {
        "id": "PER-000007",
@@ -102,6 +106,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He was a reindeer-herding outsider who rose from nothing",
       "subject": {
        "id": "PER-000007",

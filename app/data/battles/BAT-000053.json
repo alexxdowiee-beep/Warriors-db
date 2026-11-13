@@ -77,6 +77,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "In 1287–88 the Vietnamese captured the Yuan supply fleet",
    "subject": {
     "id": "PER-000009",

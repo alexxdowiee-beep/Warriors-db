@@ -158,11 +158,16 @@ class Exporter:
             cites.append({"source_id": cit["source_id"], "title": src.get("primary_name"),
                           "source_type": src.get("source_type"), "tier": src.get("reliability_tier"),
                           "access": cit.get("access"), "locator": cit.get("locator"), "note": cit.get("note")})
-        return {"id": c["id"], "subject": self.ref(subject), "field": c.get("field"), "statement": c.get("statement"),
+        restricted = bool(c.get("restricted"))
+        return {"id": c["id"], "subject": self.ref(subject), "field": c.get("field"),
+                # Restricted material (e.g. the words of a taonga) never leaves the database.
+                "statement": None if restricted else c.get("statement"),
+                "restricted": restricted, "restricted_reason": c.get("restricted_reason") if restricted else None,
                 "claim_type": c.get("claim_type"), "certainty": c.get("certainty"), "verdict": c.get("verdict"),
                 "bias_flags": sorted(c.get("bias_flags") or []), "perspective": self.refs(c.get("perspective_of")),
                 "alternative_claim_ids": c.get("alternative_claim_ids") or [], "citations": cites,
-                "evidence_status": c.get("evidence_status"), "quiz_ready": bool(c.get("quiz_ready")),
+                "evidence_status": None if restricted else c.get("evidence_status"),
+                "quiz_ready": bool(c.get("quiz_ready")),
                 "quiz_kind": c.get("quiz_kind")}
 
     def connections(self, rid: str) -> list:

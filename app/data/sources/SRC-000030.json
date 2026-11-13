@@ -37,6 +37,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Han bibliography lists Sunzi in 82 chapters with diagrams",
       "subject": {
        "id": "PER-000004",

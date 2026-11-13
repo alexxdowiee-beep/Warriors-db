@@ -28,6 +28,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Online \"encyclopedia\" details about his washing captured banners in a river or sending patrols to record weather and soil",
       "subject": {
        "id": "PER-000007",

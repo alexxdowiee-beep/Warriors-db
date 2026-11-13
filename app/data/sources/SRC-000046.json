@@ -37,6 +37,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Proclaimed Chinggis Khan in 1206",
       "subject": {
        "id": "PER-000006",
@@ -81,6 +83,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died in 1227 during the siege of Zhongxing",
       "subject": {
        "id": "PER-000006",
@@ -116,6 +120,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He died after falling from his horse",
       "subject": {
        "id": "PER-000006",
@@ -160,6 +166,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The *Secret History* names him among Temüjin's four \"hounds\"",
       "subject": {
        "id": "PER-000007",

@@ -47,6 +47,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The 1257–58 Mongol invasion took Thăng Long but withdrew after about a month",
       "subject": {
        "id": "PER-000009",
@@ -84,6 +86,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The 1257–58 Mongol force lost at least half its troops",
       "subject": {
        "id": "PER-000009",
@@ -119,6 +123,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "In 1258 Vietnamese light infantry and elephants could not withstand Mongol cavalry in open battle",
       "subject": {
        "id": "PER-000009",

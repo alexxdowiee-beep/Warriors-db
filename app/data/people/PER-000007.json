@@ -56,6 +56,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Subutai (Sübe'etei) was a leading Mongol general under Genghis Khan and Ögödei",
    "subject": {
     "id": "PER-000007",
@@ -95,6 +97,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Active c. 1200s–1240s",
    "subject": {
     "id": "PER-000007",
@@ -134,6 +138,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
    "subject": {
     "id": "PER-000007",
@@ -164,6 +170,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Born 1176 (alternative: c. 1175)",
    "subject": {
     "id": "PER-000007",
@@ -194,6 +202,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Died 1248",
    "subject": {
     "id": "PER-000007",
@@ -226,6 +236,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "His biography, written in Mongolian, was translated into Chinese in the 1260s and survives in three Chinese versions",
    "subject": {
     "id": "PER-000007",
@@ -273,6 +285,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
    "subject": {
     "id": "PER-000007",
@@ -314,6 +328,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Novgorod chronicle dates the Kalka to 1224",
    "subject": {
     "id": "PER-000007",
@@ -344,6 +360,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Jebe was captured and killed by the Qipchaqs during the campaign",
    "subject": {
     "id": "PER-000007",
@@ -394,6 +412,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
    "subject": {
     "id": "PER-000007",
@@ -430,6 +450,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Ryazan fell in December 1237",
    "subject": {
     "id": "PER-000007",
@@ -466,6 +488,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
    "subject": {
     "id": "PER-000007",
@@ -492,6 +516,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
    "subject": {
     "id": "PER-000007",
@@ -524,6 +550,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "His biography says Batu asked for him to take command when the princes stalled",
    "subject": {
     "id": "PER-000007",
@@ -556,6 +584,8 @@
    "perspective": [],
    "quiz_kind": null,
    "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "\"Ye-lie-ban\" in his biography is Ryazan, garbled in transcription",
    "subject": {
     "id": "PER-000007",
@@ -586,6 +616,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "His family was tied to Chinggis Khan's ancestors for generations",
    "subject": {
     "id": "PER-000007",
@@ -616,6 +648,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "His biography tells of his father being seized by robbers while bringing sheep to Temüjin",
    "subject": {
     "id": "PER-000007",
@@ -646,6 +680,8 @@
    "perspective": [],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The *Secret History* names him among Temüjin's four \"hounds\"",
    "subject": {
     "id": "PER-000007",
@@ -676,6 +712,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
    "subject": {
     "id": "PER-000007",
@@ -717,6 +755,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Mongols left Hungary and Poland devastated",
    "subject": {
     "id": "PER-000007",
@@ -1179,6 +1219,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He was so obese he was carried in an iron cart",
    "subject": {
     "id": "PER-000007",
@@ -1209,6 +1251,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He was a reindeer-herding outsider who rose from nothing",
    "subject": {
     "id": "PER-000007",
@@ -1239,6 +1283,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He never lost a battle",
    "subject": {
     "id": "PER-000007",
@@ -1259,6 +1305,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He commanded at Legnica (1241)",
    "subject": {
     "id": "PER-000007",
@@ -1279,6 +1327,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He alone planned the invasion of Europe",
    "subject": {
     "id": "PER-000007",
@@ -1299,6 +1349,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "20,000 Mongols beat 80,000 Rus' at the Kalka",
    "subject": {
     "id": "PER-000007",
@@ -1319,6 +1371,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He was the brother of Jelme",
    "subject": {
     "id": "PER-000007",
@@ -1349,6 +1403,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The 1220–1223 raid was a planned reconnaissance of Europe",
    "subject": {
     "id": "PER-000007",
@@ -1379,6 +1435,8 @@
    "perspective": [],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
    "subject": {
     "id": "PER-000007",
@@ -1409,6 +1467,8 @@
    "perspective": [],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Online \"encyclopedia\" details about his washing captured banners in a river or sending patrols to record weather and soil",
    "subject": {
     "id": "PER-000007",

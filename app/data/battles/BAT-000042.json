@@ -89,6 +89,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
    "subject": {
     "id": "PER-000007",

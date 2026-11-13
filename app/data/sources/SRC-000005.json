@@ -43,6 +43,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Claimed voices of Michael, Catherine and Margaret",
       "subject": {
        "id": "PER-000001",
@@ -87,6 +89,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Examined at Poitiers; report found no fault but no proof",
       "subject": {
        "id": "PER-000001",
@@ -131,6 +135,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Wounded attacking Paris, 8 September 1429",
       "subject": {
        "id": "PER-000001",
@@ -175,6 +181,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Captured at Compiègne, 23 May 1430",
       "subject": {
        "id": "PER-000001",
@@ -210,6 +218,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Transferred to the English for 10,000 livres",
       "subject": {
        "id": "PER-000001",
@@ -245,6 +255,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Charles VII abandoned her",
       "subject": {
        "id": "PER-000001",
@@ -289,6 +301,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Executed as a relapsed heretic, 30 May 1431",
       "subject": {
        "id": "PER-000001",
@@ -333,6 +347,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "She cried out that her voices had not deceived her as she burned",
       "subject": {
        "id": "PER-000001",
@@ -368,6 +384,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Her trial words are a verbatim record",
       "subject": {
        "id": "PER-000001",
@@ -421,6 +439,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
       "subject": {
        "id": "PER-000001",
@@ -474,6 +494,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active as a military leader from April 1429 to May 1430",
       "subject": {
        "id": "PER-000001",

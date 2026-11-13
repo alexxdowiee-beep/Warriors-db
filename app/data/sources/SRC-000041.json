@@ -40,6 +40,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Zuo zhuan never mentions Sun Wu",
       "subject": {
        "id": "PER-000004",

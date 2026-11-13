@@ -37,6 +37,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The text names Yue, not Chu, as Wu's enemy",
       "subject": {
        "id": "PER-000004",
@@ -72,6 +74,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "\"All warfare is based on deception\" is from The Art of War",
       "subject": {
        "id": "PER-000004",
@@ -107,6 +111,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "\"Know the enemy and know yourself\" is from The Art of War",
       "subject": {
        "id": "PER-000004",

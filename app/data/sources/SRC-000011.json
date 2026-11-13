@@ -33,6 +33,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Split rocks in the Alps with fire and vinegar",
       "subject": {
        "id": "PER-000002",
@@ -68,6 +70,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "An officer told him he knew how to win a victory but not how to use one",
       "subject": {
        "id": "PER-000002",
