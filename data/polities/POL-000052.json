@@ -1,0 +1,18 @@
+{
+  "id": "POL-000052",
+  "type": "polity",
+  "slug": "uzbekistan",
+  "primary_name": "Uzbekistan",
+  "names": [
+    {
+      "name": "Uzbekistan",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The modern state of Uzbekistan. Used as a perspective: Timur as a national founding hero.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

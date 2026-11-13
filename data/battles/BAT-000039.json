@@ -1,0 +1,48 @@
+{
+  "id": "BAT-000039",
+  "type": "battle",
+  "slug": "kalka-river",
+  "primary_name": "Kalka River",
+  "names": [
+    {
+      "name": "Kalka River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Catastrophic defeat of a combined Rus' and Qipchaq army by Jebe and Subutai; two princes named Mstislav died.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1223,
+    "latest": 1223,
+    "precision": "month",
+    "display": "May 1223",
+    "certainty": "A",
+    "month": 5
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000038",
+  "war_id": "WAR-000018",
+  "sides": [
+    {
+      "label": "Mongols under Jebe and Subutai",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000007"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Rus' princes and Qipchaqs",
+      "polity_ids": [
+        "POL-000037"
+      ]
+    }
+  ],
+  "editor_notes": "The Novgorod chronicle dates the battle to 1224 (CLM for SB-C08)."
+}

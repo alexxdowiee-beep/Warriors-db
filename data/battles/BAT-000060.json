@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000060",
+  "type": "battle",
+  "slug": "ankara",
+  "primary_name": "Ankara",
+  "names": [
+    {
+      "name": "Ankara",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur destroyed the Ottoman army near Ankara and took Sultan Bayezid I prisoner.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1402,
+    "latest": 1402,
+    "precision": "month",
+    "display": "July 1402",
+    "certainty": "A",
+    "month": 7
+  },
+  "outcome": "Victory; Bayezid I captured",
+  "place_id": "PLC-000054",
+  "sides": [
+    {
+      "label": "Timurid realm",
+      "polity_ids": [
+        "POL-000049"
+      ],
+      "commander_ids": [
+        "PER-000010"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Ottoman Empire under Bayezid I",
+      "polity_ids": [
+        "POL-000032"
+      ]
+    }
+  ]
+}

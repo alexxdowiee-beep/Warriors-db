@@ -1,0 +1,24 @@
+{
+  "id": "SRC-000093",
+  "type": "source",
+  "slug": "timurs-letters-to-other-rulers",
+  "primary_name": "Timur's letters to other rulers",
+  "names": [
+    {
+      "name": "Timur's letters to other rulers",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Letters from Timur's chancery to other rulers, 1390s–1400s.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "His self-presentation (self-testimony).",
+  "derives_from": [],
+  "opened": false,
+  "date_written": "1390s–1400s",
+  "reliability_notes": "Group record (B). Read via Manz."
+}

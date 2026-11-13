@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000036",
+  "type": "battle",
+  "slug": "capture-of-otrar",
+  "primary_name": "Capture of Otrar",
+  "names": [
+    {
+      "name": "Capture of Otrar",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Mongol capture of the Khwarazmian border town whose governor had massacred a Mongol caravan.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1219,
+    "latest": 1220,
+    "precision": "year",
+    "display": "1219–1220",
+    "certainty": "A"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000034",
+  "war_id": "WAR-000017",
+  "sides": [
+    {
+      "label": "Mongol Empire",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000006"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Khwarazm",
+      "polity_ids": [
+        "POL-000031"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000026",
+  "type": "war",
+  "slug": "invasion-of-india",
+  "primary_name": "Invasion of India",
+  "names": [
+    {
+      "name": "Invasion of India",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Invasion of the Delhi Sultanate that destroyed the sultan's army and left Delhi in ruins.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1398,
+    "latest": 1399,
+    "precision": "year",
+    "display": "1398–1399",
+    "certainty": "A"
+  },
+  "outcome": "Victory; Delhi sacked"
+}

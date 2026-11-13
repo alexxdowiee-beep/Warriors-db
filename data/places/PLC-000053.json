@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000053",
+  "type": "place",
+  "slug": "baghdad",
+  "primary_name": "Baghdad",
+  "names": [
+    {
+      "name": "Baghdad",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "City sacked by the Mongols in 1258 and stormed by Timur in 1401.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000043",
+  "type": "place",
+  "slug": "al-mansurah",
+  "primary_name": "al-Mansurah",
+  "names": [
+    {
+      "name": "al-Mansurah",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Egyptian town where the Bahri mamluks defeated Louis IX's crusaders in February 1250.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "town"
+}

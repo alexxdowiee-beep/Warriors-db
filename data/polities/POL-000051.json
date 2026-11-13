@@ -1,0 +1,18 @@
+{
+  "id": "POL-000051",
+  "type": "polity",
+  "slug": "vietnam",
+  "primary_name": "Vietnam",
+  "names": [
+    {
+      "name": "Vietnam",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The modern state of Vietnam. Used as a perspective: modern Vietnamese national memory.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

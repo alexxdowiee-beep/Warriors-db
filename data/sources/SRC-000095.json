@@ -1,0 +1,32 @@
+{
+  "id": "SRC-000095",
+  "type": "source",
+  "slug": "beatrice-forbes-manz-tamerlane-and-the-symbolism-of-sovereignty",
+  "primary_name": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+  "names": [
+    {
+      "name": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Study of how Timur built his legitimacy, by the leading specialist.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "authors": [
+    "Beatrice Forbes Manz"
+  ],
+  "title": "Tamerlane and the Symbolism of Sovereignty",
+  "publisher": "Iranian Studies 21",
+  "year": 1988,
+  "isbn_doi": "10.1080/00210868808701711",
+  "url": "https://www.cambridge.org/core/product/identifier/S0021086200014924/type/journal_article",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Iranian Studies 21 (1988). Opening extract and full notes visible, 13 Nov 2026."
+}

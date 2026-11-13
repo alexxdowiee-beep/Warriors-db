@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000053",
+  "type": "battle",
+  "slug": "capture-of-the-yuan-supply-fleet",
+  "primary_name": "Capture of the Yuan supply fleet",
+  "names": [
+    {
+      "name": "Capture of the Yuan supply fleet",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Vietnamese capture of the Yuan supply fleet, which cut off Toghan's army.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "naval",
+  "date": {
+    "earliest": 1287,
+    "latest": 1288,
+    "precision": "year",
+    "display": "1287–1288",
+    "certainty": "B"
+  },
+  "outcome": "Victory",
+  "war_id": "WAR-000023",
+  "sides": [
+    {
+      "label": "Đại Việt",
+      "polity_ids": [
+        "POL-000046"
+      ],
+      "commander_ids": [
+        "PER-000009"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Yuan",
+      "polity_ids": [
+        "POL-000029"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "POL-000038",
+  "type": "polity",
+  "slug": "principality-of-ryazan",
+  "primary_name": "Principality of Ryazan",
+  "names": [
+    {
+      "name": "Principality of Ryazan",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Rus' principality whose capital fell to the Mongols in December 1237.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

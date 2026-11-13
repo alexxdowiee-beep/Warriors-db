@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000047",
+  "type": "place",
+  "slug": "krak-des-chevaliers",
+  "primary_name": "Krak des Chevaliers",
+  "names": [
+    {
+      "name": "Krak des Chevaliers",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Hospitaller castle taken by Baibars in 1270 or 1271.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "castle"
+}

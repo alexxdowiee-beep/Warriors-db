@@ -1,0 +1,32 @@
+{
+  "id": "SRC-000057",
+  "type": "source",
+  "slug": "hillary-mayell-genghis-khan-a-prolific-lover-dna-data-implies",
+  "primary_name": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+  "names": [
+    {
+      "name": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "National Geographic news report on the 2003 genetics study.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "reliability_tier": "popular",
+  "bias_notes": "Popular report of a scientific study.",
+  "derives_from": [
+    "SRC-000055"
+  ],
+  "opened": false,
+  "authors": [
+    "Hillary Mayell"
+  ],
+  "title": "Genghis Khan a Prolific Lover, DNA Data Implies",
+  "publisher": "National Geographic",
+  "year": 2003,
+  "url": "https://www.nationalgeographic.com/culture/article/mongolia-genghis-khan-dna",
+  "reliability_notes": "Excerpt (popular report)."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000060",
+  "type": "source",
+  "slug": "hungarian-and-latin-accounts-master-roger-thomas-of-split-c-de-bridia",
+  "primary_name": "Hungarian and Latin accounts: Master Roger, Thomas of Split, C. de Bridia",
+  "names": [
+    {
+      "name": "Hungarian and Latin accounts: Master Roger, Thomas of Split, C. de Bridia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Accounts of the Mongol invasion of Hungary in 1241 by victims and Western observers.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "The defeated and Western observers (hostile-source).",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Master Roger",
+    "Thomas of Split",
+    "C. de Bridia"
+  ],
+  "language": "Latin",
+  "reliability_notes": "Group record (B). Not opened."
+}

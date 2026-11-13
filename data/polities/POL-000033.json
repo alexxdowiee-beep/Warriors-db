@@ -1,0 +1,18 @@
+{
+  "id": "POL-000033",
+  "type": "polity",
+  "slug": "kereit",
+  "primary_name": "Kereit",
+  "names": [
+    {
+      "name": "Kereit",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Steppe people of the Mongolian plateau led by Toghril, whom Temüjin defeated in 1203.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

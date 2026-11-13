@@ -1,0 +1,18 @@
+{
+  "id": "POL-000050",
+  "type": "polity",
+  "slug": "mongolia",
+  "primary_name": "Mongolia",
+  "names": [
+    {
+      "name": "Mongolia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The modern state of Mongolia. Used as a perspective: modern Mongolian memory of the Mongol Empire.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

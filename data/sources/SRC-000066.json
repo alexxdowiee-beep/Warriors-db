@@ -1,0 +1,27 @@
+{
+  "id": "SRC-000066",
+  "type": "source",
+  "slug": "ibn-abd-al-zahir-biography-of-al-zahir-baybars",
+  "primary_name": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+  "names": [
+    {
+      "name": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Official biography of the sultan by his own chancery secretary.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "Official panegyric (patron-bias, hagiography).",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Ibn 'Abd al-Zahir"
+  ],
+  "language": "Arabic",
+  "reliability_notes": "Written during and just after his reign. Not opened."
+}

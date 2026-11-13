@@ -1,0 +1,43 @@
+{
+  "id": "BAT-000051",
+  "type": "battle",
+  "slug": "chuong-duong",
+  "primary_name": "Chương Dương",
+  "names": [
+    {
+      "name": "Chương Dương",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Counterattack against the Yuan led by Prince Trần Quang Khải.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1285,
+    "latest": 1285,
+    "precision": "year",
+    "display": "1285",
+    "certainty": "B"
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000048",
+  "war_id": "WAR-000022",
+  "sides": [
+    {
+      "label": "Đại Việt, led by Trần Quang Khải",
+      "polity_ids": [
+        "POL-000046"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Yuan",
+      "polity_ids": [
+        "POL-000029"
+      ]
+    }
+  ]
+}

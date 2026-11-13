@@ -1,0 +1,27 @@
+{
+  "id": "WAR-000021",
+  "type": "war",
+  "slug": "first-mongol-invasion-of-dai-viet",
+  "primary_name": "First Mongol invasion of Đại Việt",
+  "names": [
+    {
+      "name": "First Mongol invasion of Đại Việt",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Invasion from the newly conquered kingdom of Dali in Yunnan; it took Thăng Long but withdrew after about a month.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1257,
+    "latest": 1258,
+    "precision": "year",
+    "display": "1257–1258",
+    "certainty": "A"
+  },
+  "outcome": "Mongols withdrew",
+  "editor_notes": "Doc name: 'First Mongol invasion'; 'of Đại Việt' added for clarity."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "POL-000035",
+  "type": "polity",
+  "slug": "xi-xia",
+  "primary_name": "Xi Xia",
+  "names": [
+    {
+      "name": "Xi Xia",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Tangut kingdom",
+      "kind": "other"
+    }
+  ],
+  "summary": "Tangut kingdom in what is now north-west China; subdued by the Mongols by 1209 and destroyed in 1227.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective.",
+  "polity_type": "kingdom"
+}

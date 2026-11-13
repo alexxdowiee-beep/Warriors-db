@@ -141,7 +141,7 @@ One table, one controlled vocabulary. Each relationship is stored once and the b
 | --- | --- |
 | Person → Person | parent\_of, spouse\_of, sibling\_of, succeeded, served\_under, mentored, allied\_with, rival\_of, killed |
 | Person → Polity | ruled, served, founded, rebelled\_against |
-| Person → Battle / War | commanded, participated, wounded\_at, died\_at, planned |
+| Person → Battle / War | commanded, participated, wounded\_at, died\_at, planned, affected\_by (a person whose life a war changed without their fighting in it, e.g. Baibars enslaved after the Mongol campaigns; added in batch 1) |
 | Person → Equipment / Tactic | introduced, reformed, used |
 | Battle → War, War → War | part\_of |
 | Battle → Tactic / Equipment | featured |
@@ -249,7 +249,7 @@ Oral tradition is not graded down for being oral. It is graded on what it can su
 - A quotation is only stored with its primary source and locator. A famous quote that cannot be traced goes in Myths, not in the profile.
 - Army sizes and casualties are stored as ranges, with the ancient claim kept separately from the modern estimate.
 - Where sources disagree, both versions are stored as linked claims; the profile text explains the disagreement rather than choosing silently.
-- Each source record states its author's position, distance from the events, purpose and audience.
+- Each source record states its author's position, distance from the events, purpose and audience. Pages that are AI-generated (added after the Subutai profile) get source type ai-generated and may be cited only as the origin of a myth claim, never as evidence. Every source also gets a reliability\_tier (scholarly, reference, popular, aggregator, ai-generated; added in batch 1), and an A grade needs at least one scholarly or reference source among its two independent ones.
 - Atrocities and failures are recorded with the same standard of evidence as victories.
 
 ### Verification workflow

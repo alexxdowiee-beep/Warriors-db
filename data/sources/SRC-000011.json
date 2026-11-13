@@ -8,6 +8,7 @@
   "status": "draft",
   "updated": "2026-11-13",
   "source_type": "primary-later",
+  "reliability_tier": null,
   "bias_notes": "Roman patriotic history; dramatic speeches and moral lessons.",
   "derives_from": [
     "SRC-000010"

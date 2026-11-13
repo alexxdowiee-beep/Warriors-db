@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000045",
+  "type": "place",
+  "slug": "safed",
+  "primary_name": "Safed",
+  "names": [
+    {
+      "name": "Safed",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Templar fortress taken by Baibars in 1266.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "fortress"
+}

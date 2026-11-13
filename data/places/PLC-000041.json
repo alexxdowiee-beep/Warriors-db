@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000041",
+  "type": "place",
+  "slug": "sit-river",
+  "primary_name": "Sit River",
+  "names": [
+    {
+      "name": "Sit River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "River where Yuri II of Vladimir was defeated and killed in March 1238.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "river"
+}

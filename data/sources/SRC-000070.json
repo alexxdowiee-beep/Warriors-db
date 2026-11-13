@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000070",
+  "type": "source",
+  "slug": "sirat-baybars",
+  "primary_name": "Sirat Baybars",
+  "names": [
+    {
+      "name": "Sirat Baybars",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Arabic folk epic about Baibars, built up over centuries and still performed.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "oral-tradition",
+  "reliability_tier": null,
+  "bias_notes": "Legend; a just hero-king (oral-tradition, popular-culture).",
+  "derives_from": [],
+  "opened": false,
+  "title": "Sirat Baybars",
+  "language": "Arabic",
+  "date_written": "Developed over centuries; still performed",
+  "reliability_notes": "Not opened."
+}

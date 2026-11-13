@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000040",
+  "type": "battle",
+  "slug": "siege-of-kaifeng",
+  "primary_name": "Siege of Kaifeng",
+  "names": [
+    {
+      "name": "Siege of Kaifeng",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Siege of the Jin capital during the final conquest of the Jin.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1232,
+    "latest": 1233,
+    "precision": "year",
+    "display": "1232–1233",
+    "certainty": "B"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000039",
+  "war_id": "WAR-000016",
+  "sides": [
+    {
+      "label": "Mongol Empire",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000007"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Jin",
+      "polity_ids": [
+        "POL-000036"
+      ]
+    }
+  ]
+}

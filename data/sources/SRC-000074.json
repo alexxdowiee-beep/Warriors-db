@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000074",
+  "type": "source",
+  "slug": "kazakh-government-page-on-baybars",
+  "primary_name": "Kazakh government page on Baybars",
+  "names": [
+    {
+      "name": "Kazakh government page on Baybars",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Kazakh government web page celebrating Baibars as a national ancestor-hero.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "reliability_tier": "popular",
+  "bias_notes": "A national-heritage view (nationalist-reinterpretation).",
+  "derives_from": [],
+  "opened": false,
+  "reliability_notes": "Excerpt only. Tier 'popular' is a judgement call; URL not given in the doc."
+}

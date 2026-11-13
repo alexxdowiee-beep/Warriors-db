@@ -1,0 +1,13 @@
+{
+  "id": "SRC-999934",
+  "type": "source",
+  "slug": "test-page",
+  "primary_name": "Test source SRC-999934",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "reliability_tier": "ai-generated",
+  "bias_notes": "Fictional."
+}

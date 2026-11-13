@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000059",
+  "type": "battle",
+  "slug": "sack-of-baghdad",
+  "primary_name": "Sack of Baghdad",
+  "names": [
+    {
+      "name": "Sack of Baghdad",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur stormed Baghdad; a massacre followed (death toll graded separately).",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "assault",
+  "date": {
+    "earliest": 1401,
+    "latest": 1401,
+    "precision": "year",
+    "display": "1401",
+    "certainty": "A"
+  },
+  "outcome": "Captured; massacre",
+  "place_id": "PLC-000053",
+  "sides": [
+    {
+      "label": "Timurid realm",
+      "polity_ids": [
+        "POL-000049"
+      ],
+      "commander_ids": [
+        "PER-000010"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Jalayirids",
+      "polity_ids": [
+        "POL-000048"
+      ]
+    }
+  ],
+  "editor_notes": "Doc grade: 'A (death toll B)'; the death toll is claim TM-C18 (C)."
+}

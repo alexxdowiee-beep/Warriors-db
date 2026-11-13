@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000058",
+  "type": "source",
+  "slug": "yuan-shi-chapters-121-and-122-and-su-tianjue-lives-of-eminent-ministers-of-the-yuan",
+  "primary_name": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+  "names": [
+    {
+      "name": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Subutai's biography in three Chinese versions (Yuan shi ch. 121, ch. 122 dated 1264, and Wang Yun's stele text in Su Tianjue), all from a lost Mongolian original translated in the 1260s.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Translation of a lost Mongol original (translation-issue); honours its subject (patron-bias).",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Su Tianjue",
+    "Wang Yun"
+  ],
+  "title": "Yuan shi ch. 121–122; Lives of Eminent Ministers of the Yuan",
+  "language": "Chinese",
+  "reliability_notes": "Doc type: 'primary-later (translation of a Mongol original)'; derives from a lost Mongolian biography (no source record). Read via Pow 2025 (SB-S08). Kept separate from the Yuan shi as a whole (GK-S04)."
+}

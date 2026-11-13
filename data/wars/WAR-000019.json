@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000019",
+  "type": "war",
+  "slug": "great-western-campaign",
+  "primary_name": "Great western campaign",
+  "names": [
+    {
+      "name": "Great western campaign",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Campaign under Batu that conquered the Volga Bulgars, the Rus' principalities and the steppe north of the Black and Caspian Seas, then invaded Hungary and Poland; it created the realm later called the Golden Horde.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1236,
+    "latest": 1242,
+    "precision": "year",
+    "display": "1236–1242",
+    "certainty": "A"
+  },
+  "outcome": "Victory; withdrawal 1242"
+}

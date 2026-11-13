@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000050",
+  "type": "place",
+  "slug": "bach-dang-river",
+  "primary_name": "Bạch Đằng River",
+  "names": [
+    {
+      "name": "Bạch Đằng River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Tidal river where the Yuan fleet was destroyed in 1288; also the site of a Vietnamese victory in 938.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "river"
+}

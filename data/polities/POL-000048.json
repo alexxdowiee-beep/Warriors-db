@@ -1,0 +1,18 @@
+{
+  "id": "POL-000048",
+  "type": "polity",
+  "slug": "jalayirids",
+  "primary_name": "Jalayirids",
+  "names": [
+    {
+      "name": "Jalayirids",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Dynasty ruling Baghdad when Timur stormed it in 1401.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

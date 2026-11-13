@@ -1,0 +1,23 @@
+{
+  "id": "POL-000043",
+  "type": "polity",
+  "slug": "kingdom-of-cilician-armenia",
+  "primary_name": "Kingdom of Cilician Armenia",
+  "names": [
+    {
+      "name": "Kingdom of Cilician Armenia",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Cilician Armenia",
+      "kind": "other"
+    }
+  ],
+  "summary": "Armenian kingdom allied with the crusaders and the Mongols; repeatedly devastated by Baibars' armies.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective.",
+  "polity_type": "kingdom"
+}

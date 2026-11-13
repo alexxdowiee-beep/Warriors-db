@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000020",
+  "type": "war",
+  "slug": "campaigns-against-the-crusader-states",
+  "primary_name": "Campaigns against the crusader states",
+  "names": [
+    {
+      "name": "Campaigns against the crusader states",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Baibars' annual campaigns against the Kingdom of Jerusalem, the County of Tripoli, the Principality of Antioch and the military orders, which reduced the crusader states to a strip of coast.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1263,
+    "latest": 1271,
+    "precision": "year",
+    "display": "1263–1271",
+    "certainty": "A"
+  },
+  "outcome": "Most inland fortresses taken"
+}

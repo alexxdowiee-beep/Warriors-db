@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000083",
+  "type": "source",
+  "slug": "keith-w-taylor-a-history-of-the-vietnamese",
+  "primary_name": "Keith W. Taylor, A History of the Vietnamese",
+  "names": [
+    {
+      "name": "Keith W. Taylor, A History of the Vietnamese",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The standard modern history of Vietnam.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Keith W. Taylor"
+  ],
+  "title": "A History of the Vietnamese",
+  "publisher": "Cambridge",
+  "year": 2013,
+  "reliability_notes": "Not opened; obtain first. One chapter would move about eight claims from B to A (doc)."
+}

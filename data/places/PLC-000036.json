@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000036",
+  "type": "place",
+  "slug": "zhongdu",
+  "primary_name": "Zhongdu",
+  "names": [
+    {
+      "name": "Zhongdu",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Jin central capital, on the site of modern Beijing; fell to the Mongols in 1215.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B",
+  "place_type": "city"
+}

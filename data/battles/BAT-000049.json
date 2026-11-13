@@ -1,0 +1,48 @@
+{
+  "id": "BAT-000049",
+  "type": "battle",
+  "slug": "krak-des-chevaliers",
+  "primary_name": "Krak des Chevaliers",
+  "names": [
+    {
+      "name": "Krak des Chevaliers",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Baibars' capture of the Hospitaller castle.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1270,
+    "latest": 1271,
+    "precision": "year",
+    "display": "1270 or 1271",
+    "certainty": "C",
+    "qualifier": "between"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000047",
+  "war_id": "WAR-000020",
+  "sides": [
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ],
+      "commander_ids": [
+        "PER-000008"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Knights Hospitaller",
+      "polity_ids": [
+        "POL-000045"
+      ]
+    }
+  ],
+  "editor_notes": "Battle grade A; year C (Smith 1270, Britannica 1271)."
+}

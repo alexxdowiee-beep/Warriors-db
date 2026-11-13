@@ -1,0 +1,49 @@
+{
+  "id": "BAT-000056",
+  "type": "battle",
+  "slug": "defeat-of-the-delhi-sultans-army",
+  "primary_name": "Defeat of the Delhi sultan's army",
+  "names": [
+    {
+      "name": "Defeat of the Delhi sultan's army",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur's destruction of the Delhi sultan's army, after which Delhi was left in ruins.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1398,
+    "latest": 1398,
+    "precision": "day",
+    "display": "17 December 1398",
+    "certainty": "A",
+    "month": 12,
+    "day": 17
+  },
+  "outcome": "Victory",
+  "site_certainty": "C",
+  "war_id": "WAR-000026",
+  "sides": [
+    {
+      "label": "Timurid realm",
+      "polity_ids": [
+        "POL-000049"
+      ],
+      "commander_ids": [
+        "PER-000010"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Delhi Sultanate",
+      "polity_ids": [
+        "POL-000047"
+      ]
+    }
+  ],
+  "editor_notes": "Site C: Panipat (Britannica) or outside Delhi; no place stored."
+}

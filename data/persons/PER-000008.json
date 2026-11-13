@@ -1,0 +1,110 @@
+{
+  "id": "PER-000008",
+  "type": "person",
+  "slug": "baibars",
+  "primary_name": "Baibars",
+  "names": [
+    {
+      "name": "Baibars",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Baybars",
+      "kind": "other"
+    },
+    {
+      "name": "al-Malik al-Zahir Rukn al-Din Baybars al-Bunduqdari",
+      "kind": "regnal"
+    },
+    {
+      "name": "Abu al-Futuh",
+      "kind": "epithet"
+    }
+  ],
+  "summary": "Baibars was a Kipchak Turk enslaved as a boy who became sultan of Egypt and Syria, fought at the battle that first stopped the Mongols in the Middle East, and reduced the crusader states to a strip of coast. He reached the throne by murdering his sultan. This profile tests how the database handles a ruler celebrated by court biographers, a folk epic and modern nations, and condemned by his enemies.",
+  "certainty": "A",
+  "status": "sourced",
+  "updated": "2026-11-13",
+  "core_claim_set": "commander",
+  "active_period": {
+    "earliest": 1250,
+    "latest": 1277,
+    "precision": "year",
+    "display": "c. 1250–1277; sultan 1260–1277",
+    "certainty": "A",
+    "qualifier": "circa"
+  },
+  "sex": "male",
+  "roles": [
+    "commander",
+    "ruler"
+  ],
+  "polity_ids": [
+    "POL-000030"
+  ],
+  "civilisation_ids": [
+    "CIV-000001"
+  ],
+  "birth": {
+    "earliest": 1223,
+    "latest": 1223,
+    "precision": "year",
+    "display": "c. 1223 (other dates proposed)",
+    "certainty": "C",
+    "qualifier": "circa",
+    "claim_ids": [
+      "CLM-000187"
+    ]
+  },
+  "death": {
+    "earliest": 1277,
+    "latest": 1277,
+    "precision": "year",
+    "display": "1277",
+    "certainty": "A",
+    "claim_ids": [
+      "CLM-000203"
+    ]
+  },
+  "death_place_id": "PLC-000052",
+  "tags": [
+    "mamluks",
+    "ain-jalut",
+    "crusades",
+    "regicide",
+    "folk-epic",
+    "batch-1"
+  ],
+  "cultural_guidance": "A national and religious hero in Egypt, Syria and Kazakhstan; record his reputation there respectfully alongside the record of violence.",
+  "profile": {
+    "early_life": "Baibars was a Kipchak (Qipchaq) Turk from the steppe north of the Black Sea. According to Britannica, he was one of many Kipchaks sold as slaves after the Mongol invasion of their country around 1242 (excerpt, B). This links him directly to Subutai's profile: the western raid of 1220–1223 and the campaign of 1236–1242 shattered the Kipchaks and flooded the slave markets with young Kipchak men (B as interpretation).\n\nThe accounts of his sale vary. One tradition has him sold at the slave market of Sivas in Anatolia, then in Hama in Syria to an Egyptian officer, 'Ala' al-Din Aydakin al-Bunduqdar, whose title gave Baibars his surname \"al-Bunduqdari\". When Aydakin fell from favour, Sultan al-Salih Ayyub took his slaves, including Baibars (C; excerpts from several reference works that differ in detail). His birth year is given as 1223 or 1228, and some modern Kazakh sources give an earlier date (C, stored as alternatives).",
+    "historical_context": "**The mamluk system**\n\nMamluks were slave soldiers, bought young, trained, converted to Islam, and freed into an elite cavalry whose loyalty was to their master and their fellow mamluks. Al-Salih Ayyub built a regiment of them, the Bahriyya, which Baibars joined (B). Turkish-speaking Kipchaks were especially prized as recruits.\n\n**Egypt and the crusades**\n\nIn 1249 King Louis IX of France invaded Egypt (the Seventh Crusade). At al-Mansurah in February 1250 the Bahriyya, with Baibars among their leaders, defeated the French, and Louis was soon captured (EBSCO excerpt; B). Al-Salih Ayyub had died during the campaign. Within weeks the Bahri mamluks, Baibars among them, murdered his son and heir Turanshah, ending the Ayyubid dynasty's rule in Egypt (B, excerpts).\n\nThe 1250s were a decade of mamluk infighting. Baibars spent years in exile in Syria after a rival faction took power in Cairo, returning in 1260 as the Mongol threat forced the factions together (B, to source).\n\n**The Mongol threat**\n\nIn 1256 the Mongols reinforced their presence in the Middle East. They destroyed the Ismaili Assassins, sacked Baghdad and killed the caliph in 1258, and in 1259 sent an army into Syria: Aleppo was taken by force and Homs, Hama and Damascus surrendered ([Smith 1998](https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548); [May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1); A). In 1259 Qutuz, the mamluk ruler of Egypt, executed Mongol envoys sent to demand his submission, committing Egypt to war (Smith, A).",
+    "military_career": "**Ain Jalut (3 September 1260).** In spring 1260 most of the Mongol army withdrew from Syria, leaving an occupying force of one tumen, nominally 10,000 men, under Kitbuqa ([Smith 1998](https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548)); May links the withdrawal to news of the Great Khan Möngke's death ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1)). The mamluk army under Sultan Qutuz marched from Egypt, with Baibars commanding the vanguard, and met Kitbuqa at Ain Jalut in Palestine. Smith notes that in this and later battles the Mongols defeated parts of the mamluk army in the first fighting, but the mamluks held instead of fleeing and finally prevailed. Kitbuqa was captured and killed (A for the battle and its outcome; B for Baibars' command of the vanguard, from excerpts).\n\n**Seizing the sultanate (October 1260).** On the march home, Baibars and fellow conspirators killed Qutuz, and Baibars took the throne (Smith; Britannica excerpt; A).\n\n**Campaigns as sultan (1260–1277).** Smith says he led his army from Egypt into Syria almost every year of his reign, sometimes to meet a Mongol threat but more often to take crusader fortresses or ravage Cilician Armenia, ally of the crusaders and the Mongols (A). The list is long:\n\n- Caesarea, Haifa and Arsuf (1264–1265)\n- Safed (1266)\n- the devastation of Cilician Armenia (1266)\n- Jaffa, Beaufort and the conquest of Antioch (1268)\n- the great castles of the military orders: Chastel Blanc, Krak des Chevaliers and Gibelacar (Smith dates them to 1270; Krak is usually dated 1271 elsewhere — C for the year)\n\nBy the time a Mongol advance from Anatolia coincided with a crusader landing at Acre in 1271, Smith observes, the crusaders had already been reduced to a toehold on the coast (A).\n\n**Anatolia (1277).** In the last year of his life he invaded Mongol-dominated Seljuk Anatolia, destroyed a Mongol army and briefly occupied the Seljuks' chief city (Smith, A). Britannica dates his capture of Caesarea (Kayseri) to 1276, while Smith places the invasion in 1277; both dates are stored and the year is graded C.\n\n**Other fronts.** Britannica says he sent expeditions into Nubia and Libya and personally commanded fifteen campaigns (excerpt, B).\n\n**Death (1277).** He died at Damascus in 1277. Britannica reports that he died after drinking poison intended for someone else, and was buried in Damascus under the dome of the Zahiriyya library he founded. With only one source for the poisoning, it stays C.\n\n**Major battles and campaigns**\n\n| Label | Engagement | Date | Kind | Opponent | Baibars' role | Result | Grade |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| BB-B01 | Al-Mansurah | Feb 1250 | field-battle | Seventh Crusade (Louis IX) | Among the Bahri leaders | Victory | B |\n| BB-B02 | Ain Jalut | 3 Sep 1260 | field-battle | Mongols under Kitbuqa | Vanguard commander under Qutuz | Victory | A |\n| BB-W01 | Campaigns against the crusader states | 1263–1271 | war (WAR) | Kingdom of Jerusalem, County of Tripoli, Principality of Antioch, military orders | Sultan and commander | Most inland fortresses taken | A |\n| BB-B03 | Fall of Safed | 1266 | siege | Knights Templar | Commander | Captured | A |\n| BB-B04 | Invasion of Cilician Armenia | 1266 | raid | Kingdom of Cilician Armenia | Sent his army | Devastation | A |\n| BB-B05 | Fall of Antioch | 1268 | siege | Principality of Antioch | Commander | Captured; city destroyed | A |\n| BB-B06 | Krak des Chevaliers | 1270 or 1271 | siege | Knights Hospitaller | Commander | Captured | A (year C) |\n| BB-B07 | Invasion of Anatolia | 1277 | field-battle | Mongols and Seljuks | Commander | Victory | A |\n\nArmy sizes: `unknown`, except for the corrected Ain Jalut figure discussed in the myths section.",
+    "leadership": "**Why the Mamluks held**\n\nAmitai-Preiss explains the Mamluks' success against a much larger Mongol empire through five factors: their morale and determination, Baibars' leadership, the failure of Mongol–crusader cooperation, the enlargement of the Mamluk army, and the Mongols' distraction by their own civil wars ([Smith 1998](https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548), reporting Amitai-Preiss; A as a specialist's interpretation). Smith, reviewing the book, thinks the crusader factor mattered less than Amitai-Preiss allows, because Baibars had already crippled the crusader states before any real cooperation came about (C: a scholarly disagreement, both views stored).\n\n**Leadership**\n\n- **Campaigning in person, every year.** He led his army out of Egypt almost annually (Smith, A).\n- **A mission and a title.** He brought a fugitive member of the Abbasid family to Cairo, re-established the caliphate there, received from it the title of the caliph's associate, and took on the duty of holy war against Mongols and crusaders (Smith; May; A). This gave a regime built on regicide religious legitimacy.\n- **Ruthlessness.** He reached power by killing his sultan, and Smith reads his handling of the new caliph, who died invading Mongol Iraq with only a few hundred men, as politically convenient (A for the events; C for Smith's reading of motive).",
+    "strategy_and_tactics": "- **Defend Syria by making it hard to invade.** He demolished strongholds and towns on the coast so crusaders landing from the sea would find nothing defensible, and strengthened inland castles and two great frontier fortresses facing the Mongols, al-Bira and al-Rahba (Smith, A).\n- **Scorched frontiers.** In the zones nearest the Mongols (Cilician Armenia, Antioch, even Aleppo), populations were reduced by devastation or neglect, and people in northern Syria were urged or forced to flee when Mongols approached (Smith, A). A harsh policy, recorded plainly.\n- **Keep the enemies apart.** Annual campaigns against crusader fortresses and Cilician Armenia stopped Mongol–crusader cooperation from ever becoming effective (A).\n- **Diplomacy.** Alliances with the Mongol Golden Horde (enemies of the Ilkhans) and with Byzantium protected the route by which new mamluk recruits arrived (Smith, A).",
+    "technology": "- **Communications:** a relay horse post (the barid), fire and smoke signals, and a pigeon post (Smith, A).\n- **Intelligence:** an espionage network aimed at the Mongols (Smith, A).\n- **A larger, better-trained army**, plus Bedouin and Turkmen auxiliaries (Smith, A).\n- **Mamluk heavy cavalry:** mounted archers who could also fight at close quarters (B, to source).\n- **Siege warfare** against the strongest castles of the crusader period (A from the results).",
+    "controversies": "**Two murdered sultans**\n\nBaibars took part in the killing of Turanshah, the last Ayyubid heir in Egypt, in 1250, and led the conspiracy that killed Qutuz, the victor of Ain Jalut, in 1260 (A for both). Mamluk politics was violent, and several sultans of the period died this way, but the murder of a victorious sovereign weeks after his triumph is the defining stain on Baibars' reputation. His own court biographers, unsurprisingly, played it down (`patron-bias`).\n\n**Perspectives**\n\n| Perspective | How he is remembered | Grade | Perspective tag |\n| --- | --- | --- | --- |\n| Mamluk court | Defender of Islam, conqueror of crusaders and Mongols, renewer of the caliphate | A as their view | Mamluk Sultanate |\n| Arabic folk tradition | The hero of the *Sirat Baybars*, a just king who protects the weak; still part of popular storytelling | A as tradition content | Arabic-speaking world |\n| Crusader states | The destroyer of the crusader kingdom, remembered especially for Antioch in 1268, where much of the population was reported killed or enslaved | A for the conquest; B for the scale of killing, to source | Principality of Antioch |\n| Cilician Armenia | Repeated devastation of their kingdom | A | Cilician Armenia |\n| Mongol Ilkhanate | The enemy who blocked their expansion into Syria and Egypt | A | Mongol Empire |\n| Modern Egypt and Syria | A national hero; his mosque in Cairo and his tomb, the Zahiriyya in Damascus, are landmarks | B, to source | Egypt; Syria |\n| Modern Kazakhstan | Celebrated as a son of the Kipchak steppe and a national ancestor-hero (Kazakh government page, excerpt) | A that the claim is made; C for treating a 13th-century Kipchak as \"Kazakh\", since Kazakh identity formed later | Kazakhstan |\n\n**The frontier policy**\n\nHis deliberate depopulation of the zones bordering the Mongols, and the destruction of coastal towns, protected his realm at a great cost to its civilian inhabitants (Smith, A). This is recorded as a controversy in its own right, not only as strategy.",
+    "legacy": "- **The Mamluk state.** He is often called the true founder of the Mamluk Sultanate, which ruled Egypt and Syria until the Ottoman conquest of the early 16th century (B, to source).\n- **Cairo as a centre of Islam.** With Baghdad ruined and a caliph now resident in Cairo, May notes that Cairo became the most influential centre of learning and culture in the Islamic world (May, A as interpretation).\n- **The end of the crusader states.** His successors took Acre, the last major crusader city, in 1291, completing what he had largely achieved (B, to source).\n- **The Mongol frontier held.** The army he built won again at Homs in 1281, after his death (Smith, A).",
+    "evidence_note": "**Research note.** I opened two sources: John Masson Smith Jr.'s review of Reuven Amitai-Preiss, *Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281* (*Journal of the American Oriental Society* 118.1, 1998; most of the text was visible), and Timothy May's 2008 survey (already opened). Britannica, EBSCO Research Starters, Encyclopedia.com and a Kazakh government page are cited from search excerpts. Amitai-Preiss's book itself is cited through Smith's review. An AI-generated encyclopedia page on Ain Jalut appeared in the results and is excluded under the new rule.\n\nBaibars is unusually well documented for his reign, mostly by men who worked for him or for his successors. Little is reliably known about his life before he reached power.\n\n| Label | Source | Date | Viewpoint | Main bias |\n| --- | --- | --- | --- | --- |\n| BB-S01 | Ibn 'Abd al-Zahir, official biography of the sultan | During and just after his reign | His own chancery secretary | Official panegyric (`patron-bias`, `hagiography`) |\n| BB-S02 | Ibn Shaddad, life of al-Zahir Baybars | Late 13th c. | Syrian official historian | `patron-bias` |\n| BB-S03 | Later Mamluk historians, e.g. al-Maqrizi | 14th–15th c. | Mamluk-era scholars | Draw on BB-S01 and BB-S02 (`late-source`) |\n| BB-S04 | Rashid al-Din (as GK-S03) | Early 14th c. | Mongol Ilkhanate court | The enemy's view (`hostile-source`, `patron-bias`) |\n| BB-S05 | Crusader and Armenian sources | 13th c. | His Christian enemies | `hostile-source` |\n| BB-S06 | *Sirat Baybars* | Developed over centuries; still performed | Arabic folk epic | Legend; a just hero-king (`oral-tradition`, `popular-culture`) |\n\n### What this means for grading\n\n- **His reign and campaigns** are recorded by his own officials and by his enemies, Mongol and crusader. Where they agree, as on Ain Jalut and the fall of the crusader castles, claims reach A.\n- **His early life** comes from brief notes in later Mamluk writers and from the epic. Birth year and the details of his enslavement are C.\n- **Motives** (why he killed Qutuz, why he sent a caliph to his death) come from hostile sources or from modern historians' reasoning. They are graded as interpretation, usually C.\n- **The *Sirat Baybars*** is stored as `tradition`. It tells us how Arabic-speaking audiences have remembered him for centuries, not what he did.\n\n### Derived sources\n\nMost later Mamluk accounts copy or summarise Ibn 'Abd al-Zahir and Ibn Shaddad, so they are linked with `derives_from` and do not count as independent confirmation.",
+    "key_takeaways": [
+      "Baibars was a Kipchak Turk, sold into slavery after the Mongols overran his homeland, who rose through the mamluk system of Egypt.",
+      "He led the vanguard at Ain Jalut in 1260, where the Mamluks defeated the Mongol force left in Syria, then murdered Sultan Qutuz and took the throne.",
+      "As sultan (1260–1277) he campaigned almost every year, taking most of the crusader fortresses and holding the Mongols at bay.",
+      "He built a state as well as an army: a Cairo caliphate for legitimacy, a postal and signal network, spies and frontier fortresses.",
+      "The famous \"120,000 against 10,000\" at Ain Jalut is a mistranslation; the Mongols, not the Mamluks, had the larger empire and armies."
+    ]
+  },
+  "myth_claim_ids": [
+    "CLM-000206",
+    "CLM-000207",
+    "CLM-000208",
+    "CLM-000209",
+    "CLM-000210",
+    "CLM-000211",
+    "CLM-000204",
+    "CLM-000212",
+    "CLM-000213"
+  ],
+  "editor_notes": "Record card (batch 1 doc, 13 Nov 2026): Temporary label: BB-P; Primary name: Baibars; Other names: Baybars (scholarly spelling); al-Malik al-Zahir Rukn al-Din Baybars al-Bunduqdari (full regnal name); Abu al-Futuh (\"father of conquests\"); Core claim set: `commander`; Roles: commander, ruler; Polity: Mamluk Sultanate (Egypt and Syria); Born: c. 1223 (other dates proposed), Kipchak steppe north of the Black Sea · grade C; Died: 1277, Damascus · grade A for the year; Active period: c. 1250–1277; sultan 1260–1277 · grade A; Period: 13th century; Mamluk–Mongol war; last century of the crusader states; Overall certainty: **A · Established** for identity, active period and main campaigns (two independent opened sources); early life C; Tags: `mamluks`, `ain-jalut`, `crusades`, `regicide`, `folk-epic`, `batch-1`; Cultural guidance: A national and religious hero in Egypt, Syria and Kazakhstan; record his reputation there respectfully alongside the record of violence\n\nCompare with (from the doc; compare_with links exist for people who have records, the rest are pending their records):\n- **Subutai:** the Mongol campaigns that destroyed the Kipchaks are the reason Baibars was enslaved, two lives linked by one war.\n- **Saladin:** the Ayyubid founder Baibars wanted to emulate, fighting the same crusader states eighty years earlier.\n- **Trần Hưng Đạo:** the next profile, another commander who stopped the Mongols, by very different means and on the other side of Asia.\n\nBatch notes from the doc:\n- **Shared records to create once:** the Mamluk Sultanate (POL), the Mongol Ilkhanate (POL; also needed for Timur), the Mamluk–Ilkhanid war (WAR), Ain Jalut (BAT), and the Kipchaks (CIV, linking Baibars to Subutai's campaigns).\n- **New link type in use:** Baibars' enslavement is a consequence of the Mongol western campaigns. That could be stored as a relationship between a person and a war (\"affected\\_by\"), which isn't in the vocabulary yet. It's a small addition, and worth deciding before the conversion.\n- **Encyclopedia sources:** Britannica turned out to be openable this time and counts as an independent reference source. It is graded as reference, below the academic review, and the two disagreed twice (the year Krak fell, the year Kayseri was taken), which the claims record as C."
+}

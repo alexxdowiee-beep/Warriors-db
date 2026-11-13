@@ -1,0 +1,32 @@
+{
+  "id": "SRC-000063",
+  "type": "source",
+  "slug": "stephen-pow-and-jingjing-liao-subutai-sorting-fact-from-fiction",
+  "primary_name": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+  "names": [
+    {
+      "name": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Study with full translations of both Yuan-era biographies of Subutai.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [
+    "SRC-000058"
+  ],
+  "opened": false,
+  "authors": [
+    "Stephen Pow",
+    "Jingjing Liao"
+  ],
+  "title": "Subutai: Sorting Fact from Fiction",
+  "publisher": "Journal of Chinese Military History 7.1, pp. 37–76",
+  "year": 2018,
+  "reliability_notes": "Not opened: known from citing works. The doc's first source to obtain."
+}

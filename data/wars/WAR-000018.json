@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000018",
+  "type": "war",
+  "slug": "western-raid-of-jebe-and-subutai",
+  "primary_name": "Western raid of Jebe and Subutai",
+  "names": [
+    {
+      "name": "Western raid of Jebe and Subutai",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Raid around the Caspian through the Caucasus to the steppe north of the Black Sea, fighting Georgians, Alans, Qipchaqs and Rus' in turn, and ending with the Kalka.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "campaign",
+  "span": {
+    "earliest": 1220,
+    "latest": 1223,
+    "precision": "year",
+    "display": "1220–1223",
+    "certainty": "A"
+  },
+  "outcome": "Victory"
+}

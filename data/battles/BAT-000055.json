@@ -1,0 +1,47 @@
+{
+  "id": "BAT-000055",
+  "type": "battle",
+  "slug": "battle-of-1395-against-tokhtamysh",
+  "primary_name": "Battle of 1395 against Tokhtamysh",
+  "names": [
+    {
+      "name": "Battle of 1395 against Tokhtamysh",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur's decisive defeat of Tokhtamysh, khan of the Golden Horde.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1395,
+    "latest": 1395,
+    "precision": "year",
+    "display": "1395",
+    "certainty": "A"
+  },
+  "outcome": "Victory",
+  "site_certainty": "C",
+  "war_id": "WAR-000025",
+  "sides": [
+    {
+      "label": "Timurid realm",
+      "polity_ids": [
+        "POL-000049"
+      ],
+      "commander_ids": [
+        "PER-000010"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Golden Horde",
+      "polity_ids": [
+        "POL-000028"
+      ]
+    }
+  ],
+  "editor_notes": "Site C: on the Terek (standard accounts) or the Kur (Britannica); no place stored."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000065",
+  "type": "source",
+  "slug": "an-ai-generated-online-encyclopedia-entry-on-subutai",
+  "primary_name": "An AI-generated online \"encyclopedia\" entry on Subutai",
+  "names": [
+    {
+      "name": "An AI-generated online \"encyclopedia\" entry on Subutai",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "AI-generated web page with invented details about Subutai and no sources.",
+  "certainty": "D",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "ai-generated",
+  "reliability_tier": "ai-generated",
+  "bias_notes": "Fabricated content (doc reliability: fabricated).",
+  "derives_from": [],
+  "opened": false,
+  "reliability_notes": "Seen in search. Doc type was 'other' (written before the ai-generated type existed). Kept only as the origin of myth SB-M10. Grade D: author and date unknown."
+}

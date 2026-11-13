@@ -1,0 +1,136 @@
+{
+  "subject": "PER-000010",
+  "relationships": [
+    {
+      "id": "REL-000095",
+      "from_id": "PER-000010",
+      "to_id": "POL-000049",
+      "relation": "founded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000243"
+      ]
+    },
+    {
+      "id": "REL-000096",
+      "from_id": "PER-000010",
+      "to_id": "POL-000049",
+      "relation": "ruled",
+      "certainty": "A",
+      "role": "Ruler from c. 1370",
+      "claim_ids": [
+        "CLM-000244"
+      ]
+    },
+    {
+      "id": "REL-000097",
+      "from_id": "PER-000010",
+      "to_id": "WAR-000024",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000251"
+      ]
+    },
+    {
+      "id": "REL-000098",
+      "from_id": "PER-000010",
+      "to_id": "WAR-000025",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000252"
+      ]
+    },
+    {
+      "id": "REL-000099",
+      "from_id": "PER-000010",
+      "to_id": "BAT-000055",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000252"
+      ]
+    },
+    {
+      "id": "REL-000100",
+      "from_id": "PER-000010",
+      "to_id": "WAR-000026",
+      "relation": "commanded",
+      "certainty": "A"
+    },
+    {
+      "id": "REL-000101",
+      "from_id": "PER-000010",
+      "to_id": "BAT-000056",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000255"
+      ]
+    },
+    {
+      "id": "REL-000102",
+      "from_id": "PER-000010",
+      "to_id": "BAT-000057",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000257"
+      ]
+    },
+    {
+      "id": "REL-000103",
+      "from_id": "PER-000010",
+      "to_id": "BAT-000058",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000257"
+      ]
+    },
+    {
+      "id": "REL-000104",
+      "from_id": "PER-000010",
+      "to_id": "BAT-000059",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000259"
+      ]
+    },
+    {
+      "id": "REL-000105",
+      "from_id": "PER-000010",
+      "to_id": "BAT-000060",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000261"
+      ]
+    },
+    {
+      "id": "REL-000106",
+      "from_id": "PER-000010",
+      "to_id": "WAR-000027",
+      "relation": "commanded",
+      "certainty": "A"
+    },
+    {
+      "id": "REL-000113",
+      "from_id": "PER-000010",
+      "to_id": "PER-000006",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Timur doc: the model Timur set out to emulate, with the legitimacy Timur never had."
+    },
+    {
+      "id": "REL-000114",
+      "from_id": "PER-000010",
+      "to_id": "PER-000008",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Timur doc: a later Mamluk sultan lost Syria's great cities to Timur, the state Baibars built a century earlier."
+    }
+  ]
+}

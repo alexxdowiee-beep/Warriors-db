@@ -8,6 +8,7 @@
   "status": "draft",
   "updated": "2026-11-13",
   "source_type": "museum",
+  "reliability_tier": "reference",
   "bias_notes": "State media (China Daily government site); used for factual points only.",
   "derives_from": [
     "SRC-000027"

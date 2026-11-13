@@ -1,0 +1,48 @@
+{
+  "id": "BAT-000045",
+  "type": "battle",
+  "slug": "ain-jalut",
+  "primary_name": "Ain Jalut",
+  "names": [
+    {
+      "name": "Ain Jalut",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Mamluk victory over the Mongol force left in Syria under Kitbuqa, who was captured and killed.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1260,
+    "latest": 1260,
+    "precision": "day",
+    "display": "3 September 1260",
+    "certainty": "A",
+    "month": 9,
+    "day": 3
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000044",
+  "sides": [
+    {
+      "label": "Mamluk army under Sultan Qutuz (Baibars commanding the vanguard)",
+      "polity_ids": [
+        "POL-000030"
+      ],
+      "commander_ids": [
+        "PER-000008"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Mongols under Kitbuqa",
+      "polity_ids": [
+        "POL-000026"
+      ]
+    }
+  ],
+  "editor_notes": "Army sizes not stored; the '120,000 against 10,000' figure is a mistranslation (myth BB-M01)."
+}

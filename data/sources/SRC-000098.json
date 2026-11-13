@@ -1,0 +1,28 @@
+{
+  "id": "SRC-000098",
+  "type": "source",
+  "slug": "beatrice-forbes-manz-after-the-mongols-2021-and-jras-article-2015",
+  "primary_name": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)",
+  "names": [
+    {
+      "name": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Later work by Manz on Timur and the post-Mongol world.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Beatrice Forbes Manz"
+  ],
+  "publisher": "Cambridge",
+  "year": "2021; 2015",
+  "reliability_notes": "Excerpts only. One record for two works, as in the doc."
+}

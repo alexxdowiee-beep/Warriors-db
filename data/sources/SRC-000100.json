@@ -1,0 +1,25 @@
+{
+  "id": "SRC-000100",
+  "type": "source",
+  "slug": "timur-lang-larousse",
+  "primary_name": "\"Timur Lang\", Larousse",
+  "names": [
+    {
+      "name": "\"Timur Lang\", Larousse",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Encyclopaedia entry on Timur.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "reliability_tier": "reference",
+  "bias_notes": "No bias noted.",
+  "derives_from": [],
+  "opened": false,
+  "title": "Timur Lang",
+  "publisher": "Larousse",
+  "reliability_notes": "Cited from a search excerpt (Timur doc, TM-C20). URL and date not recorded; grade B until they are."
+}

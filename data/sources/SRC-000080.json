@@ -1,0 +1,32 @@
+{
+  "id": "SRC-000080",
+  "type": "source",
+  "slug": "liam-c-kelley-from-moral-exemplar-to-national-hero",
+  "primary_name": "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+  "names": [
+    {
+      "name": "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Study of how Trần Hưng Đạo became a national hero in the early 20th century.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "authors": [
+    "Liam C. Kelley"
+  ],
+  "title": "From Moral Exemplar to National Hero",
+  "publisher": "Modern Asian Studies 49.6",
+  "year": 2015,
+  "isbn_doi": "10.1017/S0026749X14000183",
+  "url": "https://resolve.cambridge.org/core/journals/modern-asian-studies/article/abs/from-moral-exemplar-to-national-hero-the-transformations-of-tran-hung-dao-and-the-emergence-of-vietnamese-nationalism/822DC11FD8212980E1CC0D7FD3CCBE19",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Modern Asian Studies 49.6 (2015). Abstract only, 13 Nov 2026."
+}

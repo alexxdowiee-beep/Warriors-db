@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000035",
+  "type": "battle",
+  "slug": "fall-of-zhongdu",
+  "primary_name": "Fall of Zhongdu",
+  "names": [
+    {
+      "name": "Fall of Zhongdu",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Fall of the Jin central capital, on the site of modern Beijing.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1215,
+    "latest": 1215,
+    "precision": "year",
+    "display": "1215",
+    "certainty": "B"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000036",
+  "war_id": "WAR-000016",
+  "sides": [
+    {
+      "label": "Mongol Empire",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000006"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Jin",
+      "polity_ids": [
+        "POL-000036"
+      ]
+    }
+  ]
+}

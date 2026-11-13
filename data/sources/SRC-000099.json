@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000099",
+  "type": "source",
+  "slug": "an-ai-generated-encyclopedia-page-on-timur",
+  "primary_name": "An AI-generated encyclopedia page on Timur",
+  "names": [
+    {
+      "name": "An AI-generated encyclopedia page on Timur",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "AI-generated web page on Timur.",
+  "certainty": "D",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "ai-generated",
+  "reliability_tier": "ai-generated",
+  "bias_notes": "Not evidence (AI-generated).",
+  "derives_from": [],
+  "opened": false,
+  "reliability_notes": "Seen in search; excluded. Not cited by any claim. Grade D: author and date unknown."
+}

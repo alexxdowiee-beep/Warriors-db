@@ -1,0 +1,18 @@
+{
+  "id": "POL-000053",
+  "type": "polity",
+  "slug": "syria",
+  "primary_name": "Syria",
+  "names": [
+    {
+      "name": "Syria",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Syria, ruled by the Mamluks in Baibars' time and today a modern state. Used as a perspective: the people of the Syrian frontier zones.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

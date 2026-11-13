@@ -1,0 +1,24 @@
+{
+  "id": "SRC-000059",
+  "type": "source",
+  "slug": "rus-chronicles-novgorod-first-galician-volhynian-laurentian",
+  "primary_name": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian",
+  "names": [
+    {
+      "name": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Chronicles of the Rus' principalities covering the Kalka and the conquest of 1237–1240.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "The defeated (hostile-source). The Novgorod chronicle dates the Kalka to 1224.",
+  "derives_from": [],
+  "opened": false,
+  "language": "Old East Slavic",
+  "reliability_notes": "Group record (B). Read via Pow 2025."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000024",
+  "type": "war",
+  "slug": "conquest-of-persia",
+  "primary_name": "Conquest of Persia",
+  "names": [
+    {
+      "name": "Conquest of Persia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur's conquest of the successor dynasties of the Ilkhanate in Persia, with revolts crushed by massacres.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1383,
+    "latest": 1394,
+    "precision": "year",
+    "display": "1383–1394",
+    "certainty": "A"
+  },
+  "outcome": "Conquest"
+}

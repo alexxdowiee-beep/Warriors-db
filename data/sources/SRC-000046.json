@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000046",
+  "type": "source",
+  "slug": "the-secret-history-of-the-mongols",
+  "primary_name": "The Secret History of the Mongols",
+  "names": [
+    {
+      "name": "The Secret History of the Mongols",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Anonymous Mongol-language chronicle of Temüjin's rise, the only account in Mongolian.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "Celebrates the Chinggisid line; epic and literary in style (patron-bias).",
+  "derives_from": [],
+  "opened": false,
+  "title": "The Secret History of the Mongols",
+  "date_written": "13th c. (exact date debated)",
+  "language": "Mongolian",
+  "reliability_notes": "Written within the ruling family's circle; exact date debated. Doc access: via May (GK-S09) and excerpts. Rashid al-Din (GK-S03) drew on some of the same Mongol material."
+}

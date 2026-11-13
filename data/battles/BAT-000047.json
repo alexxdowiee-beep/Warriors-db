@@ -1,0 +1,42 @@
+{
+  "id": "BAT-000047",
+  "type": "battle",
+  "slug": "invasion-of-cilician-armenia",
+  "primary_name": "Invasion of Cilician Armenia",
+  "names": [
+    {
+      "name": "Invasion of Cilician Armenia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Mamluk invasion and devastation of the Kingdom of Cilician Armenia, ally of the crusaders and the Mongols.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "raid",
+  "date": {
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year",
+    "display": "1266",
+    "certainty": "A"
+  },
+  "outcome": "Devastation",
+  "sides": [
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ],
+      "result": "Devastation"
+    },
+    {
+      "label": "Kingdom of Cilician Armenia",
+      "polity_ids": [
+        "POL-000043"
+      ]
+    }
+  ],
+  "editor_notes": "Baibars' role in the table: 'Sent his army'; so he is not in commander_ids."
+}

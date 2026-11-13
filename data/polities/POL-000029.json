@@ -1,0 +1,23 @@
+{
+  "id": "POL-000029",
+  "type": "polity",
+  "slug": "yuan-dynasty",
+  "primary_name": "Yuan dynasty",
+  "names": [
+    {
+      "name": "Yuan dynasty",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Yuan China",
+      "kind": "other"
+    }
+  ],
+  "summary": "Mongol-ruled dynasty in China; it sent the failed invasions of Đại Việt and lost China to the Ming in 1368.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "empire",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Trần Hưng Đạo, Timur, Subutai and Genghis Khan (the Yuan shi). polity_type 'empire' is my choice; 'other' is the alternative."
+}

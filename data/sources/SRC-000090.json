@@ -1,0 +1,30 @@
+{
+  "id": "SRC-000090",
+  "type": "source",
+  "slug": "clavijo-embassy-to-tamerlane",
+  "primary_name": "Clavijo, Embassy to Tamerlane",
+  "names": [
+    {
+      "name": "Clavijo, Embassy to Tamerlane",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Account by the Castilian ambassador to Timur's court in Samarkand, 1403–06.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "An outsider's eyewitness account.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Ruy González de Clavijo"
+  ],
+  "title": "Embassy to Tamerlane",
+  "edition": "trans. Le Strange (1928)",
+  "date_written": "1403–06",
+  "language": "Spanish",
+  "reliability_notes": "Doc edition: trans. Le Strange (1928). Read via Manz and Britannica."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000025",
+  "type": "war",
+  "slug": "wars-against-tokhtamysh",
+  "primary_name": "Wars against Tokhtamysh",
+  "names": [
+    {
+      "name": "Wars against Tokhtamysh",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Wars against Tokhtamysh, khan of the Golden Horde, whom Timur defeated in 1391 and decisively in 1395.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1385,
+    "latest": 1395,
+    "precision": "year",
+    "display": "1385–1395",
+    "certainty": "A"
+  },
+  "outcome": "Victory"
+}

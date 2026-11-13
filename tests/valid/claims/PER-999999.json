@@ -25,6 +25,33 @@
       ],
       "quiz_ready": true,
       "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-999924",
+      "field": "myth",
+      "statement": "Test popular claim traced to an AI-generated page.",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "rejected-myth",
+      "citations": [
+        {
+          "source_id": "SRC-999905",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-999902",
+          "access": "opened"
+        }
+      ]
+    },
+    {
+      "id": "CLM-999925",
+      "field": "identity",
+      "statement": "Test: what a source says about his identity.",
+      "claim_type": "text",
+      "certainty": "C",
+      "verdict": "disputed",
+      "citations": []
     }
   ]
 }

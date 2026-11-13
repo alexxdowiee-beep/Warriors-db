@@ -1,0 +1,31 @@
+{
+  "id": "SRC-000068",
+  "type": "source",
+  "slug": "later-mamluk-historians-e-g-al-maqrizi",
+  "primary_name": "Later Mamluk historians (e.g. al-Maqrizi)",
+  "names": [
+    {
+      "name": "Later Mamluk historians (e.g. al-Maqrizi)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Fourteenth- and fifteenth-century Mamluk-era historians.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Draw on BB-S01 and BB-S02 (late-source).",
+  "derives_from": [
+    "SRC-000066",
+    "SRC-000067"
+  ],
+  "opened": false,
+  "authors": [
+    "al-Maqrizi"
+  ],
+  "date_written": "14th–15th c.",
+  "language": "Arabic",
+  "reliability_notes": "Group record (B). Not opened."
+}

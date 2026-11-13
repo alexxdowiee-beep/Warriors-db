@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000044",
+  "type": "place",
+  "slug": "ain-jalut",
+  "primary_name": "Ain Jalut",
+  "names": [
+    {
+      "name": "Ain Jalut",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Site in Palestine where the Mamluks defeated Kitbuqa's Mongol force on 3 September 1260.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}

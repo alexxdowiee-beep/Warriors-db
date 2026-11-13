@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000050",
+  "type": "battle",
+  "slug": "invasion-of-anatolia",
+  "primary_name": "Invasion of Anatolia",
+  "names": [
+    {
+      "name": "Invasion of Anatolia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Baibars' invasion of Mongol-dominated Seljuk Anatolia, where he destroyed a Mongol army.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1277,
+    "latest": 1277,
+    "precision": "year",
+    "display": "1277",
+    "certainty": "C"
+  },
+  "outcome": "Victory",
+  "sides": [
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ],
+      "commander_ids": [
+        "PER-000008"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Mongols and Seljuks",
+      "polity_ids": [
+        "POL-000026"
+      ]
+    }
+  ],
+  "editor_notes": "Battle grade A. Date certainty C: the doc says Britannica dates the capture of Kayseri to 1276 and Smith places the invasion in 1277; the battle table gives 1277."
+}

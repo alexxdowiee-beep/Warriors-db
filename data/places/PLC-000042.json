@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000042",
+  "type": "place",
+  "slug": "mohi",
+  "primary_name": "Mohi",
+  "names": [
+    {
+      "name": "Mohi",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Site on the Sajó River where the Mongols destroyed the army of Béla IV in April 1241.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

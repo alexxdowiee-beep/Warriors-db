@@ -1,0 +1,47 @@
+{
+  "id": "BAT-000043",
+  "type": "battle",
+  "slug": "mohi-sajo-river",
+  "primary_name": "Mohi (Sajó River)",
+  "names": [
+    {
+      "name": "Mohi (Sajó River)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Destruction of the army of King Béla IV of Hungary on the Sajó River.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1241,
+    "latest": 1241,
+    "precision": "month",
+    "display": "April 1241",
+    "certainty": "B",
+    "month": 4
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000042",
+  "war_id": "WAR-000019",
+  "sides": [
+    {
+      "label": "Mongols under Batu and Subutai",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000007"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Kingdom of Hungary",
+      "polity_ids": [
+        "POL-000040"
+      ]
+    }
+  ]
+}

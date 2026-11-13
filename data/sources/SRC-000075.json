@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000075",
+  "type": "source",
+  "slug": "reuven-amitai-preiss-mongols-and-mamluks-the-mamluk-ilkhanid-war-1260-1281",
+  "primary_name": "Reuven Amitai-Preiss, Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+  "names": [
+    {
+      "name": "Reuven Amitai-Preiss, Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Study of the war between the Mamluks and the Mongol Ilkhanate.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Reuven Amitai-Preiss"
+  ],
+  "title": "Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+  "publisher": "Cambridge",
+  "year": 1995,
+  "reliability_notes": "Read via Smith's review (BB-S08)."
+}

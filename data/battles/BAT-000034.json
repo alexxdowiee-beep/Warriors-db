@@ -1,0 +1,41 @@
+{
+  "id": "BAT-000034",
+  "type": "battle",
+  "slug": "defeat-of-the-naiman",
+  "primary_name": "Defeat of the Naiman",
+  "names": [
+    {
+      "name": "Defeat of the Naiman",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Temüjin's defeat of the Naiman, the last of his steppe rivals.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "date": {
+    "earliest": 1204,
+    "latest": 1204,
+    "precision": "year",
+    "display": "1204",
+    "certainty": "A"
+  },
+  "outcome": "Victory",
+  "sides": [
+    {
+      "label": "Temüjin's forces",
+      "commander_ids": [
+        "PER-000006"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Naiman",
+      "polity_ids": [
+        "POL-000034"
+      ]
+    }
+  ]
+}

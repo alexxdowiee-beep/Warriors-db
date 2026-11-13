@@ -1,0 +1,87 @@
+{
+  "subject": "PER-000009",
+  "relationships": [
+    {
+      "id": "REL-000087",
+      "from_id": "PER-000009",
+      "to_id": "POL-000046",
+      "relation": "served",
+      "certainty": "A",
+      "role": "Royal prince of the Trần dynasty; supreme commander in 1285 and 1287–88",
+      "claim_ids": [
+        "CLM-000214"
+      ]
+    },
+    {
+      "id": "REL-000088",
+      "from_id": "PER-000009",
+      "to_id": "WAR-000021",
+      "relation": "participated",
+      "certainty": "C",
+      "role": "Uncertain"
+    },
+    {
+      "id": "REL-000089",
+      "from_id": "PER-000009",
+      "to_id": "WAR-000022",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Supreme commander",
+      "claim_ids": [
+        "CLM-000216"
+      ]
+    },
+    {
+      "id": "REL-000090",
+      "from_id": "PER-000009",
+      "to_id": "BAT-000051",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Under overall command; led by Trần Quang Khải"
+    },
+    {
+      "id": "REL-000091",
+      "from_id": "PER-000009",
+      "to_id": "BAT-000052",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "His forces",
+      "claim_ids": [
+        "CLM-000221"
+      ]
+    },
+    {
+      "id": "REL-000092",
+      "from_id": "PER-000009",
+      "to_id": "WAR-000023",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Supreme commander",
+      "claim_ids": [
+        "CLM-000216"
+      ]
+    },
+    {
+      "id": "REL-000093",
+      "from_id": "PER-000009",
+      "to_id": "BAT-000053",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Under his overall command",
+      "claim_ids": [
+        "CLM-000222"
+      ]
+    },
+    {
+      "id": "REL-000094",
+      "from_id": "PER-000009",
+      "to_id": "BAT-000054",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Commander",
+      "claim_ids": [
+        "CLM-000223"
+      ]
+    }
+  ]
+}

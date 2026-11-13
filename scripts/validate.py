@@ -16,14 +16,20 @@ Checks (numbers follow SETUP_BRIEF.md, Step 2):
     DUP_ID         IDs (records, claims, relationships) are unique across the whole tree
   5 DATE           earliest <= latest in every historicalDate
   6 GRADE_A        an A claim needs 2+ independent sources (neither derives from the other, and no
-                   common source) and at least one citation with access "opened". A text or tradition
+                   common source), at least one of the pair with reliability_tier scholarly or
+                   reference, and at least one citation with access "opened". A text or tradition
                    claim instead needs one opened copy of the document or tradition itself.
     GRADE_UNCITED  a claim with no citations cannot be above C (so B needs at least one citation)
                    Rule 6 is an error once the claim's subject is "verified" or "reviewed";
                    while the subject is "draft" or "sourced" it is a warning.
   7 CORE_GRADE     a record's certainty is not better than its weakest core claim
     CORE_MISSING   (warning) core claims are missing for the record's core_claim_set
+    CORE_TYPE      (warning) a claim with a core field (identity, active_period, main_battles, main_works)
+                   should be claim_type event or interpretation, not text or tradition
   8 TOMBSTONE      a tombstone has replaced_by pointing to an existing record
+  9 AI_SOURCE      an ai-generated source may be cited only by a claim with verdict "rejected-myth";
+                   source_type ai-generated and reliability_tier ai-generated go together
+ 10 TIER           reliability_tier may be null only for primary material (PRIMARY_MATERIAL)
 Housekeeping: JSON (unreadable file), DUP_KEY (duplicate key in a JSON object), UNKNOWN_FOLDER,
 NO_SCHEMA (file in a folder without a schema yet), and warnings STRAY_FILE, REL_SUBJECT, REPLACED_BY.
 """
@@ -52,6 +58,10 @@ ENFORCED_STATUSES = {"verified", "reviewed"}
 # Source types that count as the document or tradition itself (or a translation or record of it)
 # for text and tradition claims (rule 6).
 RECORD_OF_DOCUMENT = {"primary-contemporary", "primary-later", "archaeological", "oral-tradition", "statute", "translation"}
+# Source types with no reliability_tier (null): the material itself, judged through bias_notes (rule 10).
+PRIMARY_MATERIAL = {"primary-contemporary", "primary-later", "archaeological", "oral-tradition", "statute"}
+# Tiers that can anchor an A grade: one of the two independent sources must have one (rule 6).
+ANCHOR_TIERS = {"scholarly", "reference"}
 
 # folder -> (ID prefix, record type); schema file is "<type>.schema.json"
 RECORD_FOLDERS = {
@@ -187,6 +197,7 @@ class DatabaseValidator:
         self.check_claim_grades()  # rule 6
         self.check_core_claims()  # rule 7
         self.check_tombstones()  # rule 8
+        self.check_sources()  # rules 9 and 10
         return self.issues
 
     # ---------------------------------------------------------------- loading (rules 1 and 2)
@@ -367,6 +378,8 @@ class DatabaseValidator:
 
         source_types = {rid: lf.data.get("source_type") for rid, lf in self.records.items()
                         if lf.data.get("type") == "source"}
+        tiers = {rid: lf.data.get("reliability_tier") for rid, lf in self.records.items()
+                 if lf.data.get("type") == "source"}
 
         for cid, (claim, subject, f) in sorted(self.claims.items()):
             grade = claim.get("certainty")
@@ -394,17 +407,27 @@ class DatabaseValidator:
                            f"document or tradition itself (source types: {', '.join(sorted(RECORD_OF_DOCUMENT))})")
                 continue
             sources = sorted({c.get("source_id") for c in citations if c.get("source_id") in ancestors})
-            has_pair = any(independent(a, b) for i, a in enumerate(sources) for b in sources[i + 1:])
-            if not has_pair:
+            pairs = [(a, b) for i, a in enumerate(sources) for b in sources[i + 1:] if independent(a, b)]
+            if not pairs:
                 report("GRADE_A", f,
                            f"{cid} is graded A but does not cite 2 independent sources "
                            f"(cited: {', '.join(sources) or 'none that exist'}; sources that derive from one another, "
                            f"or from a common source, count as one)")
+            elif not any(tiers.get(a) in ANCHOR_TIERS or tiers.get(b) in ANCHOR_TIERS for a, b in pairs):
+                report("GRADE_A", f,
+                       f"{cid} is graded A but neither source of any independent pair is scholarly or reference "
+                       f"(cited: {', '.join(f'{s} ({tiers.get(s) or 'primary'})' for s in sources)})")
             if not any(c.get("access") == "opened" for c in citations):
                 report("GRADE_A", f, f"{cid} is graded A but no citation has access 'opened'")
 
     # ---------------------------------------------------------------- rule 7
     def check_core_claims(self):
+        core_fields = {f for fields in CORE_FIELDS.values() for f in fields}
+        for cid, (claim, _subject, f) in sorted(self.claims.items()):
+            if claim.get("field") in core_fields and claim.get("claim_type") not in (None, "event", "interpretation"):
+                self.warning("CORE_TYPE", f, f"{cid} has core field {claim.get('field')!r} but claim_type "
+                             f"{claim.get('claim_type')!r}; a claim about what a source or tradition says should "
+                             f"use another field")
         for rid, lf in sorted(self.records.items()):
             data = lf.data
             claim_set = data.get("core_claim_set")
@@ -429,6 +452,29 @@ class DatabaseValidator:
                            f"({weakest.get('field')}) is graded {weakest['certainty']}")
 
     # ---------------------------------------------------------------- rule 8
+    # ---------------------------------------------------------------- rules 9 and 10
+    def check_sources(self):
+        sources = {rid: lf for rid, lf in self.records.items() if lf.data.get("type") == "source"}
+        for rid, lf in sorted(sources.items()):
+            stype, tier = lf.data.get("source_type"), lf.data.get("reliability_tier")
+            if stype is None or "reliability_tier" not in lf.data:
+                continue  # schema error already reported
+            if (stype == "ai-generated") != (tier == "ai-generated"):
+                self.error("AI_SOURCE", lf.path, f"source_type {stype} with reliability_tier {tier}: "
+                           f"ai-generated must be both or neither")
+            if tier is None and stype not in PRIMARY_MATERIAL:
+                self.error("TIER", lf.path, f"reliability_tier is null but source_type {stype} is not primary "
+                           f"material ({', '.join(sorted(PRIMARY_MATERIAL))}); choose a tier")
+        ai = {rid for rid, lf in sources.items() if lf.data.get("source_type") == "ai-generated"}
+        for cid, (claim, _subject, f) in sorted(self.claims.items()):
+            if claim.get("verdict") == "rejected-myth":
+                continue
+            cited = sorted({c.get("source_id") for c in claim.get("citations") or []
+                            if isinstance(c, dict) and c.get("source_id") in ai})
+            if cited:
+                self.error("AI_SOURCE", f, f"{cid} cites ai-generated source {', '.join(cited)} but its verdict is "
+                           f"{claim.get('verdict')!r}; an ai-generated source may only be cited by a rejected-myth claim")
+
     def check_tombstones(self):
         for rid, lf in sorted(self.records.items()):
             data = lf.data

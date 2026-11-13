@@ -1,0 +1,27 @@
+{
+  "id": "SRC-000096",
+  "type": "source",
+  "slug": "timur-encyclopaedia-britannica",
+  "primary_name": "\"Timur\", Encyclopaedia Britannica",
+  "names": [
+    {
+      "name": "\"Timur\", Encyclopaedia Britannica",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Encyclopaedia entry on Timur.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "reliability_tier": "reference",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "title": "Timur",
+  "publisher": "Encyclopaedia Britannica",
+  "url": "https://www.britannica.com/topic/Timur",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Opened in full, 13 Nov 2026. Disagrees with standard accounts on the 1395 battle site (Kur) and on Moscow."
+}

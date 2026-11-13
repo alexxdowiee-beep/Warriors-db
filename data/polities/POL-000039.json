@@ -1,0 +1,18 @@
+{
+  "id": "POL-000039",
+  "type": "polity",
+  "slug": "vladimir-suzdal",
+  "primary_name": "Vladimir-Suzdal",
+  "names": [
+    {
+      "name": "Vladimir-Suzdal",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Rus' principality whose grand prince, Yuri II, was killed at the Sit River in 1238.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

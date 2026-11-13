@@ -1,0 +1,628 @@
+{
+  "subject": "PER-000008",
+  "claims": [
+    {
+      "id": "CLM-000184",
+      "field": "identity",
+      "statement": "Baibars, a Kipchak Turk enslaved young, became Mamluk sultan of Egypt and Syria",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000185",
+      "field": "active_period",
+      "statement": "Active c. 1250–1277; sultan 1260–1277",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000186",
+      "field": "main_battles",
+      "statement": "Vanguard commander at Ain Jalut; led the campaigns that took most crusader fortresses; invaded Seljuk Anatolia",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000187",
+      "field": "birth",
+      "statement": "Born 1223 (alternatives: 1228; an earlier date in Kazakh sources)",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened); excerpts",
+      "quiz_ready": true,
+      "quiz_kind": "debate"
+    },
+    {
+      "id": "CLM-000188",
+      "field": "origins",
+      "statement": "Sold as a slave after the Mongol invasion of the Kipchak lands, c. 1242",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "CIV-000001"
+      ]
+    },
+    {
+      "id": "CLM-000189",
+      "field": "career",
+      "statement": "Commanded at al-Mansurah against Louis IX, February 1250",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened); EBSCO (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000190",
+      "field": "controversies",
+      "statement": "Led the officers who murdered Sultan Turanshah, 1250",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000191",
+      "field": "career",
+      "statement": "Most of the Mongol army left Syria in spring 1260, leaving one tumen under Kitbuqa",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000026"
+      ]
+    },
+    {
+      "id": "CLM-000192",
+      "field": "career",
+      "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000054 (BB-S09) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000030",
+        "POL-000026"
+      ]
+    },
+    {
+      "id": "CLM-000193",
+      "field": "controversies",
+      "statement": "Baibars led the conspiracy that killed Sultan Qutuz in 1260 and took the throne",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000194",
+      "field": "politics",
+      "statement": "Installed a fugitive Abbasid as caliph in Cairo, 1261",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened); SRC-000054 (BB-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000195",
+      "field": "career",
+      "statement": "Took Safed (1266) and Antioch (1268)",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000042"
+      ]
+    },
+    {
+      "id": "CLM-000196",
+      "field": "career",
+      "statement": "Took Krak des Chevaliers and other castles of the military orders",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000197",
+      "field": "career",
+      "statement": "Year of Krak's capture: 1270 (Smith) or 1271 (Britannica)",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08); SRC-000073 (BB-S10)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000198",
+      "field": "career",
+      "statement": "Devastated Cilician Armenia",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000043"
+      ]
+    },
+    {
+      "id": "CLM-000199",
+      "field": "career",
+      "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened). Doc grade: A (year C)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000026"
+      ]
+    },
+    {
+      "id": "CLM-000200",
+      "field": "administration",
+      "statement": "Built a relay post, signal fires and a pigeon post",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000073",
+          "access": "opened",
+          "note": "postal service"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened); SRC-000073 (BB-S10) (opened, postal service)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000201",
+      "field": "strategy",
+      "statement": "Depopulated frontier zones and demolished coastal strongholds",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "perspective_of": [
+        "POL-000053"
+      ]
+    },
+    {
+      "id": "CLM-000202",
+      "field": "interpretation",
+      "statement": "Mamluk success came from morale, leadership, failed Mongol–crusader cooperation, a larger army and Mongol civil wars",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened",
+          "note": "reporting SRC-000075 (BB-S12)"
+        }
+      ],
+      "evidence_status": "SRC-000072 (BB-S08) (opened, reporting SRC-000075 (BB-S12))",
+      "quiz_ready": true,
+      "quiz_kind": "debate"
+    },
+    {
+      "id": "CLM-000203",
+      "field": "death",
+      "statement": "Died at Damascus in 1277",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened); SRC-000072 (BB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000204",
+      "field": "death",
+      "statement": "Died after drinking poison intended for someone else",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "debate"
+    },
+    {
+      "id": "CLM-000205",
+      "field": "legacy",
+      "statement": "The *Sirat Baybars* folk epic about him is still popular in the Arabic-speaking world",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000073 (BB-S10) (opened); EBSCO (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "tradition",
+      "perspective_of": [
+        "CIV-000002"
+      ]
+    },
+    {
+      "id": "CLM-000206",
+      "field": "myth",
+      "statement": "At Ain Jalut 120,000 Mamluks faced 10,000 Mongols",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: A mistranslation: the source claimed 12,000 Mamluks. The Mongol empire in the Middle East as a whole greatly outnumbered them (Smith, reporting Amitai-Preiss)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000207",
+      "field": "myth",
+      "statement": "Ain Jalut was the first time the Mongols ever lost a battle",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Doc grade B; dropped to C as uncited, as the doc says. Myths table verdict: False (B). Evidence: Mongol forces had suffered earlier defeats; Ain Jalut was the first time their advance in the region was stopped for good",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000208",
+      "field": "myth",
+      "statement": "Ain Jalut ended Mongol expansion everywhere",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "the Southern Song lasted until 1279"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: The Mongols went on to conquer the Song dynasty of southern China by 1279 Citation added 13 Nov 2026 (user decision). SRC-000054: the Southern Song lasted until 1279.",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000209",
+      "field": "myth",
+      "statement": "Baibars commanded at Ain Jalut",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened",
+          "note": "Qutuz commanded; Baibars led the vanguard"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Sultan Qutuz commanded; Baibars led the vanguard Citation added 13 Nov 2026 (user decision). SRC-000073: Qutuz commanded; Baibars led the vanguard.",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000210",
+      "field": "myth",
+      "statement": "Ain Jalut ended the Mongol threat to Syria",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000072",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: Smith: the victory was by no means conclusive; the Mamluks fought Mongol invasions for decades and lost a major battle in 1299",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000211",
+      "field": "myth",
+      "statement": "Qutuz threw down his helmet to rally his men",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Tradition (C). Evidence: Reported in contemporary Muslim accounts (Britannica, excerpt); the exact scene is not verifiable",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000212",
+      "field": "myth",
+      "statement": "The *Sirat Baybars* is a biography",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000073",
+          "access": "opened",
+          "note": "the Sirat Baybars is a folk epic"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: A folk epic built up over centuries Citation added 13 Nov 2026 (user decision). SRC-000073: the Sirat Baybars is a folk epic.",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000213",
+      "field": "myth",
+      "statement": "Baibars was Kazakh",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Anachronistic (C). Evidence: He was a Kipchak Turk; the Kipchaks were among the ancestors of several modern peoples, but Kazakh identity took shape later",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    }
+  ]
+}

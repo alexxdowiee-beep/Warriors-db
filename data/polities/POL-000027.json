@@ -1,0 +1,23 @@
+{
+  "id": "POL-000027",
+  "type": "polity",
+  "slug": "ilkhanate",
+  "primary_name": "Ilkhanate",
+  "names": [
+    {
+      "name": "Ilkhanate",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Mongol Ilkhanate",
+      "kind": "other"
+    }
+  ],
+  "summary": "Mongol successor state ruling Iran; enemy of the Mamluks in Syria. It dissolved after the death of its last effective ruler in 1335.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "other",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Baibars, Timur, Genghis Khan (Rashid al-Din served it). polity_type 'other': the vocabulary has no 'khanate'."
+}

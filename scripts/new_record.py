@@ -12,7 +12,7 @@ The next ID is one higher than the highest ID with that prefix that appears ANYW
 is never reused or recycled, including IDs of tombstones.
 
 Fields that need a human judgement (certainty, active_period, core_claim_set, battle kind,
-source_type) are written as null on purpose: we never guess them. The validator will list them
+source_type, reliability_tier) are written as null on purpose: we never guess them. The validator will list them
 as SCHEMA errors until they are filled in.
 """
 from __future__ import annotations
@@ -50,7 +50,7 @@ BLANK_DATE = {"earliest": None, "latest": None, "precision": None, "display": ""
 TYPE_REQUIRED = {
     "person": {"core_claim_set": None, "active_period": BLANK_DATE},
     "battle": {"kind": None},
-    "source": {"source_type": None, "bias_notes": "", "derives_from": []},
+    "source": {"source_type": None, "reliability_tier": None, "bias_notes": "", "derives_from": []},
 }
 
 # Letters that Unicode decomposition does not reduce to a base Latin letter.

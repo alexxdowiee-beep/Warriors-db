@@ -1,0 +1,109 @@
+{
+  "id": "PER-000006",
+  "type": "person",
+  "slug": "genghis-khan",
+  "primary_name": "Genghis Khan",
+  "names": [
+    {
+      "name": "Genghis Khan",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Temüjin",
+      "kind": "birth"
+    },
+    {
+      "name": "Chinggis Khan",
+      "kind": "title"
+    },
+    {
+      "name": "Cinggis Qan",
+      "kind": "transliteration",
+      "language": "Mongolian"
+    }
+  ],
+  "summary": "Genghis Khan united the peoples of the Mongolian steppe and launched the conquests that created the largest contiguous land empire in history. His life is known mainly from one anonymous Mongol chronicle and from the histories of peoples he conquered or employed, so nearly every source has a stake in how he is remembered.",
+  "certainty": "B",
+  "status": "sourced",
+  "updated": "2026-11-13",
+  "core_claim_set": "commander",
+  "active_period": {
+    "earliest": 1180,
+    "latest": 1227,
+    "precision": "decade",
+    "display": "c. 1180s–1227; title Chinggis Khan from 1206",
+    "certainty": "B",
+    "qualifier": "circa"
+  },
+  "sex": "male",
+  "roles": [
+    "ruler",
+    "commander"
+  ],
+  "polity_ids": [
+    "POL-000026"
+  ],
+  "birth": {
+    "earliest": 1162,
+    "latest": 1165,
+    "precision": "year",
+    "display": "1162 or 1165 (sources differ)",
+    "certainty": "C",
+    "qualifier": "between",
+    "claim_ids": [
+      "CLM-000123",
+      "CLM-000124"
+    ]
+  },
+  "death": {
+    "earliest": 1227,
+    "latest": 1227,
+    "precision": "year",
+    "display": "1227, during the siege of the Xi Xia capital",
+    "certainty": "B",
+    "claim_ids": [
+      "CLM-000134"
+    ]
+  },
+  "tags": [
+    "mongol-empire",
+    "state-founder",
+    "steppe-warfare",
+    "patron-bias",
+    "batch-1"
+  ],
+  "cultural_guidance": "Revered in Mongolia as the father of the nation; describe his reputation there with respect alongside the record of conquest.",
+  "profile": {
+    "early_life": "**Birth**\n\nHis birth year is uncertain. May gives 1165; de Rachewiltz's translation and the Columbia teaching site give 1162; other dates are also proposed in the literature (C, all stored as linked claims).\n\n**Youth (mostly from the *Secret History*)**\n\nThe *Secret History* tells of a hard youth. His father Yesügei was poisoned by Tatars, and the family was abandoned by its followers and lived in poverty. Temüjin killed his half-brother Begter in a quarrel over food. He married Börte, and when the Merkits abducted her he recovered her with the help of Toghril, khan of the Kereit, and his sworn brother Jamukha. These episodes are graded **B as tradition content** and **C as events**: they come from one source, composed within his family's circle, which shaped them into an epic of the hero's rise.\n\n**Rise to power (1180s–1206)**\n\nMay's outline is firmly attested: Temüjin became a nökhör (companion or vassal) of Toghril and rose to lead among the Mongol tribes; growing rivalry led to a break, and in 1203 Temüjin defeated Toghril. By 1204 he had defeated all his rivals, including the Naiman ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A). In 1206 an assembly of his followers proclaimed him Chinggis Khan, sole ruler of the united \"All Mongol State\" (A).\n\n**The title**\n\nMay, following de Rachewiltz, explains \"Chinggis\" as meaning firm, fierce or resolute. The older explanation, \"oceanic ruler\", from an early 20th-century link to a Turkic word for sea, has been set aside (B; myth table).",
+    "historical_context": "The Mongols were one tribe among several on the Mongolian plateau, alongside the Kereit, Naiman, Merkit and Tatars ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1)). To the south, the Jin dynasty of the Jurchen ruled northern China and, by long-standing practice, kept the steppe divided by playing tribes against each other (B, to source).",
+    "military_career": "**Unifying the steppe (to 1206).** Twenty years of wars against rival khans and former allies, ending with the defeat of Toghril in 1203 and of the Naiman in 1204 ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A).\n\n**Xi Xia (1209).** The Tangut kingdom of Xi Xia, in what is now north-west China, was subdued by 1209 (A).\n\n**The Jin empire (1211 onwards).** In 1211 he invaded the Jin empire of northern China. May notes the campaigns began as raids, but as resistance collapsed the Mongols kept the territory; most of the Jin empire was conquered by 1216, though resistance lasted until 1234 under his successor (A). The fall of the Jin central capital, Zhongdu (on the site of modern Beijing), in 1215 is widely reported (B, to source).\n\n**Into Central Asia (1209–1218).** Mongol armies pursued tribal leaders who had fled west, and smaller states such as the Uighurs submitted as vassals, bringing the empire to the border of the Khwarazmian Empire (A).\n\n**Khwarazm (1218–1221).** Chinggis Khan at first sought peaceful trade. After the governor of the border town of Otrar massacred a Mongol-sponsored caravan and diplomacy failed, he marched west, leaving a small force in China. He took Otrar, then split his army to strike the empire at several points; the Khwarazm-shah Muhammad II, his larger army spread thin defending cities, fled and died on a Caspian island. In 1221 Chinggis Khan defeated Muhammad's son Jalal al-Din near the Indus, and then kept only the lands north of the Amu Darya to avoid overstretch ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A for the outline).\n\n**The western raid (1220–1223).** While he campaigned in Khwarazm, his generals Jebe and Subutai led a force around the Caspian into the Caucasus and the steppe north of the Black Sea, defeating a Rus' and Cuman army at the Kalka in 1223 (B; covered in Subutai's profile).\n\n**Xi Xia and death (1226–1227).** Returning to put down a rebellion in Xi Xia, he besieged its capital, Zhongxing, and died during the siege in 1227. May, following the *Secret History*, says he died from injuries after a fall from his horse while hunting. Other accounts differ, so the cause is graded C. His burial place is unknown (A that it is unknown).\n\n**Major campaigns and battles**\n\n| Label | Engagement | Date | Kind | Opponent | Result | Grade |\n| --- | --- | --- | --- | --- | --- | --- |\n| GK-B01 | Defeat of Toghril and the Kereit | 1203 | unknown | Kereit | Victory | A |\n| GK-B02 | Defeat of the Naiman | 1204 | unknown | Naiman | Victory | A |\n| GK-W01 | Subjugation of Xi Xia | 1205–1209 | campaign (WAR) | Xi Xia | Submission | A |\n| GK-W02 | War against the Jin | 1211–1234 | war (WAR) | Jin dynasty | Most territory taken by 1216; completed under Ögödei | A |\n| GK-B03 | Fall of Zhongdu | 1215 | siege | Jin | Captured | B |\n| GK-W03 | Invasion of Khwarazm | 1218–1221 | war (WAR) | Khwarazmian Empire | Victory | A |\n| GK-B04 | Capture of Otrar | 1219–1220 | siege | Khwarazm | Captured | A |\n| GK-B05 | Battle of the Indus | 1221 | field-battle | Jalal al-Din | Victory | A |\n| GK-B06 | Siege of Zhongxing | 1227 | siege | Xi Xia | Fell after his death | B |\n\nArmy sizes: `unknown` throughout. The sources give figures, but none is reliable enough to store without a modern estimate attached; that can be added during verification.",
+    "leadership": "- **Breaking the tribes.** He dissolved old tribal lines and regrouped his people into an army built on a decimal system of units of 10, 100 and 1,000, with strict discipline ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A). Old tribal elites were removed and loyalty redirected to his family, the \"golden lineage\" (A).\n- **Loyalty and merit.** Several of his greatest generals, Subutai and Jebe among them, rose from modest origins through service, not birth (B, to source in Subutai's profile).\n- **A personal guard** (the keshig) that doubled as a training ground for commanders and administrators (B, to source).\n- **Using the conquered.** The empire soon relied on a multi-ethnic administration of Chinese, Persian and Uighur officials (May, A; developed mainly under his successors).\n- **Writing.** Though illiterate himself, after defeating the Naiman in 1204 he ordered a Mongolian script adapted from the Uighur alphabet; it was used in Mongolia into the 20th century and is still used in Inner Mongolia (May, A).",
+    "strategy_and_tactics": "**Strategy**\n\n- **From raiding to ruling.** The Jin campaigns began as raids; the Mongols kept territory only as resistance collapsed (May, A).\n- **Avoid overstretch.** In Khwarazm he annexed only the lands north of the Amu Darya (May, A).\n- **Fear as a weapon.** Cities that resisted could be destroyed, and those that submitted spared, so news of each massacre encouraged the next city to surrender. May notes the Mongols cultivated the idea that they were God's punishment on the Muslim world (B as interpretation).\n- **Trade first, war second.** He opened relations with Khwarazm to trade, and turned to war only after the Otrar massacre (May, A).\n\n**Tactics**\n\n- **Coordinated multi-front campaigns.** May describes an army operating over several fronts in separate corps but in a coordinated effort, something other medieval armies could not match (A as interpretation by a specialist).\n- **Feigned retreat.** Marco Polo described Mongol horsemen apparently fleeing, then wheeling round once the enemy thought the battle won (May quoting Polo; B; Polo wrote decades later).\n- **Total war.** The only result that mattered was the enemy's defeat, by ruses and trickery as readily as by battle (May, A as interpretation).",
+    "technology": "- **The mounted archer with a composite bow**, with each warrior keeping several horses so armies could move fast and far (B, to source).\n- **Captured expertise.** Siege engineers and their machines, drawn from conquered Chinese and Muslim lands, let a steppe army take walled cities (B, to source).\n- **Law.** Tradition credits him with a body of law, the yasa. Whether it was ever a single written code is debated (C).",
+    "political_achievements": "- **A nation from tribes.** May argues the modern Mongolian nation exists because of the empire he founded, which replaced separate tribes with one collective people ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A as interpretation).\n- **A new source of legitimacy.** For centuries afterwards, descent from Chinggis Khan was the main claim to rule across much of Central Eurasia; Muscovite and Central Asian princes even forged genealogies to claim it (May, A).\n- **The empire's framework.** His succession choice, his son Ögödei, kept the empire united for another generation, and his successors built the largest contiguous empire in history (A).\n- **Trade and exchange.** The later Pax Mongolica, which carried goods and ideas across Eurasia, grew from the empire he founded, though it belongs mainly to his successors and was never wholly peaceful (May, A).",
+    "controversies": "| Issue | How it is remembered | Grade | Perspective tag |\n| --- | --- | --- | --- |\n| Mass killing in the conquests | Real and large-scale. May notes that the death tolls in the sources are exaggerated, but that thousands died and the Mongols depopulated regions that rebelled or resisted | A for mass killing; D for specific totals | Khwarazm, Xi Xia, Jin |\n| The destruction of Xi Xia | The *Secret History* records a deathbed order that the Tangut be wiped out; the Tangut state was destroyed in 1227 | A for the destruction; D for the exact words | Xi Xia |\n| The Islamic world's experience | To many Muslims the conquest felt like divine punishment; the Mongols encouraged that idea | A | Khwarazm |\n| Mongolia's memory | Denigrated as a \"feudal oppressor\" under communist rule; since 1990 honoured everywhere as the nation's father, and by some as a root of Mongolian democracy, a view May notes is contested because khans were chosen only from his descendants | A for both phases; C for the democracy link | Mongol Empire / Mongolia |\n| His early violence | The *Secret History* has him kill his half-brother Begter as a youth | C (single source) | — |\n\nThe database records these as linked claims with `perspective_of`, so the app can show the conquest as the empire's founders, its victims and modern Mongolians each tell it.",
+    "legacy": "- **The map of Asia.** May argues that the states that emerged after the Mongol Empire, from the Ottomans and Mughals to Muscovy, all owed their existence to it in one form or another ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A as interpretation).\n- **Religion.** By ending the Abbasid Caliphate (under his grandson, in 1258) and later backing Tibetan Buddhist leaders, the empire reshaped authority in two world religions (May, A; mostly after his death).\n- **Modern Mongolia.** Airports, banks, banknotes, universities and products bear his name; he is the national founder (May, A).\n- **Military thought.** The Mongol army's speed, coordination and use of intelligence remain standard case studies in military education (B, to source).",
+    "evidence_note": "**Research note.** I opened two sources: Timothy May's peer-reviewed survey \"The Mongol Empire in World History\" (*World History Connected* 5.2, 2008), and the catalogue record of Igor de Rachewiltz's open-access translation of the *Secret History of the Mongols* (the translation itself is a 5 MB PDF I could not load). The 2003 genetics study, Columbia University's teaching site and National Geographic are cited from search excerpts. The main primary sources (Juvaini, Rashid al-Din, the Chinese records) are cited through May, flagged `via-secondary`.\n\nGenghis Khan is unusually well documented for a 13th-century ruler, but by very different kinds of writer: his own people's epic chronicle, Persian officials who served his grandsons, Chinese court historians, and the shocked chroniclers of the lands he conquered. Each tells a different part of the story, for different reasons.\n\n| Label | Source | Date | Viewpoint | Main bias |\n| --- | --- | --- | --- | --- |\n| GK-S01 | *The Secret History of the Mongols* | 13th c. (exact date debated) | Mongol, written within the ruling family's circle | Celebrates the Chinggisid line; epic and literary in style. The only Mongol-language account (`patron-bias`) |\n| GK-S02 | Ata-Malik Juvaini, *History of the World Conqueror* | c. 1260 | Persian official in Mongol service ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1)) | Writes for his Mongol employers yet laments the destruction of his world (`patron-bias`) |\n| GK-S03 | Rashid al-Din, *Compendium of Chronicles* | Early 14th c. | Persian vizier of the Mongol Ilkhans | Official history using Mongol records now lost (`patron-bias`) |\n| GK-S04 | Chinese records, including the *Yuan shi* | Compiled 1369–70 (early Ming) | Chinese dynastic history | Late; compiled quickly by the dynasty that expelled the Mongols (`late-source`) |\n| GK-S05 | Minhaj al-Siraj Juzjani, *Tabaqat-i Nasiri* | Mid-13th c. | Refugee scholar in Delhi | Hostile; a victim's-eye view (`hostile-source`) |\n| GK-S06 | Ibn al-Athir, *The Complete History* | Before 1233 | Contemporary Arab historian in Mosul | Hostile, horrified; casualty figures inflated (`hostile-source`, `inflated-numbers`) |\n| GK-S07 | European envoys (Carpini, Rubruck) and Marco Polo | 1240s–1290s | Outsiders at the Mongol courts | Observant but filtered through European assumptions |\n\n### What this means for grading\n\n- **His early life** rests almost entirely on the *Secret History*. Graded B at best, and C where it reads as epic.\n- **The conquests** are attested by sources on all sides: winners, losers and outsiders. That gives many A grades.\n- **Numbers of the dead** come mostly from hostile or traumatised writers. May notes that the death tolls in the sources are exaggerated, but that they reflect real mass killing ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1)). All such figures carry `inflated-numbers`.\n- **Speeches and sayings** are recorded by authors writing years later for their own audiences. Exact words are graded D unless a source gives good reason to trust them.\n\n### Derived sources\n\nRashid al-Din drew on some of the same Mongol material as the *Secret History*, and later Chinese records draw on Yuan court documents. Where two sources share an origin, they are linked with `derives_from` and count as one for grading.\n\n**This table is the authority for grades.** In the sections above, \"A\" sometimes marks scholarly consensus; under our rule, a claim needs two independent sources, one of them opened, to be stored as A. Since only May is opened so far, most consensus events are entered here as **B**, with \"A once a second source is opened\". Myth rows GK-M01 to M10 above convert to claims as they stand, under the myth rule (verdict plus how sure we are of it).",
+    "key_takeaways": [
+      "Temüjin united the tribes of the Mongolian steppe by 1204 and was proclaimed Chinggis Khan in 1206.",
+      "He rebuilt Mongol society around a disciplined decimal army loyal to his family, not the old tribes.",
+      "From 1209 to 1227 his armies subdued Xi Xia, took most of northern China from the Jin, and destroyed the Khwarazmian Empire.",
+      "The conquests caused mass killing; the sources exaggerate the totals, but not the reality.",
+      "His life is known mainly from the *Secret History* and from historians who served or suffered under his successors; almost every source has a stake."
+    ]
+  },
+  "myth_claim_ids": [
+    "CLM-000145",
+    "CLM-000146",
+    "CLM-000147",
+    "CLM-000148",
+    "CLM-000149",
+    "CLM-000150",
+    "CLM-000151",
+    "CLM-000152",
+    "CLM-000153",
+    "CLM-000154"
+  ],
+  "editor_notes": "Record card (batch 1 doc, 13 Nov 2026): Temporary label: GK-P; Primary name: Genghis Khan; Other names: Temüjin (birth name); Chinggis Khan (scholarly form of the title); Cinggis Qan (transliteration of the Mongolian); Core claim set: `commander`; Roles: founder, ruler, commander; Polity: Mongol Empire (Khamag Mongol Ulus, later Yeke Mongol Ulus); Born: 1162 or 1165 (sources differ), Mongolian steppe · grade C; Died: 1227, during the siege of the Xi Xia capital · grade A for year; cause C; Active period: c. 1180s–1227; title Chinggis Khan from 1206 · grade A; Period: 12th–13th centuries; rise of the Mongol Empire; Overall certainty: **B · Probable** — main events firmly attested across several traditions; early life rests on one chronicle; Tags: `mongol-empire`, `state-founder`, `steppe-warfare`, `patron-bias`, `batch-1`; Cultural guidance: Revered in Mongolia as the father of the nation; describe his reputation there with respect alongside the record of conquest\n\nCompare with (from the doc; compare_with links exist for people who have records, the rest are pending their records):\n- **Sundiata Keita:** another 13th-century founder who united rival groups into an empire, known through a heroic narrative from within his own people.\n- **Alexander the Great:** a vast empire won in a single lifetime, but Genghis Khan's institutions outlasted him far longer.\n- **Te Rauparaha:** a leader remembered as a hero by his own people and very differently by those he conquered.\n\nBatch notes from the doc:\n- **Shared records to create once:** the Mongol Empire (POL), the Khwarazmian Empire, the Jin dynasty, Xi Xia and the Mamluk Sultanate; the wars against the Jin and Khwarazm (WAR); and places such as Bukhara, Otrar and Zhongxing (PLC).\n- **Next profiles:** Subutai (the western raid and Kalka, the 1241 invasion of Hungary), Baibars (Ain Jalut, 1260), Trần Hưng Đạo (the Mongol-Yuan invasions of Đại Việt) and Timur (who claimed the Mongol legacy without being a Chinggisid).\n- **One quick win:** the de Rachewiltz translation of the *Secret History* is free to download from its CEDAR page. If you download it and either attach it to this chat or place it in `docs/sources/` for Claude Code, about ten claims here can move from B to A, and it will serve Subutai's profile too.\n\n### Notes for the template\n\n- **The conversion-ready format worked.** Temporary labels, explicit battle kinds, named sources with access levels, perspective tags and quiz kinds all give Claude Code something definite to convert.\n- **No new fields needed.** This is the first profile that fitted the schema without proposing a change, a good sign that the foundation has settled."
+}

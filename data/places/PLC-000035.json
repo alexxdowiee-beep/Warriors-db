@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000035",
+  "type": "place",
+  "slug": "indus-river",
+  "primary_name": "Indus River",
+  "names": [
+    {
+      "name": "Indus River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "River near which Chinggis Khan defeated Jalal al-Din in 1221.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "river"
+}

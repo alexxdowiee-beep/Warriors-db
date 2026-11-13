@@ -1,0 +1,19 @@
+{
+  "id": "POL-000044",
+  "type": "polity",
+  "slug": "knights-templar",
+  "primary_name": "Knights Templar",
+  "names": [
+    {
+      "name": "Knights Templar",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Military order whose fortress of Safed fell to Baibars in 1266.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective.",
+  "polity_type": "other"
+}

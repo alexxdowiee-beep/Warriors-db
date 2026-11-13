@@ -1,0 +1,27 @@
+{
+  "id": "CIV-000001",
+  "type": "civilisation",
+  "slug": "kipchaks",
+  "primary_name": "Kipchaks",
+  "names": [
+    {
+      "name": "Kipchaks",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Qipchaq",
+      "kind": "other"
+    },
+    {
+      "name": "Kipchak Turks",
+      "kind": "other"
+    }
+  ],
+  "summary": "Turkic nomads of the steppe north of the Black Sea; after the Mongol invasion of their lands many were sold as slaves, among them Baibars.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "region": "Steppe north of the Black Sea",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Baibars, Subutai (the western campaigns). Not the same as modern Kazakhs (myth BB-M09)."
+}

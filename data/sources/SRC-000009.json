@@ -8,6 +8,7 @@
   "status": "draft",
   "updated": "2026-11-13",
   "source_type": "other",
+  "reliability_tier": "scholarly",
   "bias_notes": "McGrady notes it leans on 1456 testimony without critique.",
   "derives_from": [
     "SRC-000002"

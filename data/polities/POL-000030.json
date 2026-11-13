@@ -1,0 +1,19 @@
+{
+  "id": "POL-000030",
+  "type": "polity",
+  "slug": "mamluk-sultanate",
+  "primary_name": "Mamluk Sultanate",
+  "names": [
+    {
+      "name": "Mamluk Sultanate",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Sultanate of Egypt and Syria ruled by former slave soldiers (mamluks); it stopped the Mongols at Ain Jalut and lasted until the Ottoman conquest of the early 16th century.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "sultanate",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Baibars, Timur, Genghis Khan."
+}

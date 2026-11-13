@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000042",
+  "type": "battle",
+  "slug": "sit-river",
+  "primary_name": "Sit River",
+  "names": [
+    {
+      "name": "Sit River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Defeat and death of Grand Prince Yuri II of Vladimir.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1238,
+    "latest": 1238,
+    "precision": "month",
+    "display": "March 1238",
+    "certainty": "B",
+    "month": 3
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000041",
+  "war_id": "WAR-000019",
+  "sides": [
+    {
+      "label": "Batu's army",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Vladimir-Suzdal",
+      "polity_ids": [
+        "POL-000039"
+      ]
+    }
+  ]
+}

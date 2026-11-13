@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000040",
+  "type": "place",
+  "slug": "ryazan",
+  "primary_name": "Ryazan",
+  "names": [
+    {
+      "name": "Ryazan",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Capital of the principality of Ryazan, which fell to the Mongols in December 1237.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B",
+  "place_type": "city"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000089",
+  "type": "source",
+  "slug": "ibn-khaldun-account-of-his-meeting-with-timur",
+  "primary_name": "Ibn Khaldun, account of his meeting with Timur",
+  "names": [
+    {
+      "name": "Ibn Khaldun, account of his meeting with Timur",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The historian's account of his conversations with Timur outside Damascus in 1401.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "Wary admiration under pressure; self-testimony for his own role.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Ibn Khaldun"
+  ],
+  "edition": "trans. Fischel (1952)",
+  "date_written": "1401",
+  "language": "Arabic",
+  "reliability_notes": "Doc edition: trans. Fischel, Ibn Khaldun and Tamerlane (1952). Read via Manz. A different work from SRC-000020 (Kitab al-'Ibar)."
+}

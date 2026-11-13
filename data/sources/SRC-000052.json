@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000052",
+  "type": "source",
+  "slug": "european-envoys-carpini-rubruck-and-marco-polo",
+  "primary_name": "European envoys (Carpini, Rubruck) and Marco Polo",
+  "names": [
+    {
+      "name": "European envoys (Carpini, Rubruck) and Marco Polo",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Accounts by European outsiders at the Mongol courts, 1240s–1290s.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Observant but filtered through European assumptions.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "John of Plano Carpini",
+    "William of Rubruck",
+    "Marco Polo"
+  ],
+  "date_written": "1240s–1290s",
+  "reliability_notes": "One record for several authors, as in the doc (group record, so B). Marco Polo read via May."
+}

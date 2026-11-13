@@ -1,0 +1,27 @@
+{
+  "id": "SRC-000073",
+  "type": "source",
+  "slug": "baybars-i-encyclopaedia-britannica",
+  "primary_name": "\"Baybars I\", Encyclopaedia Britannica",
+  "names": [
+    {
+      "name": "\"Baybars I\", Encyclopaedia Britannica",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Encyclopaedia entry on Baibars.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "reliability_tier": "reference",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "title": "Baybars I",
+  "publisher": "Encyclopaedia Britannica",
+  "url": "https://www.britannica.com:443/biography/Baybars-I",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Opened 13 Nov 2026. Disagrees with Smith on the year Krak fell and the year Kayseri was taken."
+}

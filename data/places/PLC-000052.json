@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000052",
+  "type": "place",
+  "slug": "damascus",
+  "primary_name": "Damascus",
+  "names": [
+    {
+      "name": "Damascus",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Syrian city where Baibars died in 1277; occupied by Timur in 1401.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

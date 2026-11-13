@@ -37,7 +37,7 @@ class BuildDb(unittest.TestCase):
         for folder in build_db.RECORD_FOLDERS:
             self.assertIn(folder, tables)
         self.assertEqual(self.q("SELECT count(*) FROM persons")[0][0], 3)
-        self.assertEqual(self.q("SELECT count(*) FROM records")[0][0], 9)
+        self.assertEqual(self.q("SELECT count(*) FROM records")[0][0], 10)
 
     def test_dates_are_flattened_and_full_record_kept(self):
         row = self.q("SELECT death_earliest, death_display, active_period_certainty, data FROM persons "
@@ -71,6 +71,7 @@ class BuildDb(unittest.TestCase):
         vocab = json.loads((REPO / "schema" / "vocab" / "relations.json").read_text(encoding="utf-8"))
         relations = {r for group in vocab["relations"].values() for r in group}
         self.assertEqual(relations - set(vocab["reverse"]), set())
+        self.assertEqual(vocab["reverse"]["affected_by"], "affected")
         self.assertEqual(vocab["reverse"]["served_under"], "superior_of")  # not "commanded" (clashed with person-battle)
         for symmetric in ("spouse_of", "sibling_of", "allied_with", "rival_of"):
             self.assertEqual(vocab["reverse"][symmetric], symmetric)

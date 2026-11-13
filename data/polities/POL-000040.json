@@ -1,0 +1,23 @@
+{
+  "id": "POL-000040",
+  "type": "polity",
+  "slug": "kingdom-of-hungary",
+  "primary_name": "Kingdom of Hungary",
+  "names": [
+    {
+      "name": "Kingdom of Hungary",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Hungary",
+      "kind": "other"
+    }
+  ],
+  "summary": "Kingdom of Béla IV, whose army the Mongols destroyed at Mohi in 1241.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective.",
+  "polity_type": "kingdom"
+}

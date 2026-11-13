@@ -1,0 +1,29 @@
+{
+  "id": "SRC-000076",
+  "type": "source",
+  "slug": "ngo-si-lien-et-al-dai-viet-su-ky-toan-thu-complete-annals-of-dai-viet",
+  "primary_name": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+  "names": [
+    {
+      "name": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Vietnamese court history compiled in 1479, standard edition 1697.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Written two centuries later for a later dynasty; Confucian moral framing (late-source, patron-bias).",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Ngô Sĩ Liên"
+  ],
+  "title": "Đại Việt sử ký toàn thư",
+  "date_written": "1479; standard edition 1697",
+  "language": "Classical Chinese",
+  "reliability_notes": "Draws on earlier Trần records (lost). Excerpts only."
+}

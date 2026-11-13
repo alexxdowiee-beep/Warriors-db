@@ -1,0 +1,23 @@
+{
+  "subject": "PER-999930",
+  "claims": [
+    {
+      "id": "CLM-999930",
+      "field": "career",
+      "statement": "Test.",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999930",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-999931",
+          "access": "opened"
+        }
+      ]
+    }
+  ]
+}

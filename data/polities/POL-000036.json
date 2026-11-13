@@ -1,0 +1,22 @@
+{
+  "id": "POL-000036",
+  "type": "polity",
+  "slug": "jin-dynasty",
+  "primary_name": "Jin dynasty",
+  "names": [
+    {
+      "name": "Jin dynasty",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Jin",
+      "kind": "other"
+    }
+  ],
+  "summary": "Dynasty of the Jurchen ruling northern China; invaded by the Mongols from 1211 and conquered by 1234.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

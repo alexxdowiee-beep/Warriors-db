@@ -1,0 +1,27 @@
+{
+  "id": "WAR-000023",
+  "type": "war",
+  "slug": "third-mongol-yuan-invasion-of-dai-viet",
+  "primary_name": "Third Mongol-Yuan invasion of Đại Việt",
+  "names": [
+    {
+      "name": "Third Mongol-Yuan invasion of Đại Việt",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Larger, partly seaborne invasion under Toghan; the Vietnamese captured the Yuan supply fleet and destroyed the Yuan fleet at the Bạch Đằng River in 1288.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1287,
+    "latest": 1288,
+    "precision": "year",
+    "display": "1287–1288",
+    "certainty": "A"
+  },
+  "outcome": "Yuan withdrew",
+  "editor_notes": "Doc name: 'Third invasion'; expanded for clarity."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000046",
+  "type": "place",
+  "slug": "antioch",
+  "primary_name": "Antioch",
+  "names": [
+    {
+      "name": "Antioch",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Crusader city taken and destroyed by Baibars in 1268.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

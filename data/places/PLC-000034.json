@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000034",
+  "type": "place",
+  "slug": "otrar",
+  "primary_name": "Otrar",
+  "names": [
+    {
+      "name": "Otrar",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Khwarazmian border town whose governor massacred a Mongol caravan; taken by the Mongols in 1219–1220; Timur died there in 1405.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "POL-000047",
+  "type": "polity",
+  "slug": "delhi-sultanate",
+  "primary_name": "Delhi Sultanate",
+  "names": [
+    {
+      "name": "Delhi Sultanate",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Sultanate of northern India whose army Timur destroyed in December 1398.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective.",
+  "polity_type": "sultanate"
+}

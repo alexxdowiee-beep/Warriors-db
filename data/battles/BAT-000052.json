@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000052",
+  "type": "battle",
+  "slug": "tay-ket",
+  "primary_name": "Tây Kết",
+  "names": [
+    {
+      "name": "Tây Kết",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Destruction of the isolated Yuan vanguard; the Yuan generals Sogetu and Li Heng were killed.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1285,
+    "latest": 1285,
+    "precision": "year",
+    "display": "1285",
+    "certainty": "B"
+  },
+  "outcome": "Victory; Sogetu killed",
+  "place_id": "PLC-000049",
+  "war_id": "WAR-000022",
+  "sides": [
+    {
+      "label": "Trần Hưng Đạo's forces",
+      "polity_ids": [
+        "POL-000046"
+      ],
+      "commander_ids": [
+        "PER-000009"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Yuan vanguard",
+      "polity_ids": [
+        "POL-000029"
+      ]
+    }
+  ]
+}

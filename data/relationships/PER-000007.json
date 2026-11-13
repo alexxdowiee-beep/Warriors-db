@@ -1,0 +1,124 @@
+{
+  "subject": "PER-000007",
+  "relationships": [
+    {
+      "id": "REL-000067",
+      "from_id": "PER-000007",
+      "to_id": "POL-000026",
+      "relation": "served",
+      "certainty": "A",
+      "role": "General under Genghis Khan, Ögödei and the princes",
+      "claim_ids": [
+        "CLM-000155"
+      ]
+    },
+    {
+      "id": "REL-000068",
+      "from_id": "PER-000007",
+      "to_id": "PER-000006",
+      "relation": "served_under",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000155"
+      ]
+    },
+    {
+      "id": "REL-000069",
+      "from_id": "PER-000007",
+      "to_id": "WAR-000017",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Commander under Genghis Khan"
+    },
+    {
+      "id": "REL-000070",
+      "from_id": "PER-000007",
+      "to_id": "WAR-000018",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Co-commander with Jebe",
+      "claim_ids": [
+        "CLM-000157"
+      ]
+    },
+    {
+      "id": "REL-000071",
+      "from_id": "PER-000007",
+      "to_id": "BAT-000039",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Co-commander",
+      "claim_ids": [
+        "CLM-000161"
+      ]
+    },
+    {
+      "id": "REL-000072",
+      "from_id": "PER-000007",
+      "to_id": "BAT-000040",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Commander"
+    },
+    {
+      "id": "REL-000073",
+      "from_id": "PER-000007",
+      "to_id": "WAR-000019",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Senior general under Batu",
+      "claim_ids": [
+        "CLM-000164"
+      ]
+    },
+    {
+      "id": "REL-000074",
+      "from_id": "PER-000007",
+      "to_id": "BAT-000041",
+      "relation": "participated",
+      "certainty": "A",
+      "role": "Part of Batu's army",
+      "claim_ids": [
+        "CLM-000165"
+      ]
+    },
+    {
+      "id": "REL-000075",
+      "from_id": "PER-000007",
+      "to_id": "BAT-000042",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "Part of Batu's army (his exact role unclear)",
+      "claim_ids": [
+        "CLM-000166"
+      ]
+    },
+    {
+      "id": "REL-000076",
+      "from_id": "PER-000007",
+      "to_id": "BAT-000043",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Senior commander with Batu",
+      "claim_ids": [
+        "CLM-000167"
+      ]
+    },
+    {
+      "id": "REL-000109",
+      "from_id": "PER-000007",
+      "to_id": "PER-000002",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Subutai doc: brilliant battles, judged almost entirely through the records of his enemies."
+    },
+    {
+      "id": "REL-000110",
+      "from_id": "PER-000007",
+      "to_id": "PER-000006",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Subutai doc: the same campaigns seen from the top of the command."
+    }
+  ]
+}

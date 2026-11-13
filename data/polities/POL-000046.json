@@ -1,0 +1,19 @@
+{
+  "id": "POL-000046",
+  "type": "polity",
+  "slug": "dai-viet",
+  "primary_name": "Đại Việt",
+  "names": [
+    {
+      "name": "Đại Việt",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Vietnamese kingdom ruled by the Trần dynasty from 1225 to 1400; it resisted the Mongol-Yuan invasions of 1257–58, 1284–85 and 1287–88.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective.",
+  "polity_type": "kingdom"
+}

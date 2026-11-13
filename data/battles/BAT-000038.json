@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000038",
+  "type": "battle",
+  "slug": "siege-of-zhongxing",
+  "primary_name": "Siege of Zhongxing",
+  "names": [
+    {
+      "name": "Siege of Zhongxing",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Siege of the Xi Xia capital, during which Chinggis Khan died; the Tangut state was destroyed in 1227.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1227,
+    "latest": 1227,
+    "precision": "year",
+    "display": "1227",
+    "certainty": "B"
+  },
+  "outcome": "Fell after his death",
+  "place_id": "PLC-000037",
+  "sides": [
+    {
+      "label": "Mongol Empire",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000006"
+      ],
+      "result": "Fell after his death"
+    },
+    {
+      "label": "Xi Xia",
+      "polity_ids": [
+        "POL-000035"
+      ]
+    }
+  ]
+}

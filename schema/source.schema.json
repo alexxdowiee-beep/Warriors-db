@@ -28,7 +28,23 @@
         "reference",
         "statute",
         "translation",
+        "ai-generated",
         "other"
+      ]
+    },
+    "reliability_tier": {
+      "description": "How far the publication itself can be trusted. null only for primary material (primary-contemporary, primary-later, archaeological, oral-tradition, statute), which is judged through bias_notes instead; the validator enforces this.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "scholarly",
+        "reference",
+        "popular",
+        "aggregator",
+        "ai-generated",
+        null
       ]
     },
     "authors": {
@@ -85,6 +101,7 @@
     }
   },
   "required": [
-    "source_type"
+    "source_type",
+    "reliability_tier"
   ]
 }

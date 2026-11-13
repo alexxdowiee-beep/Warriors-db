@@ -1,0 +1,25 @@
+{
+  "id": "SRC-000101",
+  "type": "source",
+  "slug": "timur-world-history-encyclopedia",
+  "primary_name": "\"Timur\", World History Encyclopedia",
+  "names": [
+    {
+      "name": "\"Timur\", World History Encyclopedia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Online encyclopedia article on Timur.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "reliability_tier": "popular",
+  "bias_notes": "No bias noted.",
+  "derives_from": [],
+  "opened": false,
+  "title": "Timur",
+  "publisher": "World History Encyclopedia",
+  "reliability_notes": "Cited from a search excerpt (Timur doc, TM-C20). URL, author and date not recorded; grade B until they are."
+}

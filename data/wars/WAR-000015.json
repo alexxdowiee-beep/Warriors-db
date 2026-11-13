@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000015",
+  "type": "war",
+  "slug": "subjugation-of-xi-xia",
+  "primary_name": "Subjugation of Xi Xia",
+  "names": [
+    {
+      "name": "Subjugation of Xi Xia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Mongol campaigns that subdued the Tangut kingdom of Xi Xia by 1209.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "campaign",
+  "span": {
+    "earliest": 1205,
+    "latest": 1209,
+    "precision": "year",
+    "display": "1205–1209",
+    "certainty": "A"
+  },
+  "outcome": "Submission"
+}

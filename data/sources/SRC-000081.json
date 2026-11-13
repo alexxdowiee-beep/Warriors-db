@@ -1,0 +1,33 @@
+{
+  "id": "SRC-000081",
+  "type": "source",
+  "slug": "serhii-kozlovskyi-mongol-military-campaign-against-the-kingdom-of-dai-viet-1257-1258",
+  "primary_name": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+  "names": [
+    {
+      "name": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Study of the first Mongol invasion of Đại Việt.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "authors": [
+    "Serhii Kozlovskyi"
+  ],
+  "title": "Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)",
+  "publisher": "Eminak 1(53)",
+  "year": 2026,
+  "isbn_doi": "10.33782/eminak2026.1(53).851",
+  "url": "https://eminak.net.ua/index.php/eminak/article/view/851",
+  "accessed": "2026-11-13",
+  "language": "Ukrainian",
+  "reliability_notes": "Eminak 1(53) (2026), open access. Abstract only (full text in Ukrainian), 13 Nov 2026."
+}

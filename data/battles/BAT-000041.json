@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000041",
+  "type": "battle",
+  "slug": "fall-of-ryazan",
+  "primary_name": "Fall of Ryazan",
+  "names": [
+    {
+      "name": "Fall of Ryazan",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Fall of the city of Ryazan to Batu's army.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1237,
+    "latest": 1237,
+    "precision": "month",
+    "display": "December 1237",
+    "certainty": "A",
+    "month": 12
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000040",
+  "war_id": "WAR-000019",
+  "sides": [
+    {
+      "label": "Batu's army",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Principality of Ryazan",
+      "polity_ids": [
+        "POL-000038"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000037",
+  "type": "battle",
+  "slug": "battle-of-the-indus",
+  "primary_name": "Battle of the Indus",
+  "names": [
+    {
+      "name": "Battle of the Indus",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Chinggis Khan's defeat of Jalal al-Din, son of the Khwarazm-shah, near the Indus.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1221,
+    "latest": 1221,
+    "precision": "year",
+    "display": "1221",
+    "certainty": "A"
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000035",
+  "war_id": "WAR-000017",
+  "sides": [
+    {
+      "label": "Mongol Empire",
+      "polity_ids": [
+        "POL-000026"
+      ],
+      "commander_ids": [
+        "PER-000006"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Jalal al-Din's army",
+      "polity_ids": [
+        "POL-000031"
+      ]
+    }
+  ]
+}

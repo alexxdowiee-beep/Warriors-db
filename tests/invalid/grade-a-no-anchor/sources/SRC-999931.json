@@ -1,0 +1,13 @@
+{
+  "id": "SRC-999931",
+  "type": "source",
+  "slug": "test-chronicle-b",
+  "primary_name": "Test source SRC-999931",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Fictional."
+}

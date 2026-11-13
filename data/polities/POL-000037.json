@@ -1,0 +1,22 @@
+{
+  "id": "POL-000037",
+  "type": "polity",
+  "slug": "rus-principalities",
+  "primary_name": "Rus' principalities",
+  "names": [
+    {
+      "name": "Rus' principalities",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Rus'",
+      "kind": "other"
+    }
+  ],
+  "summary": "The principalities of the Rus', whose princes were defeated at the Kalka in 1223 and which the Mongols conquered in 1237–1240.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

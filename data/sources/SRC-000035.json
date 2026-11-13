@@ -7,7 +7,8 @@
   "certainty": "B",
   "status": "draft",
   "updated": "2026-11-13",
-  "source_type": "other",
+  "source_type": "primary-later",
+  "reliability_tier": null,
   "bias_notes": "A son's record of a famous father (pilot doc flags it hagiography).",
   "derives_from": [
     "SRC-000033"

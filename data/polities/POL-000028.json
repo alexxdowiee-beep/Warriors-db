@@ -1,0 +1,19 @@
+{
+  "id": "POL-000028",
+  "type": "polity",
+  "slug": "golden-horde",
+  "primary_name": "Golden Horde",
+  "names": [
+    {
+      "name": "Golden Horde",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Western Mongol realm that grew out of the 1236–1242 campaign and dominated the Rus' principalities; Tokhtamysh, its khan, fought Timur.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "other",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Subutai, Baibars (ally of the Mamluks), Timur. polity_type 'other': the vocabulary has no 'khanate'."
+}

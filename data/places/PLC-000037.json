@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000037",
+  "type": "place",
+  "slug": "zhongxing",
+  "primary_name": "Zhongxing",
+  "names": [
+    {
+      "name": "Zhongxing",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Capital of Xi Xia; Chinggis Khan died during its siege in 1227.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B",
+  "place_type": "city"
+}

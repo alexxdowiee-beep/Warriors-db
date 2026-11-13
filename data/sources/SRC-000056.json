@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000056",
+  "type": "source",
+  "slug": "columbia-university-asia-for-educators-the-mongols-in-world-history",
+  "primary_name": "Columbia University, Asia for Educators: The Mongols in World History",
+  "names": [
+    {
+      "name": "Columbia University, Asia for Educators: The Mongols in World History",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "University teaching site on the Mongols in world history.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "reliability_tier": "reference",
+  "bias_notes": "No bias noted in the docs.",
+  "derives_from": [],
+  "opened": false,
+  "publisher": "Columbia University",
+  "title": "The Mongols in World History",
+  "url": "https://afe.easia.columbia.edu/mongols/pop/figures/images_fig.htm",
+  "reliability_notes": "Cited from search excerpts."
+}

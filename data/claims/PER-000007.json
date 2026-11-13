@@ -1,0 +1,559 @@
+{
+  "subject": "PER-000007",
+  "claims": [
+    {
+      "id": "CLM-000155",
+      "field": "identity",
+      "statement": "Subutai (Sübe'etei) was a leading Mongol general under Genghis Khan and Ögödei",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000156",
+      "field": "active_period",
+      "statement": "Active c. 1200s–1240s",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000157",
+      "field": "main_battles",
+      "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000158",
+      "field": "birth",
+      "statement": "Born 1176 (alternative: c. 1175)",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened); Wikipedia (excerpt, not stored as a source)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000159",
+      "field": "death",
+      "statement": "Died 1248",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000160",
+      "field": "evidence",
+      "statement": "His biography, written in Mongolian, was translated into Chinese in the 1260s and survives in three Chinese versions",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "translation-issue"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000161",
+      "field": "career",
+      "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000062",
+          "access": "opened",
+          "note": "abstract"
+        }
+      ],
+      "evidence_status": "SRC-000061 (SB-S08) (opened); SRC-000062 (SB-S09) (opened, abstract)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000037"
+      ],
+      "alternative_claim_ids": [
+        "CLM-000162"
+      ]
+    },
+    {
+      "id": "CLM-000162",
+      "field": "evidence",
+      "statement": "The Novgorod chronicle dates the Kalka to 1224",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000062",
+          "access": "excerpt",
+          "note": "of notes"
+        },
+        {
+          "source_id": "SRC-000059",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "SRC-000062 (SB-S09) (excerpt of notes); SRC-000059 (SB-S04) (via-secondary)",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "alternative_claim_ids": [
+        "CLM-000161"
+      ]
+    },
+    {
+      "id": "CLM-000163",
+      "field": "career",
+      "statement": "Jebe was captured and killed by the Qipchaqs during the campaign",
+      "claim_type": "interpretation",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000062",
+          "access": "opened",
+          "note": "abstract"
+        }
+      ],
+      "evidence_status": "SRC-000062 (SB-S09) (opened, abstract)",
+      "quiz_ready": true,
+      "quiz_kind": "debate"
+    },
+    {
+      "id": "CLM-000164",
+      "field": "career",
+      "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened); SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000037",
+        "POL-000040"
+      ]
+    },
+    {
+      "id": "CLM-000165",
+      "field": "career",
+      "statement": "Ryazan fell in December 1237",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000037"
+      ]
+    },
+    {
+      "id": "CLM-000166",
+      "field": "career",
+      "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000037"
+      ]
+    },
+    {
+      "id": "CLM-000167",
+      "field": "career",
+      "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Doc grade B; restore when cited. Excerpts only; to source",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000040"
+      ]
+    },
+    {
+      "id": "CLM-000168",
+      "field": "leadership",
+      "statement": "His biography says Batu asked for him to take command when the princes stalled",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "patron-bias"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000061",
+          "access": "opened",
+          "note": "translating SRC-000058 (SB-S01)"
+        }
+      ],
+      "evidence_status": "SRC-000061 (SB-S08) (opened, translating SRC-000058 (SB-S01))",
+      "quiz_ready": true,
+      "quiz_kind": "tradition"
+    },
+    {
+      "id": "CLM-000169",
+      "field": "evidence",
+      "statement": "\"Ye-lie-ban\" in his biography is Ryazan, garbled in transcription",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "translation-issue"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000061",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000061 (SB-S08) (opened)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000170",
+      "field": "origins",
+      "statement": "His family was tied to Chinggis Khan's ancestors for generations",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000063",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "SRC-000063 (SB-S10) (via-secondary)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000171",
+      "field": "origins",
+      "statement": "His biography tells of his father being seized by robbers while bringing sheep to Temüjin",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000058",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000058 (SB-S01) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "tradition"
+    },
+    {
+      "id": "CLM-000172",
+      "field": "evidence",
+      "statement": "The *Secret History* names him among Temüjin's four \"hounds\"",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000046",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000046 (SB-S02) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "tradition"
+    },
+    {
+      "id": "CLM-000173",
+      "field": "career",
+      "statement": "The withdrawal from Europe in 1242 may have been caused by Ögödei's death",
+      "claim_type": "interpretation",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "debate"
+    },
+    {
+      "id": "CLM-000174",
+      "field": "controversies",
+      "statement": "The Mongols left Hungary and Poland devastated",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (SB-S07) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000040",
+        "POL-000041"
+      ]
+    },
+    {
+      "id": "CLM-000175",
+      "field": "myth",
+      "statement": "He was so obese he was carried in an iron cart",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000063",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Unsupported (D). Evidence: Repeated in a popular modern history; Pow and Liao suggest descriptions of someone else were attached to him (excerpts)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000176",
+      "field": "myth",
+      "statement": "He was a reindeer-herding outsider who rose from nothing",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000063",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Official sources link his family to Chinggis Khan's ancestors for generations (Pow and Liao, via citing works)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000177",
+      "field": "myth",
+      "statement": "He never lost a battle",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000058",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Unsupported (C). Evidence: A popular claim; no source establishes it, and his biography itself records Mongol forces being held up before he took command",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000178",
+      "field": "myth",
+      "statement": "He commanded at Legnica (1241)",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Doc grade B; restore when cited. Myths table verdict: False (B). Evidence: Legnica was fought by a separate Mongol force under other princes, two days before Mohi",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000179",
+      "field": "myth",
+      "statement": "He alone planned the invasion of Europe",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Overstated (C). Evidence: Senior role attested; sole authorship is not",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000180",
+      "field": "myth",
+      "statement": "20,000 Mongols beat 80,000 Rus' at the Kalka",
+      "claim_type": "event",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Untraced (E). Evidence: No source found; army sizes unknown",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000181",
+      "field": "myth",
+      "statement": "He was the brother of Jelme",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: Depends on which father the sources give him",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000182",
+      "field": "myth",
+      "statement": "The 1220–1223 raid was a planned reconnaissance of Europe",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000062",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: A common reading that Pow's work on Jebe's death complicates",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000183",
+      "field": "myth",
+      "statement": "Online \"encyclopedia\" details about his washing captured banners in a river or sending patrols to record weather and soil",
+      "claim_type": "event",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000065",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Fabricated (E). Evidence: From an AI-generated web page with no sources; nothing similar exists in the evidence",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    }
+  ]
+}

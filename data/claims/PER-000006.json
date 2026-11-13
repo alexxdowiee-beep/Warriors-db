@@ -1,0 +1,678 @@
+{
+  "subject": "PER-000006",
+  "claims": [
+    {
+      "id": "CLM-000120",
+      "field": "identity",
+      "statement": "Temüjin, titled Chinggis Khan, founded the Mongol Empire",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000056",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000056 (GK-S11) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000121",
+      "field": "active_period",
+      "statement": "Active c. 1180s–1227",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000122",
+      "field": "main_battles",
+      "statement": "Led the steppe wars to 1206 and the campaigns against Xi Xia, the Jin and Khwarazm",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000123",
+      "field": "birth",
+      "statement": "Born 1162",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000056",
+          "access": "excerpt"
+        },
+        {
+          "source_id": "SRC-000053",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000056 (GK-S11) (excerpt); SRC-000053 (GK-S08) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "alternative_claim_ids": [
+        "CLM-000124"
+      ]
+    },
+    {
+      "id": "CLM-000124",
+      "field": "birth",
+      "statement": "Born 1165 (alternative to C04)",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "alternative_claim_ids": [
+        "CLM-000123"
+      ]
+    },
+    {
+      "id": "CLM-000125",
+      "field": "title",
+      "statement": "Proclaimed Chinggis Khan in 1206",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000046",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000126",
+      "field": "career",
+      "statement": "Defeated Toghril of the Kereit in 1203",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000127",
+      "field": "organisation",
+      "statement": "Reorganised his people into decimal units of 10, 100 and 1,000",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000128",
+      "field": "career",
+      "statement": "Xi Xia subdued by 1209",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000129",
+      "field": "career",
+      "statement": "Invaded the Jin in 1211; most of the Jin empire taken by 1216",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000130",
+      "field": "career",
+      "statement": "Zhongdu fell in 1215",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "none yet",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000131",
+      "field": "career",
+      "statement": "The Otrar caravan massacre led to war with Khwarazm",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000047",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000047 (GK-S02) (via-secondary)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000132",
+      "field": "career",
+      "statement": "Defeated Jalal al-Din near the Indus in 1221",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000133",
+      "field": "strategy",
+      "statement": "Annexed only the lands north of the Amu Darya",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000134",
+      "field": "death",
+      "statement": "Died in 1227 during the siege of Zhongxing",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000046",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened); SRC-000046 (GK-S01) (via-secondary)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000135",
+      "field": "death",
+      "statement": "The *Secret History* says he died after a fall from his horse",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "quoting SRC-000046 (GK-S01)"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000046 (GK-S01))",
+      "quiz_ready": true,
+      "quiz_kind": "tradition"
+    },
+    {
+      "id": "CLM-000136",
+      "field": "burial",
+      "statement": "His burial place is unknown",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "implicit"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened, implicit); to strengthen",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000137",
+      "field": "legacy",
+      "statement": "Ordered a Mongolian script adapted from the Uighur alphabet after 1204",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000138",
+      "field": "controversies",
+      "statement": "Source death tolls are exaggerated, but the conquests caused mass killing",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "inflated-numbers"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "perspective_of": [
+        "POL-000031",
+        "POL-000035",
+        "POL-000036"
+      ]
+    },
+    {
+      "id": "CLM-000139",
+      "field": "controversies",
+      "statement": "The *Secret History* records a deathbed order to destroy the Tangut",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "patron-bias"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "quoting SRC-000046 (GK-S01)"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000046 (GK-S01))",
+      "quiz_ready": false,
+      "perspective_of": [
+        "POL-000035"
+      ]
+    },
+    {
+      "id": "CLM-000140",
+      "field": "legacy",
+      "statement": "Denigrated under Mongolian communism; now honoured as national founder",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000050"
+      ]
+    },
+    {
+      "id": "CLM-000141",
+      "field": "legacy",
+      "statement": "Descent from him became the main claim to rule across Central Eurasia",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000142",
+      "field": "names",
+      "statement": "\"Chinggis\" means firm, fierce or resolute",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "citing de Rachewiltz 1989"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened, citing de Rachewiltz 1989)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000143",
+      "field": "legacy",
+      "statement": "A Y-chromosome lineage in about 0.5% of the world's men was proposed to have spread with his male-line kin",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "popular-culture"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000055",
+          "access": "excerpt"
+        },
+        {
+          "source_id": "SRC-000057",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000055 (GK-S10) (excerpt); SRC-000057 (GK-S12) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000144",
+      "field": "strategy",
+      "statement": "Juvaini reports his \"punishment of God\" speech at Bukhara",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "patron-bias"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "quoting SRC-000047 (GK-S02)"
+        }
+      ],
+      "evidence_status": "SRC-000054 (GK-S09) (opened, quoting SRC-000047 (GK-S02))",
+      "quiz_ready": false,
+      "perspective_of": [
+        "POL-000031"
+      ]
+    },
+    {
+      "id": "CLM-000145",
+      "field": "myth",
+      "statement": "\"Genghis Khan\" was his name",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened",
+          "note": "title granted in 1206; birth name Temüjin"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: A title granted in 1206; his birth name was Temüjin Citation added 13 Nov 2026 (user decision). SRC-000054: title granted in 1206; birth name Temüjin.",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000146",
+      "field": "myth",
+      "statement": "The title means \"oceanic ruler\"",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Outdated (B). Evidence: An early 20th-century theory; now read as firm, fierce or resolute (May, following de Rachewiltz)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000147",
+      "field": "myth",
+      "statement": "16 million living men are his direct descendants",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000055",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Overstated (C). Evidence: A 2003 study found a Y-chromosome lineage carried by about 0.5% of the world's men and proposed it spread with Genghis Khan's male-line kin; it may predate him, and it shows a lineage, not proof of individual descent (Zerjal et al. 2003, excerpts)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000148",
+      "field": "myth",
+      "statement": "The Mongols won by sheer numbers",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (B). Evidence: In Khwarazm the Khwarazm-shah's army was the larger; Mongol mobility and coordination decided it (May)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000149",
+      "field": "myth",
+      "statement": "At Bukhara he declared himself \"the punishment of God\", in those words",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000047",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Literary (D). Evidence: Reported by Juvaini, writing about 40 years later in Mongol service (`patron-bias`)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000150",
+      "field": "myth",
+      "statement": "His tomb has been found",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Doc grade A; restore when cited. Myths table verdict: False (A). Evidence: The burial place remains unknown",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000151",
+      "field": "myth",
+      "statement": "The famous portrait shows his real face",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Unproven (C). Evidence: The best-known portrait was painted after his death (to verify date and source)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000152",
+      "field": "myth",
+      "statement": "The Mongols only destroyed and built nothing",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000056",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Trade, administration, a script and exchange across Eurasia followed the conquests (May; Columbia teaching site, excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000153",
+      "field": "myth",
+      "statement": "He founded Mongolian democracy",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: A modern Mongolian view; May notes khans were chosen only from his family",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000154",
+      "field": "myth",
+      "statement": "He died after falling from his horse",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000046",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: The *Secret History*'s account; other sources give different causes",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    }
+  ]
+}

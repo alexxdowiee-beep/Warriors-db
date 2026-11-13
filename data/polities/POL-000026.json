@@ -1,0 +1,27 @@
+{
+  "id": "POL-000026",
+  "type": "polity",
+  "slug": "mongol-empire",
+  "primary_name": "Mongol Empire",
+  "names": [
+    {
+      "name": "Mongol Empire",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Yeke Mongol Ulus",
+      "kind": "other"
+    },
+    {
+      "name": "Khamag Mongol Ulus",
+      "kind": "other"
+    }
+  ],
+  "summary": "Empire founded by Temüjin (Chinggis Khan); its armies conquered from northern China to Khwarazm, the Kipchak steppe and the Rus' principalities.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "empire",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Genghis Khan, Subutai, Baibars (perspective), Trần Hưng Đạo. Names from the Genghis Khan doc: Khamag Mongol Ulus, later Yeke Mongol Ulus."
+}

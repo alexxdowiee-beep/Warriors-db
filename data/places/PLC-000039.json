@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000039",
+  "type": "place",
+  "slug": "kaifeng",
+  "primary_name": "Kaifeng",
+  "names": [
+    {
+      "name": "Kaifeng",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Jin capital besieged and taken by the Mongols in 1232–1233.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

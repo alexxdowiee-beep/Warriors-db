@@ -8,6 +8,7 @@
   "status": "draft",
   "updated": "2026-11-13",
   "source_type": "translation",
+  "reliability_tier": "scholarly",
   "bias_notes": "Dated: written before the 1972 bamboo-slip find.",
   "derives_from": [
     "SRC-000026",

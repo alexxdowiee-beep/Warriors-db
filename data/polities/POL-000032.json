@@ -1,0 +1,19 @@
+{
+  "id": "POL-000032",
+  "type": "polity",
+  "slug": "ottoman-empire",
+  "primary_name": "Ottoman Empire",
+  "names": [
+    {
+      "name": "Ottoman Empire",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Turkish state in Anatolia and the Balkans; Timur defeated its army and captured Sultan Bayezid I near Ankara in 1402, and it later conquered the Mamluk Sultanate.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "empire",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Timur, Baibars, Genghis Khan (May on successor states)."
+}

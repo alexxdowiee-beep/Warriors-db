@@ -1,0 +1,22 @@
+{
+  "id": "POL-000049",
+  "type": "polity",
+  "slug": "timurid-realm",
+  "primary_name": "Timurid realm",
+  "names": [
+    {
+      "name": "Timurid realm",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Timurid dynasty",
+      "kind": "other"
+    }
+  ],
+  "summary": "Realm founded by Timur from the Chagatai ulus, c. 1370; ruled by his descendants, who fought over it after his death.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

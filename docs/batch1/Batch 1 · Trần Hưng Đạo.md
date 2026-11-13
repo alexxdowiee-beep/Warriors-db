@@ -1,0 +1,234 @@
+# Batch 1 · Trần Hưng Đạo — Profile Draft
+
+Nov 13, 2026 · @Alex Dowie
+
+Trần Hưng Đạo was a prince of Vietnam's Trần dynasty who led Đại Việt's resistance to the Mongol-Yuan invasions of the 1280s, ending with the destruction of a Yuan fleet at the Bạch Đằng River in 1288. He is now revered in Vietnam both as a national hero and as a deity. This profile tests how the database handles a figure whose modern image was shaped by nationalism, and whose popular history is full of inflated numbers.
+
+## Record card
+
+| Field | Value |
+| --- | --- |
+| Temporary label | TH-P |
+| Primary name | Trần Hưng Đạo |
+| Other names | Trần Quốc Tuấn (personal name); Hưng Đạo Vương / Hưng Đạo Đại Vương (Prince Hưng Đạo, his title); Đức Thánh Trần ("Saint Trần", as a deity) |
+| Core claim set | `commander` |
+| Roles | commander, royal prince |
+| Polity | Đại Việt under the Trần dynasty |
+| Born | 1228 (Kelley) or 1213 (an encyclopedia entry) · grade C |
+| Died | 1300 · grade A |
+| Active period | c. 1250s–1300; supreme commander in 1285 and 1287–88 · grade A |
+| Period | 13th century; Mongol-Yuan invasions of Southeast Asia |
+| Overall certainty | **A · Established** for identity, active period and main campaigns; many details of battles and numbers B to D |
+| Tags | `mongol-wars`, `naval`, `guerrilla`, `nationalism`, `deified`, `batch-1` |
+| Cultural guidance | Worshipped as a deity, Đức Thánh Trần, at temples across Vietnam; describe the cult respectfully and keep it separate from claims about the historical man |
+
+**Research note.** I opened three sources. Liam Kelley's "From Moral Exemplar to National Hero" (*Modern Asian Studies* 49.6, 2015) was abstract only. Serhii Kozlovskyi's 2026 study of the 1257–58 Mongol campaign (*Eminak*, open access) was also abstract only. A WarHistory.org page reproduces, without credit, an entry from a reference encyclopedia of the Mongol Empire (likely Christopher Atwood's 2004 *Encyclopedia of Mongolia and the Mongol Empire*), with a popular summary attached. That page is recorded as a weak aggregator and checked against the others. The standard modern history, Keith Taylor's *A History of the Vietnamese* (2013), is known here only from citations.
+
+## The evidence
+
+| Label | Source | Date | Viewpoint | Main bias |
+| --- | --- | --- | --- | --- |
+| TH-S01 | *Đại Việt sử ký toàn thư* (Complete Annals of Đại Việt) | Compiled 1479 by Ngô Sĩ Liên; standard edition 1697 | Vietnamese court history | Written two centuries later for a later dynasty; Confucian moral framing (`late-source`, `patron-bias`) |
+| TH-S02 | *Yuan shi* (History of the Yuan) | Compiled 1369–70 | Chinese dynastic history of the invaders | Covers the Yuan side; plays down defeats (`hostile-source`) |
+| TH-S03 | Lê Tắc, *An Nam chí lược* | 14th c. | A Vietnamese official who defected to the Yuan | Writing in exile, for the Yuan court |
+| TH-S04 | Texts attributed to Trần Hưng Đạo: the *Proclamation to the Officers* (Hịch tướng sĩ) and a military manual | Late 13th c. (attributed) | His own voice, if genuine | Survive in later compilations; attribution to be checked (`self-testimony`) |
+| TH-S05 | Temple traditions and spirit-writing texts about Đức Thánh Trần | 15th–20th c. | Religious devotion | Tradition about a deity, not a record of a man |
+
+### Why the numbers are a problem
+
+The weak aggregator page (TH-S10 in the sources table) shows the problem clearly. Its popular summary has 500,000 Yuan troops invading in 1284 and 300,000 in 1287, against a Vietnamese army of 200,000. The reference-encyclopedia text on the same page gives the 1287 invasion force as 70,000 regulars, 21,000 tribal auxiliaries, a 1,000-man vanguard and 500 ships ([WarHistory.org](https://warhistory.org/2018/07/26/mongol-invasions-of-vietnam-and-java/)). The two cannot both be right. The database stores the more specific figure as the claim, graded C until checked against Taylor or the *Yuan shi*, and the round numbers as an `inflated-numbers` myth.
+
+### The nationalism question
+
+Kelley's article argues that Trần Hưng Đạo has been portrayed as a hero of the nation (anh hùng dân tộc) only since the early 20th century. Before that he was honoured in other ways, as a moral exemplar in official histories and as a spirit in religious texts ([Kelley 2015](https://resolve.cambridge.org/core/journals/modern-asian-studies/article/abs/from-moral-exemplar-to-national-hero-the-transformations-of-tran-hung-dao-and-the-emergence-of-vietnamese-nationalism/822DC11FD8212980E1CC0D7FD3CCBE19), B). That does not make the events untrue. It means the way they are told, especially in popular and patriotic accounts, needs the `nationalist-reinterpretation` flag.
+
+## Life and historical context
+
+### The Trần dynasty
+
+In 1225 the powerful official Trần Thủ Độ put his young nephew on the throne as Trần Thái Tông, ending the Lý dynasty and founding the Trần, who ruled until 1400. The Trần separated civil and military functions and extended an examination-based bureaucracy (encyclopedia text, TH-S10; B).
+
+### Birth and a family feud
+
+Trần Quốc Tuấn was a son of Trần Liễu, the elder brother of Emperor Trần Thái Tông, which made him a royal prince. His birth year is given as 1228 by Kelley and as 1213 in the encyclopedia text (C, both stored).
+
+The brothers had reason for bitterness. To secure the succession, Trần Thủ Độ forced the emperor to take Trần Liễu's pregnant wife as his own queen, and Liễu briefly rebelled (B, from the Vietnamese annals via excerpts). Vietnamese tradition says that Liễu, dying, urged his son to take the throne for their branch of the family, and that Trần Quốc Tuấn refused, putting the dynasty and the realm before family revenge. Kelley's work shows this kind of story is exactly what made him a "moral exemplar" in later centuries (A as tradition content; C as an event).
+
+### Đại Việt between empires
+
+Đại Việt lay between the Song empire to the north, which was falling to the Mongols, and its old rival Champa to the south. In 1257–58 a Mongol army from the newly conquered kingdom of Dali in Yunnan invaded to open a route against the Song. It took the capital, Thăng Long (modern Hanoi), but faced fierce resistance, food shortages and tropical disease, and withdrew after about a month, having lost at least half its troops ([Kozlovskyi 2026](https://eminak.net.ua/index.php/eminak/article/view/851), A with TH-S10). Đại Việt then paid tribute to the Mongols.
+
+After Kublai Khan conquered southern China in 1279, he demanded more: that the Trần ruler attend his court in person, send hostages and troops, and accept a Mongol overseer. The Trần kings refused, while continuing to send tribute (TH-S10, B). When a Yuan expedition against Champa stalled in 1283–84, the Yuan general Sogetu proposed occupying Đại Việt as the key to the region, and Kublai's son Toghan was ordered to do it (TH-S10, B).
+
+## Military career
+
+Unless marked, the chronology below follows the reference-encyclopedia text reproduced on TH-S10, checked against Kelley and Kozlovskyi where they overlap. It should be re-checked against Taylor's history before conversion.
+
+**1257–58.** His role in the first invasion is unclear: one summary calls him an officer commanding frontier troops, a popular account credits him with the counterattack that drove the Mongols out (C).
+
+**The second invasion (1284–85).** When Toghan's army invaded, the court considered submitting, but Trần Hưng Đạo, now supreme commander, rallied the army; his soldiers are said to have tattooed "Kill the Mongols" on their arms (B as reported; the tattoo story C). Toghan defeated his first army and occupied Thăng Long while the court fled south. The tide then turned: Prince Trần Quang Khải counterattacked at Chương Dương, and Trần Hưng Đạo's forces destroyed the isolated Yuan vanguard at Tây Kết, killing the Yuan generals Sogetu and Li Heng. Toghan withdrew (B). The popular story that Toghan escaped hidden inside a bronze drum is tradition (D).
+
+**The third invasion and Bạch Đằng (1287–88).** Kublai sent Toghan back with a larger, partly seaborne force. Toghan retook Thăng Long, but the Vietnamese captured the Yuan supply fleet, cutting off his army. When the Yuan fleet withdrew down the Bạch Đằng River in 1288, the Vietnamese destroyed it. Its admiral, Omar, was captured, two other Yuan commanders died in the retreat, and Toghan evacuated Đại Việt in March 1288. Kublai banished his son to Yangzhou for life (B for the sequence; A that the invasion failed).
+
+**The stakes in the river.** The best-known detail of Bạch Đằng is that the Vietnamese drove sharpened stakes into the riverbed, lured the Yuan fleet over them at high tide, and attacked as the tide fell and the ships were impaled or stranded. The tactic echoes an earlier Vietnamese victory on the same river in 938. The popular summary on TH-S10 describes it; the encyclopedia text on the same page does not mention it. **Graded B** as the standard account, pending a scholarly source. Archaeological finds of stakes at Bạch Đằng are widely reported and would raise it to A once a site report is opened.
+
+**After 1288.** Đại Việt resumed paying tribute to the Yuan while refusing the ruler's personal attendance; plans for a further invasion were dropped after Kublai's death in 1294, and his successor accepted a loose tributary relationship (TH-S10, B). Trần Hưng Đạo died in 1300 (Kelley, A).
+
+## Major battles and campaigns
+
+| Label | Engagement | Date | Kind | Opponent | His role | Result | Grade |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| TH-W01 | First Mongol invasion | 1257–1258 | war (WAR) | Mongols from Yunnan | Uncertain | Mongols withdrew | A (war); C (his role) |
+| TH-W02 | Second invasion | 1284–1285 | war (WAR) | Yuan under Toghan | Supreme commander | Yuan withdrew | A |
+| TH-B01 | Chương Dương | 1285 | field-battle | Yuan | Under overall command; led by Trần Quang Khải | Victory | B |
+| TH-B02 | Tây Kết | 1285 | field-battle | Yuan vanguard | His forces | Victory; Sogetu killed | B |
+| TH-W03 | Third invasion | 1287–1288 | war (WAR) | Yuan under Toghan | Supreme commander | Yuan withdrew | A |
+| TH-B03 | Capture of the Yuan supply fleet | 1287–1288 | naval | Yuan | Under his overall command | Victory | B |
+| TH-B04 | Bạch Đằng River | 1288 | naval | Yuan fleet under Omar | Commander | Victory; fleet destroyed | B (A once a second source is opened) |
+
+Army sizes: `unknown` for now. The figures on TH-S10 contradict each other and are stored as claims graded C (specific) and D (round), as explained in the evidence section.
+
+## Leadership, strategy and technology
+
+### Strategy: don't fight the Mongols on their terms
+
+The 1257–58 campaign had already shown the problem. Kozlovskyi concludes that Đại Việt's light infantry and war elephants could not stand against Mongol cavalry and massed archers in the open, but that the invaders were undone by fierce popular resistance, guerrilla fighting, food shortages and tropical disease; without a fleet, they could not cross rivers or move supplies ([Kozlovskyi 2026](https://eminak.net.ua/index.php/eminak/article/view/851), A for 1257–58).
+
+The defence of the 1280s applied the same lessons on a larger scale (B as interpretation):
+
+- **Give up the capital, keep the army.** Thăng Long was abandoned twice rather than defended to the last.
+- **Let the climate and the distance work.** Delay brought the invaders into the hot season, with disease and hunger.
+- **Strike the supply line.** In 1287–88 the decisive blow before Bạch Đằng was the capture of the Yuan supply fleet.
+- **Counterattack when the enemy withdraws**, especially on the rivers, where Vietnamese boats and local knowledge mattered most.
+
+### Leadership
+
+- **Holding the court to resistance.** In 1284–85 part of the court considered submission; his insistence on fighting is central to every account (B).
+- **The Proclamation to the Officers** (Hịch tướng sĩ), a call to arms traditionally attributed to him, is still taught in Vietnamese schools. Its wording survives in later compilations, so the attribution is graded C until a scholarly discussion is opened.
+- **Loyalty over family ambition.** The tradition of his refusal to avenge his father on the reigning line is the core of his later reputation as a moral exemplar (Kelley, A as tradition).
+- **A royal team.** Victory depended on several Trần princes, notably Trần Quang Khải at Chương Dương, and on the retired emperor Trần Thánh Tông and Emperor Trần Nhân Tông. Popular accounts that give all the credit to one man oversimplify (B).
+
+### Tactics
+
+- Guerrilla attacks on dispersed Yuan detachments (A for 1257–58; B for the 1280s).
+- Riverine ambush, with stakes in the riverbed at Bạch Đằng (B, see Military career).
+- Small, manoeuvrable boats used to lure larger Yuan ships into the trap (C, from a summary excerpt).
+
+### Weapons and technology
+
+- **War elephants and light infantry,** ineffective against Mongol cavalry in open battle in 1258 (A).
+- **River and coastal boats,** central to the 1288 victory (B).
+- **Wooden stakes** as an obstacle in a tidal river (B).
+
+## Controversies and perspectives
+
+### Victory, then tribute
+
+Popular accounts end in 1288 with Vietnam triumphant and independent. The longer story is more nuanced: Đại Việt went on sending tribute to the Yuan, and the dispute was over how much submission to give, not whether to give any; a loose tributary relationship resumed after 1294 (TH-S10, B). Champa, which also resisted the Yuan, made the same choice. This is diplomacy after victory, not a contradiction of it, but it is recorded so the app does not tell a simpler story than the evidence supports.
+
+### Not everyone resisted
+
+The Trần house was divided. A royal prince, Trần Ích Tắc, defected to the Yuan, and Kublai named him ruler of Annam in 1286; another member of the royal family had been set up as a puppet king earlier (TH-S10, B). The author of one of the key sources, Lê Tắc, was also a defector. The story of a whole people united behind one leader is part of the later nationalist framing (C as a characterisation).
+
+### Perspectives
+
+| Perspective | How the events are remembered | Grade | Perspective tag |
+| --- | --- | --- | --- |
+| Trần court and later Vietnamese dynasties | A loyal prince and moral exemplar who saved the dynasty | A as tradition (Kelley) | Đại Việt |
+| Vietnamese popular religion | Đức Thánh Trần, a powerful deity, honoured at temples and in spirit-writing texts | A as tradition (Kelley) | Đại Việt |
+| Modern Vietnamese nationalism | A hero of the nation, symbol of resistance to foreign invasion, a portrayal Kelley dates to the early 20th century | A that this view exists; flag `nationalist-reinterpretation` | Vietnam |
+| Yuan China | Failed punitive expeditions against a tributary that refused full submission | A | Yuan dynasty |
+
+### Violence
+
+The invasions brought the sack of Thăng Long and killing of its inhabitants (1258 and 1285), and Kozlovskyi records heavy Mongol losses in 1258. Reliable casualty figures for any of the campaigns are not available here, and none are stored.
+
+## Legacy and myths
+
+### Legacy
+
+- **Đức Thánh Trần.** He became a deity in Vietnamese popular religion, honoured at temples and in spirit-writing texts for centuries before he became a national hero (Kelley, A). The best-known temple complex associated with him is at Kiếp Bạc (B, to source).
+- **A symbol of resistance.** Since the early 20th century he has been one of the central figures of Vietnamese national identity, with statues, streets and schools named after him (A that he is so honoured; B for the details).
+- **The limits of Mongol power.** The failure in Đại Việt, alongside Japan and Java, marked the limits of Yuan expansion into maritime and tropical Asia (B).
+- **Military thought.** His campaigns are a classic case of a smaller state defeating a great power through strategic withdrawal, attrition and attacks on supply, a pattern later Vietnamese commanders were consciously compared with (B, to source; see Võ Nguyên Giáp).
+
+### Myths and misconceptions
+
+| Label | Popular claim | Verdict | Evidence |
+| --- | --- | --- | --- |
+| TH-M01 | Vietnam was the only place the Mongols were ever defeated militarily | **False (A)** | The Mamluks defeated them at Ain Jalut in 1260 (see Baibars), and their invasions of Japan and Java also failed; the same page that makes this claim describes the failure in Java |
+| TH-M02 | 500,000 Yuan troops invaded in 1284, and 300,000 in 1287 | **Inflated (D)** | The same page's reference text gives about 92,000 for 1287 |
+| TH-M03 | Trần Hưng Đạo commanded 200,000 men | **Unsupported (D)** | A round figure with no source given |
+| TH-M04 | Toghan escaped by hiding inside a bronze drum | **Tradition (D)** | A humiliating story about the enemy prince; no early source located |
+| TH-M05 | He has always been honoured as Vietnam's national hero | **False (B)** | That portrayal dates from the early 20th century; before then he was a moral exemplar and a deity (Kelley) |
+| TH-M06 | He defeated the Mongols single-handed | **Oversimplified (B)** | Several Trần princes and both emperors shared command |
+| TH-M07 | After 1288, Vietnam broke off relations with the Yuan | **False (B)** | Tribute continued; the dispute was over its form |
+| TH-M08 | The river-stake trap was his own invention | **Misleading (C)** | The same tactic is remembered from an earlier Vietnamese victory on the Bạch Đằng in 938 |
+| TH-M09 | His soldiers tattooed "Kill the Mongols" on their arms | **Reported (C)** | In the reference encyclopedia text; original source still to be traced |
+
+## Claims (conversion-ready)
+
+This table is the authority for grades. TH-S10 is a weak aggregator, but it is independent of Kelley and Kozlovskyi, so it can be the second source for broad facts. It cannot carry an A on its own, and its numbers are not trusted.
+
+| Label | Field | Statement | Type | Grade | Flags | Citations (access) | Perspective | Quiz |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| TH-C01 | identity | Trần Hưng Đạo (Trần Quốc Tuấn), a Trần prince, led Đại Việt's resistance to the Mongol-Yuan invasions | event | A | — | S06 (opened, abstract); S10 (opened) | Đại Việt | plain-fact |
+| TH-C02 | active\_period | Active c. 1250s–1300 | event | A | — | S06; S10 | — | — |
+| TH-C03 | main\_battles | Supreme commander against the invasions of 1284–85 and 1287–88 | event | A | — | S06; S10 | — | plain-fact |
+| TH-C04 | birth | Born 1228 (alternative: 1213) | event | C | — | S06 (opened); S10 (opened) | — | debate |
+| TH-C05 | death | Died 1300 | event | A | — | S06; S10 | — | plain-fact |
+| TH-C06 | career | The 1257–58 Mongol invasion took Thăng Long but withdrew after about a month | event | A | — | S07 (opened, abstract); S10 | Đại Việt | plain-fact |
+| TH-C07 | career | The 1257–58 Mongol force lost at least half its troops | event | C | `inflated-numbers` | S07 | — | — |
+| TH-C08 | career | In 1285 the Yuan vanguard was destroyed at Tây Kết and Sogetu killed | event | B | — | S10 | — | plain-fact |
+| TH-C09 | career | In 1287–88 the Vietnamese captured the Yuan supply fleet | event | B | — | S10 | — | plain-fact |
+| TH-C10 | career | The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288 | event | B | — | S10 | Đại Việt; Yuan dynasty | plain-fact |
+| TH-C11 | tactics | Stakes were planted in the Bạch Đằng riverbed to trap the Yuan fleet | event | B | — | S10 (popular part) | — | plain-fact |
+| TH-C12 | career | The 1287 Yuan force: about 70,000 regulars, 21,000 auxiliaries and 500 ships | event | C | — | S10 (reference part) | — | — |
+| TH-C13 | politics | Đại Việt kept paying tribute to the Yuan after 1288 | event | B | — | S10 | — | myth-busting |
+| TH-C14 | politics | Prince Trần Ích Tắc defected; Kublai named him ruler of Annam in 1286 | event | B | — | S10 | — | plain-fact |
+| TH-C15 | legacy | He has been portrayed as a national hero only since the early 20th century | interpretation | B | `nationalist-reinterpretation` | S06 | Vietnam | myth-busting |
+| TH-C16 | legacy | Before that he was honoured as a moral exemplar and as a deity | tradition | B | — | S06 | Đại Việt | tradition |
+| TH-C17 | family | Trần Thủ Độ forced Trần Liễu's wife into marriage with the emperor, causing a family feud | event | B | `late-source` | S01 (excerpt) | — | — |
+| TH-C18 | family | Tradition: he refused his father's call to seize the throne | tradition | B | `hagiography` | S01 (excerpt) | — | tradition |
+| TH-C19 | technology | In 1258 Vietnamese light infantry and elephants could not withstand Mongol cavalry in open battle | interpretation | B | — | S07 | — | — |
+| TH-C20 | writings | The *Proclamation to the Officers* is attributed to him | text | C | `self-testimony` | none opened | — | — |
+
+## Sources
+
+| Label | Source | Type | Derives from | Opened? |
+| --- | --- | --- | --- | --- |
+| TH-S01 | Ngô Sĩ Liên et al., *Đại Việt sử ký toàn thư* (1479; 1697 edition) | primary-later | Earlier Trần records | Excerpts |
+| TH-S02 | *Yuan shi* (1369–70) | primary-later | Yuan court records | No |
+| TH-S03 | Lê Tắc, *An Nam chí lược* (14th c.) | primary-contemporary | — | No |
+| TH-S04 | Texts attributed to Trần Hưng Đạo | primary-contemporary (attributed) | — | No |
+| TH-S05 | Temple and spirit-writing traditions of Đức Thánh Trần | oral-tradition | — | No |
+| TH-S06 | Liam C. Kelley, ["From Moral Exemplar to National Hero"](https://resolve.cambridge.org/core/journals/modern-asian-studies/article/abs/from-moral-exemplar-to-national-hero-the-transformations-of-tran-hung-dao-and-the-emergence-of-vietnamese-nationalism/822DC11FD8212980E1CC0D7FD3CCBE19), *Modern Asian Studies* 49.6 (2015), doi:10.1017/S0026749X14000183 | journal-article | — | Abstract, 13 Nov 2026 |
+| TH-S07 | Serhii Kozlovskyi, ["Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)"](https://eminak.net.ua/index.php/eminak/article/view/851), *Eminak* 1(53) (2026), doi:10.33782/eminak2026.1(53).851 | journal-article | — | Abstract (full text in Ukrainian), 13 Nov 2026 |
+| TH-S08 | Christopher P. Atwood, *Encyclopedia of Mongolia and the Mongol Empire* (2004) | reference | — | No; probable origin of TH-S10's main text |
+| TH-S09 | Keith W. Taylor, *A History of the Vietnamese* (Cambridge, 2013) | academic-book | — | No; obtain first |
+| TH-S10 | ["Mongol Invasions of Vietnam and Java"](https://warhistory.org/2018/07/26/mongol-invasions-of-vietnam-and-java/), WarHistory.org | other | Probably S08, uncredited | Yes, 13 Nov 2026; reliability: weak aggregator, internally inconsistent |
+
+## Learning aids
+
+### Key takeaways
+
+1. Trần Hưng Đạo (Trần Quốc Tuấn), a prince of Vietnam's Trần dynasty, led Đại Việt's defence against the Mongol-Yuan invasions of 1284–85 and 1287–88.
+2. His strategy avoided open battle with Mongol cavalry: abandon the capital, let climate and distance wear the invaders down, cut their supplies, then strike, above all on the rivers.
+3. In 1288 the Yuan fleet was destroyed at the Bạch Đằng River, traditionally with the help of stakes planted in the riverbed.
+4. Đại Việt kept paying tribute to the Yuan afterwards; victory meant keeping its autonomy, not ending relations.
+5. He was honoured for centuries as a moral exemplar and a deity, but only became a "national hero" in the 20th century.
+
+### Compare with
+
+- **Baibars:** the other commander in this batch who stopped the Mongols, with a heavy cavalry army in open battle, where Trần Hưng Đạo avoided one.
+- **Fabius Maximus** (in Hannibal's profile): delay and attrition against a stronger invader.
+- **Võ Nguyên Giáp:** a 20th-century Vietnamese general often compared with him.
+
+## Notes for the batch
+
+- **Shared records:** the Yuan dynasty (POL), Kublai Khan and Toghan (minor PER records or names only), and the Bạch Đằng River (PLC), which also hosts the battle of 938.
+- **Most useful next source:** Keith Taylor's *A History of the Vietnamese*. One chapter would replace the weak aggregator for the 1280s and move about eight claims from B to A.
+
+### Template suggestion
+
+This profile relied on a weak aggregator page for its detail. The validator currently counts any two independent sources toward an A. Suggest adding a `reliability_tier` to source records (scholarly, reference, popular, aggregator, ai-generated), with a rule that an A needs at least one scholarly or reference source. Two aggregators agreeing would then stay at B.

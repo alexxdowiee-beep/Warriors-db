@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000044",
+  "type": "battle",
+  "slug": "al-mansurah",
+  "primary_name": "Al-Mansurah",
+  "names": [
+    {
+      "name": "Al-Mansurah",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Defeat of Louis IX's Seventh Crusade by the Bahri mamluks, Baibars among their leaders.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1250,
+    "latest": 1250,
+    "precision": "month",
+    "display": "February 1250",
+    "certainty": "B",
+    "month": 2
+  },
+  "outcome": "Victory",
+  "place_id": "PLC-000043",
+  "sides": [
+    {
+      "label": "Egyptian army, including the Bahri mamluks",
+      "commander_ids": [
+        "PER-000008"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Seventh Crusade (Louis IX)",
+      "polity_ids": [
+        "POL-000001"
+      ]
+    }
+  ],
+  "editor_notes": "Baibars in commander_ids because CLM for BB-C06 says he commanded; the battle table's role is 'Among the Bahri leaders'."
+}

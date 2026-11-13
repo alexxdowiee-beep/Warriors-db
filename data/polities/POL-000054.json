@@ -1,0 +1,22 @@
+{
+  "id": "POL-000054",
+  "type": "polity",
+  "slug": "iran",
+  "primary_name": "Iran",
+  "names": [
+    {
+      "name": "Iran",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Persia",
+      "kind": "other"
+    }
+  ],
+  "summary": "Iran (Persia), conquered by Timur in 1383–1394 and today a modern state. Used as a perspective: the cities and dynasties of Iran.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

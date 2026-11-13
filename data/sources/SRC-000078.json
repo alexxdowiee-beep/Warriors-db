@@ -1,0 +1,24 @@
+{
+  "id": "SRC-000078",
+  "type": "source",
+  "slug": "texts-attributed-to-tran-hung-dao",
+  "primary_name": "Texts attributed to Trần Hưng Đạo",
+  "names": [
+    {
+      "name": "Texts attributed to Trần Hưng Đạo",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The Proclamation to the Officers (Hịch tướng sĩ) and a military manual, attributed to Trần Hưng Đạo.",
+  "certainty": "C",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "His own voice, if genuine (self-testimony).",
+  "derives_from": [],
+  "opened": false,
+  "date_written": "Late 13th c. (attributed)",
+  "reliability_notes": "Doc type: 'primary-contemporary (attributed)'. Survive in later compilations; attribution to be checked, hence grade C."
+}

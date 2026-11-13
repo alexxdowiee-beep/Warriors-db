@@ -1,0 +1,27 @@
+{
+  "id": "WAR-000022",
+  "type": "war",
+  "slug": "second-mongol-yuan-invasion-of-dai-viet",
+  "primary_name": "Second Mongol-Yuan invasion of Đại Việt",
+  "names": [
+    {
+      "name": "Second Mongol-Yuan invasion of Đại Việt",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Invasion under Toghan; Thăng Long was occupied, then the Vietnamese counterattacked at Chương Dương and Tây Kết and the Yuan withdrew.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1284,
+    "latest": 1285,
+    "precision": "year",
+    "display": "1284–1285",
+    "certainty": "A"
+  },
+  "outcome": "Yuan withdrew",
+  "editor_notes": "Doc name: 'Second invasion'; expanded for clarity."
+}

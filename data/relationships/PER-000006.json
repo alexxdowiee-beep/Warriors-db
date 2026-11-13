@@ -1,0 +1,133 @@
+{
+  "subject": "PER-000006",
+  "relationships": [
+    {
+      "id": "REL-000055",
+      "from_id": "PER-000006",
+      "to_id": "POL-000026",
+      "relation": "founded",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000120"
+      ]
+    },
+    {
+      "id": "REL-000056",
+      "from_id": "PER-000006",
+      "to_id": "POL-000026",
+      "relation": "ruled",
+      "certainty": "B",
+      "role": "Chinggis Khan from 1206",
+      "claim_ids": [
+        "CLM-000125"
+      ]
+    },
+    {
+      "id": "REL-000057",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000033",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000126"
+      ]
+    },
+    {
+      "id": "REL-000058",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000034",
+      "relation": "commanded",
+      "certainty": "A"
+    },
+    {
+      "id": "REL-000059",
+      "from_id": "PER-000006",
+      "to_id": "WAR-000015",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000128"
+      ]
+    },
+    {
+      "id": "REL-000060",
+      "from_id": "PER-000006",
+      "to_id": "WAR-000016",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000129"
+      ]
+    },
+    {
+      "id": "REL-000061",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000035",
+      "relation": "commanded",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000130"
+      ]
+    },
+    {
+      "id": "REL-000062",
+      "from_id": "PER-000006",
+      "to_id": "WAR-000017",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000131"
+      ]
+    },
+    {
+      "id": "REL-000063",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000036",
+      "relation": "commanded",
+      "certainty": "A"
+    },
+    {
+      "id": "REL-000064",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000037",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000132"
+      ]
+    },
+    {
+      "id": "REL-000065",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000038",
+      "relation": "commanded",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000066",
+      "from_id": "PER-000006",
+      "to_id": "BAT-000038",
+      "relation": "died_at",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000134"
+      ]
+    },
+    {
+      "id": "REL-000107",
+      "from_id": "PER-000006",
+      "to_id": "PER-000003",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Genghis Khan doc: another 13th-century founder who united rival groups into an empire, known through a heroic narrative from within his own people."
+    },
+    {
+      "id": "REL-000108",
+      "from_id": "PER-000006",
+      "to_id": "PER-000005",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Genghis Khan doc: a leader remembered as a hero by his own people and very differently by those he conquered."
+    }
+  ]
+}

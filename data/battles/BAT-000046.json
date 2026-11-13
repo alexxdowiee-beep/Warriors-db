@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000046",
+  "type": "battle",
+  "slug": "fall-of-safed",
+  "primary_name": "Fall of Safed",
+  "names": [
+    {
+      "name": "Fall of Safed",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Baibars' capture of the Templar fortress of Safed.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year",
+    "display": "1266",
+    "certainty": "A"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000045",
+  "war_id": "WAR-000020",
+  "sides": [
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ],
+      "commander_ids": [
+        "PER-000008"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Knights Templar",
+      "polity_ids": [
+        "POL-000044"
+      ]
+    }
+  ]
+}

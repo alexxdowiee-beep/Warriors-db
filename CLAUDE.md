@@ -17,6 +17,7 @@ always comes before interesting storytelling.**
 
 ## Certainty grades
 - A Established: 2+ independent sources (neither derived from the other nor from a common source), at least one opened, at least one contemporary or archaeological, or scholarly consensus.
+  At least one of the two independent sources must have reliability_tier scholarly or reference.
   For a text or tradition claim (what a document or tradition says), A needs one opened copy of the document or tradition itself, or a translation or record of it; a modern summary does not count.
 - B Probable: one good source, or several later ones with a credible chain.
 - C Disputed: credible sources or scholars disagree.
@@ -42,6 +43,11 @@ Use active period, not birth date.
 ## Sources
 Every source has a SRC record with bias_notes and derives_from (source IDs it copies or depends on).
 Two sources where one derives from the other count as ONE for grading.
+Every source has a reliability_tier: scholarly, reference, popular, aggregator or ai-generated.
+Primary material (primary-contemporary, primary-later, archaeological, oral-tradition, statute) has
+reliability_tier null and is judged through its bias_notes.
+An AI-generated page gets source_type and reliability_tier "ai-generated". It is never evidence: it may be
+cited only by a claim with verdict "rejected-myth", as the origin of that myth.
 
 ## Perspectives and culture
 - perspective_of on a claim records whose view it is (polity or civilisation IDs). Show contested events from each side.

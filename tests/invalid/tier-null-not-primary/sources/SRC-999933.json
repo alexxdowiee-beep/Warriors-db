@@ -1,0 +1,13 @@
+{
+  "id": "SRC-999933",
+  "type": "source",
+  "slug": "test-book",
+  "primary_name": "Test source SRC-999933",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "reliability_tier": null,
+  "bias_notes": "Fictional."
+}

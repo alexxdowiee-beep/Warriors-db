@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000049",
+  "type": "source",
+  "slug": "yuan-shi-history-of-the-yuan-and-other-chinese-records",
+  "primary_name": "Yuan shi (History of the Yuan) and other Chinese records",
+  "names": [
+    {
+      "name": "Yuan shi (History of the Yuan) and other Chinese records",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Chinese dynastic history of the Yuan, compiled quickly in 1369–70 by the Ming dynasty that expelled the Mongols.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Late (late-source); covers the Yuan side and plays down its defeats (hostile-source toward Đại Việt).",
+  "derives_from": [],
+  "opened": false,
+  "title": "Yuan shi",
+  "date_written": "1369–70",
+  "language": "Chinese",
+  "reliability_notes": "Draws on Yuan court records (lost). Used as GK-S04 ('Yuan shi and other Chinese records') and TH-S02 ('Yuan shi (1369–70)'); merged as one record. Subutai's biography chapters are SB-S01, kept separate."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "SRC-000054",
+  "type": "source",
+  "slug": "timothy-may-the-mongol-empire-in-world-history",
+  "primary_name": "Timothy May, \"The Mongol Empire in World History\"",
+  "names": [
+    {
+      "name": "Timothy May, \"The Mongol Empire in World History\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Peer-reviewed survey of the Mongol Empire and its place in world history.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the docs.",
+  "derives_from": [],
+  "opened": true,
+  "authors": [
+    "Timothy May"
+  ],
+  "title": "The Mongol Empire in World History",
+  "publisher": "World History Connected 5.2",
+  "year": 2008,
+  "url": "https://journals.gmu.edu/whc/article/download/4894/2835?inline=1",
+  "accessed": "2026-11-13",
+  "reliability_notes": "World History Connected 5.2 (2008). Opened 13 Nov 2026. Used as GK-S09, SB-S07, BB-S09, TM-S15."
+}

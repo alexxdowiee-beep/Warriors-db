@@ -1,0 +1,129 @@
+{
+  "subject": "PER-000008",
+  "relationships": [
+    {
+      "id": "REL-000077",
+      "from_id": "PER-000008",
+      "to_id": "POL-000030",
+      "relation": "ruled",
+      "certainty": "A",
+      "role": "Sultan 1260–1277",
+      "claim_ids": [
+        "CLM-000184"
+      ]
+    },
+    {
+      "id": "REL-000078",
+      "from_id": "PER-000008",
+      "to_id": "WAR-000019",
+      "relation": "affected_by",
+      "certainty": "B",
+      "role": "Enslaved after the Mongol invasion of the Kipchak lands, c. 1242",
+      "claim_ids": [
+        "CLM-000188"
+      ]
+    },
+    {
+      "id": "REL-000079",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000044",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Among the Bahri leaders",
+      "claim_ids": [
+        "CLM-000189"
+      ]
+    },
+    {
+      "id": "REL-000080",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000045",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Vanguard commander under Qutuz",
+      "claim_ids": [
+        "CLM-000192"
+      ]
+    },
+    {
+      "id": "REL-000081",
+      "from_id": "PER-000008",
+      "to_id": "WAR-000020",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Sultan and commander"
+    },
+    {
+      "id": "REL-000082",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000046",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Commander",
+      "claim_ids": [
+        "CLM-000195"
+      ]
+    },
+    {
+      "id": "REL-000083",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000047",
+      "relation": "planned",
+      "certainty": "A",
+      "role": "Sent his army",
+      "claim_ids": [
+        "CLM-000198"
+      ]
+    },
+    {
+      "id": "REL-000084",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000048",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Commander",
+      "claim_ids": [
+        "CLM-000195"
+      ]
+    },
+    {
+      "id": "REL-000085",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000049",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Commander",
+      "claim_ids": [
+        "CLM-000196",
+        "CLM-000197"
+      ]
+    },
+    {
+      "id": "REL-000086",
+      "from_id": "PER-000008",
+      "to_id": "BAT-000050",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Commander",
+      "claim_ids": [
+        "CLM-000199"
+      ]
+    },
+    {
+      "id": "REL-000111",
+      "from_id": "PER-000008",
+      "to_id": "PER-000007",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Baibars doc: the Mongol campaigns that destroyed the Kipchaks are the reason Baibars was enslaved, two lives linked by one war."
+    },
+    {
+      "id": "REL-000112",
+      "from_id": "PER-000008",
+      "to_id": "PER-000009",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Baibars doc: the next profile, another commander who stopped the Mongols, by very different means and on the other side of Asia. Trần Hưng Đạo doc: the other commander in this batch who stopped the Mongols, with a heavy cavalry army in open battle, where Trần Hưng Đạo avoided one."
+    }
+  ]
+}

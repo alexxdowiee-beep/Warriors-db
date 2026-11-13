@@ -1,0 +1,27 @@
+{
+  "id": "SRC-000067",
+  "type": "source",
+  "slug": "ibn-shaddad-life-of-al-zahir-baybars",
+  "primary_name": "Ibn Shaddad, life of al-Zahir Baybars",
+  "names": [
+    {
+      "name": "Ibn Shaddad, life of al-Zahir Baybars",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Life of the sultan by a Syrian official historian.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "patron-bias.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Ibn Shaddad"
+  ],
+  "language": "Arabic",
+  "reliability_notes": "Late 13th c. Not opened."
+}

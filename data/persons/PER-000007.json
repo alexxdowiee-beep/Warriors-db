@@ -1,0 +1,106 @@
+{
+  "id": "PER-000007",
+  "type": "person",
+  "slug": "subutai",
+  "primary_name": "Subutai",
+  "names": [
+    {
+      "name": "Subutai",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Sübe'etei",
+      "kind": "transliteration",
+      "language": "Mongolian"
+    },
+    {
+      "name": "Sübedei",
+      "kind": "other"
+    },
+    {
+      "name": "速不台",
+      "kind": "native-script",
+      "language": "Chinese",
+      "script": "Han"
+    }
+  ],
+  "summary": "Subutai served three Mongol khans and fought from northern China to Hungary, yet he is a shadowy figure as a person. His biography survives only in Chinese translation, and much of what is popularly said about him is modern invention. This profile tests how the database handles a famous name whose popular image has run far ahead of the evidence.",
+  "certainty": "A",
+  "status": "sourced",
+  "updated": "2026-11-13",
+  "core_claim_set": "commander",
+  "active_period": {
+    "earliest": 1200,
+    "latest": 1249,
+    "precision": "decade",
+    "display": "c. 1200s–1240s",
+    "certainty": "A",
+    "qualifier": "circa"
+  },
+  "sex": "male",
+  "roles": [
+    "commander"
+  ],
+  "polity_ids": [
+    "POL-000026"
+  ],
+  "birth": {
+    "earliest": 1175,
+    "latest": 1176,
+    "precision": "year",
+    "display": "c. 1175–1176",
+    "certainty": "C",
+    "qualifier": "circa",
+    "claim_ids": [
+      "CLM-000158"
+    ]
+  },
+  "death": {
+    "earliest": 1248,
+    "latest": 1248,
+    "precision": "year",
+    "display": "1248",
+    "certainty": "B",
+    "claim_ids": [
+      "CLM-000159"
+    ]
+  },
+  "tags": [
+    "mongol-empire",
+    "operational-art",
+    "myth-heavy",
+    "batch-1"
+  ],
+  "profile": {
+    "early_life": "**Family and origins**\n\nSubutai belonged to the Uriankhai (Uriangqai), a people of the forest-steppe edge north of the Mongols. Popular books often make him a reindeer-herding outsider who rose from nothing. Pow and Liao reject this: the official sources say his family had been tied to Chinggis Khan's ancestors for generations, and they suggest the \"outsider\" image survives because its irony appeals to modern writers (Pow and Liao 2018, via citing works; B).\n\nThe sources disagree about his father. The *Yuan shi* biography tells how his father, bringing sheep to Temüjin, was seized by robbers and rescued by his sons. Popular accounts name the father Jarchigudai, who in the *Secret History* is the father of Jelme, another of Temüjin's companions; whether Subutai and Jelme were brothers is therefore uncertain (C, stored as linked alternatives). A brother named Ca'urqan is mentioned in the *Secret History* (B, excerpt).\n\n**Rise in Temüjin's service**\n\nHe served Temüjin from youth. Popular accounts of his joining at fourteen or serving as a door guard are not traced to a source here (C). The first event of his life the sources actually describe comes around 1203, when Temüjin was at his lowest point near Lake Baljuna (B, excerpt summarising Pow and Liao).\n\nThe *Secret History* names him among Temüjin's four \"hounds\" (with Jebe, Khubilai and Jelme), fierce companions loosed against his enemies (B, excerpts quoting the text).",
+    "historical_context": "He rose with the empire. Every stage of his career is part of a wider Mongol campaign led by a member of the ruling family: Genghis Khan himself, then Ögödei's sons and nephews such as Batu. Subutai was always a general serving a prince. That matters for judging how much credit he deserves for victories the sources assign to the princes he served (see Controversies).",
+    "military_career": "**Northern China (1211 onwards).** He served in the invasion of the Jin, often alongside the senior general Jebe; a 1212 capture of the town of Huan is said to be his first independent exploit (C, excerpts only).\n\n**Khwarazm (1219–1220).** He served in the invasion of the Khwarazmian Empire, and, with Jebe, led the force that pursued the fleeing Khwarazm-shah Muhammad II westward (B; May confirms a Mongol force pursued Muhammad without naming its commanders).\n\n**The western raid and the Kalka (1220–1223).** After Muhammad's death, Jebe and Subutai led their force through the Caucasus and onto the steppe north of the Black Sea, defeating the Qipchaqs (Cumans) in 1222. The Rus' princes sided with the Qipchaqs, and in May 1223 their combined army was catastrophically defeated at the Kalka River. Two leading princes, Mstislav of Kiev and Mstislav of Chernigov, died; a third, Mstislav of Galicia, escaped. The Rus' chronicles record Mstislav of Kiev surrendering after holding out in a fortified camp, and both the Yuan biography and other contemporary accounts call it a fierce and desperate battle ([Pow 2025](https://journal-vniispk.ru/2308-152X/article/download/333167/307974), A). Pow argues elsewhere that Jebe himself was captured and killed by the Qipchaqs during this campaign, and that Mongol-side sources kept quiet about it ([Pow 2017](https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/last-campaign-and-death-of-jebe-noyan/A9D56DDD3328025ED8C43EBAC2153C52), C as one scholar's argument). The Novgorod chronicle dates the battle to 1224, a year later; most historians accept 1223 (B).\n\n**The end of the Jin (1230–1234).** Under Ögödei he took part in the final conquest of the Jin, including the siege of their capital, Kaifeng (B, to source).\n\n**The great western campaign (1236–1242).** He went west with Batu and other princes in a campaign that conquered the Rus' principalities and the steppe north of the Black and Caspian Seas, then invaded Hungary and Poland ([May](https://journals.gmu.edu/whc/article/download/4894/2835?inline=1), A). Ryazan fell in December 1237; Grand Prince Yuri II of Vladimir was defeated and killed at the Sit River in March 1238; Kozelsk resisted for weeks; the campaign in the south culminated in the sack of Kiev in 1240 (Pow 2025, A). In April 1241 a Mongol army destroyed the army of King Béla IV of Hungary at Mohi on the Sajó River (B, to source). The Mongols left Hungary in 1242; May notes Ögödei's death in December 1241 is one possible reason, but historians debate it (C).\n\n**Death (1248).** He died in 1248 (May, B).\n\n**Major campaigns and battles**\n\n| Label | Engagement | Date | Kind | Opponent | Subutai's role | Result | Grade |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| GK-W03 | Invasion of Khwarazm (shared with Genghis Khan) | 1219–1221 | war (WAR) | Khwarazmian Empire | Commander under Genghis Khan | Victory | A |\n| SB-W01 | Western raid of Jebe and Subutai | 1220–1223 | campaign (WAR) | Georgia, Alans, Qipchaqs, Rus' | Co-commander with Jebe | Victory | A |\n| SB-B01 | Kalka River | May 1223 | field-battle | Rus' princes and Qipchaqs | Co-commander | Victory | A |\n| SB-B02 | Siege of Kaifeng | 1232–1233 | siege | Jin | Commander | Captured | B |\n| SB-W02 | Great western campaign | 1236–1242 | war (WAR) | Volga Bulgars, Rus', Qipchaqs, Poland, Hungary | Senior general under Batu | Victory; withdrawal 1242 | A |\n| SB-B03 | Fall of Ryazan | Dec 1237 | siege | Principality of Ryazan | Part of Batu's army | Captured | A |\n| SB-B04 | Sit River | Mar 1238 | field-battle | Vladimir-Suzdal | Part of Batu's army (his exact role unclear) | Victory | B |\n| SB-B05 | Mohi (Sajó River) | Apr 1241 | field-battle | Kingdom of Hungary | Senior commander with Batu | Victory | B |\n\nArmy sizes are `unknown` for all of these. Popular figures such as \"20,000 Mongols against 80,000 Rus' at the Kalka\" are not traced to any source and are not stored.",
+    "leadership": "His command role is not in doubt, so leadership and strategy stay separate. But both sections are thin on purpose: the sources record what his armies did, almost never how he thought.\n\n**Leadership**\n\n- **Longevity and trust.** He held major commands for about forty years under Genghis Khan, Ögödei and the princes of the next generation (A). Few commanders in any army kept the confidence of three successive rulers.\n- **The trouble-shooter.** The Yuan biography says that when Batu's forces were held up by a Rus' city, Batu asked the khan to send Subutai to take over, and the city then fell ([Pow 2025](https://journal-vniispk.ru/2308-152X/article/download/333167/307974), translating the *Yuan shi*). A text claim, B, flagged `patron-bias`: a biography naturally credits its subject.\n- **Sayings.** A pledge of loyalty attributed to him, comparing himself to felt cloth keeping out the wind, appears in popular accounts but is not traced to a source here (D).",
+    "strategy_and_tactics": "**Strategy**\n\n- **Campaigning at continental scale.** The western raid took a single Mongol force from Iran, through the Caucasus, to the steppe north of the Black Sea and back, fighting several peoples in turn (A).\n- **A raid, or a reconnaissance?** The 1220–1223 campaign is often described as deliberate reconnaissance for the later conquest. Pow argues that Jebe's death during it has implications for that reading, for how the Mongol leadership viewed the peoples west of the Volga afterwards, and for the preparations they made before returning in the 1230s ([Pow 2017](https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/last-campaign-and-death-of-jebe-noyan/A9D56DDD3328025ED8C43EBAC2153C52), C).\n\n**Tactics**\n\n- **Coordinated columns.** The Mongol army in this period operated on several fronts in separate corps that were coordinated (May, A for the Mongol army in general). Assigning specific manoeuvres to Subutai personally needs battle-by-battle evidence, which is still to be gathered (C).\n- **Siege warfare** in China and Rus', using engineers and machines drawn from conquered peoples (B).",
+    "technology": "The Mongol cavalry army of mounted archers, with remounts, plus Chinese and Muslim siege engineers (B, as for Genghis Khan's profile). Nothing is recorded of weapons specific to Subutai.",
+    "controversies": "**How much credit is his?**\n\nMongol and Chinese sources assign great campaigns to princes: the western campaign of 1236–1242 is Batu's. Modern popular history often credits Subutai as its true planner. The Yuan biography supports an important role, saying he was in the vanguard and was sent to take command when the princes stalled, but it was written to honour him. **Graded C:** he was clearly a senior and trusted commander; \"mastermind of the invasion of Europe\" goes beyond the evidence opened so far.\n\n**Perspectives**\n\n| Perspective | How the events are remembered | Grade |\n| --- | --- | --- |\n| Rus' | The Kalka and the campaigns of 1237–1240 as catastrophe: cities sacked, princes killed. The 16th-century *Tale of the Destruction of Ryazan* contains inaccuracies and romantic detail, but likely reflects genuine events, as other sources and archaeology confirm (Pow 2025) | A for the destruction |\n| Rus' (Kalka) | Popular retellings say the captured princes were crushed beneath boards on which the victors feasted. This is a Rus' chronicle account, still to be checked against the chronicle text | B, to verify |\n| Hungary and Poland | May: the Mongols did not try to hold Hungary and Poland but left them devastated | A |\n| Mongol and Yuan | Honoured as a loyal and successful general in his official biography | A as the tradition's view |\n| Modern Mongolia | Celebrated as one of the nation's great generals | B, to source |\n\n**Violence**\n\nAs with Genghis Khan, the campaigns he commanded involved the sack of cities and mass killing of civilians, recorded by the victims' chroniclers. No source gives reliable death tolls, and none are stored.",
+    "legacy": "- **The model of Mongol operational art.** Modern military writers rank him among the greatest commanders in history; that reputation took shape in 20th-century Western military writing (B, to source).\n- **The western steppe.** The campaign of 1236–1242 created the western Mongol realm later called the Golden Horde, which dominated the Rus' principalities for more than two centuries (May, A).\n- **A cautionary case for this database.** No figure in batch 1 shows better how far a popular image can drift from the sources. Most of what circulates about Subutai's character and record is modern.",
+    "evidence_note": "**Research note.** I opened three sources: Timothy May's \"The Mongol Empire in World History\" (2008, already opened for Genghis Khan); Stephen Pow's 2025 article on the Rus' material in Subutai's Yuan-era biographies (*Golden Horde Review*, open access, CC BY); and the abstract of Pow's 2017 article on Jebe's last campaign (*Journal of the Royal Asiatic Society*). The key study, Pow and Liao's 2018 \"Subutai: Sorting Fact from Fiction\" (*Journal of Chinese Military History*), with full translations of both biographies, is known here only from citations; it is the first source to obtain. One search result was an AI-generated \"encyclopedia\" page containing invented details; it is excluded and noted in the myths section.\n\n### The biographies\n\nSubutai's biography was originally composed in Mongolian in the mid-13th century and translated into Chinese in the 1260s; it survives only in Chinese, in three versions from the same basic source material. The fullest is in chapter 121 of the *Yuan shi*, a second (under the name Xuebutai) is in chapter 122 and can be dated to 1264, and a third, from a temple stele inscription by Wang Yun (1228–1304), is preserved in Su Tianjue's *Lives of Eminent Ministers of the Yuan* ([Pow 2025](https://journal-vniispk.ru/2308-152X/article/download/333167/307974), A).\n\nPow shows how unevenly these biographies record distant events. Their account of the 1223 battle against the Rus' accurately names the two Rus' leaders called Mstislav. But their account of the much larger conquest of 1237–1240 is so garbled that a \"ruler of the Rus'\" named Ye-lie-ban appears in it, whom Pow argues is really the city of Ryazan, turned into a person by a copying or transcription error (Pow 2025, B for his argument). For the database this means the biographies are strong evidence for events near the Mongol court, and weaker the further away the events took place.\n\n### Other sources\n\n| Label | Source | Viewpoint | Main use and bias |\n| --- | --- | --- | --- |\n| SB-S01 | *Yuan shi* chapters 121 and 122, and Su Tianjue's version | Mongol original via Chinese translation | Core career; `translation-issue`, `patron-bias` |\n| SB-S02 | *The Secret History of the Mongols* | Mongol | Brief mentions, among the four \"hounds\" of Temüjin; `patron-bias` |\n| SB-S03 | Rashid al-Din, *Compendium of Chronicles* | Persian, from Mongol originals | Western campaign; `patron-bias` |\n| SB-S04 | Rus' chronicles (Novgorod First, Galician-Volhynian, Laurentian) | The defeated | Kalka, 1237–1240; `hostile-source`. The Novgorod chronicle dates Kalka to 1224, a year later than most scholars accept |\n| SB-S05 | Hungarian and Latin accounts (Master Roger, Thomas of Split, C. de Bridia) | The defeated and Western observers | Hungary 1241; `hostile-source` |\n| SB-S06 | Ibn al-Athir | Contemporary Arab historian | Kalka and the western raid; `hostile-source` |\n\n### What this means for grading\n\n- Events attested in both Mongol-side and enemy sources, such as Kalka and the western campaign, can reach A.\n- Personal details (his family, his appearance, his sayings) rest on one Mongol-side tradition and are B or C.\n- Popular claims about his genius, his \"undefeated\" record and his appearance need checking one by one: many trace back to modern books, not to sources.",
+    "key_takeaways": [
+      "Subutai was a leading Mongol general for about forty years, under Genghis Khan, Ögödei and the princes of the next generation.",
+      "With Jebe he led the 1220–1223 raid around the Caspian that destroyed a Rus' and Qipchaq army at the Kalka.",
+      "He was a senior commander in the 1236–1242 campaign that conquered the Rus' principalities and devastated Hungary and Poland.",
+      "His biography survives only in Chinese translation, accurate for some distant events and garbled for others.",
+      "Much of his popular image (an obese outsider, a lone mastermind, never defeated) is modern invention."
+    ]
+  },
+  "myth_claim_ids": [
+    "CLM-000175",
+    "CLM-000176",
+    "CLM-000177",
+    "CLM-000178",
+    "CLM-000179",
+    "CLM-000180",
+    "CLM-000181",
+    "CLM-000182",
+    "CLM-000173",
+    "CLM-000183"
+  ],
+  "editor_notes": "Record card (batch 1 doc, 13 Nov 2026): Temporary label: SB-P; Primary name: Subutai; Other names: Sübe'etei (closest to the Mongolian, used by specialists); Sübedei; 速不台 (Chinese, *Yuan shi*), from which \"Subutai\" comes; Core claim set: `commander`; Roles: commander; Polity: Mongol Empire; Born: c. 1175–1176 · grade B for the decade, C for the year; Died: 1248 · grade B; Active period: c. 1200s–1240s · grade A; Period: 13th century; Mongol conquests; Overall certainty: **A · Established** for his identity, active period and main campaigns (two independent opened sources); his personal life and many popular claims are far weaker, graded B to E individually; Tags: `mongol-empire`, `operational-art`, `myth-heavy`, `batch-1`\n\nCompare with (from the doc; compare_with links exist for people who have records, the rest are pending their records):\n- **Belisarius:** a great general serving a ruler, whose credit and reputation depend on who wrote the history.\n- **Hannibal Barca:** brilliant battles, judged almost entirely through the records of his enemies.\n- **Genghis Khan:** the same campaigns seen from the top of the command.\n\nBatch notes from the doc:\n- **Shared records:** the Khwarazm war (GK-W03) is reused here; the Kalka, Ryazan and the 1236–1242 campaign will also be linked from future Rus' and Golden Horde profiles.\n- **Most useful next source:** Pow and Liao 2018, with full translations of both biographies. If you can obtain the PDF (a university library, or by writing to the author, who shares his work on Academia.edu), roughly ten claims would move up a grade.\n- **Next profile:** Baibars and Ain Jalut (1260), the battle the Mamluks won after Hülegü withdrew most of his army.\n\n### Template suggestion\n\nAdd `ai-generated` to the source types. The validator could then forbid citing such a source for anything except a myth claim (like SB-M10), so a fabricated web page can be recorded without ever counting as evidence."
+}

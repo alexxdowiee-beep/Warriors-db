@@ -1,0 +1,32 @@
+{
+  "id": "SRC-000053",
+  "type": "source",
+  "slug": "igor-de-rachewiltz-trans-the-secret-history-of-the-mongols-shorter-version-ed-j-c-street-2015",
+  "primary_name": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+  "names": [
+    {
+      "name": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Open-access English translation of the Secret History.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "reliability_tier": "scholarly",
+  "bias_notes": "See GK-S01.",
+  "derives_from": [
+    "SRC-000046"
+  ],
+  "opened": false,
+  "authors": [
+    "Igor de Rachewiltz",
+    "J. C. Street"
+  ],
+  "title": "The Secret History of the Mongols",
+  "year": 2015,
+  "url": "https://cedar.wwu.edu/cedarbooks/4",
+  "reliability_notes": "Only the catalogue page was opened; the 5 MB PDF could not be loaded. Opening it would move about ten claims from B to A (doc)."
+}

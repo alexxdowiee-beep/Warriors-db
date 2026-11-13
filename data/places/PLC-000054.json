@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000054",
+  "type": "place",
+  "slug": "ankara",
+  "primary_name": "Ankara",
+  "names": [
+    {
+      "name": "Ankara",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Anatolian city near which Timur defeated the Ottoman army in July 1402.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000057",
+  "type": "battle",
+  "slug": "sack-of-aleppo",
+  "primary_name": "Sack of Aleppo",
+  "names": [
+    {
+      "name": "Sack of Aleppo",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur stormed and sacked Aleppo.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "assault",
+  "date": {
+    "earliest": 1400,
+    "latest": 1400,
+    "precision": "year",
+    "display": "1400",
+    "certainty": "A"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000051",
+  "sides": [
+    {
+      "label": "Timurid realm",
+      "polity_ids": [
+        "POL-000049"
+      ],
+      "commander_ids": [
+        "PER-000010"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ]
+    }
+  ]
+}

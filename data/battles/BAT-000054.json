@@ -1,0 +1,47 @@
+{
+  "id": "BAT-000054",
+  "type": "battle",
+  "slug": "bach-dang-river",
+  "primary_name": "Bạch Đằng River",
+  "names": [
+    {
+      "name": "Bạch Đằng River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Destruction of the Yuan fleet under Omar as it withdrew down the river, traditionally using stakes planted in the riverbed.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "naval",
+  "date": {
+    "earliest": 1288,
+    "latest": 1288,
+    "precision": "year",
+    "display": "1288",
+    "certainty": "B"
+  },
+  "outcome": "Victory; fleet destroyed",
+  "place_id": "PLC-000050",
+  "war_id": "WAR-000023",
+  "sides": [
+    {
+      "label": "Đại Việt",
+      "polity_ids": [
+        "POL-000046"
+      ],
+      "commander_ids": [
+        "PER-000009"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Yuan fleet under Omar",
+      "polity_ids": [
+        "POL-000029"
+      ]
+    }
+  ],
+  "editor_notes": "Doc grade: 'B (A once a second source is opened)'."
+}

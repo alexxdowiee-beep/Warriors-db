@@ -1,0 +1,30 @@
+{
+  "id": "SRC-000047",
+  "type": "source",
+  "slug": "ata-malik-juvaini-history-of-the-world-conqueror",
+  "primary_name": "Ata-Malik Juvaini, History of the World Conqueror",
+  "names": [
+    {
+      "name": "Ata-Malik Juvaini, History of the World Conqueror",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Persian history of the Mongol conquests by an official in Mongol service.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Writes for his Mongol employers yet laments the destruction of his world (patron-bias).",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Ata-Malik Juvaini"
+  ],
+  "title": "History of the World Conqueror",
+  "edition": "trans. J. A. Boyle (1997 repr.)",
+  "date_written": "c. 1260",
+  "language": "Persian",
+  "reliability_notes": "Doc edition: trans. J. A. Boyle (1997 repr.). Read via May (GK-S09)."
+}

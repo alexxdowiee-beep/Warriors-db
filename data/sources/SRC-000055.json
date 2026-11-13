@@ -1,0 +1,31 @@
+{
+  "id": "SRC-000055",
+  "type": "source",
+  "slug": "t-zerjal-et-al-the-genetic-legacy-of-the-mongols",
+  "primary_name": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+  "names": [
+    {
+      "name": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "2003 genetics study of a Y-chromosome lineage widespread in Asia, proposed to have spread with Genghis Khan's male-line kin.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the docs.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "T. Zerjal et al."
+  ],
+  "title": "The Genetic Legacy of the Mongols",
+  "publisher": "American Journal of Human Genetics 72",
+  "year": 2003,
+  "isbn_doi": "10.1086/367774",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1180246/",
+  "reliability_notes": "Cited from search excerpts."
+}

@@ -38,6 +38,10 @@ INVALID_CASES = {
     "json-syntax": {"JSON"},
     "territory-file": {"NO_SCHEMA"},
     "unknown-folder": {"UNKNOWN_FOLDER"},
+    "grade-a-no-anchor": {"GRADE_A"},             # rule 6 (subject verified), two independent primaries, no scholarly/reference
+    "ai-source-as-evidence": {"AI_SOURCE"},       # rule 9, an ai-generated source cited by an accepted claim
+    "ai-tier-mismatch": {"AI_SOURCE"},            # rule 9, tier ai-generated on a source not typed ai-generated
+    "tier-null-not-primary": {"TIER"},            # rule 10, an academic book with no tier
 }
 
 
@@ -67,6 +71,14 @@ class ValidTree(unittest.TestCase):
     def test_rejected_myth_does_not_lower_core_grade(self):  # rule 7
         v = run(REPO / "tests" / "valid")
         self.assertFalse([e for e in v.errors if e.code == "CORE_GRADE"])
+
+    def test_text_claim_with_core_field_is_a_warning(self):  # rule 7
+        v = run(REPO / "tests" / "valid")
+        self.assertEqual([w.code for w in v.warnings if "CLM-999925" in w.message], ["CORE_TYPE"])
+
+    def test_ai_source_may_back_a_rejected_myth(self):  # rule 9
+        v = run(REPO / "tests" / "valid")
+        self.assertFalse([e for e in v.errors if e.code == "AI_SOURCE"])
 
     def test_data_folder_passes(self):
         v = run(REPO / "data")

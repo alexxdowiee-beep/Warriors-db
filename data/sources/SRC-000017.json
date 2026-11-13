@@ -8,6 +8,7 @@
   "status": "draft",
   "updated": "2026-11-13",
   "source_type": "reference",
+  "reliability_tier": "reference",
   "bias_notes": "No bias noted in the pilot doc.",
   "derives_from": [
     "SRC-000010"

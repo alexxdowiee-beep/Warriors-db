@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000048",
+  "type": "battle",
+  "slug": "fall-of-antioch",
+  "primary_name": "Fall of Antioch",
+  "names": [
+    {
+      "name": "Fall of Antioch",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Baibars' conquest of Antioch, where much of the population was reported killed or enslaved.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1268,
+    "latest": 1268,
+    "precision": "year",
+    "display": "1268",
+    "certainty": "A"
+  },
+  "outcome": "Captured; city destroyed",
+  "place_id": "PLC-000046",
+  "war_id": "WAR-000020",
+  "sides": [
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ],
+      "commander_ids": [
+        "PER-000008"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Principality of Antioch",
+      "polity_ids": [
+        "POL-000042"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "subject": "PER-000010",
+  "claims": [
+    {
+      "id": "CLM-000243",
+      "field": "identity",
+      "statement": "Timur, of the Turkicised Mongol Barlas tribe of Transoxania, founded the Timurid realm",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000095 (TM-S11) (opened); SRC-000096 (TM-S12) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000244",
+      "field": "active_period",
+      "statement": "Active 1360s–1405; ruler from c. 1370",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000095 (TM-S11); SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000245",
+      "field": "main_battles",
+      "statement": "Conquered Iran, broke the Golden Horde, sacked Delhi, invaded Syria and defeated the Ottomans at Ankara",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000098",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000095 (TM-S11) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000246",
+      "field": "birth",
+      "statement": "Born in 1336 (Timurid tradition)",
+      "claim_type": "text",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "patron-bias"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000095 (TM-S11) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "alternative_claim_ids": [
+        "CLM-000247",
+        "CLM-000267"
+      ]
+    },
+    {
+      "id": "CLM-000247",
+      "field": "birth",
+      "statement": "Contemporaries' estimates of his age point to a birth in the 1320s or early 1330s",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened",
+          "note": "citing SRC-000088 (TM-S04), SRC-000089 (TM-S05), SRC-000091 (TM-S07), SRC-000092 (TM-S08)"
+        }
+      ],
+      "evidence_status": "SRC-000095 (TM-S11) (opened, citing SRC-000088 (TM-S04), SRC-000089 (TM-S05), SRC-000091 (TM-S07), SRC-000092 (TM-S08))",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting",
+      "alternative_claim_ids": [
+        "CLM-000246"
+      ]
+    },
+    {
+      "id": "CLM-000248",
+      "field": "death",
+      "statement": "Died at Otrar in February 1405",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); excerpts",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000249",
+      "field": "identity",
+      "statement": "He was not a descendant of Genghis Khan; his dynasty later built a descent myth",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000095 (TM-S11); SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000250",
+      "field": "career",
+      "statement": "Eliminated Amir Husayn and became ruler at Samarkand, c. 1370",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000251",
+      "field": "career",
+      "statement": "Conquered Iran 1383–1394 and crushed revolts with massacres and skull towers",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000054"
+      ]
+    },
+    {
+      "id": "CLM-000252",
+      "field": "career",
+      "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000098",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000028"
+      ]
+    },
+    {
+      "id": "CLM-000253",
+      "field": "career",
+      "statement": "Site of the 1395 battle: the Terek (standard) or the Kur (Britannica)",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000254",
+      "field": "career",
+      "statement": "Occupied Moscow in 1395",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); standard accounts disagree",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "perspective_of": [
+        "POL-000037"
+      ]
+    },
+    {
+      "id": "CLM-000255",
+      "field": "career",
+      "statement": "Sacked Delhi in December 1398",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); excerpts (Larousse, World History Encyclopedia)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000047"
+      ]
+    },
+    {
+      "id": "CLM-000256",
+      "field": "career",
+      "statement": "Site of the 1398 battle: Panipat (Britannica) or outside Delhi",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000257",
+      "field": "career",
+      "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000030"
+      ]
+    },
+    {
+      "id": "CLM-000258",
+      "field": "career",
+      "statement": "Met the historian Ibn Khaldun outside Damascus in 1401",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened",
+          "note": "citing SRC-000089 (TM-S05)"
+        }
+      ],
+      "evidence_status": "SRC-000095 (TM-S11) (opened, citing SRC-000089 (TM-S05))",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000259",
+      "field": "career",
+      "statement": "Stormed Baghdad in 1401",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000260",
+      "field": "career",
+      "statement": "20,000 people were massacred at Baghdad",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "inflated-numbers"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000261",
+      "field": "career",
+      "statement": "Defeated the Ottoman army near Ankara in July 1402",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000098",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000098 (TM-S14) (excerpt)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000032"
+      ]
+    },
+    {
+      "id": "CLM-000262",
+      "field": "career",
+      "statement": "Captured Sultan Bayezid I at Ankara",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000100",
+          "access": "excerpt"
+        },
+        {
+          "source_id": "SRC-000101",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Excerpts: SRC-000100 (Larousse), SRC-000101 (World History Encyclopedia). Sources added 13 Nov 2026 (user decision).",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact",
+      "perspective_of": [
+        "POL-000032"
+      ]
+    },
+    {
+      "id": "CLM-000263",
+      "field": "evidence",
+      "statement": "His 1941 exhumation showed a powerfully built man lame on the right side",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000264",
+      "field": "legacy",
+      "statement": "His descendant Babur founded the Mughal dynasty",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000054",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12) (opened); SRC-000054 (TM-S15) (opened)",
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
+    },
+    {
+      "id": "CLM-000265",
+      "field": "legacy",
+      "statement": "His sons and grandsons fought over the succession; no orderly system existed",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "SRC-000096 (TM-S12)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000266",
+      "field": "legacy",
+      "statement": "Modern Uzbekistan celebrates him as a national founder",
+      "claim_type": "interpretation",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "nationalist-reinterpretation"
+      ],
+      "citations": [],
+      "evidence_status": "none opened",
+      "quiz_ready": true,
+      "quiz_kind": "debate",
+      "perspective_of": [
+        "POL-000052"
+      ]
+    },
+    {
+      "id": "CLM-000267",
+      "field": "myth",
+      "statement": "He was born in 1336",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: Probably a date chosen to match the death of the last Ilkhan; contemporaries' estimates point earlier (Manz)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting",
+      "alternative_claim_ids": [
+        "CLM-000246"
+      ]
+    },
+    {
+      "id": "CLM-000268",
+      "field": "myth",
+      "statement": "He was descended from Genghis Khan",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000095",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: A Barlas, not a Chinggisid; the descent myth was built later by his dynasty (Manz; Britannica)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000269",
+      "field": "myth",
+      "statement": "\"Tamerlane\" was his name",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Misleading (A). Evidence: A European form of Timur-i Lang, \"Timur the Lame\", a contemptuous byname used by Persian enemies (Britannica)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000270",
+      "field": "myth",
+      "statement": "He conquered China",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (A). Evidence: He died at Otrar at the start of the campaign (Britannica)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000271",
+      "field": "myth",
+      "statement": "Opening his tomb in 1941 brought a curse that started the German invasion of the USSR",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Legend (C). Evidence: The tomb was opened in 1941 (Britannica); the curse story is folklore and no evidence supports any link",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000272",
+      "field": "myth",
+      "statement": "He killed 17 million people, about 5% of the world's population",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Unsupported (D). Evidence: A modern popular estimate built on inflated medieval figures",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000273",
+      "field": "myth",
+      "statement": "He was a Mongol",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000096",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Oversimplified (B). Evidence: His Barlas tribe was of Mongol origin but Turkicised; he spoke Turkic and ruled through Persian culture (Britannica)",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    },
+    {
+      "id": "CLM-000274",
+      "field": "myth",
+      "statement": "He was an Uzbek national leader",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Anachronistic (C). Evidence: A modern national framing; see Controversies",
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
+    }
+  ]
+}

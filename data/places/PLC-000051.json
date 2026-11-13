@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000051",
+  "type": "place",
+  "slug": "aleppo",
+  "primary_name": "Aleppo",
+  "names": [
+    {
+      "name": "Aleppo",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Syrian city stormed and sacked by Timur in 1400; taken by the Mongols in 1259.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A",
+  "place_type": "city"
+}

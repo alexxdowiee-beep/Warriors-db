@@ -26,7 +26,8 @@
       "participated",
       "wounded_at",
       "died_at",
-      "planned"
+      "planned",
+      "affected_by"
     ],
     "person-equipment_or_tactic": [
       "introduced",
@@ -91,6 +92,7 @@
     "compare_with": "compare_with",
     "led": "led_by",
     "originated_from": "origin_of",
-    "descended_from": "descendants_include"
+    "descended_from": "descendants_include",
+    "affected_by": "affected"
   }
 }

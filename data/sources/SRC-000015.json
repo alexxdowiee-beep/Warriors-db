@@ -8,6 +8,7 @@
   "status": "draft",
   "updated": "2026-11-13",
   "source_type": "translation",
+  "reliability_tier": "scholarly",
   "bias_notes": "See SRC-000010.",
   "derives_from": [
     "SRC-000010"

@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000038",
+  "type": "place",
+  "slug": "kalka-river",
+  "primary_name": "Kalka River",
+  "names": [
+    {
+      "name": "Kalka River",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "River where Jebe and Subutai defeated the Rus' and Qipchaqs in May 1223.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B",
+  "place_type": "river"
+}

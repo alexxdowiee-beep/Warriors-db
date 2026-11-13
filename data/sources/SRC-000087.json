@@ -1,0 +1,31 @@
+{
+  "id": "SRC-000087",
+  "type": "source",
+  "slug": "sharaf-al-din-ali-yazdi-zafarnama",
+  "primary_name": "Sharaf al-Din Ali Yazdi, Zafarnama",
+  "names": [
+    {
+      "name": "Sharaf al-Din Ali Yazdi, Zafarnama",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Later Timurid court history of the 1420s, polishing the dynasty's image.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "patron-bias, late-source.",
+  "derives_from": [
+    "SRC-000085"
+  ],
+  "opened": false,
+  "authors": [
+    "Sharaf al-Din Ali Yazdi"
+  ],
+  "title": "Zafarnama",
+  "date_written": "1420s",
+  "language": "Persian",
+  "reliability_notes": "Read via Manz."
+}

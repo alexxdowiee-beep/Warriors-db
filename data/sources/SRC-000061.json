@@ -1,0 +1,32 @@
+{
+  "id": "SRC-000061",
+  "type": "source",
+  "slug": "stephen-pow-ye-lie-ban-ruler-of-the-russian-tribe",
+  "primary_name": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+  "names": [
+    {
+      "name": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Study of the Rus' material in Subutai's Yuan-era biographies.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "authors": [
+    "Stephen Pow"
+  ],
+  "title": "'Ye-lie-ban, Ruler of the Russian Tribe'",
+  "publisher": "Golden Horde Review 13.3",
+  "year": 2025,
+  "isbn_doi": "10.22378/2313-6197.2025-13-3.509-522",
+  "url": "https://journal-vniispk.ru/2308-152X/article/download/333167/307974",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Golden Horde Review 13.3 (2025), open access (CC BY). Opened 13 Nov 2026. Same author as SB-S09: the doc says the two are not independent of each other (not expressible in derives_from; see CONVERSION_NOTES)."
+}

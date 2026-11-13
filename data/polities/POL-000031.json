@@ -1,0 +1,23 @@
+{
+  "id": "POL-000031",
+  "type": "polity",
+  "slug": "khwarazmian-empire",
+  "primary_name": "Khwarazmian Empire",
+  "names": [
+    {
+      "name": "Khwarazmian Empire",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Khwarazm",
+      "kind": "other"
+    }
+  ],
+  "summary": "Central Asian empire of the Khwarazm-shahs, destroyed by Chinggis Khan's invasion of 1218–1221 after the Otrar caravan massacre.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "empire",
+  "editor_notes": "Created once in batch 1 as a shared record (step 2). Summary from the batch 1 profile docs; no span stored until a source for its dates is recorded. Used by: Genghis Khan, Subutai, Timur (Otrar)."
+}

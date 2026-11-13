@@ -1,0 +1,31 @@
+{
+  "id": "SRC-000062",
+  "type": "source",
+  "slug": "stephen-pow-the-last-campaign-and-death-of-jebe-noyan",
+  "primary_name": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+  "names": [
+    {
+      "name": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Article arguing that Jebe was captured and killed by the Qipchaqs during the 1220–1223 raid.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": true,
+  "authors": [
+    "Stephen Pow"
+  ],
+  "title": "The Last Campaign and Death of Jebe Noyan",
+  "publisher": "Journal of the Royal Asiatic Society 27.1",
+  "year": 2017,
+  "isbn_doi": "10.1017/S135618631600033X",
+  "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/last-campaign-and-death-of-jebe-noyan/A9D56DDD3328025ED8C43EBAC2153C52",
+  "reliability_notes": "Abstract only. Same author as SB-S08 (not independent of it, per the doc)."
+}

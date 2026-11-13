@@ -1,0 +1,33 @@
+{
+  "id": "SRC-000072",
+  "type": "source",
+  "slug": "john-masson-smith-jr-review-of-amitai-preiss-mongols-and-mamluks",
+  "primary_name": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+  "names": [
+    {
+      "name": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Review essay on Amitai-Preiss's study of the Mamluk-Ilkhanid war, 1260–1281.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "reliability_tier": "scholarly",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [
+    "SRC-000075"
+  ],
+  "opened": true,
+  "authors": [
+    "John Masson Smith Jr."
+  ],
+  "title": "Review of Mongols and Mamluks",
+  "publisher": "Journal of the American Oriental Society 118.1",
+  "year": 1998,
+  "url": "https://law-journals-books.vlex.com/vid/mongols-mamluks-mamluk-ilkhanid-war-53802548",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Journal of the American Oriental Society 118.1 (1998). Most of the text was visible; opened 13 Nov 2026. Where Smith only reports Amitai-Preiss, the two count as one source (derives_from BB-S12)."
+}

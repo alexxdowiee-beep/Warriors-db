@@ -1,0 +1,18 @@
+{
+  "id": "POL-000041",
+  "type": "polity",
+  "slug": "poland",
+  "primary_name": "Poland",
+  "names": [
+    {
+      "name": "Poland",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Invaded and left devastated by the Mongols in 1241.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a battle side or a claim's perspective."
+}

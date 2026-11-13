@@ -1,0 +1,28 @@
+{
+  "id": "SRC-000082",
+  "type": "source",
+  "slug": "christopher-p-atwood-encyclopedia-of-mongolia-and-the-mongol-empire",
+  "primary_name": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+  "names": [
+    {
+      "name": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Reference encyclopedia of Mongolia and the Mongol Empire.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "reliability_tier": "reference",
+  "bias_notes": "No bias noted in the doc.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Christopher P. Atwood"
+  ],
+  "title": "Encyclopedia of Mongolia and the Mongol Empire",
+  "year": 2004,
+  "reliability_notes": "Not opened; probable origin of TH-S10's main text."
+}

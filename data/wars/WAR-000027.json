@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000027",
+  "type": "war",
+  "slug": "planned-invasion-of-china",
+  "primary_name": "Planned invasion of China",
+  "names": [
+    {
+      "name": "Planned invasion of China",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Campaign against Ming China that ended when Timur died at Otrar in February 1405.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "campaign",
+  "span": {
+    "earliest": 1404,
+    "latest": 1405,
+    "precision": "year",
+    "display": "1404–1405",
+    "certainty": "A"
+  },
+  "outcome": "Abandoned at his death"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "SRC-000092",
+  "type": "source",
+  "slug": "beltramo-de-mignanelli",
+  "primary_name": "Beltramo de Mignanelli",
+  "names": [
+    {
+      "name": "Beltramo de Mignanelli",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Account by an Italian merchant who was at the siege of Damascus, written in 1416.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "reliability_tier": null,
+  "bias_notes": "Eyewitness, written later.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Beltramo de Mignanelli"
+  ],
+  "date_written": "1416",
+  "reliability_notes": "Read via Manz."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000058",
+  "type": "battle",
+  "slug": "occupation-of-damascus",
+  "primary_name": "Occupation of Damascus",
+  "names": [
+    {
+      "name": "Occupation of Damascus",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Timur occupied Damascus and deported its artisans to Samarkand.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "date": {
+    "earliest": 1401,
+    "latest": 1401,
+    "precision": "year",
+    "display": "1401",
+    "certainty": "A"
+  },
+  "outcome": "Captured",
+  "place_id": "PLC-000052",
+  "sides": [
+    {
+      "label": "Timurid realm",
+      "polity_ids": [
+        "POL-000049"
+      ],
+      "commander_ids": [
+        "PER-000010"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Mamluk Sultanate",
+      "polity_ids": [
+        "POL-000030"
+      ]
+    }
+  ]
+}

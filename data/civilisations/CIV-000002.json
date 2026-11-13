@@ -1,0 +1,18 @@
+{
+  "id": "CIV-000002",
+  "type": "civilisation",
+  "slug": "arabic-speaking-world",
+  "primary_name": "Arabic-speaking world",
+  "names": [
+    {
+      "name": "Arabic-speaking world",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The Arabic-speaking peoples of the Middle East and North Africa. Used as a perspective: the audiences of the Sirat Baybars folk epic.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "editor_notes": "Created in batch 1 (step 3) for a claim's perspective."
+}

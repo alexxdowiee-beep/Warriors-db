@@ -1,0 +1,24 @@
+{
+  "id": "SRC-000069",
+  "type": "source",
+  "slug": "crusader-and-armenian-sources",
+  "primary_name": "Crusader and Armenian sources",
+  "names": [
+    {
+      "name": "Crusader and Armenian sources",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Thirteenth-century accounts by Baibars' Christian enemies.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "hostile-source.",
+  "derives_from": [],
+  "opened": false,
+  "date_written": "13th c.",
+  "reliability_notes": "Group record (B). Not opened."
+}

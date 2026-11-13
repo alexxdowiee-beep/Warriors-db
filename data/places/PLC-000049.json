@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000049",
+  "type": "place",
+  "slug": "tay-ket",
+  "primary_name": "Tây Kết",
+  "names": [
+    {
+      "name": "Tây Kết",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where the isolated Yuan vanguard was destroyed in 1285 and Sogetu killed.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}

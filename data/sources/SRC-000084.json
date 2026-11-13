@@ -1,0 +1,30 @@
+{
+  "id": "SRC-000084",
+  "type": "source",
+  "slug": "mongol-invasions-of-vietnam-and-java-warhistory-org",
+  "primary_name": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+  "names": [
+    {
+      "name": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Web page that reproduces, without credit, a reference-encyclopedia entry, with a popular summary attached.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "reliability_tier": "aggregator",
+  "bias_notes": "Weak aggregator, internally inconsistent: its popular summary gives round numbers its own reference text contradicts (inflated-numbers).",
+  "derives_from": [
+    "SRC-000082"
+  ],
+  "opened": true,
+  "title": "Mongol Invasions of Vietnam and Java",
+  "publisher": "WarHistory.org",
+  "year": 2018,
+  "url": "https://warhistory.org/2018/07/26/mongol-invasions-of-vietnam-and-java/",
+  "accessed": "2026-11-13",
+  "reliability_notes": "Opened 13 Nov 2026. derives_from TH-S08 follows the doc's 'Probably S08, uncredited'. Independent of Kelley and Kozlovskyi, so usable as a second source for broad facts; cannot carry an A on its own. Author not named (grade B)."
+}

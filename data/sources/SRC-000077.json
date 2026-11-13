@@ -1,0 +1,28 @@
+{
+  "id": "SRC-000077",
+  "type": "source",
+  "slug": "le-tac-an-nam-chi-luoc",
+  "primary_name": "Lê Tắc, An Nam chí lược",
+  "names": [
+    {
+      "name": "Lê Tắc, An Nam chí lược",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "History of Annam by a Vietnamese official who defected to the Yuan.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "reliability_tier": null,
+  "bias_notes": "Writing in exile, for the Yuan court.",
+  "derives_from": [],
+  "opened": false,
+  "authors": [
+    "Lê Tắc"
+  ],
+  "title": "An Nam chí lược",
+  "date_written": "14th c.",
+  "reliability_notes": "14th c. Not opened."
+}

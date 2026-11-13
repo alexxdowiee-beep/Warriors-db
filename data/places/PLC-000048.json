@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000048",
+  "type": "place",
+  "slug": "chuong-duong",
+  "primary_name": "Chương Dương",
+  "names": [
+    {
+      "name": "Chương Dương",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Prince Trần Quang Khải counterattacked the Yuan in 1285.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}
