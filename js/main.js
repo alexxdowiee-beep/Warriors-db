@@ -12,7 +12,7 @@ const ROUTE_KINDS = { person: 'PER', battle: 'BAT', war: 'WAR', source: 'SRC', p
 // Pages not built yet say which build step adds them.
 const routes = [
   { pattern: /^$/, section: 'explore', render: () => renderHome(view) },
-  { pattern: /^people$/, section: 'people', render: () => renderPending(view, 'People', 4) },
+  { pattern: /^people$/, section: 'people', render: () => renderHome(view, { timelineOn: false }) },
   { pattern: /^battles$/, section: 'battles', render: () => renderPending(view, 'Battles', 5) },
   { pattern: /^wars$/, section: 'wars', render: () => renderPending(view, 'Wars', 5) },
   { pattern: /^sources$/, section: 'sources', render: () => renderPending(view, 'Sources', 5) },

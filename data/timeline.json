@@ -1031,6 +1031,7 @@
    "id": "PER-000004",
    "latest": -450,
    "name": "Sun Tzu",
+   "name_language": null,
    "regions": [
     "Asia"
    ]
@@ -1043,6 +1044,7 @@
    "id": "PER-000002",
    "latest": -189,
    "name": "Hannibal Barca",
+   "name_language": null,
    "regions": [
     "Africa",
     "Europe",
@@ -1057,6 +1059,7 @@
    "id": "PER-000006",
    "latest": 1227,
    "name": "Genghis Khan",
+   "name_language": null,
    "regions": [
     "Asia"
    ]
@@ -1069,6 +1072,7 @@
    "id": "PER-000007",
    "latest": 1249,
    "name": "Subutai",
+   "name_language": null,
    "regions": [
     "Asia",
     "Europe"
@@ -1082,6 +1086,7 @@
    "id": "PER-000003",
    "latest": 1259,
    "name": "Sundiata Keita",
+   "name_language": null,
    "regions": [
     "Africa"
    ]
@@ -1094,6 +1099,7 @@
    "id": "PER-000008",
    "latest": 1277,
    "name": "Baibars",
+   "name_language": null,
    "regions": [
     "Africa",
     "Asia"
@@ -1107,6 +1113,7 @@
    "id": "PER-000009",
    "latest": 1300,
    "name": "Trần Hưng Đạo",
+   "name_language": "Vietnamese",
    "regions": [
     "Asia"
    ]
@@ -1119,6 +1126,7 @@
    "id": "PER-000010",
    "latest": 1405,
    "name": "Timur",
+   "name_language": null,
    "regions": [
     "Asia"
    ]
@@ -1131,6 +1139,7 @@
    "id": "PER-000001",
    "latest": 1430,
    "name": "Joan of Arc",
+   "name_language": null,
    "regions": [
     "Europe"
    ]
@@ -1143,6 +1152,7 @@
    "id": "PER-000005",
    "latest": 1849,
    "name": "Te Rauparaha",
+   "name_language": "Māori",
    "regions": [
     "Pacific"
    ]

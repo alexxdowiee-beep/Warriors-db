@@ -11,6 +11,7 @@
   "cultural_guidance": null,
   "era": "medieval",
   "id": "PER-000001",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000001",
@@ -47,6 +48,7 @@
   "cultural_guidance": null,
   "era": "classical",
   "id": "PER-000002",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000004",
@@ -99,6 +101,7 @@
   "cultural_guidance": null,
   "era": "medieval",
   "id": "PER-000003",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000010",
@@ -138,6 +141,7 @@
   "cultural_guidance": null,
   "era": "ancient",
   "id": "PER-000004",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000012",
@@ -180,6 +184,7 @@
   "cultural_guidance": "Ka Mate is a taonga of Ngāti Toa Rangatira, who are its kaitiaki (Haka Ka Mate Attribution Act 2014). Do not reproduce the words of Ka Mate in quizzes or games. Knowledge held by Ngāti Toa and by the other iwi in this story should be used only as the iwi have placed it in the public record; Te Rūnanga o Toa Rangatira is the right authority for the Ngāti Toa perspective, and anything sensitive should follow the iwi's own guidance.",
   "era": "modern",
   "id": "PER-000005",
+  "name_language": "Māori",
   "polities": [
    {
     "id": "POL-000015",
@@ -224,6 +229,7 @@
   "cultural_guidance": "Revered in Mongolia as the father of the nation; describe his reputation there with respect alongside the record of conquest.",
   "era": "medieval",
   "id": "PER-000006",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000026",
@@ -262,6 +268,7 @@
   "cultural_guidance": null,
   "era": "medieval",
   "id": "PER-000007",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000026",
@@ -299,6 +306,7 @@
   "cultural_guidance": "A national and religious hero in Egypt, Syria and Kazakhstan; record his reputation there respectfully alongside the record of violence.",
   "era": "medieval",
   "id": "PER-000008",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000030",
@@ -339,6 +347,7 @@
   "cultural_guidance": "Worshipped as a deity, Đức Thánh Trần, at temples across Vietnam; describe the cult respectfully and keep it separate from claims about the historical man.",
   "era": "medieval",
   "id": "PER-000009",
+  "name_language": "Vietnamese",
   "polities": [
    {
     "id": "POL-000046",
@@ -376,6 +385,7 @@
   "cultural_guidance": "A national hero in Uzbekistan; record that status respectfully alongside the victims' memory.",
   "era": "medieval",
   "id": "PER-000010",
+  "name_language": null,
   "polities": [
    {
     "id": "POL-000049",
