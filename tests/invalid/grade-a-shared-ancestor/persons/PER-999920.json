@@ -1,0 +1,18 @@
+{
+  "id": "PER-999920",
+  "type": "person",
+  "slug": "test-a",
+  "primary_name": "Test A",
+  "summary": "Fictional.",
+  "certainty": "C",
+  "status": "verified",
+  "updated": "2026-11-13",
+  "core_claim_set": "commander",
+  "active_period": {
+    "earliest": 1400,
+    "latest": 1410,
+    "precision": "year",
+    "display": "1400–1410 CE",
+    "certainty": "B"
+  }
+}

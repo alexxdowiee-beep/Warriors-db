@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000041",
+  "type": "source",
+  "slug": "ye-shi-against-sun-wu",
+  "primary_name": "Ye Shi, argument against Sun Wu's historicity",
+  "names": [
+    {
+      "name": "Ye Shi, argument against Sun Wu's historicity",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Song-dynasty scholar's argument that Sun Wu's career was invented, citing the silence of the Zuo zhuan, the late rise of professional generals and the implausible palace-drill story.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "A deliberately sceptical argument against the tradition.",
+  "derives_from": [],
+  "authors": [
+    "Ye Shi"
+  ],
+  "date_written": "Song dynasty (Ye Shi d. 1223)",
+  "opened": false,
+  "reliability_notes": "Known only as summarised and translated by Giles (SRC-000031); the work itself is not identified by title in the pilot doc."
+}

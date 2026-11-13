@@ -114,6 +114,14 @@
       "claim_ids": [
         "CLM-000011"
       ]
+    },
+    {
+      "id": "REL-000046",
+      "from_id": "PER-000001",
+      "to_id": "PER-000002",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Joan of Arc doc: a commander known almost entirely through hostile sources, the opposite evidence problem to Joan's partisan-on-both-sides record. Hannibal doc: the opposite evidence problem. Joan's record is partisan on both sides; Hannibal's is almost entirely from one side."
     }
   ]
 }

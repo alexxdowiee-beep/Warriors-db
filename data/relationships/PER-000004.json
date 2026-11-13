@@ -40,6 +40,22 @@
       "claim_ids": [
         "CLM-000058"
       ]
+    },
+    {
+      "id": "REL-000049",
+      "from_id": "PER-000004",
+      "to_id": "PER-000002",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Sun Tzu doc: a well-documented career with no surviving writings, against Sun Tzu's surviving writings with no secure career."
+    },
+    {
+      "id": "REL-000052",
+      "from_id": "PER-000004",
+      "to_id": "POL-000014",
+      "relation": "originated_from",
+      "certainty": "C",
+      "role": "Sima Qian says Sun Wu came from Qi; a 1st-century CE romance makes him a native of Wu instead"
     }
   ]
 }

@@ -26,7 +26,7 @@
     "contested-reputation"
   ],
   "cultural_guidance": "Ka Mate is a taonga of Ngāti Toa Rangatira, who are its kaitiaki (Haka Ka Mate Attribution Act 2014). Do not reproduce the words of Ka Mate in quizzes or games. Knowledge held by Ngāti Toa and by the other iwi in this story should be used only as the iwi have placed it in the public record; Te Rūnanga o Toa Rangatira is the right authority for the Ngāti Toa perspective, and anything sensitive should follow the iwi's own guidance.",
-  "editor_notes": "Record card (pilot doc, 12 Nov 2026): Primary name: Te Rauparaha; Other names: Māui Pōtiki (childhood name, after the trickster hero); Iwi and descent: Ngāti Toa Rangatira, through his father Werawera; Ngāti Raukawa, through his mother Parekōwhatu; descended from Hoturoa of the Tainui waka; Roles: Rangatira, war leader, composer of Ka Mate; Core claim set: `commander` (identity, active period, main battles); Born: 1760s or 1770s, at Kāwhia or Maungatautari · sources disagree, grade C; Died: 27 November 1849, Ōtaki · grade A; Active period: c. 1800s–1849; leader of the migration south from c. 1820 · grade A; Period: Musket Wars (c. 1807–1840s) and early colonial New Zealand; Overall certainty: **B · Probable** — identity, active period and main campaigns are well attested; many episodes come through partisan tribal or colonial tradition; Status: **Sourced (partial)**; Tags: `musket-wars`, `migration`, `aotearoa`, `treaty-of-waitangi`, `contested-reputation`.\n\nBattle table note: Army sizes are stored as reported in tradition (B at best). Casualty figures are not given where no source offers them.",
+  "editor_notes": "Record card (pilot doc, 12 Nov 2026): Primary name: Te Rauparaha; Other names: Māui Pōtiki (childhood name, after the trickster hero); Iwi and descent: Ngāti Toa Rangatira, through his father Werawera; Ngāti Raukawa, through his mother Parekōwhatu; descended from Hoturoa of the Tainui waka; Roles: Rangatira, war leader, composer of Ka Mate; Core claim set: `commander` (identity, active period, main battles); Born: 1760s or 1770s, at Kāwhia or Maungatautari · sources disagree, grade C; Died: 27 November 1849, Ōtaki · grade A; Active period: c. 1800s–1849; leader of the migration south from c. 1820 · grade A; Period: Musket Wars (c. 1807–1840s) and early colonial New Zealand; Overall certainty: **B · Probable** — identity, active period and main campaigns are well attested; many episodes come through partisan tribal or colonial tradition; Status: **Sourced (partial)**; Tags: `musket-wars`, `migration`, `aotearoa`, `treaty-of-waitangi`, `contested-reputation`.\n\nBattle table note: Army sizes are stored as reported in tradition (B at best). Casualty figures are not given where no source offers them.\n\nCompare with (from the pilot doc; compare_with links exist for people who have records, the rest are pending their records):\n- **Shaka:** another early 19th-century leader whose wars reshaped his region, and whose reputation was heavily shaped by colonial writers.\n- **Kamehameha I:** a Pacific leader who used European weapons and ships to build power in the same decades.\n- **Sundiata Keita:** both are known largely through the oral traditions of their own people, set against outside written sources.",
   "core_claim_set": "commander",
   "birth": {
     "earliest": 1760,
@@ -64,7 +64,8 @@
   "sex": "male",
   "roles": [
     "rangatira",
-    "war-leader"
+    "war-leader",
+    "composer"
   ],
   "polity_ids": [
     "POL-000015",

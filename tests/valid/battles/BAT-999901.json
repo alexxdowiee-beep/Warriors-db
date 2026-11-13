@@ -21,7 +21,18 @@
       "commander_ids": [
         "PER-999997"
       ],
-      "strength": "unknown"
+      "strength": [
+        {
+          "unit": "infantry",
+          "ancient_claim": 4000,
+          "basis": "ancient claim"
+        },
+        {
+          "unit": "cavalry",
+          "low": 600,
+          "basis": "ancient claim"
+        }
+      ]
     },
     {
       "label": "Side two",

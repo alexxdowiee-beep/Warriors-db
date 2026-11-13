@@ -9,6 +9,22 @@
       "certainty": "B",
       "verdict": "accepted",
       "citations": []
+    },
+    {
+      "id": "CLM-999923",
+      "field": "quotation",
+      "statement": "Test.",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999904",
+          "access": "opened"
+        }
+      ],
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     }
   ]
 }

@@ -1,0 +1,15 @@
+{
+  "id": "SRC-999921",
+  "type": "source",
+  "slug": "src-999921",
+  "primary_name": "Test source SRC-999921",
+  "summary": "Fictional.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "bias_notes": "Fictional.",
+  "derives_from": [
+    "SRC-999920"
+  ]
+}

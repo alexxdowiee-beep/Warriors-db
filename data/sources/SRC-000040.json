@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000040",
+  "type": "source",
+  "slug": "british-library-nullification-proceedings-copy",
+  "primary_name": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings",
+  "names": [
+    {
+      "name": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Library catalogue description of a surviving copy of the 1456 retrial proceedings; it attests the date of the annulment.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "publisher": "British Library",
+  "opened": false,
+  "reliability_notes": "Known from a search excerpt only; the catalogue page has not been opened. Shelfmark and URL to record when opened."
+}

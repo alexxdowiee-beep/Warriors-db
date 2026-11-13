@@ -118,6 +118,14 @@
       "claim_ids": [
         "CLM-000080"
       ]
+    },
+    {
+      "id": "REL-000050",
+      "from_id": "PER-000005",
+      "to_id": "POL-000015",
+      "relation": "led",
+      "certainty": "B",
+      "role": "Rose to lead Ngāti Toa through his defence of the tribe's interests and his skill in war (DNZB; graded B in the doc)"
     }
   ]
 }

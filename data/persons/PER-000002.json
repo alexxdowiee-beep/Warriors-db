@@ -29,7 +29,7 @@
     "war-elephants",
     "punic-wars"
   ],
-  "editor_notes": "Record card (pilot doc, 12 Nov 2026): Primary name: Hannibal Barca; Other names: Hannibal son of Hamilcar; \"Barca\" is the family epithet (often explained as \"lightning\"), not a surname in the modern sense; Roles: General, strategist, chief magistrate (suffete) of Carthage, adviser in exile; Polity served: Carthage; later the Seleucid king Antiochus III and Prusias I of Bithynia; Born: c. 247 BCE, probably Carthage · grade B for the year, C for the place; Died: 183, 182 or 181 BCE (ancient sources disagree), Libyssa in Bithynia · suicide by poison · grade C for the year, B for the manner; Active: 221–190 BCE as a commander; Italy 218–203 BCE; Period: Classical antiquity; Second Punic War; Overall certainty: **B · Probable** — the main campaigns are well attested; his motives, character, speeches and many numbers come from hostile or late writers; Status: **Sourced (partial)**; Tags: `hostile-record`, `combined-arms`, `envelopment`, `war-elephants`, `punic-wars`.",
+  "editor_notes": "Record card (pilot doc, 12 Nov 2026): Primary name: Hannibal Barca; Other names: Hannibal son of Hamilcar; \"Barca\" is the family epithet (often explained as \"lightning\"), not a surname in the modern sense; Roles: General, strategist, chief magistrate (suffete) of Carthage, adviser in exile; Polity served: Carthage; later the Seleucid king Antiochus III and Prusias I of Bithynia; Born: c. 247 BCE, probably Carthage · grade B for the year, C for the place; Died: 183, 182 or 181 BCE (ancient sources disagree), Libyssa in Bithynia · suicide by poison · grade C for the year, B for the manner; Active: 221–190 BCE as a commander; Italy 218–203 BCE; Period: Classical antiquity; Second Punic War; Overall certainty: **B · Probable** — the main campaigns are well attested; his motives, character, speeches and many numbers come from hostile or late writers; Status: **Sourced (partial)**; Tags: `hostile-record`, `combined-arms`, `envelopment`, `war-elephants`, `punic-wars`.\n\nCompare with (from the pilot doc; compare_with links exist for people who have records, the rest are pending their records):\n- **Joan of Arc:** the opposite evidence problem. Joan's record is partisan on both sides; Hannibal's is almost entirely from one side.\n- **Napoleon Bonaparte:** another commander who won battle after battle but could not turn them into lasting victory against a coalition with deeper resources.\n- **Võ Nguyên Giáp:** a commander who lost many battles but won the war by outlasting a stronger enemy, a useful reversal of Hannibal's story.\n- **Subutai:** large-scale manoeuvre and combined arms far from home, with very different results.",
   "core_claim_set": "commander",
   "birth": {
     "earliest": -246,
@@ -65,7 +65,9 @@
   "sex": "male",
   "roles": [
     "commander",
-    "strategist"
+    "strategist",
+    "magistrate",
+    "adviser"
   ],
   "polity_ids": [
     "POL-000004",

@@ -30,6 +30,8 @@ INVALID_CASES = {
     "grade-a-dependent": {"GRADE_A"},             # rule 6 (subject verified), sources derive from each other
     "grade-a-not-opened": {"GRADE_A"},            # rule 6 (subject verified), nothing opened
     "grade-b-uncited": {"GRADE_UNCITED"},         # rule 6 (subject verified)
+    "grade-a-shared-ancestor": {"GRADE_A"},       # rule 6 (subject verified), both sources derive from a third
+    "grade-a-text-from-summary": {"GRADE_A"},     # rule 6 (subject verified), text claim backed only by a summary
     "core-grade": {"CORE_GRADE"},                 # rule 7
     "tombstone-no-target": {"TOMBSTONE"},         # rule 8
     "tombstone-dangling": {"TOMBSTONE"},          # rule 8

@@ -41,6 +41,33 @@
       "relation": "participated",
       "certainty": "C",
       "role": "Listed among his major battles in the pilot doc"
+    },
+    {
+      "id": "REL-000047",
+      "from_id": "PER-000003",
+      "to_id": "PER-000001",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Sundiata doc: both stories hinge on divine or spiritual authority, recorded by very different systems: courtroom notaries versus hereditary oral historians."
+    },
+    {
+      "id": "REL-000048",
+      "from_id": "PER-000003",
+      "to_id": "PER-000005",
+      "relation": "compare_with",
+      "certainty": "A",
+      "role": "Sundiata doc: the next pilot. Māori oral history and genealogy raise similar questions about weighing tradition against colonial-era written records. Te Rauparaha doc: both are known largely through the oral traditions of their own people, set against outside written sources."
+    },
+    {
+      "id": "REL-000051",
+      "from_id": "PER-000003",
+      "to_id": "POL-000010",
+      "relation": "ruled",
+      "certainty": "B",
+      "role": "Founder-king in tradition and in Ibn Khaldun; his title (mansa) and the succession are disputed",
+      "claim_ids": [
+        "CLM-000039"
+      ]
     }
   ]
 }

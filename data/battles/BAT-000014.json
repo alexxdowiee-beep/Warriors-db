@@ -34,11 +34,18 @@
       "commander_ids": [
         "PER-000002"
       ],
-      "strength": {
-        "unit": "infantry",
-        "ancient_claim": 40000,
-        "basis": "ancient claim"
-      },
+      "strength": [
+        {
+          "unit": "infantry",
+          "ancient_claim": 40000,
+          "basis": "ancient claim"
+        },
+        {
+          "unit": "cavalry",
+          "ancient_claim": 10000,
+          "basis": "ancient claim"
+        }
+      ],
       "casualties": {
         "unit": "dead",
         "ancient_claim": 5700,
@@ -54,11 +61,18 @@
       "polity_ids": [
         "POL-000005"
       ],
-      "strength": {
-        "unit": "infantry",
-        "ancient_claim": 80000,
-        "basis": "ancient claim"
-      },
+      "strength": [
+        {
+          "unit": "infantry",
+          "ancient_claim": 80000,
+          "basis": "ancient claim"
+        },
+        {
+          "unit": "cavalry",
+          "low": 6000,
+          "basis": "ancient claim"
+        }
+      ],
       "casualties": {
         "unit": "dead",
         "ancient_claim": 70000,
@@ -69,6 +83,6 @@
       }
     }
   ],
-  "editor_notes": "Strength holds Polybius's infantry figures only; the schema has one quantity per side, so the cavalry figures (Rome just over 6,000; Hannibal 10,000) are in tactical_summary.",
+  "editor_notes": "Strengths are Polybius's figures by arm (Rome: about 80,000 infantry and 'just over 6,000' cavalry, stored as low 6,000; Hannibal: 40,000 infantry, 10,000 cavalry). No total is stored, because Polybius gives none.",
   "tactical_summary": "Polybius gives the Roman army as about 80,000 infantry and just over 6,000 cavalry, against 40,000 infantry and 10,000 cavalry under Hannibal. He puts Roman dead at about 70,000 and Hannibal's losses at about 5,700 ([Polybius 3.113–117](https://sourcebooks.web.fordham.edu/ancient/polybius-cannae.asp)). Livy gives a lower Roman death toll (figure to verify against the text). These are stored as ranges with flag `inflated-numbers`: Polybius is the better source, but ancient casualty totals are rarely counted figures.\n\nTactics (from the Hannibal profile): **Cannae's double envelopment.** He placed Celts and Iberians in a forward-bulging crescent in the centre, with his best Libyan infantry held back on each wing. As the Romans pushed the centre in, the Libyans turned inward on their flanks, and his cavalry under Hasdrubal, having routed the Roman horse, struck the Roman rear ([Polybius 3.113–116](https://sourcebooks.web.fordham.edu/ancient/polybius-cannae.asp), A)."
 }

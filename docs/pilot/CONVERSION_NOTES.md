@@ -124,7 +124,56 @@ this folder (exported from Claude Docs) are historical drafts and are not update
 | PLC-000031 | Te Kūititanga | B | At Waikanae; exact site approximate |
 | PLC-000032 | Wairau plains | A | Wairau plains, Marlborough |
 
-Still open: Q3, Q4, Q5, Q6, Q9, Q11, Q12, Q13 and Q14 below.
+## Third round applied (13 Nov 2026): recommendations for Q3–Q6, Q9, Q11–Q14 accepted
+
+- **Q3 `quiz_kind`:** optional claim field with values `plain-fact`, `debate`, `tradition` and `myth-busting`,
+  set from the docs' lists.
+  - The myth claims CLM-000086 to 112 are now `myth-busting`, except CLM-000109 (it quotes Ka Mate), which
+    stays out of quizzes.
+  - CLM-000069 stays `myth-busting` at grade C.
+  - CLM-000017 is `plain-fact` in the doc but is now grade C; the app should not show C claims as plain facts.
+  - 101 claims are now quiz-ready (52 plain-fact, 30 myth-busting, 14 debate, 5 tradition).
+- **Q4 Strength by arm:** a battle side's `strength` and `casualties` may be a list of ranges, one per arm.
+  Cannae (BAT-000014) holds Polybius's infantry and cavalry figures separately; Rome's cavalry, "just over
+  6,000", is stored as low 6,000. No total is stored.
+- **Q5 Roles:** added `magistrate`, `adviser` and `composer` to `roles.json`. Hannibal gains `magistrate` and
+  `adviser`; Te Rauparaha gains `composer`. Sun Tzu is still not listed as a commander.
+- **Q6:** no change; `sourced` stays.
+- **Q9 New sources:**
+
+  | Source | Grade | Cited on |
+  | --- | --- | --- |
+  | SRC-000040 British Library catalogue entry | A | CLM-000017 (excerpt) |
+  | SRC-000041 Ye Shi | A | CLM-000064 (via-secondary) |
+  | SRC-000042 Liu Xiang | A | CLM-000068 (via-secondary) |
+  | SRC-000043 Met, "The Empires of the Western Sudan" | A | historical-context source; not cited on a claim |
+  | SRC-000044 Michelet (1853) | A | CLM-000090 (not-opened) |
+  | SRC-000045 Shakespeare, Henry VI, Part 1 | B | CLM-000091 (not-opened) |
+
+  Giles (SRC-000031) now derives from Ye Shi and Liu Xiang. These are still not created, because they
+  can't be identified: the OUP work, the field study of the Manden Charter, the 6 January letter, and
+  the 9th-century source about Cao Cao.
+- **Q11:** two sources that derive from a common source now count as one. This added one warning,
+  CLM-000028.
+- **Q12:** a text or tradition claim graded A needs one opened copy of the document or tradition itself (source
+  types `primary-*`, `archaeological`, `oral-tradition`, `statute`, `translation`). This cleared 9 warnings.
+  CLM-000049 and CLM-000073 still warn, because they cite a description of the tradition.
+- **Q13 Compare-with links:** new relation `compare_with`. Links REL-000046 to 049 cover Joan–Hannibal,
+  Sundiata–Joan, Sundiata–Te Rauparaha and Sun Tzu–Hannibal, graded A, with the docs' reasons in the role. Each
+  doc's full "Compare with" text is in the person's `editor_notes` until the other people get records.
+- **Q14 Relations:**
+  - new relations `led` and `originated_from`
+  - REL-000050: Te Rauparaha led Ngāti Toa (B)
+  - REL-000051: Sundiata ruled the Mali Empire (B)
+  - REL-000052: Sun Tzu originated from Qi (C)
+
+  The fourth bullet (`served` grades) was resolved in round 2.
+- **CLAUDE.md:** the grade A rule now says "neither derived from the other nor from a common source", and adds
+  the text/tradition rule.
+- **Validator:** 0 errors, 13 warnings, all on A-grade claims that still need evidence.
+
+Still open: only whether to link Te Rauparaha → Ngāti Raukawa (descent through his mother) with
+`originated_from`, and at what grade.
 
 ## Questions for the user (things that do not fit the schema)
 

@@ -20,7 +20,8 @@
         }
       ],
       "evidence_status": "1 opened (Met) + Ibn Khaldun via excerpts; both chains rest partly on Mande memory",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000040",
@@ -46,7 +47,8 @@
         }
       ],
       "evidence_status": "1 opened (Met) + tradition + Ibn Khaldun (excerpt)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000041",
@@ -64,7 +66,8 @@
         }
       ],
       "evidence_status": "Tradition; excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000042",
@@ -76,7 +79,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Modern reconstruction",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000043",
@@ -134,7 +138,8 @@
         }
       ],
       "evidence_status": "Consistent across versions (excerpts)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "tradition"
     },
     {
       "id": "CLM-000047",
@@ -151,7 +156,8 @@
         }
       ],
       "evidence_status": "Excerpts; Niane to check",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "tradition"
     },
     {
       "id": "CLM-000048",
@@ -170,7 +176,8 @@
         }
       ],
       "evidence_status": "Excerpts citing Levtzion and Hopkins; not opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000049",
@@ -187,7 +194,8 @@
         }
       ],
       "evidence_status": "1 opened (UNESCO)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000050",
@@ -201,7 +209,8 @@
       ],
       "citations": [],
       "evidence_status": "Excerpt of field study",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000051",
@@ -220,7 +229,8 @@
         }
       ],
       "evidence_status": "1 opened (Bühnen: tradition is the only evidence)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000052",
@@ -232,7 +242,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Conflicting indications",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000053",
@@ -249,7 +260,8 @@
         }
       ],
       "evidence_status": "Excerpt; Niane's preface to check",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000101",
@@ -261,7 +273,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Unconfirmed (D). Evidence: Widely repeated because of the lion name and exile-and-return plot; no confirmation from the filmmakers found",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000102",
@@ -273,7 +286,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Pilot doc grade B; restore when cited. Myths table verdict: False (B). Evidence: That describes the empire at its later height, after his death",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000103",
@@ -290,7 +304,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: False (B). Evidence: Bühnen attributes them to feedback from colonial-era books",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000115",

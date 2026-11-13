@@ -16,7 +16,8 @@ always comes before interesting storytelling.**
 8. Never change the user-facing conclusions of a reviewed record without asking the user.
 
 ## Certainty grades
-- A Established: 2+ independent sources (not derived from each other), at least one opened, at least one contemporary or archaeological, or scholarly consensus.
+- A Established: 2+ independent sources (neither derived from the other nor from a common source), at least one opened, at least one contemporary or archaeological, or scholarly consensus.
+  For a text or tradition claim (what a document or tradition says), A needs one opened copy of the document or tradition itself, or a translation or record of it; a modern summary does not count.
 - B Probable: one good source, or several later ones with a credible chain.
 - C Disputed: credible sources or scholars disagree.
 - D Weak: a single late, partisan or second-hand source.

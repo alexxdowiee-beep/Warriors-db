@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000042",
+  "type": "source",
+  "slug": "liu-xiang-on-sun-wu",
+  "primary_name": "Liu Xiang, claim about Sun Wu's victory over Chu",
+  "names": [
+    {
+      "name": "Liu Xiang, claim about Sun Wu's victory over Chu",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "A later Han writer's claim that Sun Wu beat 200,000 Chu troops with 30,000 because the enemy was undisciplined.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "Late and rhetorical; the numbers are flagged inflated (CLM-000068).",
+  "derives_from": [],
+  "authors": [
+    "Liu Xiang"
+  ],
+  "date_written": "Han dynasty",
+  "opened": false,
+  "reliability_notes": "Known only as quoted by Giles (SRC-000031); the work is not named in the pilot doc."
+}

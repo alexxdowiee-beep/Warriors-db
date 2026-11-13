@@ -16,7 +16,8 @@
         }
       ],
       "evidence_status": "Derived from ages given in Nepos (which contain errors)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000020",
@@ -33,7 +34,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos) + excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000021",
@@ -53,7 +55,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000022",
@@ -70,7 +73,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000023",
@@ -91,7 +95,8 @@
         }
       ],
       "evidence_status": "2 opened (DCC, Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000024",
@@ -108,7 +113,8 @@
         }
       ],
       "evidence_status": "1 opened (DCC, based on Polybius)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000025",
@@ -129,7 +135,8 @@
         }
       ],
       "evidence_status": "2 opened (DCC, Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000026",
@@ -153,7 +160,8 @@
         }
       ],
       "evidence_status": "2 opened (Polybius, DCC repeating Polybius)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000027",
@@ -172,7 +180,8 @@
         }
       ],
       "evidence_status": "1 opened (Polybius)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000028",
@@ -193,7 +202,8 @@
         }
       ],
       "evidence_status": "2 opened (Polybius, DCC)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000029",
@@ -210,7 +220,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000030",
@@ -227,7 +238,8 @@
         }
       ],
       "evidence_status": "1 opened (DCC)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000031",
@@ -248,7 +260,8 @@
         }
       ],
       "evidence_status": "2 opened (DCC, Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000032",
@@ -285,7 +298,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000034",
@@ -302,7 +316,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos) + excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000035",
@@ -319,7 +334,8 @@
         }
       ],
       "evidence_status": "Nepos records three competing ancient datings",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000036",
@@ -374,7 +390,8 @@
         }
       ],
       "evidence_status": "1 opened (Nepos)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000093",
@@ -386,7 +403,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Pilot doc grade A; restore when cited. Myths table verdict: Misleading (A). Evidence: 37 elephants, most of which died soon after; his army was mainly infantry and cavalry",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000094",
@@ -398,7 +416,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Pilot doc grade B; restore when cited. Myths table verdict: False (B). Evidence: Cavalry and infantry won Trebia, Trasimene and Cannae; at Zama his elephants hurt his own side",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000095",
@@ -415,7 +434,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: Embellished (D). Evidence: Nepos describes an altar and a sacrifice; the blood detail appears in modern retellings",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000096",
@@ -427,7 +447,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Untraced (E). Evidence: No ancient source located; treated as apocryphal until one is found",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000097",
@@ -444,7 +465,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: Literary (D). Evidence: A Livy scene, written two centuries later; the words are Livy's",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000098",
@@ -456,7 +478,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: False (C). Evidence: Several passes argued; recent scientific claims remain contested",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000099",
@@ -468,7 +491,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Unproven (C). Evidence: No portrait is securely identified as Hannibal",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000100",
@@ -485,7 +509,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: Exaggerated (C). Evidence: Nepos's admiring claim; true of major battles only",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     }
   ]
 }

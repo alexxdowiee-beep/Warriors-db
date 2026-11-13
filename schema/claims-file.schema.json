@@ -98,6 +98,15 @@
           },
           "quiz_ready": {
             "type": "boolean"
+          },
+          "quiz_kind": {
+            "type": "string",
+            "enum": [
+              "plain-fact",
+              "debate",
+              "tradition",
+              "myth-busting"
+            ]
           }
         }
       }

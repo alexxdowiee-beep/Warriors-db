@@ -37,7 +37,7 @@ class BuildDb(unittest.TestCase):
         for folder in build_db.RECORD_FOLDERS:
             self.assertIn(folder, tables)
         self.assertEqual(self.q("SELECT count(*) FROM persons")[0][0], 3)
-        self.assertEqual(self.q("SELECT count(*) FROM records")[0][0], 8)
+        self.assertEqual(self.q("SELECT count(*) FROM records")[0][0], 9)
 
     def test_dates_are_flattened_and_full_record_kept(self):
         row = self.q("SELECT death_earliest, death_display, active_period_certainty, data FROM persons "

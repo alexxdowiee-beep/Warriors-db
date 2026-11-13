@@ -1,0 +1,25 @@
+{
+  "id": "SRC-000043",
+  "type": "source",
+  "slug": "met-empires-of-the-western-sudan",
+  "primary_name": "Metropolitan Museum of Art, \"The Empires of the Western Sudan\"",
+  "names": [
+    {
+      "name": "Metropolitan Museum of Art, \"The Empires of the Western Sudan\"",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Heilbrunn Timeline essay on the empires of the western Sudan; notes that Sumanguru's cavalry is remembered in both written and oral histories.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "museum",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "title": "The Empires of the Western Sudan",
+  "publisher": "Metropolitan Museum of Art, Heilbrunn Timeline",
+  "url": "https://www.metmuseum.org/es/essays/the-empires-of-the-western-sudan",
+  "opened": false,
+  "reliability_notes": "Known from a search excerpt only (cited in the Sundiata profile's historical context)."
+}

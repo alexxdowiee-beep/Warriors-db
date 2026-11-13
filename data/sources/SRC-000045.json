@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000045",
+  "type": "source",
+  "slug": "shakespeare-henry-vi-part-1",
+  "primary_name": "William Shakespeare, Henry VI, Part 1",
+  "names": [
+    {
+      "name": "William Shakespeare, Henry VI, Part 1",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "History play in which Joan claims to be pregnant to escape death.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "Fiction based on hostile sources.",
+  "derives_from": [],
+  "authors": [
+    "William Shakespeare"
+  ],
+  "title": "Henry VI, Part 1",
+  "opened": false,
+  "reliability_notes": "Grade B: authorship is partly disputed (possible collaboration); date not given in the pilot doc."
+}

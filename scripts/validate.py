@@ -15,7 +15,9 @@ Checks (numbers follow SETUP_BRIEF.md, Step 2):
   4 DUP_SLUG       slugs are unique within each record type
     DUP_ID         IDs (records, claims, relationships) are unique across the whole tree
   5 DATE           earliest <= latest in every historicalDate
-  6 GRADE_A        an A claim needs 2+ independent sources and at least one citation with access "opened"
+  6 GRADE_A        an A claim needs 2+ independent sources (neither derives from the other, and no
+                   common source) and at least one citation with access "opened". A text or tradition
+                   claim instead needs one opened copy of the document or tradition itself.
     GRADE_UNCITED  a claim with no citations cannot be above C (so B needs at least one citation)
                    Rule 6 is an error once the claim's subject is "verified" or "reviewed";
                    while the subject is "draft" or "sourced" it is a warning.
@@ -47,6 +49,9 @@ ID_RE = re.compile(r"^(PER|CIV|POL|BAT|WAR|EQP|TAC|PRD|PLC|SRC|WRK|CLM|REL)-[0-9
 GRADES = "ABCDE"  # best to worst
 # Statuses at which claim grade rules (rule 6) are errors; below these they are warnings.
 ENFORCED_STATUSES = {"verified", "reviewed"}
+# Source types that count as the document or tradition itself (or a translation or record of it)
+# for text and tradition claims (rule 6).
+RECORD_OF_DOCUMENT = {"primary-contemporary", "primary-later", "archaeological", "oral-tradition", "statute", "translation"}
 
 # folder -> (ID prefix, record type); schema file is "<type>.schema.json"
 RECORD_FOLDERS = {
@@ -355,7 +360,13 @@ class DatabaseValidator:
         ancestors = self.source_ancestors()
 
         def independent(a, b):
-            return a != b and b not in ancestors.get(a, set()) and a not in ancestors.get(b, set())
+            # Neither derives from the other, and they share no source they both derive from.
+            line_a = ancestors.get(a, set()) | {a}
+            line_b = ancestors.get(b, set()) | {b}
+            return a != b and not (line_a & line_b)
+
+        source_types = {rid: lf.data.get("source_type") for rid, lf in self.records.items()
+                        if lf.data.get("type") == "source"}
 
         for cid, (claim, subject, f) in sorted(self.claims.items()):
             grade = claim.get("certainty")
@@ -373,12 +384,22 @@ class DatabaseValidator:
                 continue
             if grade != "A":
                 continue
+            if claim.get("claim_type") in ("text", "tradition"):
+                # A claim about what a document or tradition says needs one opened copy of it (or a
+                # translation or record of it); corroboration is not needed. A modern summary does not count.
+                if not any(c.get("access") == "opened" and source_types.get(c.get("source_id")) in RECORD_OF_DOCUMENT
+                           for c in citations):
+                    report("GRADE_A", f,
+                           f"{cid} is a {claim.get('claim_type')} claim graded A but cites no opened copy of the "
+                           f"document or tradition itself (source types: {', '.join(sorted(RECORD_OF_DOCUMENT))})")
+                continue
             sources = sorted({c.get("source_id") for c in citations if c.get("source_id") in ancestors})
             has_pair = any(independent(a, b) for i, a in enumerate(sources) for b in sources[i + 1:])
             if not has_pair:
                 report("GRADE_A", f,
                            f"{cid} is graded A but does not cite 2 independent sources "
-                           f"(cited: {', '.join(sources) or 'none that exist'}; sources that derive from one another count as one)")
+                           f"(cited: {', '.join(sources) or 'none that exist'}; sources that derive from one another, "
+                           f"or from a common source, count as one)")
             if not any(c.get("access") == "opened" for c in citations):
                 report("GRADE_A", f, f"{cid} is graded A but no citation has access 'opened'")
 

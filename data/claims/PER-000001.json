@@ -20,7 +20,8 @@
         }
       ],
       "evidence_status": "2 opened (Britannica, Williamson)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000002",
@@ -57,7 +58,8 @@
         }
       ],
       "evidence_status": "2 opened (McGrady, Williamson)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000004",
@@ -78,7 +80,8 @@
         }
       ],
       "evidence_status": "2 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000005",
@@ -99,7 +102,8 @@
         }
       ],
       "evidence_status": "2 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000006",
@@ -116,7 +120,8 @@
         }
       ],
       "evidence_status": "1 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000007",
@@ -133,7 +138,8 @@
         }
       ],
       "evidence_status": "1 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000008",
@@ -165,7 +171,8 @@
         }
       ],
       "evidence_status": "1 opened + search excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000010",
@@ -188,7 +195,8 @@
         }
       ],
       "evidence_status": "Failed attack: 2 opened; the wound: 1 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000011",
@@ -209,7 +217,8 @@
         }
       ],
       "evidence_status": "2 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000012",
@@ -226,7 +235,8 @@
         }
       ],
       "evidence_status": "1 opened; English accounts to locate",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000013",
@@ -245,7 +255,8 @@
         }
       ],
       "evidence_status": "Reviews of DeVries only. Flag note from the doc: hagiography (1456 testimony)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000014",
@@ -262,7 +273,8 @@
         }
       ],
       "evidence_status": "Conflicting sources",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000015",
@@ -295,7 +307,8 @@
         }
       ],
       "evidence_status": "2 opened",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000017",
@@ -305,9 +318,15 @@
       "certainty": "C",
       "verdict": "accepted",
       "bias_flags": [],
-      "citations": [],
+      "citations": [
+        {
+          "source_id": "SRC-000040",
+          "access": "excerpt"
+        }
+      ],
       "evidence_status": "Pilot doc grade A; restore when cited. Search excerpts (British Library, OUP)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000018",
@@ -324,7 +343,8 @@
         }
       ],
       "evidence_status": "1 opened + search excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000086",
@@ -336,7 +356,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: False (E). Evidence: Convicted as a relapsed heretic; witchcraft-style accusations were dropped before the final charges",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000087",
@@ -348,7 +369,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Misleading (C). Evidence: Trial evidence emphasises spinning and sewing; one relative said she also tended animals; she was a farmer's daughter",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000088",
@@ -360,7 +382,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Unsupported (D). Evidence: She testified that she carried her banner and had killed no one; no source contradicts this",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000089",
@@ -377,7 +400,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: False (E). Evidence: A later theory that she was a child of the House of Orléans; rejected by historians including DeVries",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000090",
@@ -391,10 +415,15 @@
         {
           "source_id": "SRC-000005",
           "access": "opened"
+        },
+        {
+          "source_id": "SRC-000044",
+          "access": "not-opened"
         }
       ],
       "evidence_status": "Myths table verdict: Embellished (D). Evidence: Michelet's invented scene, built from her earlier trial words (McGrady)",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000091",
@@ -404,9 +433,15 @@
       "certainty": "E",
       "verdict": "rejected-myth",
       "bias_flags": [],
-      "citations": [],
+      "citations": [
+        {
+          "source_id": "SRC-000045",
+          "access": "not-opened"
+        }
+      ],
       "evidence_status": "Myths table verdict: Fiction (E). Evidence: From Shakespeare's Henry VI, Part 1, based on hostile sources",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000092",
@@ -423,7 +458,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: False (B). Evidence: The 1431 record is a Latin translation of a French summary, only rarely verbatim (McGrady)",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000113",

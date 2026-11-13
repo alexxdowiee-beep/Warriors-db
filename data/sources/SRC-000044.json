@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000044",
+  "type": "source",
+  "slug": "michelet-joan-of-arc-1853",
+  "primary_name": "Jules Michelet, biography of Joan of Arc (1853)",
+  "names": [
+    {
+      "name": "Jules Michelet, biography of Joan of Arc (1853)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Biography that popularised Joan as a national hero after the Revolution.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "Mixed the trial records with novelistic invention; McGrady identifies an invented scene at her execution (CLM-000090).",
+  "derives_from": [],
+  "authors": [
+    "Jules Michelet"
+  ],
+  "year": 1853,
+  "opened": false,
+  "reliability_notes": "Title not given in the pilot doc. derives_from left empty: the doc says it used 'the trial records' without saying which."
+}

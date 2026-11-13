@@ -9,13 +9,16 @@
       "mentored",
       "allied_with",
       "rival_of",
-      "killed"
+      "killed",
+      "compare_with"
     ],
     "person-polity": [
       "ruled",
       "served",
       "founded",
-      "rebelled_against"
+      "rebelled_against",
+      "led",
+      "originated_from"
     ],
     "person-battle_or_war": [
       "commanded",
@@ -83,6 +86,9 @@
     "conquered": "conquered_by",
     "vassal_of": "overlord_of",
     "belongs_to": "includes_polity",
-    "during": "period_of"
+    "during": "period_of",
+    "compare_with": "compare_with",
+    "led": "led_by",
+    "originated_from": "origin_of"
   }
 }

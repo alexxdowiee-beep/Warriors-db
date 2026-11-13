@@ -16,7 +16,8 @@
         }
       ],
       "evidence_status": "1 opened (Shandong Museum) + excerpts on tomb dating",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000055",
@@ -37,7 +38,8 @@
         }
       ],
       "evidence_status": "1 opened (Giles, translating Shiji)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000056",
@@ -54,7 +56,8 @@
         }
       ],
       "evidence_status": "1 opened (Shandong Museum) + excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000057",
@@ -74,7 +77,8 @@
       "quiz_ready": true,
       "alternative_claim_ids": [
         "CLM-000107"
-      ]
+      ],
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000058",
@@ -97,7 +101,8 @@
         }
       ],
       "evidence_status": "Sima Qian only, c. 400 years later",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000059",
@@ -120,7 +125,8 @@
         }
       ],
       "evidence_status": "Sima Qian only",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000060",
@@ -147,7 +153,8 @@
         }
       ],
       "evidence_status": "Contradicted by the Zuo zhuan's silence",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "debate"
     },
     {
       "id": "CLM-000061",
@@ -172,7 +179,8 @@
         }
       ],
       "evidence_status": "Zuo zhuan and Shiji, via Giles",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000062",
@@ -193,7 +201,8 @@
         }
       ],
       "evidence_status": "1 opened (Giles)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000063",
@@ -216,7 +225,8 @@
         }
       ],
       "evidence_status": "Single late source; rejected by Ye Shi",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000064",
@@ -230,10 +240,15 @@
         {
           "source_id": "SRC-000031",
           "access": "opened"
+        },
+        {
+          "source_id": "SRC-000041",
+          "access": "via-secondary"
         }
       ],
       "evidence_status": "Giles; Ye Shi; excerpts",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000065",
@@ -254,7 +269,8 @@
         }
       ],
       "evidence_status": "1 opened (Giles)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000066",
@@ -268,7 +284,8 @@
       ],
       "citations": [],
       "evidence_status": "9th-century claim",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000067",
@@ -289,7 +306,8 @@
         }
       ],
       "evidence_status": "1 opened (Giles)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "plain-fact"
     },
     {
       "id": "CLM-000068",
@@ -306,10 +324,15 @@
         {
           "source_id": "SRC-000031",
           "access": "opened"
+        },
+        {
+          "source_id": "SRC-000042",
+          "access": "via-secondary"
         }
       ],
       "evidence_status": "1 opened (Giles, quoting Liu Xiang)",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000069",
@@ -323,7 +346,8 @@
       ],
       "citations": [],
       "evidence_status": "Pilot doc grade B; restore when cited. Full-text check pending",
-      "quiz_ready": true
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000104",
@@ -341,7 +365,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: True (A). Evidence: Chapter I",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000105",
@@ -359,7 +384,8 @@
         }
       ],
       "evidence_status": "Myths table verdict: True (A). Evidence: Chapter III, in substance; English wordings vary by translation",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000106",
@@ -371,7 +397,8 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Unsupported (D). Evidence: Often repeated; no evidence found that he read the French translation",
-      "quiz_ready": false
+      "quiz_ready": true,
+      "quiz_kind": "myth-busting"
     },
     {
       "id": "CLM-000107",
@@ -383,10 +410,11 @@
       "bias_flags": [],
       "citations": [],
       "evidence_status": "Myths table verdict: Disputed (C). Evidence: Most scholars date the text to the 5th–4th century BCE",
-      "quiz_ready": false,
+      "quiz_ready": true,
       "alternative_claim_ids": [
         "CLM-000057"
-      ]
+      ],
+      "quiz_kind": "myth-busting"
     }
   ]
 }
