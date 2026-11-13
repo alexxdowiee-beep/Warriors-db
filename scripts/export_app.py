@@ -6,9 +6,8 @@ Usage:
     python scripts/export_app.py --db X --out DIR
 
 The exporter only copies and joins what is in the database; it never writes historical text.
-Output is deterministic: the same database gives byte-identical files (sorted keys, sorted lists).
-"generated_at" in manifest.json is the database's build time (build_info.built_at), so a rebuild of
-unchanged data changes only that value and the bundle version.
+Output is deterministic: the same data gives byte-identical files (sorted keys, sorted lists), even
+after a rebuild. manifest.json records "data_updated", the latest "updated" date of any record.
 
 Files written (the old bundle is deleted first):
   manifest.json, index.json, timeline.json, search.json, vocab.json, redirects.json,
@@ -462,7 +461,10 @@ def export(db: Path, out_dir: Path) -> dict:
     h = hashlib.sha256()
     for path in sorted(blobs):
         h.update(path.encode() + b"\0" + blobs[path])
-    manifest = {"bundle_version": h.hexdigest()[:16], "generated_at": ex.built_at, "counts": ex.counts}
+    # data_updated: the latest "updated" date of any record, so an unchanged database always gives an
+    # identical bundle (a build timestamp would change on every rebuild).
+    updated = max((r.get("updated") or "" for r in ex.records.values()), default="") or None
+    manifest = {"bundle_version": h.hexdigest()[:16], "data_updated": updated, "counts": ex.counts}
     blobs["manifest.json"] = dump(manifest)
     # For the service worker (app/sw.js): the bundle version and every file to cache for offline use.
     files = sorted(blobs)  # every bundle file except sw-version.js itself
