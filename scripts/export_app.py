@@ -314,7 +314,9 @@ class Exporter:
             r = self.records[i]
             if r.get("type") != "person":
                 continue
-            out.append({"id": i, "primary_name": r.get("primary_name"), "roles": r.get("roles") or [],
+            primary = next((n for n in r.get("names") or [] if n.get("kind") == "primary"), {})
+            out.append({"id": i, "primary_name": r.get("primary_name"), "name_language": primary.get("language"),
+                        "roles": r.get("roles") or [],
                         "polities": self.refs(r.get("polity_ids")), "regions": r.get("regions") or [],
                         "era": era_of(r.get("active_period")), "active_period": r.get("active_period"),
                         "certainty": r.get("certainty"), "status": r.get("status"), "tags": r.get("tags") or [],
@@ -327,7 +329,9 @@ class Exporter:
             r = self.records[i]
             if r.get("type") == "person" and r.get("active_period"):
                 ap = r["active_period"]
-                people.append({"id": i, "name": r.get("primary_name"), "earliest": ap.get("earliest"),
+                primary = next((n for n in r.get("names") or [] if n.get("kind") == "primary"), {})
+                people.append({"id": i, "name": r.get("primary_name"), "name_language": primary.get("language"),
+                               "earliest": ap.get("earliest"),
                                "latest": ap.get("latest"), "display": ap.get("display"),
                                "certainty": ap.get("certainty"), "regions": r.get("regions") or [],
                                "era": era_of(ap)})
