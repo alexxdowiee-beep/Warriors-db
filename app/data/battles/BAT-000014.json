@@ -62,6 +62,84 @@
  "related_claims": [
   {
    "alternative_claim_ids": [],
+   "bias_flags": [
+    "inflated-numbers",
+    "patron-bias"
+   ],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000015",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000017",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "2 opened (Polybius, DCC repeating Polybius)",
+   "field": "casualties",
+   "id": "CLM-000026",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
+   "statement": "About 70,000 Romans died at Cannae",
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "inflated-numbers"
+   ],
+   "certainty": "C",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000015",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (Polybius)",
+   "field": "casualties",
+   "id": "CLM-000027",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
+   "statement": "Hannibal lost about 5,700 at Cannae",
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
    "bias_flags": [],
    "certainty": "A",
    "citations": [

@@ -4,6 +4,8 @@ import { resolveId } from './data.js';
 import { renderHome } from './views/home.js';
 import { renderPending } from './views/pending.js';
 import { renderPerson } from './views/person.js';
+import { renderBattle, renderWar, renderSource, renderLinked, renderList } from './views/records.js';
+import { renderSearch } from './views/search.js';
 
 const view = document.getElementById('view');
 const ROUTE_KINDS = { person: 'PER', battle: 'BAT', war: 'WAR', source: 'SRC', polity: 'POL', place: 'PLC',
@@ -13,10 +15,10 @@ const ROUTE_KINDS = { person: 'PER', battle: 'BAT', war: 'WAR', source: 'SRC', p
 const routes = [
   { pattern: /^$/, section: 'explore', render: () => renderHome(view) },
   { pattern: /^people$/, section: 'people', render: () => renderHome(view, { timelineOn: false }) },
-  { pattern: /^battles$/, section: 'battles', render: () => renderPending(view, 'Battles', 5) },
-  { pattern: /^wars$/, section: 'wars', render: () => renderPending(view, 'Wars', 5) },
-  { pattern: /^sources$/, section: 'sources', render: () => renderPending(view, 'Sources', 5) },
-  { pattern: /^search$/, section: null, render: () => renderPending(view, 'Search', 5) },
+  { pattern: /^battles$/, section: 'battles', render: () => renderList(view, 'battles') },
+  { pattern: /^wars$/, section: 'wars', render: () => renderList(view, 'wars') },
+  { pattern: /^sources$/, section: 'sources', render: () => renderList(view, 'sources') },
+  { pattern: /^search$/, section: null, render: () => renderSearch(view) },
   {
     pattern: /^(person|battle|war|source|polity|place|civilisation|work)\/([A-Z]{3}-\d{6})$/,
     section: null,
@@ -29,8 +31,8 @@ const routes = [
         return;
       }
       window.scrollTo(0, 0);
-      if (kind === 'person') await renderPerson(view, id);
-      else renderPending(view, `${kind[0].toUpperCase()}${kind.slice(1)} ${id}`, 5);
+      const pages = { person: renderPerson, battle: renderBattle, war: renderWar, source: renderSource };
+      await (pages[kind] || renderLinked)(view, id);
     },
   },
 ];
@@ -98,6 +100,7 @@ document.getElementById('search-form').addEventListener('submit', (event) => {
   event.preventDefault();
   const q = searchInput.value.trim();
   if (q) location.hash = `#/search?q=${encodeURIComponent(q)}`;
+  searchInput.value = '';
 });
 
 // "/" focuses the search box, unless the reader is already typing somewhere.

@@ -100,6 +100,41 @@
     "type": "person"
    },
    "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "hostile-source",
+    "inflated-numbers"
+   ],
+   "certainty": "D",
+   "citations": [
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000017",
+     "source_type": "reference",
+     "tier": "reference",
+     "title": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "1 opened (DCC)",
+   "field": "casualties",
+   "id": "CLM-000032",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
+   "statement": "Roman losses at Zama under 2,000, Carthaginian about ten times that",
+   "subject": {
+    "id": "PER-000002",
+    "name": "Hannibal Barca",
+    "type": "person"
+   },
+   "verdict": "disputed"
   }
  ],
  "sides": [

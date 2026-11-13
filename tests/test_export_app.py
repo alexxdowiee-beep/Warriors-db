@@ -79,10 +79,13 @@ class Export(unittest.TestCase):
         self.assertEqual(list(first.values()), list(second.values()))
 
     def test_contract_files_exist(self):
-        for name in ("manifest.json", "index.json", "timeline.json", "search.json", "vocab.json", "redirects.json"):
+        for name in ("manifest.json", "index.json", "timeline.json", "search.json", "vocab.json", "redirects.json",
+                     "lists.json"):
             self.assertIn(name, self.bundle)
         manifest = self.bundle["manifest.json"]
         self.assertEqual(manifest["counts"]["people"], len(self.bundle["index.json"]))
+        for kind in ("battles", "wars", "sources", "polities", "places", "civilisations"):
+            self.assertEqual(len(self.bundle["lists.json"][kind]), manifest["counts"][kind], kind)
         self.assertTrue(manifest["bundle_version"])
 
     def test_every_claim_has_grade_and_type(self):

@@ -1,0 +1,3989 @@
+{
+ "battles": [
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "claim_ids": [
+     "CLM-000061"
+    ],
+    "display": "506 BCE",
+    "earliest": -505,
+    "latest": -505,
+    "precision": "year"
+   },
+   "id": "BAT-000020",
+   "kind": "unknown",
+   "name": "Boju and the capture of Ying",
+   "place": {
+    "id": "PLC-000022",
+    "name": "Boju",
+    "type": "place"
+   },
+   "result": "Decisive victory (for Wu)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000007",
+    "name": "Wars between Wu and Chu",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "219 BCE",
+    "earliest": -218,
+    "latest": -218,
+    "precision": "year"
+   },
+   "id": "BAT-000010",
+   "kind": "siege",
+   "name": "Siege of Saguntum",
+   "place": {
+    "id": "PLC-000012",
+    "name": "Saguntum",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "218 BCE",
+    "earliest": -217,
+    "latest": -217,
+    "precision": "year"
+   },
+   "id": "BAT-000011",
+   "kind": "skirmish",
+   "name": "Ticinus",
+   "place": {
+    "id": "PLC-000013",
+    "name": "Ticinus",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000004",
+    "name": "Second Punic War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "December 218 BCE",
+    "earliest": -217,
+    "latest": -217,
+    "month": 12,
+    "precision": "month"
+   },
+   "id": "BAT-000012",
+   "kind": "field-battle",
+   "name": "Trebia",
+   "place": {
+    "id": "PLC-000014",
+    "name": "Trebia",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000004",
+    "name": "Second Punic War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "217 BCE",
+    "earliest": -216,
+    "latest": -216,
+    "precision": "year"
+   },
+   "id": "BAT-000013",
+   "kind": "ambush",
+   "name": "Lake Trasimene",
+   "place": {
+    "id": "PLC-000015",
+    "name": "Lake Trasimene",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000004",
+    "name": "Second Punic War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "216 BCE",
+    "earliest": -215,
+    "latest": -215,
+    "precision": "year"
+   },
+   "id": "BAT-000014",
+   "kind": "field-battle",
+   "name": "Cannae",
+   "place": {
+    "id": "PLC-000016",
+    "name": "Cannae",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000004",
+    "name": "Second Punic War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "202 BCE",
+    "earliest": -201,
+    "latest": -201,
+    "precision": "year"
+   },
+   "id": "BAT-000016",
+   "kind": "field-battle",
+   "name": "Zama",
+   "place": {
+    "id": "PLC-000018",
+    "name": "Zama",
+    "type": "place"
+   },
+   "result": "Defeat",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000004",
+    "name": "Second Punic War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "190 BCE",
+    "earliest": -189,
+    "latest": -189,
+    "precision": "year"
+   },
+   "id": "BAT-000017",
+   "kind": "naval",
+   "name": "Naval battle off Pamphylia",
+   "place": {
+    "id": "PLC-000019",
+    "name": "Pamphylia",
+    "type": "place"
+   },
+   "result": "Defeat (his wing held)",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1203",
+    "earliest": 1203,
+    "latest": 1203,
+    "precision": "year"
+   },
+   "id": "BAT-000033",
+   "kind": "unknown",
+   "name": "Defeat of Toghril and the Kereit",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1204",
+    "earliest": 1204,
+    "latest": 1204,
+    "precision": "year"
+   },
+   "id": "BAT-000034",
+   "kind": "unknown",
+   "name": "Defeat of the Naiman",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1215",
+    "earliest": 1215,
+    "latest": 1215,
+    "precision": "year"
+   },
+   "id": "BAT-000035",
+   "kind": "siege",
+   "name": "Fall of Zhongdu",
+   "place": {
+    "id": "PLC-000036",
+    "name": "Zhongdu",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000016",
+    "name": "War against the Jin",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1219–1220",
+    "earliest": 1219,
+    "latest": 1220,
+    "precision": "year"
+   },
+   "id": "BAT-000036",
+   "kind": "siege",
+   "name": "Capture of Otrar",
+   "place": {
+    "id": "PLC-000034",
+    "name": "Otrar",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000017",
+    "name": "Invasion of Khwarazm",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1221",
+    "earliest": 1221,
+    "latest": 1221,
+    "precision": "year"
+   },
+   "id": "BAT-000037",
+   "kind": "field-battle",
+   "name": "Battle of the Indus",
+   "place": {
+    "id": "PLC-000035",
+    "name": "Indus River",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000017",
+    "name": "Invasion of Khwarazm",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "May 1223",
+    "earliest": 1223,
+    "latest": 1223,
+    "month": 5,
+    "precision": "month"
+   },
+   "id": "BAT-000039",
+   "kind": "field-battle",
+   "name": "Kalka River",
+   "place": {
+    "id": "PLC-000038",
+    "name": "Kalka River",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000018",
+    "name": "Western raid of Jebe and Subutai",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1227",
+    "earliest": 1227,
+    "latest": 1227,
+    "precision": "year"
+   },
+   "id": "BAT-000038",
+   "kind": "siege",
+   "name": "Siege of Zhongxing",
+   "place": {
+    "id": "PLC-000037",
+    "name": "Zhongxing",
+    "type": "place"
+   },
+   "result": "Fell after his death",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1232–1233",
+    "earliest": 1232,
+    "latest": 1233,
+    "precision": "year"
+   },
+   "id": "BAT-000040",
+   "kind": "siege",
+   "name": "Siege of Kaifeng",
+   "place": {
+    "id": "PLC-000039",
+    "name": "Kaifeng",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000016",
+    "name": "War against the Jin",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "C",
+    "claim_ids": [
+     "CLM-000042"
+    ],
+    "display": "c. 1235",
+    "earliest": 1235,
+    "latest": 1235,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000018",
+   "kind": "field-battle",
+   "name": "Kirina",
+   "place": {
+    "id": "PLC-000021",
+    "name": "Kirina",
+    "type": "place"
+   },
+   "result": "Decisive victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000005",
+    "name": "Mande revolt against Sosso rule",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "December 1237",
+    "earliest": 1237,
+    "latest": 1237,
+    "month": 12,
+    "precision": "month"
+   },
+   "id": "BAT-000041",
+   "kind": "siege",
+   "name": "Fall of Ryazan",
+   "place": {
+    "id": "PLC-000040",
+    "name": "Ryazan",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "March 1238",
+    "earliest": 1238,
+    "latest": 1238,
+    "month": 3,
+    "precision": "month"
+   },
+   "id": "BAT-000042",
+   "kind": "field-battle",
+   "name": "Sit River",
+   "place": {
+    "id": "PLC-000041",
+    "name": "Sit River",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "April 1241",
+    "earliest": 1241,
+    "latest": 1241,
+    "month": 4,
+    "precision": "month"
+   },
+   "id": "BAT-000043",
+   "kind": "field-battle",
+   "name": "Mohi (Sajó River)",
+   "place": {
+    "id": "PLC-000042",
+    "name": "Mohi",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000019",
+    "name": "Great western campaign",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "February 1250",
+    "earliest": 1250,
+    "latest": 1250,
+    "month": 2,
+    "precision": "month"
+   },
+   "id": "BAT-000044",
+   "kind": "field-battle",
+   "name": "Al-Mansurah",
+   "place": {
+    "id": "PLC-000043",
+    "name": "al-Mansurah",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 3,
+    "display": "3 September 1260",
+    "earliest": 1260,
+    "latest": 1260,
+    "month": 9,
+    "precision": "day"
+   },
+   "id": "BAT-000045",
+   "kind": "field-battle",
+   "name": "Ain Jalut",
+   "place": {
+    "id": "PLC-000044",
+    "name": "Ain Jalut",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1266",
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year"
+   },
+   "id": "BAT-000046",
+   "kind": "siege",
+   "name": "Fall of Safed",
+   "place": {
+    "id": "PLC-000045",
+    "name": "Safed",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1266",
+    "earliest": 1266,
+    "latest": 1266,
+    "precision": "year"
+   },
+   "id": "BAT-000047",
+   "kind": "raid",
+   "name": "Invasion of Cilician Armenia",
+   "place": null,
+   "result": "Devastation",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1268",
+    "earliest": 1268,
+    "latest": 1268,
+    "precision": "year"
+   },
+   "id": "BAT-000048",
+   "kind": "siege",
+   "name": "Fall of Antioch",
+   "place": {
+    "id": "PLC-000046",
+    "name": "Antioch",
+    "type": "place"
+   },
+   "result": "Captured; city destroyed",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "C",
+    "display": "1270 or 1271",
+    "earliest": 1270,
+    "latest": 1271,
+    "precision": "year",
+    "qualifier": "between"
+   },
+   "id": "BAT-000049",
+   "kind": "siege",
+   "name": "Krak des Chevaliers",
+   "place": {
+    "id": "PLC-000047",
+    "name": "Krak des Chevaliers",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000020",
+    "name": "Campaigns against the crusader states",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "C",
+    "display": "1277",
+    "earliest": 1277,
+    "latest": 1277,
+    "precision": "year"
+   },
+   "id": "BAT-000050",
+   "kind": "field-battle",
+   "name": "Invasion of Anatolia",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1285",
+    "earliest": 1285,
+    "latest": 1285,
+    "precision": "year"
+   },
+   "id": "BAT-000051",
+   "kind": "field-battle",
+   "name": "Chương Dương",
+   "place": {
+    "id": "PLC-000048",
+    "name": "Chương Dương",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000022",
+    "name": "Second Mongol-Yuan invasion of Đại Việt",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1285",
+    "earliest": 1285,
+    "latest": 1285,
+    "precision": "year"
+   },
+   "id": "BAT-000052",
+   "kind": "field-battle",
+   "name": "Tây Kết",
+   "place": {
+    "id": "PLC-000049",
+    "name": "Tây Kết",
+    "type": "place"
+   },
+   "result": "Victory; Sogetu killed",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000022",
+    "name": "Second Mongol-Yuan invasion of Đại Việt",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1287–1288",
+    "earliest": 1287,
+    "latest": 1288,
+    "precision": "year"
+   },
+   "id": "BAT-000053",
+   "kind": "naval",
+   "name": "Capture of the Yuan supply fleet",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000023",
+    "name": "Third Mongol-Yuan invasion of Đại Việt",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1288",
+    "earliest": 1288,
+    "latest": 1288,
+    "precision": "year"
+   },
+   "id": "BAT-000054",
+   "kind": "naval",
+   "name": "Bạch Đằng River",
+   "place": {
+    "id": "PLC-000050",
+    "name": "Bạch Đằng River",
+    "type": "place"
+   },
+   "result": "Victory; fleet destroyed",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000023",
+    "name": "Third Mongol-Yuan invasion of Đại Việt",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1395",
+    "earliest": 1395,
+    "latest": 1395,
+    "precision": "year"
+   },
+   "id": "BAT-000055",
+   "kind": "field-battle",
+   "name": "Battle of 1395 against Tokhtamysh",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000025",
+    "name": "Wars against Tokhtamysh",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 17,
+    "display": "17 December 1398",
+    "earliest": 1398,
+    "latest": 1398,
+    "month": 12,
+    "precision": "day"
+   },
+   "id": "BAT-000056",
+   "kind": "field-battle",
+   "name": "Defeat of the Delhi sultan's army",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000026",
+    "name": "Invasion of India",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1400",
+    "earliest": 1400,
+    "latest": 1400,
+    "precision": "year"
+   },
+   "id": "BAT-000057",
+   "kind": "assault",
+   "name": "Sack of Aleppo",
+   "place": {
+    "id": "PLC-000051",
+    "name": "Aleppo",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1401",
+    "earliest": 1401,
+    "latest": 1401,
+    "precision": "year"
+   },
+   "id": "BAT-000058",
+   "kind": "siege",
+   "name": "Occupation of Damascus",
+   "place": {
+    "id": "PLC-000052",
+    "name": "Damascus",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1401",
+    "earliest": 1401,
+    "latest": 1401,
+    "precision": "year"
+   },
+   "id": "BAT-000059",
+   "kind": "assault",
+   "name": "Sack of Baghdad",
+   "place": {
+    "id": "PLC-000053",
+    "name": "Baghdad",
+    "type": "place"
+   },
+   "result": "Captured; massacre",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "July 1402",
+    "earliest": 1402,
+    "latest": 1402,
+    "month": 7,
+    "precision": "month"
+   },
+   "id": "BAT-000060",
+   "kind": "field-battle",
+   "name": "Ankara",
+   "place": {
+    "id": "PLC-000054",
+    "name": "Ankara",
+    "type": "place"
+   },
+   "result": "Victory; Bayezid I captured",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "29 April – 8 May 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000001",
+   "kind": "siege",
+   "name": "Siege of Orléans (relief)",
+   "place": {
+    "id": "PLC-000003",
+    "name": "Orléans",
+    "type": "place"
+   },
+   "result": "Victory (for Joan of Arc's side)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "11–12 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000002",
+   "kind": "assault",
+   "name": "Jargeau",
+   "place": {
+    "id": "PLC-000004",
+    "name": "Jargeau",
+    "type": "place"
+   },
+   "result": "Victory (for Joan of Arc's side)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000002",
+    "name": "Loire campaign (1429)",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "day": 17,
+    "display": "17 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "day"
+   },
+   "id": "BAT-000003",
+   "kind": "siege",
+   "name": "Beaugency",
+   "place": {
+    "id": "PLC-000005",
+    "name": "Beaugency",
+    "type": "place"
+   },
+   "result": "English garrison surrendered",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000002",
+    "name": "Loire campaign (1429)",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "day": 18,
+    "display": "18 June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "day"
+   },
+   "id": "BAT-000004",
+   "kind": "field-battle",
+   "name": "Patay",
+   "place": {
+    "id": "PLC-000006",
+    "name": "Patay",
+    "type": "place"
+   },
+   "result": "Victory (for Joan of Arc's side)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000002",
+    "name": "Loire campaign (1429)",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "14–15 August 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day"
+   },
+   "id": "BAT-000005",
+   "kind": "standoff",
+   "name": "Montépilloy",
+   "place": {
+    "id": "PLC-000007",
+    "name": "Montépilloy",
+    "type": "place"
+   },
+   "result": "Inconclusive",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 8,
+    "display": "8 September 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 9,
+    "precision": "day"
+   },
+   "id": "BAT-000006",
+   "kind": "assault",
+   "name": "Paris",
+   "place": {
+    "id": "PLC-000008",
+    "name": "Paris",
+    "type": "place"
+   },
+   "result": "Failed",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "November 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 11,
+    "precision": "month"
+   },
+   "id": "BAT-000007",
+   "kind": "assault",
+   "name": "Saint-Pierre-le-Moûtier",
+   "place": {
+    "id": "PLC-000009",
+    "name": "Saint-Pierre-le-Moûtier",
+    "type": "place"
+   },
+   "result": "Victory (for Joan of Arc's side)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "November–December 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "month"
+   },
+   "id": "BAT-000008",
+   "kind": "siege",
+   "name": "La Charité-sur-Loire",
+   "place": {
+    "id": "PLC-000010",
+    "name": "La Charité-sur-Loire",
+    "type": "place"
+   },
+   "result": "Failed",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "day": 23,
+    "display": "23 May 1430",
+    "earliest": 1430,
+    "latest": 1430,
+    "month": 5,
+    "precision": "day"
+   },
+   "id": "BAT-000009",
+   "kind": "sortie",
+   "name": "Compiègne",
+   "place": {
+    "id": "PLC-000011",
+    "name": "Compiègne",
+    "type": "place"
+   },
+   "result": "Defeat (for Joan of Arc's side)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1820",
+    "earliest": 1820,
+    "latest": 1820,
+    "precision": "year"
+   },
+   "id": "BAT-000021",
+   "kind": "siege",
+   "name": "Siege of Te Arawī",
+   "place": {
+    "id": "PLC-000023",
+    "name": "Te Arawī",
+    "type": "place"
+   },
+   "result": "Negotiated withdrawal",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000010",
+    "name": "Ngāti Toa–Waikato wars at Kāwhia",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "late 1821 or early 1822",
+    "earliest": 1821,
+    "latest": 1822,
+    "precision": "year",
+    "qualifier": "between"
+   },
+   "id": "BAT-000022",
+   "kind": "unknown",
+   "name": "Motunui",
+   "place": {
+    "id": "PLC-000024",
+    "name": "Motunui",
+    "type": "place"
+   },
+   "result": "Victory (with Te Āti Awa, Ngāti Tama)",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000009",
+    "name": "Musket Wars",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1822",
+    "earliest": 1822,
+    "latest": 1822,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000023",
+   "kind": "unknown",
+   "name": "Horowhenua lakes",
+   "place": {
+    "id": "PLC-000025",
+    "name": "Horowhenua lakes",
+    "type": "place"
+   },
+   "result": "Victory; massacre",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000012",
+    "name": "Te Heke Tātaramoa",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1822–24",
+    "earliest": 1822,
+    "latest": 1824,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000024",
+   "kind": "massacre",
+   "name": "Hotuiti",
+   "place": {
+    "id": "PLC-000026",
+    "name": "Hotuiti",
+    "type": "place"
+   },
+   "result": "Killing after false peace offer",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000012",
+    "name": "Te Heke Tātaramoa",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1824",
+    "earliest": 1824,
+    "latest": 1824,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000025",
+   "kind": "unknown",
+   "name": "Waiorua, Kāpiti",
+   "place": {
+    "id": "PLC-000027",
+    "name": "Waiorua, Kāpiti Island",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000009",
+    "name": "Musket Wars",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1828",
+    "earliest": 1828,
+    "latest": 1828,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000026",
+   "kind": "unknown",
+   "name": "Hikapu, Pelorus Sound",
+   "place": {
+    "id": "PLC-000028",
+    "name": "Hikapu, Pelorus Sound",
+    "type": "place"
+   },
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000013",
+    "name": "Te Rauparaha's South Island campaigns",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "c. 1828–29",
+    "earliest": 1828,
+    "latest": 1829,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "id": "BAT-000027",
+   "kind": "unknown",
+   "name": "First attack on Kaiapoi",
+   "place": {
+    "id": "PLC-000029",
+    "name": "Kaiapoi pā",
+    "type": "place"
+   },
+   "result": "Defeat; chiefs killed",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000013",
+    "name": "Te Rauparaha's South Island campaigns",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "C",
+   "date": {
+    "certainty": "C",
+    "display": "1830s",
+    "earliest": 1830,
+    "latest": 1839,
+    "precision": "decade"
+   },
+   "id": "BAT-000030",
+   "kind": "unknown",
+   "name": "Ōraumoaiti and Ōraumoanui",
+   "place": null,
+   "result": "Inconclusive",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000013",
+    "name": "Te Rauparaha's South Island campaigns",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1831–32",
+    "earliest": 1831,
+    "latest": 1832,
+    "precision": "year"
+   },
+   "id": "BAT-000028",
+   "kind": "siege",
+   "name": "Kaiapoi siege",
+   "place": {
+    "id": "PLC-000029",
+    "name": "Kaiapoi pā",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000013",
+    "name": "Te Rauparaha's South Island campaigns",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "display": "1832",
+    "earliest": 1832,
+    "latest": 1832,
+    "precision": "year"
+   },
+   "id": "BAT-000029",
+   "kind": "unknown",
+   "name": "Ōnawe, Akaroa",
+   "place": {
+    "id": "PLC-000030",
+    "name": "Ōnawe, Akaroa",
+    "type": "place"
+   },
+   "result": "Captured",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000013",
+    "name": "Te Rauparaha's South Island campaigns",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "B",
+   "date": {
+    "certainty": "B",
+    "day": 16,
+    "display": "16 October 1839",
+    "earliest": 1839,
+    "latest": 1839,
+    "month": 10,
+    "precision": "day"
+   },
+   "id": "BAT-000031",
+   "kind": "unknown",
+   "name": "Te Kūititanga, Waikanae",
+   "place": {
+    "id": "PLC-000031",
+    "name": "Te Kūititanga, Waikanae",
+    "type": "place"
+   },
+   "result": "Allies defeated",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000009",
+    "name": "Musket Wars",
+    "type": "war"
+   }
+  },
+  {
+   "certainty": "A",
+   "date": {
+    "certainty": "A",
+    "display": "1843",
+    "earliest": 1843,
+    "latest": 1843,
+    "precision": "year"
+   },
+   "id": "BAT-000032",
+   "kind": "unknown",
+   "name": "Wairau (1843)",
+   "place": {
+    "id": "PLC-000032",
+    "name": "Wairau plains",
+    "type": "place"
+   },
+   "result": "The settlers surrendered; Te Rangihaeata then killed them in revenge for the killing of his wife, Te Rongo.",
+   "status": "draft",
+   "war": null
+  },
+  {
+   "certainty": "C",
+   "date": null,
+   "id": "BAT-000019",
+   "kind": "unknown",
+   "name": "Taking of the Sosso capital",
+   "place": null,
+   "result": "Victory",
+   "status": "draft",
+   "war": {
+    "id": "WAR-000005",
+    "name": "Mande revolt against Sosso rule",
+    "type": "war"
+   }
+  }
+ ],
+ "civilisations": [
+  {
+   "certainty": "A",
+   "id": "CIV-000001",
+   "name": "Kipchaks",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "CIV-000002",
+   "name": "Arabic-speaking world",
+   "status": "draft"
+  }
+ ],
+ "places": [
+  {
+   "certainty": "A",
+   "id": "PLC-000001",
+   "location_certainty": "A",
+   "name": "Domrémy",
+   "place_type": "village",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000002",
+   "location_certainty": "A",
+   "name": "Rouen",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000003",
+   "location_certainty": "A",
+   "name": "Orléans",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000004",
+   "location_certainty": "A",
+   "name": "Jargeau",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000005",
+   "location_certainty": "A",
+   "name": "Beaugency",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000006",
+   "location_certainty": "A",
+   "name": "Patay",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000007",
+   "location_certainty": "A",
+   "name": "Montépilloy",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000008",
+   "location_certainty": "A",
+   "name": "Paris",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000009",
+   "location_certainty": "A",
+   "name": "Saint-Pierre-le-Moûtier",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000010",
+   "location_certainty": "A",
+   "name": "La Charité-sur-Loire",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000011",
+   "location_certainty": "A",
+   "name": "Compiègne",
+   "place_type": "town",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000012",
+   "location_certainty": "A",
+   "name": "Saguntum",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000013",
+   "location_certainty": "A",
+   "name": "Ticinus",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000014",
+   "location_certainty": "A",
+   "name": "Trebia",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000015",
+   "location_certainty": "A",
+   "name": "Lake Trasimene",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000016",
+   "location_certainty": "A",
+   "name": "Cannae",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000017",
+   "location_certainty": "A",
+   "name": "Rome",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "C",
+   "id": "PLC-000018",
+   "location_certainty": "C",
+   "name": "Zama",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000019",
+   "location_certainty": "B",
+   "name": "Pamphylia",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000020",
+   "location_certainty": "B",
+   "name": "Libyssa",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000021",
+   "location_certainty": "B",
+   "name": "Kirina",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "C",
+   "id": "PLC-000022",
+   "location_certainty": "C",
+   "name": "Boju",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000023",
+   "location_certainty": "B",
+   "name": "Te Arawī",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000024",
+   "location_certainty": "A",
+   "name": "Motunui",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000025",
+   "location_certainty": "A",
+   "name": "Horowhenua lakes",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "C",
+   "id": "PLC-000026",
+   "location_certainty": "C",
+   "name": "Hotuiti",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000027",
+   "location_certainty": "A",
+   "name": "Waiorua, Kāpiti Island",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000028",
+   "location_certainty": "A",
+   "name": "Hikapu, Pelorus Sound",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000029",
+   "location_certainty": "A",
+   "name": "Kaiapoi pā",
+   "place_type": "pā",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000030",
+   "location_certainty": "A",
+   "name": "Ōnawe, Akaroa",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000031",
+   "location_certainty": "B",
+   "name": "Te Kūititanga, Waikanae",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000032",
+   "location_certainty": "A",
+   "name": "Wairau plains",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000033",
+   "location_certainty": "A",
+   "name": "Ōtaki",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000034",
+   "location_certainty": "A",
+   "name": "Otrar",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000035",
+   "location_certainty": "A",
+   "name": "Indus River",
+   "place_type": "river",
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000036",
+   "location_certainty": "B",
+   "name": "Zhongdu",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000037",
+   "location_certainty": "B",
+   "name": "Zhongxing",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000038",
+   "location_certainty": "B",
+   "name": "Kalka River",
+   "place_type": "river",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000039",
+   "location_certainty": "A",
+   "name": "Kaifeng",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000040",
+   "location_certainty": "B",
+   "name": "Ryazan",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000041",
+   "location_certainty": "A",
+   "name": "Sit River",
+   "place_type": "river",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000042",
+   "location_certainty": "A",
+   "name": "Mohi",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000043",
+   "location_certainty": "A",
+   "name": "al-Mansurah",
+   "place_type": "town",
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000044",
+   "location_certainty": "B",
+   "name": "Ain Jalut",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000045",
+   "location_certainty": "A",
+   "name": "Safed",
+   "place_type": "fortress",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000046",
+   "location_certainty": "A",
+   "name": "Antioch",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000047",
+   "location_certainty": "A",
+   "name": "Krak des Chevaliers",
+   "place_type": "castle",
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000048",
+   "location_certainty": "B",
+   "name": "Chương Dương",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "PLC-000049",
+   "location_certainty": "B",
+   "name": "Tây Kết",
+   "place_type": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000050",
+   "location_certainty": "A",
+   "name": "Bạch Đằng River",
+   "place_type": "river",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000051",
+   "location_certainty": "A",
+   "name": "Aleppo",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000052",
+   "location_certainty": "A",
+   "name": "Damascus",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000053",
+   "location_certainty": "A",
+   "name": "Baghdad",
+   "place_type": "city",
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "PLC-000054",
+   "location_certainty": "A",
+   "name": "Ankara",
+   "place_type": "city",
+   "status": "draft"
+  }
+ ],
+ "polities": [
+  {
+   "certainty": "A",
+   "id": "POL-000001",
+   "name": "Kingdom of France",
+   "polity_type": "kingdom",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000002",
+   "name": "England",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000003",
+   "name": "Duchy of Burgundy",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000004",
+   "name": "Carthage",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000005",
+   "name": "Rome",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000006",
+   "name": "Saguntum",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000007",
+   "name": "Seleucid kingdom",
+   "polity_type": "kingdom",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000008",
+   "name": "Bithynia",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000009",
+   "name": "Rhodes",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000010",
+   "name": "Mali Empire",
+   "polity_type": "empire",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "POL-000011",
+   "name": "Sosso",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000012",
+   "name": "Wu",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000013",
+   "name": "Chu",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000014",
+   "name": "Qi",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000015",
+   "name": "Ngāti Toa Rangatira",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000016",
+   "name": "Ngāti Raukawa",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000017",
+   "name": "Waikato",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000018",
+   "name": "Ngāti Maniapoto",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000019",
+   "name": "Te Āti Awa",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000020",
+   "name": "Ngāti Tama",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000021",
+   "name": "Muaūpoko",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000022",
+   "name": "Rangitāne",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000023",
+   "name": "Ngāi Tahu",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000024",
+   "name": "Ngāti Kuia",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000025",
+   "name": "Ngāti Apa",
+   "polity_type": "iwi",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000026",
+   "name": "Mongol Empire",
+   "polity_type": "empire",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000027",
+   "name": "Ilkhanate",
+   "polity_type": "other",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000028",
+   "name": "Golden Horde",
+   "polity_type": "other",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000029",
+   "name": "Yuan dynasty",
+   "polity_type": "empire",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000030",
+   "name": "Mamluk Sultanate",
+   "polity_type": "sultanate",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000031",
+   "name": "Khwarazmian Empire",
+   "polity_type": "empire",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000032",
+   "name": "Ottoman Empire",
+   "polity_type": "empire",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000033",
+   "name": "Kereit",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000034",
+   "name": "Naiman",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000035",
+   "name": "Xi Xia",
+   "polity_type": "kingdom",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000036",
+   "name": "Jin dynasty",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000037",
+   "name": "Rus' principalities",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000038",
+   "name": "Principality of Ryazan",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000039",
+   "name": "Vladimir-Suzdal",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000040",
+   "name": "Kingdom of Hungary",
+   "polity_type": "kingdom",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000041",
+   "name": "Poland",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000042",
+   "name": "Principality of Antioch",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000043",
+   "name": "Kingdom of Cilician Armenia",
+   "polity_type": "kingdom",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000044",
+   "name": "Knights Templar",
+   "polity_type": "other",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000045",
+   "name": "Knights Hospitaller",
+   "polity_type": "other",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000046",
+   "name": "Đại Việt",
+   "polity_type": "kingdom",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000047",
+   "name": "Delhi Sultanate",
+   "polity_type": "sultanate",
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000048",
+   "name": "Jalayirids",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000049",
+   "name": "Timurid realm",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000050",
+   "name": "Mongolia",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000051",
+   "name": "Vietnam",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000052",
+   "name": "Uzbekistan",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000053",
+   "name": "Syria",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "POL-000054",
+   "name": "Iran",
+   "polity_type": null,
+   "span": null,
+   "status": "draft"
+  }
+ ],
+ "sources": [
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000001",
+   "name": "Condemnation trial record (Rouen), 1431",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000002",
+   "name": "Nullification (rehabilitation) trial dossier, 1452–1456",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000003",
+   "name": "Joan of Arc's dictated letters",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Enguerrand de Monstrelet",
+    "Perceval de Cagny"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000004",
+   "name": "Burgundian and French chronicles (e.g. Monstrelet, Perceval de Cagny)",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Deborah McGrady"
+   ],
+   "certainty": "A",
+   "cited": 11,
+   "id": "SRC-000005",
+   "name": "Deborah McGrady, \"The Trials of Joan of Arc\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Allen Williamson"
+   ],
+   "certainty": "A",
+   "cited": 11,
+   "id": "SRC-000006",
+   "name": "Allen Williamson, \"Biography of Joan of Arc\"",
+   "opened": true,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 6,
+   "id": "SRC-000007",
+   "name": "\"Saint Joan of Arc\", Encyclopaedia Britannica",
+   "opened": true,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Kelly DeVries"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000008",
+   "name": "Kelly DeVries, Joan of Arc: A Military Leader",
+   "opened": false,
+   "source_type": "academic-book",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Régine Pernoud"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000009",
+   "name": "Régine Pernoud, Joan of Arc by Herself and Her Witnesses",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Polybius"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000010",
+   "name": "Polybius, Histories",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Livy"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000011",
+   "name": "Livy, History of Rome, books 21–30",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Cornelius Nepos"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000012",
+   "name": "Cornelius Nepos, Life of Hannibal",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Appian",
+    "Cassius Dio"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000013",
+   "name": "Appian, Cassius Dio and others",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Silenus",
+    "Sosylus",
+    "Hannibal"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000014",
+   "name": "Silenus, Sosylus, and Hannibal's own writings",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Polybius"
+   ],
+   "certainty": "A",
+   "cited": 3,
+   "id": "SRC-000015",
+   "name": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)",
+   "opened": true,
+   "source_type": "translation",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Cornelius Nepos"
+   ],
+   "certainty": "A",
+   "cited": 15,
+   "id": "SRC-000016",
+   "name": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)",
+   "opened": true,
+   "source_type": "translation",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Bret Mulligan"
+   ],
+   "certainty": "A",
+   "cited": 8,
+   "id": "SRC-000017",
+   "name": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries",
+   "opened": true,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 4,
+   "id": "SRC-000018",
+   "name": "Mande oral tradition (jeli performances)",
+   "opened": false,
+   "source_type": "oral-tradition",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "D. T. Niane"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000019",
+   "name": "D. T. Niane, Sundiata: An Epic of Old Mali",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  },
+  {
+   "authors": [
+    "Ibn Khaldun"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000020",
+   "name": "Ibn Khaldun, Kitab al-'Ibar",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ibn Battuta"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000021",
+   "name": "Ibn Battuta, travel account",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "N. Levtzion",
+    "J. F. P. Hopkins"
+   ],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000022",
+   "name": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+   "opened": false,
+   "source_type": "translation",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000023",
+   "name": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\"",
+   "opened": true,
+   "source_type": "museum",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000024",
+   "name": "UNESCO, \"Manden Charter, proclaimed in Kurukan Fuga\"",
+   "opened": true,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Stephan Bühnen"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000025",
+   "name": "Stephan Bühnen, \"In Quest of Susu\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "C",
+   "cited": 3,
+   "id": "SRC-000026",
+   "name": "Sunzi bingfa (The Art of War), received 13-chapter text",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000027",
+   "name": "Yinqueshan bamboo slips, Linyi",
+   "opened": false,
+   "source_type": "archaeological",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Sima Qian"
+   ],
+   "certainty": "A",
+   "cited": 7,
+   "id": "SRC-000028",
+   "name": "Sima Qian, Shiji, ch. 65",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 2,
+   "id": "SRC-000029",
+   "name": "Zuo zhuan",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000030",
+   "name": "Han shu bibliographic treatise",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Lionel Giles"
+   ],
+   "certainty": "A",
+   "cited": 12,
+   "id": "SRC-000031",
+   "name": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+   "opened": true,
+   "source_type": "translation",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Shandong Museum"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000032",
+   "name": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\"",
+   "opened": true,
+   "source_type": "museum",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000033",
+   "name": "Ngāti Toa Rangatira oral history and whakapapa",
+   "opened": false,
+   "source_type": "oral-tradition",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 11,
+   "id": "SRC-000034",
+   "name": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)",
+   "opened": true,
+   "source_type": "statute",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Tāmihana Te Rauparaha"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000035",
+   "name": "Tāmihana Te Rauparaha, account of his father",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Steven Oliver"
+   ],
+   "certainty": "A",
+   "cited": 16,
+   "id": "SRC-000036",
+   "name": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography",
+   "opened": true,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "A. H. McLintock (ed.)"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000037",
+   "name": "A. H. McLintock (ed.), An Encyclopaedia of New Zealand, \"Te Rauparaha\"",
+   "opened": false,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "G. H. Scholefield"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000038",
+   "name": "G. H. Scholefield, Dictionary of New Zealand Biography (1940)",
+   "opened": false,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000039",
+   "name": "Oral histories of Ngāi Tahu, Muaūpoko, Rangitāne, Ngāti Apa, Ngāti Kuia and others",
+   "opened": false,
+   "source_type": "oral-tradition",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000040",
+   "name": "British Library catalogue entry for a surviving copy of the 1456 nullification proceedings",
+   "opened": false,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Ye Shi"
+   ],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000041",
+   "name": "Ye Shi, argument against Sun Wu's historicity",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Liu Xiang"
+   ],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000042",
+   "name": "Liu Xiang, claim about Sun Wu's victory over Chu",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000043",
+   "name": "Metropolitan Museum of Art, \"The Empires of the Western Sudan\"",
+   "opened": false,
+   "source_type": "museum",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Jules Michelet"
+   ],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000044",
+   "name": "Jules Michelet, biography of Joan of Arc (1853)",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  },
+  {
+   "authors": [
+    "William Shakespeare"
+   ],
+   "certainty": "B",
+   "cited": 1,
+   "id": "SRC-000045",
+   "name": "William Shakespeare, Henry VI, Part 1",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 4,
+   "id": "SRC-000046",
+   "name": "The Secret History of the Mongols",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ata-Malik Juvaini"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000047",
+   "name": "Ata-Malik Juvaini, History of the World Conqueror",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Rashid al-Din"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000048",
+   "name": "Rashid al-Din, Compendium of Chronicles",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000049",
+   "name": "Yuan shi (History of the Yuan) and other Chinese records",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Minhaj al-Siraj Juzjani"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000050",
+   "name": "Minhaj al-Siraj Juzjani, Tabaqat-i Nasiri",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ibn al-Athir"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000051",
+   "name": "Ibn al-Athir, The Complete History",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "John of Plano Carpini",
+    "William of Rubruck",
+    "Marco Polo"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000052",
+   "name": "European envoys (Carpini, Rubruck) and Marco Polo",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Igor de Rachewiltz",
+    "J. C. Street"
+   ],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000053",
+   "name": "Igor de Rachewiltz (trans.), The Secret History of the Mongols, shorter version ed. J. C. Street (2015)",
+   "opened": false,
+   "source_type": "translation",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Timothy May"
+   ],
+   "certainty": "A",
+   "cited": 40,
+   "id": "SRC-000054",
+   "name": "Timothy May, \"The Mongol Empire in World History\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "T. Zerjal et al."
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000055",
+   "name": "T. Zerjal et al., \"The Genetic Legacy of the Mongols\"",
+   "opened": false,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 3,
+   "id": "SRC-000056",
+   "name": "Columbia University, Asia for Educators: The Mongols in World History",
+   "opened": false,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Hillary Mayell"
+   ],
+   "certainty": "A",
+   "cited": 1,
+   "id": "SRC-000057",
+   "name": "Hillary Mayell, \"Genghis Khan a Prolific Lover, DNA Data Implies\"",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  },
+  {
+   "authors": [
+    "Su Tianjue",
+    "Wang Yun"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000058",
+   "name": "Yuan shi chapters 121 and 122, and Su Tianjue, Lives of Eminent Ministers of the Yuan",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 1,
+   "id": "SRC-000059",
+   "name": "Rus' chronicles: Novgorod First, Galician-Volhynian, Laurentian",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Master Roger",
+    "Thomas of Split",
+    "C. de Bridia"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000060",
+   "name": "Hungarian and Latin accounts: Master Roger, Thomas of Split, C. de Bridia",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Stephen Pow"
+   ],
+   "certainty": "A",
+   "cited": 10,
+   "id": "SRC-000061",
+   "name": "Stephen Pow, \"'Ye-lie-ban, Ruler of the Russian Tribe'\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Stephen Pow"
+   ],
+   "certainty": "A",
+   "cited": 4,
+   "id": "SRC-000062",
+   "name": "Stephen Pow, \"The Last Campaign and Death of Jebe Noyan\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Stephen Pow",
+    "Jingjing Liao"
+   ],
+   "certainty": "A",
+   "cited": 3,
+   "id": "SRC-000063",
+   "name": "Stephen Pow and Jingjing Liao, \"Subutai: Sorting Fact from Fiction\"",
+   "opened": false,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Paul D. Buell"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000064",
+   "name": "Paul D. Buell, \"Sübötei Ba'atur\", in In the Service of the Khan",
+   "opened": false,
+   "source_type": "academic-book",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "D",
+   "cited": 1,
+   "id": "SRC-000065",
+   "name": "An AI-generated online \"encyclopedia\" entry on Subutai",
+   "opened": false,
+   "source_type": "ai-generated",
+   "status": "draft",
+   "tier": "ai-generated"
+  },
+  {
+   "authors": [
+    "Ibn 'Abd al-Zahir"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000066",
+   "name": "Ibn 'Abd al-Zahir, biography of al-Zahir Baybars",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ibn Shaddad"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000067",
+   "name": "Ibn Shaddad, life of al-Zahir Baybars",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "al-Maqrizi"
+   ],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000068",
+   "name": "Later Mamluk historians (e.g. al-Maqrizi)",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000069",
+   "name": "Crusader and Armenian sources",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000070",
+   "name": "Sirat Baybars",
+   "opened": false,
+   "source_type": "oral-tradition",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "D",
+   "cited": 0,
+   "id": "SRC-000071",
+   "name": "An AI-generated encyclopedia page on Ain Jalut",
+   "opened": false,
+   "source_type": "ai-generated",
+   "status": "draft",
+   "tier": "ai-generated"
+  },
+  {
+   "authors": [
+    "John Masson Smith Jr."
+   ],
+   "certainty": "A",
+   "cited": 18,
+   "id": "SRC-000072",
+   "name": "John Masson Smith Jr., review of Amitai-Preiss, Mongols and Mamluks",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 22,
+   "id": "SRC-000073",
+   "name": "\"Baybars I\", Encyclopaedia Britannica",
+   "opened": true,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000074",
+   "name": "Kazakh government page on Baybars",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  },
+  {
+   "authors": [
+    "Reuven Amitai-Preiss"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000075",
+   "name": "Reuven Amitai-Preiss, Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281",
+   "opened": false,
+   "source_type": "academic-book",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Ngô Sĩ Liên"
+   ],
+   "certainty": "A",
+   "cited": 2,
+   "id": "SRC-000076",
+   "name": "Ngô Sĩ Liên et al., Đại Việt sử ký toàn thư (Complete Annals of Đại Việt)",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Lê Tắc"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000077",
+   "name": "Lê Tắc, An Nam chí lược",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "C",
+   "cited": 0,
+   "id": "SRC-000078",
+   "name": "Texts attributed to Trần Hưng Đạo",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000079",
+   "name": "Temple and spirit-writing traditions of Đức Thánh Trần",
+   "opened": false,
+   "source_type": "oral-tradition",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Liam C. Kelley"
+   ],
+   "certainty": "A",
+   "cited": 8,
+   "id": "SRC-000080",
+   "name": "Liam C. Kelley, \"From Moral Exemplar to National Hero\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Serhii Kozlovskyi"
+   ],
+   "certainty": "A",
+   "cited": 3,
+   "id": "SRC-000081",
+   "name": "Serhii Kozlovskyi, \"Mongol Military Campaign Against the Kingdom of Đại Việt (1257–1258)\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Christopher P. Atwood"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000082",
+   "name": "Christopher P. Atwood, Encyclopedia of Mongolia and the Mongol Empire",
+   "opened": false,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Keith W. Taylor"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000083",
+   "name": "Keith W. Taylor, A History of the Vietnamese",
+   "opened": false,
+   "source_type": "academic-book",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 18,
+   "id": "SRC-000084",
+   "name": "\"Mongol Invasions of Vietnam and Java\", WarHistory.org",
+   "opened": true,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "aggregator"
+  },
+  {
+   "authors": [
+    "Nizam al-Din Shami"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000085",
+   "name": "Nizam al-Din Shami, Zafarnama",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ghiyath al-Din Ali Yazdi"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000086",
+   "name": "Ghiyath al-Din Ali Yazdi, diary of the India campaign",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Sharaf al-Din Ali Yazdi"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000087",
+   "name": "Sharaf al-Din Ali Yazdi, Zafarnama",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ibn Arabshah"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000088",
+   "name": "Ibn Arabshah, life of Timur",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ibn Khaldun"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000089",
+   "name": "Ibn Khaldun, account of his meeting with Timur",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Ruy González de Clavijo"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000090",
+   "name": "Clavijo, Embassy to Tamerlane",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Jean of Sultaniyya"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000091",
+   "name": "Jean of Sultaniyya, memoir",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Beltramo de Mignanelli"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000092",
+   "name": "Beltramo de Mignanelli",
+   "opened": false,
+   "source_type": "primary-later",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 0,
+   "id": "SRC-000093",
+   "name": "Timur's letters to other rulers",
+   "opened": false,
+   "source_type": "primary-contemporary",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000094",
+   "name": "Soviet exhumation report (1941)",
+   "opened": false,
+   "source_type": "archaeological",
+   "status": "draft",
+   "tier": null
+  },
+  {
+   "authors": [
+    "Beatrice Forbes Manz"
+   ],
+   "certainty": "A",
+   "cited": 9,
+   "id": "SRC-000095",
+   "name": "Beatrice Forbes Manz, \"Tamerlane and the Symbolism of Sovereignty\"",
+   "opened": true,
+   "source_type": "journal-article",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "A",
+   "cited": 25,
+   "id": "SRC-000096",
+   "name": "\"Timur\", Encyclopaedia Britannica",
+   "opened": true,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [
+    "Beatrice Forbes Manz"
+   ],
+   "certainty": "A",
+   "cited": 0,
+   "id": "SRC-000097",
+   "name": "Beatrice Forbes Manz, The Rise and Rule of Tamerlane",
+   "opened": false,
+   "source_type": "academic-book",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [
+    "Beatrice Forbes Manz"
+   ],
+   "certainty": "A",
+   "cited": 3,
+   "id": "SRC-000098",
+   "name": "Beatrice Forbes Manz, \"After the Mongols\" (2021) and JRAS article (2015)",
+   "opened": false,
+   "source_type": "academic-book",
+   "status": "draft",
+   "tier": "scholarly"
+  },
+  {
+   "authors": [],
+   "certainty": "D",
+   "cited": 0,
+   "id": "SRC-000099",
+   "name": "An AI-generated encyclopedia page on Timur",
+   "opened": false,
+   "source_type": "ai-generated",
+   "status": "draft",
+   "tier": "ai-generated"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 1,
+   "id": "SRC-000100",
+   "name": "\"Timur Lang\", Larousse",
+   "opened": false,
+   "source_type": "reference",
+   "status": "draft",
+   "tier": "reference"
+  },
+  {
+   "authors": [],
+   "certainty": "B",
+   "cited": 1,
+   "id": "SRC-000101",
+   "name": "\"Timur\", World History Encyclopedia",
+   "opened": false,
+   "source_type": "other",
+   "status": "draft",
+   "tier": "popular"
+  }
+ ],
+ "wars": [
+  {
+   "certainty": "B",
+   "id": "WAR-000008",
+   "kind": "campaign",
+   "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "parent_war": {
+    "id": "WAR-000007",
+    "name": "Wars between Wu and Chu",
+    "type": "war"
+   },
+   "result": null,
+   "span": {
+    "certainty": "B",
+    "display": "512 BCE",
+    "earliest": -511,
+    "latest": -511,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000003",
+   "kind": "war",
+   "name": "First Punic War",
+   "parent_war": null,
+   "result": null,
+   "span": {
+    "certainty": "A",
+    "display": "264–241 BCE",
+    "earliest": -263,
+    "latest": -240,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "WAR-000014",
+   "kind": "campaign",
+   "name": "March on Rome (211 BCE)",
+   "parent_war": {
+    "id": "WAR-000004",
+    "name": "Second Punic War",
+    "type": "war"
+   },
+   "result": "No siege attempted",
+   "span": {
+    "certainty": "B",
+    "display": "211 BCE",
+    "earliest": -210,
+    "latest": -210,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000015",
+   "kind": "campaign",
+   "name": "Subjugation of Xi Xia",
+   "parent_war": null,
+   "result": "Submission",
+   "span": {
+    "certainty": "A",
+    "display": "1205–1209",
+    "earliest": 1205,
+    "latest": 1209,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000016",
+   "kind": "war",
+   "name": "War against the Jin",
+   "parent_war": null,
+   "result": "Most territory taken by 1216; completed under Ögödei",
+   "span": {
+    "certainty": "A",
+    "display": "1211–1234",
+    "earliest": 1211,
+    "latest": 1234,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000017",
+   "kind": "war",
+   "name": "Invasion of Khwarazm",
+   "parent_war": null,
+   "result": "Victory",
+   "span": {
+    "certainty": "A",
+    "display": "1218–1221",
+    "earliest": 1218,
+    "latest": 1221,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000018",
+   "kind": "campaign",
+   "name": "Western raid of Jebe and Subutai",
+   "parent_war": null,
+   "result": "Victory",
+   "span": {
+    "certainty": "A",
+    "display": "1220–1223",
+    "earliest": 1220,
+    "latest": 1223,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000019",
+   "kind": "war",
+   "name": "Great western campaign",
+   "parent_war": null,
+   "result": "Victory; withdrawal 1242",
+   "span": {
+    "certainty": "A",
+    "display": "1236–1242",
+    "earliest": 1236,
+    "latest": 1242,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000021",
+   "kind": "war",
+   "name": "First Mongol invasion of Đại Việt",
+   "parent_war": null,
+   "result": "Mongols withdrew",
+   "span": {
+    "certainty": "A",
+    "display": "1257–1258",
+    "earliest": 1257,
+    "latest": 1258,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000020",
+   "kind": "war",
+   "name": "Campaigns against the crusader states",
+   "parent_war": null,
+   "result": "Most inland fortresses taken",
+   "span": {
+    "certainty": "A",
+    "display": "1263–1271",
+    "earliest": 1263,
+    "latest": 1271,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000022",
+   "kind": "war",
+   "name": "Second Mongol-Yuan invasion of Đại Việt",
+   "parent_war": null,
+   "result": "Yuan withdrew",
+   "span": {
+    "certainty": "A",
+    "display": "1284–1285",
+    "earliest": 1284,
+    "latest": 1285,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000023",
+   "kind": "war",
+   "name": "Third Mongol-Yuan invasion of Đại Việt",
+   "parent_war": null,
+   "result": "Yuan withdrew",
+   "span": {
+    "certainty": "A",
+    "display": "1287–1288",
+    "earliest": 1287,
+    "latest": 1288,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000024",
+   "kind": "war",
+   "name": "Conquest of Persia",
+   "parent_war": null,
+   "result": "Conquest",
+   "span": {
+    "certainty": "A",
+    "display": "1383–1394",
+    "earliest": 1383,
+    "latest": 1394,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000025",
+   "kind": "war",
+   "name": "Wars against Tokhtamysh",
+   "parent_war": null,
+   "result": "Victory",
+   "span": {
+    "certainty": "A",
+    "display": "1385–1395",
+    "earliest": 1385,
+    "latest": 1395,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000026",
+   "kind": "war",
+   "name": "Invasion of India",
+   "parent_war": null,
+   "result": "Victory; Delhi sacked",
+   "span": {
+    "certainty": "A",
+    "display": "1398–1399",
+    "earliest": 1398,
+    "latest": 1399,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000027",
+   "kind": "campaign",
+   "name": "Planned invasion of China",
+   "parent_war": null,
+   "result": "Abandoned at his death",
+   "span": {
+    "certainty": "A",
+    "display": "1404–1405",
+    "earliest": 1404,
+    "latest": 1405,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000002",
+   "kind": "campaign",
+   "name": "Loire campaign (1429)",
+   "parent_war": {
+    "id": "WAR-000001",
+    "name": "Hundred Years' War",
+    "type": "war"
+   },
+   "result": null,
+   "span": {
+    "certainty": "A",
+    "display": "June 1429",
+    "earliest": 1429,
+    "latest": 1429,
+    "month": 6,
+    "precision": "month"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000009",
+   "kind": "war",
+   "name": "Musket Wars",
+   "parent_war": null,
+   "result": null,
+   "span": {
+    "certainty": "A",
+    "display": "c. 1807–1840s",
+    "earliest": 1807,
+    "latest": 1849,
+    "precision": "decade",
+    "qualifier": "circa"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000011",
+   "kind": "migration",
+   "name": "Te Heke Tahutahuahi",
+   "parent_war": {
+    "id": "WAR-000009",
+    "name": "Musket Wars",
+    "type": "war"
+   },
+   "result": null,
+   "span": {
+    "certainty": "A",
+    "display": "1820–21",
+    "earliest": 1820,
+    "latest": 1821,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000012",
+   "kind": "migration",
+   "name": "Te Heke Tātaramoa",
+   "parent_war": {
+    "id": "WAR-000009",
+    "name": "Musket Wars",
+    "type": "war"
+   },
+   "result": null,
+   "span": {
+    "certainty": "A",
+    "display": "1822",
+    "earliest": 1822,
+    "latest": 1822,
+    "precision": "year"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000013",
+   "kind": "campaign",
+   "name": "Te Rauparaha's South Island campaigns",
+   "parent_war": {
+    "id": "WAR-000009",
+    "name": "Musket Wars",
+    "type": "war"
+   },
+   "result": null,
+   "span": {
+    "certainty": "A",
+    "display": "c. 1827–1833",
+    "earliest": 1827,
+    "latest": 1833,
+    "precision": "year",
+    "qualifier": "circa"
+   },
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000001",
+   "kind": "war",
+   "name": "Hundred Years' War",
+   "parent_war": null,
+   "result": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000004",
+   "kind": "war",
+   "name": "Second Punic War",
+   "parent_war": null,
+   "result": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "B",
+   "id": "WAR-000005",
+   "kind": "rebellion",
+   "name": "Mande revolt against Sosso rule",
+   "parent_war": null,
+   "result": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "D",
+   "id": "WAR-000006",
+   "kind": "campaign",
+   "name": "Western campaigns under Tiramakhan Traoré",
+   "parent_war": null,
+   "result": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000007",
+   "kind": "war",
+   "name": "Wars between Wu and Chu",
+   "parent_war": null,
+   "result": null,
+   "span": null,
+   "status": "draft"
+  },
+  {
+   "certainty": "A",
+   "id": "WAR-000010",
+   "kind": "war",
+   "name": "Ngāti Toa–Waikato wars at Kāwhia",
+   "parent_war": null,
+   "result": null,
+   "span": null,
+   "status": "draft"
+  }
+ ],
+ "works": [
+  {
+   "certainty": "A",
+   "id": "WRK-000001",
+   "name": "The Art of War",
+   "status": "draft"
+  }
+ ]
+}

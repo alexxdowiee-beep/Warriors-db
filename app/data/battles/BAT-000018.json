@@ -155,6 +155,28 @@
     "type": "person"
    },
    "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "C",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "Modern reconstruction",
+   "field": "battle_date",
+   "id": "CLM-000042",
+   "perspective": [],
+   "quiz_kind": "debate",
+   "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
+   "statement": "Kirina was fought c. 1235",
+   "subject": {
+    "id": "PER-000003",
+    "name": "Sundiata Keita",
+    "type": "person"
+   },
+   "verdict": "disputed"
   }
  ],
  "sides": [

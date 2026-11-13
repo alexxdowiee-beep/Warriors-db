@@ -11,7 +11,8 @@ Output is deterministic: the same database gives byte-identical files (sorted ke
 unchanged data changes only that value and the bundle version.
 
 Files written (the old bundle is deleted first):
-  manifest.json, index.json, timeline.json, search.json, vocab.json, redirects.json
+  manifest.json, index.json, timeline.json, search.json, vocab.json, redirects.json,
+  lists.json (one summary row per battle, war, source, polity, place, civilisation and work)
   people/<ID>.json, battles/<ID>.json, wars/<ID>.json, sources/<ID>.json,
   polities/<ID>.json, places/<ID>.json, civilisations/<ID>.json, works/<ID>.json
 (works/ is not in the brief's table; it is added so that every link in the bundle resolves.)
@@ -181,10 +182,14 @@ class Exporter:
         return sorted(out, key=lambda x: (x["relation"], x["other"]["id"], x["relationship_id"]))
 
     def related_claims(self, rid: str) -> list:
-        """Claims about the record, plus claims linked from relationships involving it."""
+        """Claims about the record, claims linked from relationships involving it, and claims its own
+        dates and numbers point to (e.g. a side's casualties)."""
         ids = {c["id"] for c in self.claims_by_subject.get(rid, [])}
         for l in self.links.get(rid, []):
             ids.update(l["claim_ids"])
+        for key, value in walk_ids(self.records[rid]):
+            if key == "claim_ids":
+                ids.add(value)
         return [self.claim_out(*self.claims[i]) for i in sorted(ids) if i in self.claims]
 
     def date_key(self, rec: dict):
@@ -346,6 +351,37 @@ class Exporter:
         key = lambda x: (x["earliest"], x["id"])  # noqa: E731
         return {"people": sorted(people, key=key), "events": sorted(events, key=key)}
 
+    def lists(self) -> dict:
+        """One summary row per record, for the Battles, Wars, Sources and other list pages."""
+        cites = defaultdict(int)
+        for _c, _s, cit in (x for rows in self.citing.values() for x in rows):
+            cites[cit["source_id"]] += 1
+        out = {"battles": [], "wars": [], "sources": [], "polities": [], "places": [], "civilisations": [],
+               "works": []}
+        for i in sorted(self.live):
+            r, table = self.records[i], self.table_of[i]
+            row = {"id": i, "name": r.get("primary_name"), "certainty": r.get("certainty"), "status": r.get("status")}
+            if table == "battles":
+                row.update(kind=r.get("kind"), date=r.get("date"), result=r.get("outcome"),
+                           war=self.ref(r.get("war_id")), place=self.ref(r.get("place_id")))
+            elif table == "wars":
+                row.update(kind=r.get("kind"), span=r.get("span"), result=r.get("outcome"),
+                           parent_war=self.ref(r.get("parent_war_id")))
+            elif table == "sources":
+                row.update(source_type=r.get("source_type"), tier=r.get("reliability_tier"),
+                           opened=bool(r.get("opened")), authors=r.get("authors") or [], cited=cites[i])
+            elif table == "polities":
+                row.update(polity_type=r.get("polity_type"), span=r.get("span"))
+            elif table == "places":
+                row.update(place_type=r.get("place_type"), location_certainty=r.get("location_certainty"))
+            elif table not in out:
+                continue
+            out[table].append(row)
+        key = lambda x: ((x.get("date") or x.get("span") or {}).get("earliest", 10 ** 6), x["id"])  # noqa: E731
+        out["battles"].sort(key=key)
+        out["wars"].sort(key=key)
+        return out
+
     def search(self) -> list:
         out = []
         for i in sorted(self.live):
@@ -396,10 +432,23 @@ class Exporter:
         out["index.json"] = self.index()
         out["timeline.json"] = self.timeline()
         out["search.json"] = self.search()
+        out["lists.json"] = self.lists()
         out["vocab.json"] = self.vocab()
         out["redirects.json"] = dict(sorted(self.redirects.items()))
         self.counts = dict(sorted(counts.items()))
         return out
+
+
+def walk_ids(obj, key=None):
+    """(key, value) for every string inside lists stored under a key, e.g. ("claim_ids", "CLM-000027")."""
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            yield from walk_ids(v, k)
+    elif isinstance(obj, list):
+        for v in obj:
+            yield from walk_ids(v, key)
+    elif isinstance(obj, str):
+        yield key, obj
 
 
 def dump(obj) -> bytes:

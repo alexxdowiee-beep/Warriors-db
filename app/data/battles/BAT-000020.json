@@ -114,6 +114,56 @@
     "type": "person"
    },
    "verdict": "disputed"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [],
+   "certainty": "A",
+   "citations": [
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000029",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Zuo zhuan"
+    },
+    {
+     "access": "via-secondary",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000028",
+     "source_type": "primary-later",
+     "tier": null,
+     "title": "Sima Qian, Shiji, ch. 65"
+    },
+    {
+     "access": "opened",
+     "locator": null,
+     "note": null,
+     "source_id": "SRC-000031",
+     "source_type": "translation",
+     "tier": "scholarly",
+     "title": "Lionel Giles, Sun Tzŭ on the Art of War, introduction"
+    }
+   ],
+   "claim_type": "event",
+   "evidence_status": "Zuo zhuan and Shiji, via Giles",
+   "field": "context",
+   "id": "CLM-000061",
+   "perspective": [],
+   "quiz_kind": "plain-fact",
+   "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
+   "statement": "Wu captured the Chu capital, Ying, in 506 BCE",
+   "subject": {
+    "id": "PER-000004",
+    "name": "Sun Tzu",
+    "type": "person"
+   },
+   "verdict": "accepted"
   }
  ],
  "sides": [

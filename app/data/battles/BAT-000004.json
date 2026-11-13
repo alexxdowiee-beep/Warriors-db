@@ -93,6 +93,31 @@
     "type": "person"
    },
    "verdict": "accepted"
+  },
+  {
+   "alternative_claim_ids": [],
+   "bias_flags": [
+    "inflated-numbers",
+    "propaganda"
+   ],
+   "certainty": "D",
+   "citations": [],
+   "claim_type": "event",
+   "evidence_status": "1 opened; herald's figure only",
+   "field": "casualties",
+   "id": "CLM-000008",
+   "perspective": [],
+   "quiz_kind": null,
+   "quiz_ready": false,
+   "restricted": false,
+   "restricted_reason": null,
+   "statement": "English losses at Patay of 2,200 against 3 French",
+   "subject": {
+    "id": "PER-000001",
+    "name": "Joan of Arc",
+    "type": "person"
+   },
+   "verdict": "disputed"
   }
  ],
  "sides": [
