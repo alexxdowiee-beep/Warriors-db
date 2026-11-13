@@ -126,6 +126,28 @@
       "relation": "led",
       "certainty": "B",
       "role": "Rose to lead Ngāti Toa through his defence of the tribe's interests and his skill in war (DNZB; graded B in the doc)"
+    },
+    {
+      "id": "REL-000053",
+      "from_id": "PER-000005",
+      "to_id": "POL-000015",
+      "relation": "descended_from",
+      "role": "paternal",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000118"
+      ]
+    },
+    {
+      "id": "REL-000054",
+      "from_id": "PER-000005",
+      "to_id": "POL-000016",
+      "relation": "descended_from",
+      "role": "maternal",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000119"
+      ]
     }
   ]
 }

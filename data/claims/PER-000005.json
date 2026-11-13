@@ -442,6 +442,40 @@
       ],
       "evidence_status": "Record card: Active period c. 1800s–1849, grade A. Cited: DNZB; the 2014 Act for the migration (as CLM-000074).",
       "quiz_ready": false
+    },
+    {
+      "id": "CLM-000118",
+      "field": "descent",
+      "statement": "Te Rauparaha descended from Ngāti Toa Rangatira through his father, Werawera",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "A once a second source is opened (e.g. the iwi histories on Te Ara)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000119",
+      "field": "descent",
+      "statement": "Te Rauparaha descended from Ngāti Raukawa through his mother, Parekōwhatu",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "A once a second source is opened (e.g. the iwi histories on Te Ara)",
+      "quiz_ready": false
     }
   ]
 }

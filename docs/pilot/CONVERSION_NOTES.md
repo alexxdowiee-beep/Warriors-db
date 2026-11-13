@@ -172,8 +172,17 @@ this folder (exported from Claude Docs) are historical drafts and are not update
   the text/tradition rule.
 - **Validator:** 0 errors, 13 warnings, all on A-grade claims that still need evidence.
 
-Still open: only whether to link Te Rauparaha → Ngāti Raukawa (descent through his mother) with
-`originated_from`, and at what grade.
+## Fourth round (13 Nov 2026): Te Rauparaha's descent
+
+- New person-to-polity relation `descended_from` (reverse `descendants_include`), with role `paternal` or `maternal`.
+- REL-000053: Te Rauparaha descended_from Ngāti Toa Rangatira, paternal (through Werawera), grade B.
+- REL-000054: Te Rauparaha descended_from Ngāti Raukawa, maternal (through Parekōwhatu), grade B.
+- Relationships have no `evidence_status` field, so each link points to a claim that holds it: CLM-000118 and
+  CLM-000119 (grade B, DNZB opened, evidence status "A once a second source is opened (e.g. the iwi histories on
+  Te Ara)").
+- `descended_from` does not mean he led or represented Ngāti Raukawa; that question is for a later batch.
+
+No conversion questions remain open.
 
 ## Questions for the user (things that do not fit the schema)
 

@@ -18,7 +18,8 @@
       "founded",
       "rebelled_against",
       "led",
-      "originated_from"
+      "originated_from",
+      "descended_from"
     ],
     "person-battle_or_war": [
       "commanded",
@@ -89,6 +90,7 @@
     "during": "period_of",
     "compare_with": "compare_with",
     "led": "led_by",
-    "originated_from": "origin_of"
+    "originated_from": "origin_of",
+    "descended_from": "descendants_include"
   }
 }
