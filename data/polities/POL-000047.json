@@ -47,6 +47,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Sacked Delhi in December 1398",
    "subject": {
     "id": "PER-000010",

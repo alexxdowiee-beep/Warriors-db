@@ -28,6 +28,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "1431 verdict annulled, 7 July 1456",
       "subject": {
        "id": "PER-000001",

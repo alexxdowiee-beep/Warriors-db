@@ -3,6 +3,7 @@
 import { resolveId } from './data.js';
 import { renderHome } from './views/home.js';
 import { renderPending } from './views/pending.js';
+import { renderPerson } from './views/person.js';
 
 const view = document.getElementById('view');
 const ROUTE_KINDS = { person: 'PER', battle: 'BAT', war: 'WAR', source: 'SRC', polity: 'POL', place: 'PLC',
@@ -27,7 +28,9 @@ const routes = [
         location.replace(`#/${newKind}/${target}`);
         return;
       }
-      renderPending(view, `${kind[0].toUpperCase()}${kind.slice(1)} ${id}`, kind === 'person' ? 3 : 5);
+      window.scrollTo(0, 0);
+      if (kind === 'person') await renderPerson(view, id);
+      else renderPending(view, `${kind[0].toUpperCase()}${kind.slice(1)} ${id}`, 5);
     },
   },
 ];

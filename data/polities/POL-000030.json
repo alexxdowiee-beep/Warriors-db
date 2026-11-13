@@ -127,6 +127,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
    "subject": {
     "id": "PER-000008",
@@ -163,6 +165,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
    "subject": {
     "id": "PER-000010",

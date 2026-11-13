@@ -62,6 +62,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
    "subject": {
     "id": "PER-000007",
@@ -112,6 +114,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
    "subject": {
     "id": "PER-000007",
@@ -148,6 +152,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Ryazan fell in December 1237",
    "subject": {
     "id": "PER-000007",
@@ -184,6 +190,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
    "subject": {
     "id": "PER-000007",
@@ -220,6 +228,8 @@
    ],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Occupied Moscow in 1395",
    "subject": {
     "id": "PER-000010",

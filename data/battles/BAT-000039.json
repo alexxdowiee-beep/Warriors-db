@@ -100,6 +100,8 @@
    ],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
    "subject": {
     "id": "PER-000007",

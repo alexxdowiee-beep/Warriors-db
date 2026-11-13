@@ -33,6 +33,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Trần Thủ Độ forced Trần Liễu's wife into marriage with the emperor, causing a family feud",
       "subject": {
        "id": "PER-000009",
@@ -70,6 +72,8 @@
       "perspective": [],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Tradition: he refused his father's call to seize the throne",
       "subject": {
        "id": "PER-000009",

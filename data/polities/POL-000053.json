@@ -41,6 +41,8 @@
    ],
    "quiz_kind": "debate",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Depopulated frontier zones and demolished coastal strongholds",
    "subject": {
     "id": "PER-000008",

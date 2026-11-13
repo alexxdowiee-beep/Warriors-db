@@ -121,6 +121,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Orléans siege lifted 8 May 1429",
    "subject": {
     "id": "PER-000001",
@@ -151,6 +153,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Wounded by arrow at Les Tourelles, 7 May 1429",
    "subject": {
     "id": "PER-000001",

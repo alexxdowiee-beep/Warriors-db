@@ -43,6 +43,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sun Wu beat 200,000 Chu troops with 30,000",
       "subject": {
        "id": "PER-000004",

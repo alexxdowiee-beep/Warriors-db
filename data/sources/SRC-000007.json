@@ -37,6 +37,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Born c. 1412 in Domrémy",
       "subject": {
        "id": "PER-000001",
@@ -81,6 +83,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Orléans siege lifted 8 May 1429",
       "subject": {
        "id": "PER-000001",
@@ -125,6 +129,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Executed as a relapsed heretic, 30 May 1431",
       "subject": {
        "id": "PER-000001",
@@ -160,6 +166,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Canonised 16 May 1920",
       "subject": {
        "id": "PER-000001",
@@ -213,6 +221,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
       "subject": {
        "id": "PER-000001",
@@ -266,6 +276,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active as a military leader from April 1429 to May 1430",
       "subject": {
        "id": "PER-000001",

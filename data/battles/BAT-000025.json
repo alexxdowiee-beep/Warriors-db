@@ -83,6 +83,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Defeated a southern coalition at Waiorua, c. 1824",
    "subject": {
     "id": "PER-000005",

@@ -82,6 +82,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Stormed Baghdad in 1401",
    "subject": {
     "id": "PER-000010",

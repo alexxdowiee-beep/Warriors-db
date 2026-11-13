@@ -140,6 +140,8 @@
    ],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Ngāti Toa's account: born in the 1770s at Kāwhia",
    "subject": {
     "id": "PER-000005",
@@ -178,6 +180,8 @@
    ],
    "quiz_kind": "tradition",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Ngāti Toa's account of composing Ka Mate in hiding at Lake Rotoaira",
    "subject": {
     "id": "PER-000005",

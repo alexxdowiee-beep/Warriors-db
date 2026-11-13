@@ -293,3 +293,674 @@ main {
     scroll-behavior: auto !important;
   }
 }
+
+/* ================================================================== step 3: person profile */
+
+/* ------------------------------------------------------------------ badges and chips */
+.grade {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 1px 8px;
+  border: 1.5px solid currentColor;
+  border-radius: 4px;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  vertical-align: 0.1em;
+}
+
+.grade-a { color: var(--grade-a); }
+.grade-b { color: var(--grade-b); }
+.grade-c { color: var(--grade-c); }
+.grade-d { color: var(--grade-d); }
+.grade-e { color: var(--grade-e); border-style: dashed; }
+.grade-none { color: var(--muted); border-style: dotted; font-family: var(--font-body); font-weight: 400; }
+
+.grade-label {
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 11.5px;
+}
+
+.grade-inline {
+  font-size: 11px;
+  padding: 0 5px;
+  margin: 0 1px;
+}
+
+.status-chip,
+.meta-chip,
+.flag-chip,
+.verdict-chip,
+.type-tag {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 999px;
+  font-size: 13.5px;
+  line-height: 1.6;
+  white-space: nowrap;
+}
+
+.status-chip {
+  background: var(--accent-bg);
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 11.5px;
+}
+
+.meta-chip {
+  border: 1px solid var(--border);
+  color: var(--text-2);
+}
+
+.flag-chip {
+  border: 1px solid var(--loss-border);
+  color: var(--loss);
+}
+
+.type-tag {
+  border: 1px solid var(--border);
+  color: var(--text-2);
+}
+
+.type-tradition {
+  border-color: var(--accent);
+  color: var(--accent);
+  font-style: italic;
+}
+
+.verdict-chip {
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-weight: 700;
+}
+
+.verdict-rejected-myth {
+  border-color: var(--loss-border);
+  color: var(--loss);
+}
+
+.verdict-disputed {
+  border-color: var(--grade-c);
+  color: var(--grade-c);
+}
+
+.unknown {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.muted-text,
+.cell-note,
+.cite-meta,
+.cite-note {
+  color: var(--muted);
+}
+
+.cell-note {
+  font-size: 14px;
+}
+
+/* ------------------------------------------------------------------ timeline strip */
+.tl-wrap {
+  margin-bottom: var(--space-5);
+}
+
+.tl-strip {
+  position: relative;
+  height: 40px;
+  background: var(--bg-band);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.tl-era {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  border-right: 1px solid var(--border);
+}
+
+.tl-era-active {
+  background: var(--era-active);
+}
+
+.tl-era-label {
+  position: absolute;
+  top: 2px;
+  left: 6px;
+  font-family: var(--font-display);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.tl-era-active .tl-era-label {
+  color: var(--accent-strong);
+}
+
+.tl-bar {
+  position: absolute;
+  bottom: 7px;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--border);
+}
+
+.tl-bar-active {
+  bottom: 5px;
+  height: 10px;
+  background: var(--accent);
+  z-index: 1;
+}
+
+.tl-axis {
+  display: flex;
+  justify-content: space-between;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* ------------------------------------------------------------------ title band and key facts */
+.breadcrumb ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.breadcrumb li + li::before {
+  content: "\203A";
+  margin-right: var(--space-2);
+  color: var(--muted);
+}
+
+.breadcrumb a {
+  color: var(--text-2);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  color: var(--accent-strong);
+}
+
+.person-name {
+  font-size: var(--text-name);
+  font-weight: 600;
+  margin: var(--space-2) 0 var(--space-2);
+  overflow-wrap: anywhere;
+}
+
+/* Cinzel has no Vietnamese glyphs; Alegreya keeps the stacked diacritics in one typeface. */
+.person-name:lang(vi) {
+  font-family: var(--font-body);
+  font-weight: 700;
+}
+
+.aka {
+  color: var(--text-2);
+  margin: 0 0 var(--space-3);
+}
+
+.aka-kind {
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.title-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  align-items: center;
+  margin: 0 0 var(--space-3);
+}
+
+.research-banner {
+  margin: 0 0 var(--space-5);
+  padding: var(--space-2) var(--space-4);
+  border-left: 3px solid var(--accent);
+  background: var(--accent-bg);
+  color: var(--text-2);
+}
+
+.key-facts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-3);
+  margin-bottom: var(--space-6);
+}
+
+.fact {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-3) var(--space-4);
+}
+
+.fact-value {
+  margin-top: var(--space-1);
+}
+
+/* ------------------------------------------------------------------ three columns */
+.profile-grid {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr) 300px;
+  grid-template-areas: "nav reading rail";
+  gap: var(--space-6);
+  align-items: start;
+}
+
+.section-nav {
+  grid-area: nav;
+  position: sticky;
+  top: calc(var(--header-height) + var(--space-4));
+}
+
+.section-nav summary {
+  display: none;
+}
+
+.section-nav ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-left: 1px solid var(--border);
+}
+
+.section-nav a {
+  display: block;
+  padding: 6px var(--space-3);
+  margin-left: -1px;
+  border-left: 2px solid transparent;
+  color: var(--text-2);
+  text-decoration: none;
+  font-size: 15.5px;
+  line-height: 1.35;
+}
+
+.section-nav a:hover {
+  color: var(--accent-strong);
+}
+
+.section-nav a[aria-current] {
+  border-left-color: var(--accent);
+  color: var(--accent);
+}
+
+.reading {
+  grid-area: reading;
+  min-width: 0;
+}
+
+.rail {
+  grid-area: rail;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.profile-section {
+  scroll-margin-top: calc(var(--header-height) + var(--space-4));
+  margin-bottom: var(--space-7);
+}
+
+.profile-section:focus {
+  outline: none;
+}
+
+.profile-section > h2 {
+  margin: 0 0 var(--space-4);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--border);
+}
+
+.prose p,
+.prose li {
+  max-width: 46em;
+}
+
+.prose .sub-heading {
+  font-size: 19px;
+  margin: var(--space-5) 0 var(--space-2);
+  color: var(--accent-strong);
+}
+
+.prose .table-scroll {
+  margin: var(--space-4) 0;
+}
+
+/* ------------------------------------------------------------------ tables */
+.table-scroll {
+  overflow-x: auto;
+  max-width: 100%;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;
+}
+
+.data-table th,
+.data-table td {
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.data-table thead th {
+  background: var(--panel);
+  font-family: var(--font-display);
+  font-size: var(--text-label);
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.data-table tbody th {
+  font-weight: 600;
+}
+
+.data-table tr:last-child > * {
+  border-bottom: none;
+}
+
+.myths .prose p {
+  margin: 0 0 var(--space-2);
+}
+
+.myth-claim {
+  min-width: 14em;
+}
+
+.ai-origin {
+  color: var(--loss);
+  font-size: 15px;
+}
+
+.withheld {
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------------ career timeline */
+.career {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-left: 2px solid var(--border);
+}
+
+.career li {
+  display: grid;
+  grid-template-columns: minmax(9em, 14em) 1fr;
+  gap: var(--space-4);
+  padding: var(--space-2) 0 var(--space-2) var(--space-4);
+}
+
+.career-date {
+  color: var(--text-2);
+}
+
+/* ------------------------------------------------------------------ claims */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  margin-bottom: var(--space-2);
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+.filter select {
+  min-height: var(--touch);
+  padding: 0 var(--space-3);
+  background: var(--input-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 16px;
+}
+
+.filter-count {
+  color: var(--muted);
+  font-size: 15px;
+}
+
+.claims {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.claim {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: var(--space-3) var(--space-4);
+  scroll-margin-top: calc(var(--header-height) + var(--space-4));
+}
+
+.claim-tradition {
+  border-left: 3px solid var(--accent);
+}
+
+.claim-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  align-items: center;
+}
+
+.claim-field {
+  margin-left: auto;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.claim-statement {
+  margin: var(--space-2) 0;
+  font-size: 18px;
+}
+
+.claim-tradition .claim-statement {
+  font-style: italic;
+}
+
+.tradition-intro {
+  font-style: normal;
+  color: var(--accent);
+}
+
+.flags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+  margin: var(--space-2) 0;
+}
+
+.perspective {
+  margin: var(--space-1) 0;
+  color: var(--text-2);
+}
+
+.citations {
+  margin: var(--space-2) 0 0;
+  padding-left: var(--space-5);
+  font-size: 15.5px;
+}
+
+.evidence-status {
+  margin: var(--space-2) 0 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.disagree {
+  border: 1px dashed var(--grade-c);
+  border-radius: var(--radius);
+  padding: var(--space-3);
+}
+
+.disagree-label {
+  margin: 0 0 var(--space-2);
+  color: var(--grade-c);
+}
+
+.disagree-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: var(--space-3);
+}
+
+/* ------------------------------------------------------------------ rail */
+.rail-panel {
+  padding: var(--space-4);
+}
+
+.rail-panel h2 {
+  margin: 0 0 var(--space-3);
+}
+
+.rail-panel p {
+  margin: 0 0 var(--space-3);
+}
+
+.guidance {
+  border-color: var(--accent);
+}
+
+.evidence-grade .grade {
+  font-size: 16px;
+  padding: 3px 10px;
+}
+
+.core-list {
+  margin-bottom: var(--space-4) !important;
+}
+
+.core-list,
+.source-list,
+.connections {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  font-size: 15.5px;
+}
+
+.conn-relation {
+  color: var(--muted);
+}
+
+.btn-secondary {
+  min-height: var(--touch);
+  padding: 0 var(--space-4);
+  background: transparent;
+  border: 1.5px solid var(--accent);
+  border-radius: var(--radius);
+  color: var(--accent);
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  font-size: 14px;
+}
+
+.btn-secondary:disabled {
+  border-color: var(--border);
+  color: var(--muted);
+  cursor: not-allowed;
+}
+
+/* ------------------------------------------------------------------ tablet: rail below the title band */
+@media (max-width: 1199px) {
+  .profile-grid {
+    grid-template-columns: 200px minmax(0, 1fr);
+    grid-template-areas:
+      "rail rail"
+      "nav reading";
+  }
+
+  .rail {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    align-items: start;
+  }
+}
+
+/* ------------------------------------------------------------------ phone: one column */
+@media (max-width: 767px) {
+  .key-facts {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .profile-grid {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "rail"
+      "nav"
+      "reading";
+    gap: var(--space-5);
+  }
+
+  .rail {
+    display: flex;
+  }
+
+  .section-nav {
+    position: static;
+  }
+
+  .section-nav summary {
+    display: flex;
+    align-items: center;
+    min-height: var(--touch);
+    padding: 0 var(--space-4);
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    cursor: pointer;
+  }
+
+  .section-nav ol {
+    margin-top: var(--space-2);
+  }
+
+  .career li {
+    grid-template-columns: 1fr;
+    gap: 0;
+  }
+
+  /* Era labels would overlap on a narrow strip: show only the highlighted era's label. */
+  .tl-era:not(.tl-era-active) .tl-era-label {
+    display: none;
+  }
+
+  .claim-field {
+    margin-left: 0;
+  }
+}

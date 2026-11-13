@@ -39,6 +39,8 @@
       ],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ngāti Toa's account: born in the 1770s at Kāwhia",
       "subject": {
        "id": "PER-000005",
@@ -83,6 +85,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Died at Ōtaki on 27 November 1849",
       "subject": {
        "id": "PER-000005",
@@ -127,6 +131,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
       "subject": {
        "id": "PER-000005",
@@ -170,6 +176,8 @@
       ],
       "quiz_kind": "tradition",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ngāti Toa's account of composing Ka Mate in hiding at Lake Rotoaira",
       "subject": {
        "id": "PER-000005",
@@ -205,6 +213,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Te Rauparaha composed Ka Mate",
       "subject": {
        "id": "PER-000005",
@@ -240,6 +250,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ka Mate is a Ngāti Toa taonga with a statutory right of attribution",
       "subject": {
        "id": "PER-000005",
@@ -275,6 +287,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Ka Mate was composed as a war cry before battle",
       "subject": {
        "id": "PER-000005",
@@ -304,13 +318,15 @@
        }
       ],
       "claim_type": "text",
-      "evidence_status": "Myths table verdict: Incomplete (A). Evidence: Ngāti Toa render it as a question: \"Will I die?\" answered by \"Will I live?\"",
+      "evidence_status": null,
       "field": "myth",
       "id": "CLM-000109",
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
-      "statement": "\"Ka mate! Ka mate!\" simply means \"I die! I die!\"",
+      "restricted": true,
+      "restricted_reason": "It quotes the words of Ka Mate, a taonga of Ngāti Toa Rangatira (see the cultural guidance).",
+      "statement": null,
       "subject": {
        "id": "PER-000005",
        "name": "Te Rauparaha",
@@ -345,6 +361,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He hid in a kūmara pit",
       "subject": {
        "id": "PER-000005",
@@ -389,6 +407,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Te Rauparaha, rangatira of Ngāti Toa Rangatira, is a historical person",
       "subject": {
        "id": "PER-000005",
@@ -433,6 +453,8 @@
       "perspective": [],
       "quiz_kind": null,
       "quiz_ready": false,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Active c. 1800s–1849; leader of the migration south from c. 1820",
       "subject": {
        "id": "PER-000005",

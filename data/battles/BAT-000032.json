@@ -82,6 +82,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Te Rangihaeata, not Te Rauparaha, killed the Wairau prisoners",
    "subject": {
     "id": "PER-000005",

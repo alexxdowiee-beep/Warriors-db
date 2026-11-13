@@ -41,6 +41,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sima Qian knew the 13 chapters as a widely read book",
       "subject": {
        "id": "PER-000004",
@@ -78,6 +80,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The text was composed c. 5th–4th century BCE",
       "subject": {
        "id": "PER-000004",
@@ -124,6 +128,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "A historical Sun Wu existed",
       "subject": {
        "id": "PER-000004",
@@ -170,6 +176,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He served King Helü of Wu",
       "subject": {
        "id": "PER-000004",
@@ -225,6 +233,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "He commanded at Boju, 506 BCE",
       "subject": {
        "id": "PER-000004",
@@ -278,6 +288,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Wu captured the Chu capital, Ying, in 506 BCE",
       "subject": {
        "id": "PER-000004",
@@ -322,6 +334,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sima Qian tells the palace-drill story",
       "subject": {
        "id": "PER-000004",
@@ -368,6 +382,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The palace drill happened",
       "subject": {
        "id": "PER-000004",
@@ -412,6 +428,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Zuo zhuan never mentions Sun Wu",
       "subject": {
        "id": "PER-000004",
@@ -456,6 +474,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Han bibliography lists Sunzi in 82 chapters with diagrams",
       "subject": {
        "id": "PER-000004",
@@ -500,6 +520,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The text names Yue, not Chu, as Wu's enemy",
       "subject": {
        "id": "PER-000004",
@@ -547,6 +569,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Sun Wu beat 200,000 Chu troops with 30,000",
       "subject": {
        "id": "PER-000004",

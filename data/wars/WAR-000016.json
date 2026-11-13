@@ -112,6 +112,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Invaded the Jin in 1211; most of the Jin empire taken by 1216",
    "subject": {
     "id": "PER-000006",

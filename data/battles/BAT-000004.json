@@ -84,6 +84,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Patay won by the vanguard's charge, 18 June 1429",
    "subject": {
     "id": "PER-000001",

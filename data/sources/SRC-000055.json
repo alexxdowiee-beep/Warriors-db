@@ -42,6 +42,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "A Y-chromosome lineage in about 0.5% of the world's men was proposed to have spread with his male-line kin",
       "subject": {
        "id": "PER-000006",
@@ -77,6 +79,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "16 million living men are his direct descendants",
       "subject": {
        "id": "PER-000006",

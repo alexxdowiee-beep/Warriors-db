@@ -43,6 +43,8 @@
    ],
    "quiz_kind": "myth-busting",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "He has been portrayed as a national hero only since the early 20th century",
    "subject": {
     "id": "PER-000009",

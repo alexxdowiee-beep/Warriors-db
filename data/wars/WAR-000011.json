@@ -85,6 +85,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
    "subject": {
     "id": "PER-000005",

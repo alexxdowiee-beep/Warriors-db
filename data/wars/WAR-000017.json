@@ -147,6 +147,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "The Otrar caravan massacre led to war with Khwarazm",
    "subject": {
     "id": "PER-000006",

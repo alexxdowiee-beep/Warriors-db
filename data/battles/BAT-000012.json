@@ -92,6 +92,8 @@
    "perspective": [],
    "quiz_kind": "plain-fact",
    "quiz_ready": true,
+   "restricted": false,
+   "restricted_reason": null,
    "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
    "subject": {
     "id": "PER-000002",

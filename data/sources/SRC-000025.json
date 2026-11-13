@@ -33,6 +33,8 @@
       "perspective": [],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "A Sosso empire existed before Mali",
       "subject": {
        "id": "PER-000003",
@@ -68,6 +70,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Griot versions calling him \"Mari Jata\" independently confirm Ibn Khaldun",
       "subject": {
        "id": "PER-000003",

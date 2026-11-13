@@ -48,6 +48,8 @@
       ],
       "quiz_kind": "plain-fact",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
       "subject": {
        "id": "PER-000007",
@@ -94,6 +96,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The Novgorod chronicle dates the Kalka to 1224",
       "subject": {
        "id": "PER-000007",
@@ -129,6 +133,8 @@
       "perspective": [],
       "quiz_kind": "debate",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "Jebe was captured and killed by the Qipchaqs during the campaign",
       "subject": {
        "id": "PER-000007",
@@ -164,6 +170,8 @@
       "perspective": [],
       "quiz_kind": "myth-busting",
       "quiz_ready": true,
+      "restricted": false,
+      "restricted_reason": null,
       "statement": "The 1220–1223 raid was a planned reconnaissance of Europe",
       "subject": {
        "id": "PER-000007",
