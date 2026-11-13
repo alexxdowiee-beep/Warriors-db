@@ -1,0 +1,22 @@
+{
+  "id": "SRC-000019",
+  "type": "source",
+  "slug": "niane-sundiata-epic-of-old-mali",
+  "primary_name": "D. T. Niane, Sundiata: An Epic of Old Mali",
+  "summary": "The best-known version of the Sundiata epic in English.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [
+    "SRC-000018"
+  ],
+  "authors": [
+    "D. T. Niane"
+  ],
+  "title": "Sundiata: An Epic of Old Mali",
+  "date_written": "1960 (French), 1965 (English)",
+  "opened": false,
+  "reliability_notes": "Literary version of oral tradition (pilot doc type): a reworking of tales told by the griot Mamadou Kouyaté, not a word-for-word transcript (search excerpt; to verify against Niane's preface)."
+}

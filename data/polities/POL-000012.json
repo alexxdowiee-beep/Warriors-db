@@ -1,0 +1,21 @@
+{
+  "id": "POL-000012",
+  "type": "polity",
+  "slug": "wu",
+  "primary_name": "Wu",
+  "names": [
+    {
+      "name": "Wu",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "State of Wu",
+      "kind": "other"
+    }
+  ],
+  "summary": "Rising state in the lower Yangtze region; under King Helü (r. 514–496 BCE) it captured the Chu capital in 506 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

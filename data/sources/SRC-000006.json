@@ -1,0 +1,26 @@
+{
+  "id": "SRC-000006",
+  "type": "source",
+  "slug": "williamson-biography-of-joan-of-arc",
+  "primary_name": "Allen Williamson, \"Biography of Joan of Arc\"",
+  "summary": "Biography on the Joan of Arc Archive website, summarising chronicles and trial testimony.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "Enthusiast site with a strongly pro-Joan, advocacy tone; relies heavily on 1456 testimony.",
+  "derives_from": [
+    "SRC-000001",
+    "SRC-000002",
+    "SRC-000004"
+  ],
+  "authors": [
+    "Allen Williamson"
+  ],
+  "title": "Biography of Joan of Arc",
+  "publisher": "Joan of Arc Archive",
+  "url": "https://archive.joan-of-arc.org/joanofarc_short_biography.html",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Detailed and well referenced to primary sources. derives_from records the pilot doc's statement that it summarises chronicles and trial testimony."
+}

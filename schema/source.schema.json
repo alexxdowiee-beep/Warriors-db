@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "source.schema.json",
+  "title": "Source record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/sourceId"
+    },
+    "type": {
+      "const": "source"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "primary-contemporary",
+        "primary-later",
+        "archaeological",
+        "oral-tradition",
+        "academic-book",
+        "journal-article",
+        "museum",
+        "reference",
+        "statute",
+        "translation",
+        "other"
+      ]
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "title": {
+      "type": "string"
+    },
+    "date_written": {
+      "type": "string"
+    },
+    "edition": {
+      "type": "string"
+    },
+    "publisher": {
+      "type": "string"
+    },
+    "year": {
+      "type": [
+        "integer",
+        "string",
+        "null"
+      ]
+    },
+    "isbn_doi": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "accessed": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "bias_notes": {
+      "type": "string"
+    },
+    "reliability_notes": {
+      "type": "string"
+    },
+    "derives_from": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/sourceId"
+      }
+    },
+    "opened": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "source_type"
+  ]
+}

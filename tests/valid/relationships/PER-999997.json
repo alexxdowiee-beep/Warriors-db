@@ -1,0 +1,15 @@
+{
+  "subject": "PER-999997",
+  "relationships": [
+    {
+      "id": "REL-999901",
+      "from_id": "PER-999997",
+      "to_id": "BAT-999901",
+      "relation": "commanded",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-999903"
+      ]
+    }
+  ]
+}

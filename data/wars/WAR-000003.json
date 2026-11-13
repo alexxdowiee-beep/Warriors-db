@@ -1,0 +1,25 @@
+{
+  "id": "WAR-000003",
+  "type": "war",
+  "slug": "first-punic-war",
+  "primary_name": "First Punic War",
+  "names": [
+    {
+      "name": "First Punic War",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "War that Carthage lost to Rome; it surrendered Sicily and paid a heavy indemnity.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": -263,
+    "latest": -240,
+    "precision": "year",
+    "display": "264–241 BCE",
+    "certainty": "A"
+  }
+}

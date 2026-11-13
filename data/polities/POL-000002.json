@@ -1,0 +1,17 @@
+{
+  "id": "POL-000002",
+  "type": "polity",
+  "slug": "england",
+  "primary_name": "England",
+  "names": [
+    {
+      "name": "England",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Henry VI of England claimed the French crown during the Hundred Years' War.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

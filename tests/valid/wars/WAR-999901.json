@@ -1,0 +1,18 @@
+{
+  "id": "WAR-999901",
+  "type": "war",
+  "slug": "test-war",
+  "primary_name": "Test War",
+  "summary": "Fictional war.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1400,
+    "latest": 1410,
+    "precision": "year",
+    "display": "1400–1410 CE",
+    "certainty": "B"
+  }
+}

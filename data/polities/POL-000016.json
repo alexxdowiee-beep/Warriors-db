@@ -1,0 +1,18 @@
+{
+  "id": "POL-000016",
+  "type": "polity",
+  "slug": "ngati-raukawa",
+  "primary_name": "Ngāti Raukawa",
+  "names": [
+    {
+      "name": "Ngāti Raukawa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Te Rauparaha's mother's iwi; joined the migration south as allies.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

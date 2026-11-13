@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000003",
+  "type": "battle",
+  "slug": "beaugency-1429",
+  "primary_name": "Beaugency",
+  "names": [
+    {
+      "name": "Beaugency",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Siege in which the English garrison of Beaugency surrendered.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "outcome": "English garrison surrendered",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day",
+    "display": "17 June 1429",
+    "certainty": "B",
+    "month": 6,
+    "day": 17
+  },
+  "place_id": "PLC-000005",
+  "war_id": "WAR-000002",
+  "sides": [
+    {
+      "label": "Valois France",
+      "polity_ids": [
+        "POL-000001"
+      ],
+      "result": "English garrison surrendered"
+    },
+    {
+      "label": "English garrison",
+      "polity_ids": [
+        "POL-000002"
+      ]
+    }
+  ]
+}

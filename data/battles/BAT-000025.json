@@ -1,0 +1,42 @@
+{
+  "id": "BAT-000025",
+  "type": "battle",
+  "slug": "waiorua",
+  "primary_name": "Waiorua, Kāpiti",
+  "names": [
+    {
+      "name": "Waiorua, Kāpiti",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "A great canoe fleet from many southern iwi made a night attack on Kāpiti and was defeated.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Victory",
+  "date": {
+    "earliest": 1824,
+    "latest": 1824,
+    "precision": "year",
+    "display": "c. 1824",
+    "certainty": "B",
+    "qualifier": "circa"
+  },
+  "place_id": "PLC-000027",
+  "war_id": "WAR-000009",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Coalition of southern iwi"
+    }
+  ],
+  "editor_notes": "Doc grade: B (A once a second source is opened). The doc names no battle type; kind unknown."
+}

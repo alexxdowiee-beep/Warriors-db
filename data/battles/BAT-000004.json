@@ -1,0 +1,62 @@
+{
+  "id": "BAT-000004",
+  "type": "battle",
+  "slug": "patay-1429",
+  "primary_name": "Patay",
+  "names": [
+    {
+      "name": "Patay",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Field battle in which the retreating English were caught and defeated by a cavalry charge of the French vanguard.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "outcome": "Victory (for Joan of Arc's side)",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day",
+    "display": "18 June 1429",
+    "certainty": "B",
+    "month": 6,
+    "day": 18
+  },
+  "place_id": "PLC-000006",
+  "war_id": "WAR-000002",
+  "sides": [
+    {
+      "label": "Valois France",
+      "polity_ids": [
+        "POL-000001"
+      ],
+      "casualties": {
+        "unit": "losses",
+        "ancient_claim": 3,
+        "basis": "contemporary record",
+        "claim_ids": [
+          "CLM-000008"
+        ]
+      },
+      "result": "Victory"
+    },
+    {
+      "label": "English",
+      "polity_ids": [
+        "POL-000002"
+      ],
+      "casualties": {
+        "unit": "losses",
+        "ancient_claim": 2200,
+        "basis": "contemporary record",
+        "claim_ids": [
+          "CLM-000008"
+        ]
+      }
+    }
+  ],
+  "editor_notes": "Loss figures are the herald's figure only (CLM-000008, grade D)."
+}

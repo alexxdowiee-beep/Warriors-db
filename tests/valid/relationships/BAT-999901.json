@@ -1,0 +1,12 @@
+{
+  "subject": "BAT-999901",
+  "relationships": [
+    {
+      "id": "REL-999902",
+      "from_id": "BAT-999901",
+      "to_id": "WAR-999901",
+      "relation": "part_of",
+      "certainty": "B"
+    }
+  ]
+}

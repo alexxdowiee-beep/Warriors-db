@@ -1,0 +1,22 @@
+{
+  "id": "POL-000010",
+  "type": "polity",
+  "slug": "mali-empire",
+  "primary_name": "Mali Empire",
+  "names": [
+    {
+      "name": "Mali Empire",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Manden",
+      "kind": "other"
+    }
+  ],
+  "summary": "Empire founded in the 13th century after Sundiata's victory over the Sosso; later famous under Mansa Musa.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "empire"
+}

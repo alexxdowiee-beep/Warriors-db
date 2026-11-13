@@ -1,0 +1,21 @@
+{
+  "id": "POL-000013",
+  "type": "polity",
+  "slug": "chu",
+  "primary_name": "Chu",
+  "names": [
+    {
+      "name": "Chu",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "State of Chu",
+      "kind": "other"
+    }
+  ],
+  "summary": "Wu's powerful western neighbour; its capital, Ying, fell to Wu in 506 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

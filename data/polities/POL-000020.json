@@ -1,0 +1,18 @@
+{
+  "id": "POL-000020",
+  "type": "polity",
+  "slug": "ngati-tama",
+  "primary_name": "Ngāti Tama",
+  "names": [
+    {
+      "name": "Ngāti Tama",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Allied with Ngāti Toa at Motunui and later in the south.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

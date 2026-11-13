@@ -1,0 +1,19 @@
+{
+  "id": "WAR-000010",
+  "type": "war",
+  "slug": "ngati-toa-waikato-wars-kawhia",
+  "primary_name": "Ngāti Toa–Waikato wars at Kāwhia",
+  "names": [
+    {
+      "name": "Ngāti Toa–Waikato wars at Kāwhia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "From the late 18th century, Ngāti Toa and their relations were repeatedly at war with the Waikato iwi over the fertile land north of Kāwhia Harbour: a long chain of killings, revenge raids and peacemakings.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "editor_notes": "Descriptive name based on the pilot doc heading 'Kāwhia and the Waikato wars'."
+}

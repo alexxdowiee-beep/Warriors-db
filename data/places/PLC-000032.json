@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000032",
+  "type": "place",
+  "slug": "wairau",
+  "primary_name": "Wairau plains",
+  "names": [
+    {
+      "name": "Wairau plains",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where the 1843 survey was stopped and the Wairau fighting took place.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

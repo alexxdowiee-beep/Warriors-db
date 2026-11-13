@@ -1,0 +1,17 @@
+{
+  "id": "POL-000008",
+  "type": "polity",
+  "slug": "bithynia",
+  "primary_name": "Bithynia",
+  "names": [
+    {
+      "name": "Bithynia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Kingdom of Prusias I, whom Hannibal served in exile and where he died.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

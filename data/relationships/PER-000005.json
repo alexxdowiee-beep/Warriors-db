@@ -1,0 +1,123 @@
+{
+  "subject": "PER-000005",
+  "relationships": [
+    {
+      "id": "REL-000032",
+      "from_id": "PER-000005",
+      "to_id": "WAR-000011",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Led the migration",
+      "claim_ids": [
+        "CLM-000074"
+      ]
+    },
+    {
+      "id": "REL-000033",
+      "from_id": "PER-000005",
+      "to_id": "WAR-000012",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Led the migration",
+      "claim_ids": [
+        "CLM-000074"
+      ]
+    },
+    {
+      "id": "REL-000034",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000021",
+      "relation": "participated",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000035",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000022",
+      "relation": "participated",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000036",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000023",
+      "relation": "participated",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000037",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000024",
+      "relation": "participated",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000038",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000025",
+      "relation": "commanded",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000076"
+      ]
+    },
+    {
+      "id": "REL-000039",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000026",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "His force of about 340"
+    },
+    {
+      "id": "REL-000040",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000027",
+      "relation": "participated",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000041",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000028",
+      "relation": "commanded",
+      "certainty": "B",
+      "claim_ids": [
+        "CLM-000077"
+      ]
+    },
+    {
+      "id": "REL-000042",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000029",
+      "relation": "participated",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000043",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000030",
+      "relation": "participated",
+      "certainty": "C"
+    },
+    {
+      "id": "REL-000044",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000031",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "His allies fought; he escaped by whaleboat"
+    },
+    {
+      "id": "REL-000045",
+      "from_id": "PER-000005",
+      "to_id": "BAT-000032",
+      "relation": "participated",
+      "certainty": "A",
+      "role": "Stopped the survey with Te Rangihaeata",
+      "claim_ids": [
+        "CLM-000080"
+      ]
+    }
+  ]
+}

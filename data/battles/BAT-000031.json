@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000031",
+  "type": "battle",
+  "slug": "te-kuititanga",
+  "primary_name": "Te Kūititanga, Waikanae",
+  "names": [
+    {
+      "name": "Te Kūititanga, Waikanae",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Fighting among Te Rauparaha's allies ended with Ngāti Raukawa's defeat by Te Āti Awa; he escaped by whaleboat.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Allies defeated",
+  "date": {
+    "earliest": 1839,
+    "latest": 1839,
+    "precision": "day",
+    "display": "16 October 1839",
+    "certainty": "B",
+    "month": 10,
+    "day": 16
+  },
+  "place_id": "PLC-000031",
+  "war_id": "WAR-000009",
+  "sides": [
+    {
+      "label": "Ngāti Raukawa (allies of Te Rauparaha)",
+      "polity_ids": [
+        "POL-000016"
+      ],
+      "result": "Allies defeated"
+    },
+    {
+      "label": "Te Āti Awa",
+      "polity_ids": [
+        "POL-000019"
+      ]
+    }
+  ],
+  "editor_notes": "Doc grade: B (A once a second source is opened). The doc names no battle type; kind unknown."
+}

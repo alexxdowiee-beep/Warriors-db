@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000002",
+  "type": "place",
+  "slug": "rouen",
+  "primary_name": "Rouen",
+  "names": [
+    {
+      "name": "Rouen",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Joan of Arc was tried and burned in 1431.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

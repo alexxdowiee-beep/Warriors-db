@@ -1,0 +1,20 @@
+{
+  "id": "SRC-000013",
+  "type": "source",
+  "slug": "appian-cassius-dio-and-others",
+  "primary_name": "Appian, Cassius Dio and others",
+  "summary": "Later Greek and Roman historians of the Hannibalic war.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "Late.",
+  "derives_from": [],
+  "authors": [
+    "Appian",
+    "Cassius Dio"
+  ],
+  "date_written": "2nd–3rd c. CE",
+  "opened": false,
+  "reliability_notes": "350+ years from the events; used for gaps only. One record for several authors, as in the pilot doc."
+}

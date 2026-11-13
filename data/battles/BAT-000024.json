@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000024",
+  "type": "battle",
+  "slug": "hotuiti",
+  "primary_name": "Hotuiti",
+  "names": [
+    {
+      "name": "Hotuiti",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Rangitāne people were killed at Hotuiti after a false offer of peace.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "massacre",
+  "outcome": "Killing after false peace offer",
+  "date": {
+    "earliest": 1822,
+    "latest": 1824,
+    "precision": "year",
+    "display": "c. 1822–24",
+    "certainty": "B",
+    "qualifier": "circa"
+  },
+  "place_id": "PLC-000026",
+  "war_id": "WAR-000012",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Killing after false peace offer"
+    },
+    {
+      "label": "Rangitāne",
+      "polity_ids": [
+        "POL-000022"
+      ]
+    }
+  ],
+  "editor_notes": "Kind 'massacre' named in the pilot doc (user decision, 13 Nov 2026)."
+}

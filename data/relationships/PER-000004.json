@@ -1,0 +1,45 @@
+{
+  "subject": "PER-000004",
+  "relationships": [
+    {
+      "id": "REL-000028",
+      "from_id": "PER-000004",
+      "to_id": "POL-000012",
+      "relation": "served",
+      "certainty": "C",
+      "role": "Served King Helü (Sima Qian only)",
+      "claim_ids": [
+        "CLM-000059"
+      ]
+    },
+    {
+      "id": "REL-000029",
+      "from_id": "PER-000004",
+      "to_id": "BAT-000020",
+      "relation": "participated",
+      "certainty": "D",
+      "role": "Adviser or commander, per Shiji only",
+      "claim_ids": [
+        "CLM-000060"
+      ]
+    },
+    {
+      "id": "REL-000030",
+      "from_id": "PER-000004",
+      "to_id": "WAR-000008",
+      "relation": "participated",
+      "certainty": "C",
+      "role": "Adviser, per Shiji"
+    },
+    {
+      "id": "REL-000031",
+      "from_id": "PER-000004",
+      "to_id": "WRK-000001",
+      "relation": "attributed_author_of",
+      "certainty": "C",
+      "claim_ids": [
+        "CLM-000058"
+      ]
+    }
+  ]
+}

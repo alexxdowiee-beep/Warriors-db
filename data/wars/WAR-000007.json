@@ -1,0 +1,19 @@
+{
+  "id": "WAR-000007",
+  "type": "war",
+  "slug": "wars-between-wu-and-chu",
+  "primary_name": "Wars between Wu and Chu",
+  "names": [
+    {
+      "name": "Wars between Wu and Chu",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Under King Helü (r. 514–496 BCE), Wu fought its western neighbour Chu almost every year and in 506 BCE captured the Chu capital, Ying.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "editor_notes": "Descriptive name based on the pilot doc."
+}

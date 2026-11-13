@@ -1,0 +1,102 @@
+{
+  "subject": "PER-000002",
+  "relationships": [
+    {
+      "id": "REL-000013",
+      "from_id": "PER-000002",
+      "to_id": "POL-000004",
+      "relation": "served",
+      "certainty": "A",
+      "role": "General; later suffete (chief magistrate)"
+    },
+    {
+      "id": "REL-000014",
+      "from_id": "PER-000002",
+      "to_id": "POL-000007",
+      "relation": "served",
+      "certainty": "B",
+      "role": "Adviser in exile to Antiochus III"
+    },
+    {
+      "id": "REL-000015",
+      "from_id": "PER-000002",
+      "to_id": "POL-000008",
+      "relation": "served",
+      "certainty": "B",
+      "role": "In exile with Prusias I"
+    },
+    {
+      "id": "REL-000016",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000010",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000023"
+      ]
+    },
+    {
+      "id": "REL-000017",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000011",
+      "relation": "commanded",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000018",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000012",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000025"
+      ]
+    },
+    {
+      "id": "REL-000019",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000013",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000025"
+      ]
+    },
+    {
+      "id": "REL-000020",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000014",
+      "relation": "commanded",
+      "certainty": "A",
+      "role": "Commanded the centre in person",
+      "claim_ids": [
+        "CLM-000028"
+      ]
+    },
+    {
+      "id": "REL-000021",
+      "from_id": "PER-000002",
+      "to_id": "WAR-000014",
+      "relation": "commanded",
+      "certainty": "B"
+    },
+    {
+      "id": "REL-000022",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000016",
+      "relation": "commanded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000031"
+      ]
+    },
+    {
+      "id": "REL-000023",
+      "from_id": "PER-000002",
+      "to_id": "BAT-000017",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "His wing held"
+    }
+  ]
+}

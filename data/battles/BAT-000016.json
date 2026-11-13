@@ -1,0 +1,60 @@
+{
+  "id": "BAT-000016",
+  "type": "battle",
+  "slug": "zama",
+  "primary_name": "Zama",
+  "names": [
+    {
+      "name": "Zama",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Field battle in which Scipio decisively defeated Hannibal; his newly raised elephants did more harm to his own lines.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "outcome": "Defeat",
+  "date": {
+    "earliest": -201,
+    "latest": -201,
+    "precision": "year",
+    "display": "202 BCE",
+    "certainty": "A"
+  },
+  "place_id": "PLC-000018",
+  "war_id": "WAR-000004",
+  "sides": [
+    {
+      "label": "Carthage",
+      "polity_ids": [
+        "POL-000004"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "casualties": {
+        "unit": "dead",
+        "claim_ids": [
+          "CLM-000032"
+        ]
+      },
+      "result": "Defeat"
+    },
+    {
+      "label": "Rome, under Scipio Africanus, with Masinissa",
+      "polity_ids": [
+        "POL-000005"
+      ],
+      "casualties": {
+        "unit": "dead",
+        "high": 2000,
+        "claim_ids": [
+          "CLM-000032"
+        ]
+      }
+    }
+  ],
+  "editor_notes": "CLM-000032 (D): Roman losses under 2,000, Carthaginian about ten times that. No Carthaginian number is stored because the source gives only a ratio."
+}

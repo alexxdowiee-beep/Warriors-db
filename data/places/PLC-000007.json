@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000007",
+  "type": "place",
+  "slug": "montepilloy",
+  "primary_name": "Montépilloy",
+  "names": [
+    {
+      "name": "Montépilloy",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Scene of a standoff with Bedford's army in August 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

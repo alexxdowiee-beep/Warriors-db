@@ -1,0 +1,43 @@
+{
+  "id": "BAT-000030",
+  "type": "battle",
+  "slug": "oraumoaiti-and-oraumoanui",
+  "primary_name": "Ōraumoaiti and Ōraumoanui",
+  "names": [
+    {
+      "name": "Ōraumoaiti and Ōraumoanui",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Later battles with Ngāi Tahu, now armed from whaling stations, that were inconclusive.",
+  "certainty": "C",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Inconclusive",
+  "date": {
+    "earliest": 1830,
+    "latest": 1839,
+    "precision": "decade",
+    "display": "1830s",
+    "certainty": "C"
+  },
+  "war_id": "WAR-000013",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Inconclusive"
+    },
+    {
+      "label": "Ngāi Tahu",
+      "polity_ids": [
+        "POL-000023"
+      ]
+    }
+  ],
+  "editor_notes": "One row in the doc covering two named engagements, kept as one record. No place record, as it would need two. The doc names no battle type; kind unknown."
+}

@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "place.schema.json",
+  "title": "Place record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/placeId"
+    },
+    "type": {
+      "const": "place"
+    },
+    "latitude": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "longitude": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "location_precision": {
+      "type": "string",
+      "enum": [
+        "exact",
+        "approximate",
+        "region",
+        "unknown"
+      ]
+    },
+    "location_certainty": {
+      "$ref": "common.schema.json#/$defs/grade"
+    },
+    "place_type": {
+      "type": "string"
+    },
+    "modern_country": {
+      "type": "string"
+    }
+  },
+  "required": []
+}

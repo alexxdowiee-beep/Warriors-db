@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000019",
+  "type": "place",
+  "slug": "pamphylia",
+  "primary_name": "Pamphylia",
+  "names": [
+    {
+      "name": "Pamphylia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "A naval battle was fought off Pamphylia in 190 BCE.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}

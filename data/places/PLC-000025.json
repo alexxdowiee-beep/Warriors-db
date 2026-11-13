@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000025",
+  "type": "place",
+  "slug": "horowhenua-lakes",
+  "primary_name": "Horowhenua lakes",
+  "names": [
+    {
+      "name": "Horowhenua lakes",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Muaūpoko's lake pā were taken, c. 1822.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

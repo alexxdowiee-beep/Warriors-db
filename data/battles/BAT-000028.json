@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000028",
+  "type": "battle",
+  "slug": "kaiapoi-siege",
+  "primary_name": "Kaiapoi siege",
+  "names": [
+    {
+      "name": "Kaiapoi siege",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Kaiapoi pā was taken after a long siege by sapping and burning the palisades.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "outcome": "Captured",
+  "date": {
+    "earliest": 1831,
+    "latest": 1832,
+    "precision": "year",
+    "display": "1831–32",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000029",
+  "war_id": "WAR-000013",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Ngāi Tahu",
+      "polity_ids": [
+        "POL-000023"
+      ]
+    }
+  ],
+  "editor_notes": "Doc grade: B (A once a second source is opened)."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000013",
+  "type": "place",
+  "slug": "ticinus",
+  "primary_name": "Ticinus",
+  "names": [
+    {
+      "name": "Ticinus",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Scene of Hannibal's cavalry action in 218 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

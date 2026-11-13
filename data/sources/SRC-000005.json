@@ -1,0 +1,22 @@
+{
+  "id": "SRC-000005",
+  "type": "source",
+  "slug": "mcgrady-trials-of-joan-of-arc",
+  "primary_name": "Deborah McGrady, \"The Trials of Joan of Arc\"",
+  "summary": "History Today article on the two trials of Joan of Arc.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "authors": [
+    "Deborah McGrady"
+  ],
+  "title": "The Trials of Joan of Arc",
+  "publisher": "History Today",
+  "url": "https://www.historytoday.com/archive/feature/trials-joan-arc",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Specialist academic (professor of French, University of Virginia); author of a 2025 Boydell study of Joan as a cultural icon. Warns that later writers have mostly accepted the 1456 witnesses without questioning them."
+}

@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "tactic.schema.json",
+  "title": "Tactic record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/tacticId"
+    },
+    "type": {
+      "const": "tactic"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "formation",
+        "manoeuvre",
+        "siegecraft",
+        "naval",
+        "logistics",
+        "intelligence",
+        "deception",
+        "doctrine",
+        "grand-strategy"
+      ]
+    },
+    "description": {
+      "type": "string"
+    },
+    "requirements": {
+      "type": "string"
+    },
+    "counters": {
+      "type": "string"
+    }
+  },
+  "required": []
+}

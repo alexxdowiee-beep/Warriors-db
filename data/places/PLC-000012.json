@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000012",
+  "type": "place",
+  "slug": "saguntum",
+  "primary_name": "Saguntum",
+  "names": [
+    {
+      "name": "Saguntum",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "City in Iberia south of the Ebro with ties of friendship with Rome; taken by Hannibal in 219 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "place_type": "city",
+  "location_certainty": "A"
+}

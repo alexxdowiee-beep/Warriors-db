@@ -1,0 +1,21 @@
+{
+  "id": "SRC-000012",
+  "type": "source",
+  "slug": "nepos-life-of-hannibal",
+  "primary_name": "Cornelius Nepos, Life of Hannibal",
+  "summary": "Short Latin biography of Hannibal.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "Unusually admiring of Hannibal.",
+  "derives_from": [],
+  "authors": [
+    "Cornelius Nepos"
+  ],
+  "title": "Life of Hannibal",
+  "language": "Latin",
+  "date_written": "1st c. BCE",
+  "opened": false,
+  "reliability_notes": "About 150 years from the events; short, with chronological errors flagged by his translator."
+}

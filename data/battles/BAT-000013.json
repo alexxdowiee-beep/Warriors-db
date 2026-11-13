@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000013",
+  "type": "battle",
+  "slug": "lake-trasimene",
+  "primary_name": "Lake Trasimene",
+  "names": [
+    {
+      "name": "Lake Trasimene",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Ambush that trapped the consul Flaminius's army on the shore of Lake Trasimene; Flaminius was killed.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "ambush",
+  "outcome": "Victory",
+  "date": {
+    "earliest": -216,
+    "latest": -216,
+    "precision": "year",
+    "display": "217 BCE",
+    "certainty": "A"
+  },
+  "place_id": "PLC-000015",
+  "war_id": "WAR-000004",
+  "sides": [
+    {
+      "label": "Carthage",
+      "polity_ids": [
+        "POL-000004"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Rome, under Flaminius (killed)",
+      "polity_ids": [
+        "POL-000005"
+      ]
+    }
+  ]
+}

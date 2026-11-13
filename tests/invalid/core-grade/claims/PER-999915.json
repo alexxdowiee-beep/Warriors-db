@@ -1,0 +1,44 @@
+{
+  "subject": "PER-999915",
+  "claims": [
+    {
+      "id": "CLM-999915",
+      "field": "identity",
+      "statement": "Test statement for identity.",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999917",
+          "locator": "p. 1",
+          "access": "opened"
+        }
+      ]
+    },
+    {
+      "id": "CLM-999916",
+      "field": "active_period",
+      "statement": "Test statement for active_period.",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999917",
+          "locator": "p. 1",
+          "access": "opened"
+        }
+      ]
+    },
+    {
+      "id": "CLM-999917",
+      "field": "main_battles",
+      "statement": "Test statement for main_battles.",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "accepted",
+      "citations": []
+    }
+  ]
+}

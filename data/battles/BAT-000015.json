@@ -1,0 +1,48 @@
+{
+  "id": "BAT-000015",
+  "type": "battle",
+  "slug": "march-on-rome-211-bce",
+  "primary_name": "March on Rome",
+  "names": [
+    {
+      "name": "March on Rome",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "A diversion that Hannibal could not turn into a siege.",
+  "certainty": "B",
+  "status": "tombstone",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "No siege attempted",
+  "date": {
+    "earliest": -210,
+    "latest": -210,
+    "precision": "year",
+    "display": "211 BCE",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000017",
+  "war_id": "WAR-000004",
+  "sides": [
+    {
+      "label": "Carthage",
+      "polity_ids": [
+        "POL-000004"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "result": "No siege attempted"
+    },
+    {
+      "label": "Rome",
+      "polity_ids": [
+        "POL-000005"
+      ]
+    }
+  ],
+  "editor_notes": "Tombstone (13 Nov 2026): the March on Rome is a campaign, not a battle; replaced by WAR-000014.",
+  "replaced_by": "WAR-000014"
+}

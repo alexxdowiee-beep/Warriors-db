@@ -1,0 +1,9 @@
+{
+  "grades": {
+    "A": "Established",
+    "B": "Probable",
+    "C": "Disputed",
+    "D": "Weak",
+    "E": "Legendary or false"
+  }
+}

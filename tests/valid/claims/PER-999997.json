@@ -1,0 +1,73 @@
+{
+  "subject": "PER-999997",
+  "claims": [
+    {
+      "id": "CLM-999901",
+      "field": "identity",
+      "statement": "Test statement for identity.",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999901",
+          "locator": "p. 1",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-999902",
+          "locator": "p. 1",
+          "access": "excerpt"
+        }
+      ]
+    },
+    {
+      "id": "CLM-999902",
+      "field": "active_period",
+      "statement": "Test statement for active_period.",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999903",
+          "locator": "p. 1",
+          "access": "via-secondary"
+        }
+      ]
+    },
+    {
+      "id": "CLM-999903",
+      "field": "main_battles",
+      "statement": "Test statement for main_battles.",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999902",
+          "locator": "p. 1",
+          "access": "opened"
+        }
+      ]
+    },
+    {
+      "id": "CLM-999904",
+      "field": "identity",
+      "statement": "Test statement for identity.",
+      "claim_type": "tradition",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "citations": []
+    },
+    {
+      "id": "CLM-999905",
+      "field": "quotation",
+      "statement": "Test statement for quotation.",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "accepted",
+      "citations": []
+    }
+  ]
+}

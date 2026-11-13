@@ -1,0 +1,27 @@
+{
+  "id": "WAR-000002",
+  "type": "war",
+  "slug": "loire-campaign-1429",
+  "primary_name": "Loire campaign (1429)",
+  "names": [
+    {
+      "name": "Loire campaign (1429)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Campaign under the nominal command of the Duke of Alençon that took Jargeau, Meung-sur-Loire and Beaugency, then caught the retreating English at Patay.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "campaign",
+  "span": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "month",
+    "display": "June 1429",
+    "certainty": "A",
+    "month": 6
+  },
+  "parent_war_id": "WAR-000001"
+}

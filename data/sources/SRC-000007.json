@@ -1,0 +1,18 @@
+{
+  "id": "SRC-000007",
+  "type": "source",
+  "slug": "britannica-saint-joan-of-arc",
+  "primary_name": "\"Saint Joan of Arc\", Encyclopaedia Britannica",
+  "summary": "Encyclopaedia entry on Joan of Arc.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "title": "Saint Joan of Arc",
+  "publisher": "Encyclopaedia Britannica",
+  "url": "https://www.britannica.com:443/biography/Saint-Joan-of-Arc",
+  "opened": true,
+  "reliability_notes": "Reputable reference; used for basic dates. Only the free summary was read (paywalled)."
+}

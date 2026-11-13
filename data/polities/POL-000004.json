@@ -1,0 +1,17 @@
+{
+  "id": "POL-000004",
+  "type": "polity",
+  "slug": "carthage",
+  "primary_name": "Carthage",
+  "names": [
+    {
+      "name": "Carthage",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "North African power that Hannibal served as general and later as suffete.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

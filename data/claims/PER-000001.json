@@ -1,0 +1,482 @@
+{
+  "subject": "PER-000001",
+  "claims": [
+    {
+      "id": "CLM-000001",
+      "field": "birth",
+      "statement": "Born c. 1412 in Domrémy",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000007",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (Britannica, Williamson)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000002",
+      "field": "birth",
+      "statement": "Born on 6 January",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [],
+      "evidence_status": "1 opened; original source to identify",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000003",
+      "field": "religious_experience",
+      "statement": "Claimed voices of Michael, Catherine and Margaret",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [
+        "self-testimony"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (McGrady, Williamson)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000004",
+      "field": "career",
+      "statement": "Examined at Poitiers; report found no fault but no proof",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000005",
+      "field": "main_battles",
+      "statement": "Orléans siege lifted 8 May 1429",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000007",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000006",
+      "field": "main_battles",
+      "statement": "Wounded by arrow at Les Tourelles, 7 May 1429",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000007",
+      "field": "main_battles",
+      "statement": "Patay won by the vanguard's charge, 18 June 1429",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000008",
+      "field": "casualties",
+      "statement": "English losses at Patay of 2,200 against 3 French",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "inflated-numbers",
+        "propaganda"
+      ],
+      "citations": [],
+      "evidence_status": "1 opened; herald's figure only",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000009",
+      "field": "politics",
+      "statement": "Charles crowned at Reims, 17 July 1429",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened + search excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000010",
+      "field": "main_battles",
+      "statement": "Wounded attacking Paris, 8 September 1429",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened",
+          "note": "the failed attack"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened",
+          "note": "the failed attack and the wound"
+        }
+      ],
+      "evidence_status": "Failed attack: 2 opened; the wound: 1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000011",
+      "field": "main_battles",
+      "statement": "Captured at Compiègne, 23 May 1430",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000012",
+      "field": "captivity",
+      "statement": "Transferred to the English for 10,000 livres",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened; English accounts to locate",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000013",
+      "field": "command_role",
+      "statement": "She held real military command",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "hagiography"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000008",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "Reviews of DeVries only. Flag note from the doc: hagiography (1456 testimony)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000014",
+      "field": "controversy",
+      "statement": "Charles VII abandoned her",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Conflicting sources",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000015",
+      "field": "controversy",
+      "statement": "De Flavy betrayed her at Compiègne",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "1 opened; suspicion only",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000016",
+      "field": "death",
+      "statement": "Executed as a relapsed heretic, 30 May 1431",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000007",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000017",
+      "field": "rehabilitation",
+      "statement": "1431 verdict annulled, 7 July 1456",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Pilot doc grade A; restore when cited. Search excerpts (British Library, OUP)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000018",
+      "field": "legacy",
+      "statement": "Canonised 16 May 1920",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000007",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened + search excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000086",
+      "field": "myth",
+      "statement": "She was burned as a witch",
+      "claim_type": "event",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: False (E). Evidence: Convicted as a relapsed heretic; witchcraft-style accusations were dropped before the final charges",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000087",
+      "field": "myth",
+      "statement": "She was a shepherd girl",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Misleading (C). Evidence: Trial evidence emphasises spinning and sewing; one relative said she also tended animals; she was a farmer's daughter",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000088",
+      "field": "myth",
+      "statement": "She killed many enemies in battle",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Unsupported (D). Evidence: She testified that she carried her banner and had killed no one; no source contradicts this",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000089",
+      "field": "myth",
+      "statement": "She was secretly a royal princess",
+      "claim_type": "event",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000008",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (E). Evidence: A later theory that she was a child of the House of Orléans; rejected by historians including DeVries",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000090",
+      "field": "myth",
+      "statement": "She cried out that her voices had not deceived her as she burned",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Embellished (D). Evidence: Michelet's invented scene, built from her earlier trial words (McGrady)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000091",
+      "field": "myth",
+      "statement": "She claimed to be pregnant to escape death",
+      "claim_type": "event",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Fiction (E). Evidence: From Shakespeare's Henry VI, Part 1, based on hostile sources",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000092",
+      "field": "myth",
+      "statement": "Her trial words are a verbatim record",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (B). Evidence: The 1431 record is a Latin translation of a French summary, only rarely verbatim (McGrady)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000113",
+      "field": "identity",
+      "statement": "Joan of Arc (Jeanne d'Arc), a farmer's daughter from Domrémy who called herself La Pucelle, is a historical person",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000007",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000005",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Record card: 'the best-documented commoner of the Middle Ages'; recorded in two trials. Cited: Britannica and Williamson (birth and family), McGrady (the trials).",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000114",
+      "field": "active_period",
+      "statement": "Active as a military leader from April 1429 to May 1430",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000007",
+          "access": "opened",
+          "note": "start: relief of Orléans"
+        },
+        {
+          "source_id": "SRC-000006",
+          "access": "opened",
+          "note": "start and end"
+        },
+        {
+          "source_id": "SRC-000005",
+          "access": "opened",
+          "note": "end: capture at Compiègne"
+        }
+      ],
+      "evidence_status": "Record card: Active 1429–1430 (grade A, user decision 13 Nov 2026). Start: relief of Orléans (Britannica, Williamson); end: capture at Compiègne (McGrady, Williamson).",
+      "quiz_ready": false
+    }
+  ]
+}

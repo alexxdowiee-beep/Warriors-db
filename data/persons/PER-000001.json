@@ -1,0 +1,121 @@
+{
+  "id": "PER-000001",
+  "type": "person",
+  "status": "sourced",
+  "updated": "2026-11-13",
+  "slug": "joan-of-arc",
+  "primary_name": "Joan of Arc",
+  "names": [
+    {
+      "name": "Joan of Arc",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Jeanne d'Arc",
+      "kind": "other",
+      "language": "fr"
+    },
+    {
+      "name": "Jehanne Darc",
+      "kind": "other",
+      "language": "frm"
+    },
+    {
+      "name": "La Pucelle",
+      "kind": "epithet",
+      "language": "fr"
+    },
+    {
+      "name": "the Maid",
+      "kind": "epithet",
+      "language": "en"
+    },
+    {
+      "name": "the Maid of Orléans",
+      "kind": "epithet",
+      "language": "en"
+    }
+  ],
+  "summary": "Joan of Arc is the best-documented commoner of the Middle Ages, but nearly everything we know comes from two church trials that each set out to prove a verdict. This profile tests how the template handles rich but partisan evidence.",
+  "certainty": "B",
+  "tags": [
+    "women-commanders",
+    "sieges",
+    "religious-leadership",
+    "hundred-years-war"
+  ],
+  "editor_notes": "Record card (pilot doc, 12 Nov 2026): Primary name: Joan of Arc; Other names: Jeanne d'Arc (modern French); Jehanne Darc (medieval French); La Pucelle, \"the Maid\" (her own usage); the Maid of Orléans; Roles: Military leader, religious visionary; Polity served: Kingdom of France, Valois cause of Charles VII (Armagnac faction); Born: c. 1412, Domrémy, Duchy of Bar · grade B; Died: 30 May 1431, Rouen · executed by burning · grade A; Active: 1429–1430 (about 13 months in the field); Period: Late Middle Ages; Hundred Years' War; Overall certainty: **B · Probable** — main events are firmly attested; motives, words and many details come from partisan trial records; Status: **Sourced (partial)** — several claims still need a second source; see the claims table; Tags: `women-commanders`, `sieges`, `religious-leadership`, `hundred-years-war`.\n\nGraded claims note: **One discrepancy to resolve:** summaries of the 1456 retrial give 115 witnesses and also 135 depositions. Both may be right (one person can give more than one deposition), but it needs checking against an edition.",
+  "core_claim_set": "commander",
+  "birth": {
+    "earliest": 1412,
+    "latest": 1412,
+    "precision": "year",
+    "display": "c. 1412",
+    "certainty": "B",
+    "qualifier": "circa",
+    "claim_ids": [
+      "CLM-000001"
+    ]
+  },
+  "death": {
+    "earliest": 1431,
+    "latest": 1431,
+    "precision": "day",
+    "display": "30 May 1431",
+    "certainty": "A",
+    "month": 5,
+    "day": 30,
+    "claim_ids": [
+      "CLM-000016"
+    ]
+  },
+  "active_period": {
+    "earliest": 1429,
+    "latest": 1430,
+    "precision": "year",
+    "display": "1429–1430 (about 13 months in the field)",
+    "certainty": "A"
+  },
+  "birth_place_id": "PLC-000001",
+  "death_place_id": "PLC-000002",
+  "death_cause": "Executed by burning",
+  "sex": "female",
+  "roles": [
+    "war-leader",
+    "religious-leader"
+  ],
+  "polity_ids": [
+    "POL-000001"
+  ],
+  "profile": {
+    "early_life": "Joan was born around 1412 in Domrémy, a village in the Duchy of Bar on France's eastern border, to Jacques d'Arc and Isabelle Romée, a farming family of modest means ([Britannica](https://www.britannica.com:443/biography/Saint-Joan-of-Arc); [Williamson](https://archive.joan-of-arc.org/joanofarc_short_biography.html)). The year rests on her own statement of her age at trial. A precise birthday of 6 January appears in some accounts but traces to a single near-contemporary letter, so it is graded D until checked.\n\nThe 1431 trial record shows a conventional upbringing: her mother taught her prayers, sewing and spinning ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)). Village witnesses questioned in the 1450s stressed her piety, but they were answering questions designed to show exactly that, so their unanimity is weaker evidence than it looks.\n\nShe said she began hearing voices at about age twelve or thirteen, which she identified as Saint Michael, Saint Catherine and Saint Margaret. This is graded A as a statement of what she *claimed*; the database takes no position on the nature of the experience.",
+    "historical_context": "By 1428 France was split three ways. Henry VI of England claimed the French crown, backed by the Duke of Burgundy under the 1420 Treaty of Troyes. Charles of Valois, the disinherited dauphin, held most land south of the Loire but had not been crowned. Paris had been under Anglo-Burgundian control since 1418.\n\nIn October 1428 an English army besieged Orléans, the key crossing into Charles's remaining territory. Charles was short of money, his armies had lost repeatedly, and his own legitimacy was openly questioned. It was into this near-collapse that Joan arrived in early 1429, after persuading the local captain, Robert de Baudricourt, to give her an escort to Chinon.",
+    "military_career": "Joan's active career lasted from April 1429 to May 1430: two months of striking success, followed by a year of stalled or failed operations. Unless marked, events below come from the Williamson archive biography, which summarises chronicles and trial testimony; dates are standard in the literature but most still need a second opened source.\n\n**Chinon and Poitiers (March–April 1429).** She met Charles at Chinon in early March. He had churchmen examine her at Poitiers for several weeks; their report found nothing against her but no proof of divine mission either, and advised giving her a chance ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)). She was equipped with armour and a banner and joined the relief army at Blois.\n\n**Relief of Orléans (29 April – 8 May 1429).** She entered the city with Jean, Bastard of Orléans (later Count of Dunois), who commanded its defence. Over five days the French took the English forts of Saint-Loup, the Augustins and Les Tourelles. She was hit by an arrow at Les Tourelles on 7 May, returned to the fighting later that day, and the English abandoned the siege on 8 May.\n\n**Loire campaign (June 1429).** Under the nominal command of the Duke of Alençon, the army took Jargeau, Meung-sur-Loire and Beaugency, then caught the retreating English at Patay on 18 June. Patay was won by a cavalry charge of the vanguard under La Hire and others; Joan was with the main body.\n\n**March to Reims (July 1429).** She pressed Charles to be crowned at Reims, deep in hostile territory. Troyes, Châlons and Reims submitted with little fighting, and Charles was crowned on 17 July 1429 with Joan beside him.\n\n**Paris and after (August–December 1429).** A standoff with Bedford's army at Montépilloy in August produced only skirmishes. Her attack on Paris on 8 September failed; she was wounded in the thigh by a crossbow bolt, and the king ordered a withdrawal the next day. She took Saint-Pierre-le-Moûtier in November but failed at La Charité-sur-Loire, where the army left its artillery behind.\n\n**Compiègne and capture (May 1430).** Going to help Compiègne against a Burgundian siege, she led a sortie on 23 May 1430, was caught outside the walls when the town's gate or drawbridge was closed behind the rearguard, and was taken prisoner by Burgundian troops.",
+    "leadership": "This is the central historical question about Joan, and it is graded **C · Disputed**. Formal command belonged to nobles: Dunois at Orléans, Alençon on the Loire. Older and popular accounts treat her as a figurehead who lifted morale. Kelly DeVries, a specialist in medieval warfare, argues instead that she should be studied first as a soldier, and that her contemporaries treated her as a real military leader (DeVries, *Joan of Arc: A Military Leader*, 1999; known here from [two](https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/reviewsw150.htm) [reviews](https://muse.jhu.edu/article/170578/pdf), not read in full). One reviewer notes the book still leaves open what exactly made her effective.\n\nThe evidence pulls both ways. Soldiers testifying in the 1450s praised her skill and courage ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)), but that trial existed to restore her reputation. The Bastard of Orléans recalled her positioning troops before Troyes as well as experienced captains could have; that is the same kind of favourable, after-the-fact testimony.\n\n- **Leading from the front.** She was wounded at Orléans and Paris and struck at Jargeau. Several independent incidents make her physical presence in assaults probable (B).\n- **Discipline and religious reform of the army.** Witnesses describe her expelling camp followers, banning swearing and requiring confession. Source: favourable 1450s testimony (B, flag `hagiography`).\n- **Recruitment and morale.** Accounts say volunteers joined once word spread of a holy maid with the army. Plausible but hard to measure (C).\n- **Aggression.** She consistently pushed for direct assault and pursuit (Orléans, Patay, Paris) while the royal council preferred negotiation. This contrast is well attested (B).",
+    "strategy_and_tactics": "- **Rapid assault of siege forts** rather than waiting out the English siege lines at Orléans (links to TAC: siege relief by sortie).\n- **Pursuit after victory**, pressing the army to chase the English to Patay.\n- **Political strategy:** the coronation at Reims, which gave Charles a legitimacy his rivals could not match. Many historians see this as her most important contribution.\n- **Weaknesses:** no success against a fully defended major city (Paris, La Charité), and dependence on a royal court that increasingly preferred truces with Burgundy.",
+    "technology": "- **Plate armour** made for her before Orléans.\n- **Her banner**, which she said she carried in battle rather than her sword, adding that she had never killed anyone (her own trial testimony; graded B as her claim, flag `self-testimony`).\n- **Gunpowder artillery**, decisive at Jargeau, where a large cannon from Orléans brought down a tower; at La Charité she requested saltpetre and sulphur from nearby towns.\n- **Missile weapons used against her:** an arrow at Orléans and a crossbow bolt at Paris.",
+    "victories_and_defeats": "Her record splits sharply in two. From April to July 1429 the Valois side won every major engagement she took part in. From September 1429 to May 1430 it won only Saint-Pierre-le-Moûtier and failed at Paris, La Charité and Compiègne. Explanations differ: her supporters blame royal advisers and truces with Burgundy, while sceptics note that the early successes came against an overstretched English army whose commanders had already suffered losses.",
+    "political_achievements": "- **The coronation at Reims (17 July 1429)** turned Charles from a disputed dauphin into an anointed king. This was a political act with lasting effect, well beyond any single battle.\n- **Breaking English momentum.** Orléans is widely seen as the high-water mark of English conquest in France, although final French victory took until 1453.\n- **Letters.** She dictated letters to towns, to the English commanders and to the Duke of Burgundy, eleven of which survive according to the Williamson archive (B). They show her acting as a political voice, not only a soldier.",
+    "controversies": "- **Failures at Paris and La Charité** exposed limits as a commander against strong fortifications.\n- **Abandonment by Charles VII (C · Disputed).** One reading holds that Charles made no real effort to ransom her; another points to diplomatic threats and rescue campaigns by Dunois and La Hire. McGrady notes that scholars still debate why Charles later backed her rehabilitation, given that he *appeared* to have abandoned her.\n- **Betrayal at Compiègne (D).** The garrison commander, Guillaume de Flavy, was suspected of closing the gate on her deliberately. It was never proved.\n- **Religious belligerence.** In 1430 she threatened the Hussites of Bohemia with crusade unless they returned to the Catholic faith (letter of 23 March 1430, B).\n- **The trial.** She was handed to the English for 10,000 livres, tried by a church court under Bishop Pierre Cauchon from January 1431, and convicted of heresy. After first abjuring, she was declared a relapsed heretic, chiefly over resuming men's clothing, and burned at Rouen on 30 May 1431 ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)). Witnesses in the 1450s said she wore men's clothing to protect herself from assault by guards; that account comes from the favourable later trial (B, flag `hagiography`).\n- **Annulment (7 July 1456).** A papally authorised retrial declared the 1431 proceedings invalid for fraud and procedural error. The date is attested by the British Library's catalogue of a surviving copy of the proceedings and by multiple scholarly summaries (A, search excerpts; page to be opened).",
+    "legacy": "Her reputation has been rebuilt several times, and each version served the people telling it.\n\n- **15th century:** a political dispute. Charles's supporters cast her as divinely sent; Anglo-Burgundian writers called her a witch or worse ([McGrady](https://www.historytoday.com/archive/feature/trials-joan-arc)).\n- **16th–18th centuries:** largely a figure of fiction and satire, including Shakespeare and Voltaire.\n- **19th century:** after the Revolution she became a national hero, popularised by Jules Michelet's 1853 biography, which mixed the trial records with novelistic invention.\n- **20th century:** beatified in 1909 and canonised on 16 May 1920 ([Britannica](https://www.britannica.com:443/biography/Saint-Joan-of-Arc)); France also keeps a national day in her honour.\n- **Militarily**, her direct influence on later warfare is slight. Her lasting effect is on how leadership, faith and morale are understood, and on the long-standing question of women in command.",
+    "evidence_note": "**Research note.** I opened three pages for this draft: a History Today article by Deborah McGrady (professor of French, University of Virginia), the Joan of Arc Archive biography by Allen Williamson, and Britannica's entry (only its summary is free). Other details come from search-result excerpts, marked as such. Books such as Kelly DeVries's military study are cited from reviews, not read. Every claim below says which.\n\nJoan's record is unusually large for a medieval commoner, but its two core sources are courtroom dossiers, each built to prove a verdict. McGrady warns that later writers have mostly accepted the 1456 witnesses without questioning them. This profile follows her caution.\n\nA published English translation of both trial records, and full access to DeVries and to Helen Castor's 2014 biography, would allow most B claims to move to A. These need a library or e-book; a public library's online loans may give access.",
+    "key_takeaways": [
+      "In about 13 months, from 1429 to 1430, Joan helped lift the siege of Orléans and brought Charles VII to his coronation at Reims.",
+      "Her greatest achievement may have been political: the coronation gave the Valois cause a legitimacy that battles alone could not.",
+      "She was convicted of heresy, not witchcraft, and burned at Rouen on 30 May 1431; the verdict was annulled in 1456.",
+      "How much she personally commanded is still disputed.",
+      "Both main sources are trial records written to win a case, so even her famous words come to us filtered through a court."
+    ]
+  },
+  "myth_claim_ids": [
+    "CLM-000014",
+    "CLM-000086",
+    "CLM-000087",
+    "CLM-000088",
+    "CLM-000089",
+    "CLM-000090",
+    "CLM-000091",
+    "CLM-000092"
+  ]
+}

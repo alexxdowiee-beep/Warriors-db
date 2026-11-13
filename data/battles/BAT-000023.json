@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000023",
+  "type": "battle",
+  "slug": "horowhenua-lakes-1822",
+  "primary_name": "Horowhenua lakes",
+  "names": [
+    {
+      "name": "Horowhenua lakes",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "After Muaūpoko tried to kill Te Rauparaha and his family at a feast near Lake Papaitonga, Muaūpoko's lake pā were taken and their people massacred in revenge.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Victory; massacre",
+  "date": {
+    "earliest": 1822,
+    "latest": 1822,
+    "precision": "year",
+    "display": "c. 1822",
+    "certainty": "B",
+    "qualifier": "circa"
+  },
+  "place_id": "PLC-000025",
+  "war_id": "WAR-000012",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Victory; massacre"
+    },
+    {
+      "label": "Muaūpoko",
+      "polity_ids": [
+        "POL-000021"
+      ]
+    }
+  ],
+  "editor_notes": "The doc names no battle type (its result column reads 'Victory; massacre'); kind unknown (user decision)."
+}

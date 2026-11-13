@@ -1,0 +1,19 @@
+{
+  "id": "SRC-000023",
+  "type": "source",
+  "slug": "met-mali-empire",
+  "primary_name": "Metropolitan Museum of Art, \"The Empires of the Western Sudan: Mali Empire\"",
+  "summary": "Heilbrunn Timeline of Art History essay on the Mali Empire.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "museum",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "title": "The Empires of the Western Sudan: Mali Empire",
+  "publisher": "Metropolitan Museum of Art, Heilbrunn Timeline",
+  "year": 2000,
+  "url": "https://www.metmuseum.org/essays/the-empires-of-the-western-sudan-mali-empire",
+  "accessed": "2026-11-12",
+  "opened": true
+}

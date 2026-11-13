@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000022",
+  "type": "source",
+  "slug": "levtzion-hopkins-corpus",
+  "primary_name": "N. Levtzion and J. F. P. Hopkins (eds.), Corpus of Early Arabic Sources for West African History",
+  "summary": "Standard English translation of Arabic sources on West Africa.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [
+    "SRC-000020",
+    "SRC-000021"
+  ],
+  "authors": [
+    "N. Levtzion",
+    "J. F. P. Hopkins"
+  ],
+  "title": "Corpus of Early Arabic Sources for West African History",
+  "date_written": "1981; repr. 2000",
+  "opened": false
+}

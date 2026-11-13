@@ -1,0 +1,428 @@
+{
+  "subject": "PER-000005",
+  "claims": [
+    {
+      "id": "CLM-000070",
+      "field": "birth",
+      "statement": "Born in the 1760s, at Kāwhia or Maungatautari",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (DNZB)",
+      "quiz_ready": true,
+      "alternative_claim_ids": [
+        "CLM-000071"
+      ]
+    },
+    {
+      "id": "CLM-000071",
+      "field": "birth",
+      "statement": "Ngāti Toa's account: born in the 1770s at Kāwhia",
+      "claim_type": "tradition",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (2014 Act)",
+      "quiz_ready": true,
+      "perspective_of": [
+        "POL-000015"
+      ],
+      "alternative_claim_ids": [
+        "CLM-000070"
+      ]
+    },
+    {
+      "id": "CLM-000072",
+      "field": "death",
+      "statement": "Died at Ōtaki on 27 November 1849",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (DNZB; Act gives year and place)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000073",
+      "field": "name",
+      "statement": "Named in defiance of a threat to eat him with rauparaha leaves",
+      "claim_type": "tradition",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (DNZB)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000074",
+      "field": "main_battles",
+      "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (DNZB, Act)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000075",
+      "field": "strength",
+      "statement": "About 1,500 Ngāti Toa reached Taranaki",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000076",
+      "field": "main_battles",
+      "statement": "Defeated a southern coalition at Waiorua, c. 1824",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000077",
+      "field": "main_battles",
+      "statement": "Took Kaiapoi pā by sapping and fire, 1831–32",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000078",
+      "field": "strategy",
+      "statement": "His power rested on controlling the musket trade",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000079",
+      "field": "politics",
+      "statement": "Signed the Treaty on 14 May and 19 June 1840",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened; A once Treaty records are checked",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000080",
+      "field": "controversy",
+      "statement": "Te Rangihaeata, not Te Rauparaha, killed the Wairau prisoners",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000081",
+      "field": "detention",
+      "statement": "Held without charge for ten months, 1846–47",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000082",
+      "field": "tradition",
+      "statement": "Ngāti Toa's account of composing Ka Mate in hiding at Lake Rotoaira",
+      "claim_type": "tradition",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Act)",
+      "quiz_ready": true,
+      "perspective_of": [
+        "POL-000015"
+      ]
+    },
+    {
+      "id": "CLM-000083",
+      "field": "composition",
+      "statement": "Te Rauparaha composed Ka Mate",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Iwi account, acknowledged by the Crown in statute",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000084",
+      "field": "cultural_heritage",
+      "statement": "Ka Mate is a Ngāti Toa taonga with a statutory right of attribution",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Act)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000085",
+      "field": "interpretation",
+      "statement": "His success was due mainly to muskets",
+      "claim_type": "interpretation",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "DNZB reports both views",
+      "quiz_ready": true,
+      "perspective_of": [
+        "POL-000023",
+        "POL-000021",
+        "POL-000022",
+        "POL-000025",
+        "POL-000024"
+      ]
+    },
+    {
+      "id": "CLM-000108",
+      "field": "myth",
+      "statement": "Ka Mate was composed as a war cry before battle",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Misleading (B). Evidence: Ngāti Toa's account: composed in hiding, celebrating survival and life over death",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000109",
+      "field": "myth",
+      "statement": "\"Ka mate! Ka mate!\" simply means \"I die! I die!\"",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Incomplete (A). Evidence: Ngāti Toa render it as a question: \"Will I die?\" answered by \"Will I live?\"",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000110",
+      "field": "myth",
+      "statement": "He hid in a kūmara pit",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Detail varies (B). Evidence: The 2014 Act says a taewa (potato) pit; other retellings say kūmara",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000111",
+      "field": "myth",
+      "statement": "He was arrested as punishment for Wairau",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Pilot doc grade A; restore when cited. Myths table verdict: False (A). Evidence: Arrested in 1846 over fears of attacks on Wellington, three years after Wairau, and never charged",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000112",
+      "field": "myth",
+      "statement": "He was the \"Napoleon of the South\"",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Colonial label (D). Evidence: A European comparison; it tells us about the writers, not about him (to verify)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000116",
+      "field": "identity",
+      "statement": "Te Rauparaha, rangatira of Ngāti Toa Rangatira, is a historical person",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000034",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Record card: 'identity, active period and main campaigns are well attested'. Cited: DNZB and the 2014 Act.",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000117",
+      "field": "active_period",
+      "statement": "Active c. 1800s–1849; leader of the migration south from c. 1820",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000036",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000034",
+          "access": "opened",
+          "note": "the migration"
+        }
+      ],
+      "evidence_status": "Record card: Active period c. 1800s–1849, grade A. Cited: DNZB; the 2014 Act for the migration (as CLM-000074).",
+      "quiz_ready": false
+    }
+  ]
+}

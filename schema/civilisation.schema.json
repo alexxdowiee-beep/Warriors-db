@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "civilisation.schema.json",
+  "title": "Civilisation record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/civilisationId"
+    },
+    "type": {
+      "const": "civilisation"
+    },
+    "region": {
+      "type": "string"
+    },
+    "span": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "language_family": {
+      "type": "string"
+    },
+    "predecessor_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/civilisationId"
+      }
+    },
+    "successor_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/civilisationId"
+      }
+    },
+    "overview": {
+      "type": "string"
+    }
+  },
+  "required": []
+}

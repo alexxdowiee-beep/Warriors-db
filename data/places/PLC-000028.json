@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000028",
+  "type": "place",
+  "slug": "hikapu",
+  "primary_name": "Hikapu, Pelorus Sound",
+  "names": [
+    {
+      "name": "Hikapu, Pelorus Sound",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Ngāti Kuia were heavily defeated, c. 1828.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000021",
+  "type": "battle",
+  "slug": "siege-of-te-arawi",
+  "primary_name": "Siege of Te Arawī",
+  "names": [
+    {
+      "name": "Siege of Te Arawī",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Ngāti Toa were besieged by Waikato and Ngāti Maniapoto; kin among the besiegers helped them and they were allowed to leave.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "outcome": "Negotiated withdrawal",
+  "date": {
+    "earliest": 1820,
+    "latest": 1820,
+    "precision": "year",
+    "display": "1820",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000023",
+  "war_id": "WAR-000010",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Negotiated withdrawal"
+    },
+    {
+      "label": "Waikato and Ngāti Maniapoto",
+      "polity_ids": [
+        "POL-000017",
+        "POL-000018"
+      ]
+    }
+  ]
+}

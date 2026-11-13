@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000005",
+  "type": "place",
+  "slug": "beaugency",
+  "primary_name": "Beaugency",
+  "names": [
+    {
+      "name": "Beaugency",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Its English garrison surrendered on 17 June 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

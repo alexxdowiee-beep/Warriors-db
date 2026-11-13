@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "polity.schema.json",
+  "title": "Polity record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/polityId"
+    },
+    "type": {
+      "const": "polity"
+    },
+    "polity_type": {
+      "type": "string",
+      "enum": [
+        "empire",
+        "kingdom",
+        "sultanate",
+        "caliphate",
+        "chiefdom",
+        "city-state",
+        "confederation",
+        "republic",
+        "iwi",
+        "other"
+      ]
+    },
+    "span": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "capitals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "place_id": {
+            "$ref": "common.schema.json#/$defs/placeId"
+          },
+          "span": {
+            "$ref": "common.schema.json#/$defs/historicalDate"
+          }
+        }
+      }
+    },
+    "civilisation_id": {
+      "$ref": "common.schema.json#/$defs/civilisationId"
+    },
+    "government": {
+      "type": "string"
+    }
+  },
+  "required": []
+}

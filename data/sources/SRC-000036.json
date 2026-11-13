@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000036",
+  "type": "source",
+  "slug": "oliver-dnzb-te-rauparaha",
+  "primary_name": "Steven Oliver, \"Te Rauparaha\", Dictionary of New Zealand Biography",
+  "summary": "The standard modern summary of Te Rauparaha's life, recording events as remembered by several iwi.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "authors": [
+    "Steven Oliver"
+  ],
+  "title": "Te Rauparaha",
+  "publisher": "Dictionary of New Zealand Biography (Te Ara)",
+  "year": 1990,
+  "url": "https://teara.govt.nz/en/biographies/1t74/te-rauparaha",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Scholarly biography (pilot doc type). Derives from multiple traditions and records (not itemised)."
+}

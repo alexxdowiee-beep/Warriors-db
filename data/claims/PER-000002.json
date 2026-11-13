@@ -1,0 +1,491 @@
+{
+  "subject": "PER-000002",
+  "claims": [
+    {
+      "id": "CLM-000019",
+      "field": "birth",
+      "statement": "Born c. 247 BCE",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Derived from ages given in Nepos (which contain errors)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000020",
+      "field": "identity",
+      "statement": "Son of Hamilcar Barca",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos) + excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000021",
+      "field": "early_life",
+      "statement": "Swore lifelong enmity to Rome as a boy",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "self-testimony",
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000022",
+      "field": "active_period",
+      "statement": "Chosen commander by the army in 221 BCE",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000023",
+      "field": "main_battles",
+      "statement": "Took Saguntum after an eight-month siege, 219 BCE",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000024",
+      "field": "strength",
+      "statement": "Reached the Alps with c. 38,000 infantry, 8,000 cavalry, 37 elephants",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (DCC, based on Polybius)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000025",
+      "field": "main_battles",
+      "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000026",
+      "field": "casualties",
+      "statement": "About 70,000 Romans died at Cannae",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "inflated-numbers",
+        "patron-bias"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000015",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (Polybius, DCC repeating Polybius)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000027",
+      "field": "casualties",
+      "statement": "Hannibal lost about 5,700 at Cannae",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "inflated-numbers"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000015",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Polybius)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000028",
+      "field": "main_battles",
+      "statement": "Won Cannae by double envelopment and cavalry",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000015",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (Polybius, DCC)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000029",
+      "field": "health",
+      "statement": "Lost the full use of one eye in 217 BCE",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000030",
+      "field": "strategy",
+      "statement": "Aimed at a negotiated peace, not Rome's destruction",
+      "claim_type": "interpretation",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (DCC)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000031",
+      "field": "main_battles",
+      "statement": "Defeated by Scipio at Zama, 202 BCE",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "2 opened (DCC, Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000032",
+      "field": "casualties",
+      "statement": "Roman losses at Zama under 2,000, Carthaginian about ten times that",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "inflated-numbers",
+        "hostile-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000017",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (DCC)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000033",
+      "field": "politics",
+      "statement": "As suffete, raised taxes to pay the indemnity with a surplus",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000034",
+      "field": "death",
+      "statement": "Took poison at Libyssa to avoid surrender to Rome",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos) + excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000035",
+      "field": "death",
+      "statement": "Died in 183, 182 or 181 BCE",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Nepos records three competing ancient datings",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000036",
+      "field": "alpine_crossing",
+      "statement": "Split rocks in the Alps with fire and vinegar",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000011",
+          "access": "not-opened"
+        }
+      ],
+      "evidence_status": "Not opened (Livy)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000037",
+      "field": "technology",
+      "statement": "Had pots of snakes thrown at enemy ships",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos)",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000038",
+      "field": "historiography",
+      "statement": "Silenus and Sosylus served with him and wrote accounts, now lost",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Nepos)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000093",
+      "field": "myth",
+      "statement": "He crossed the Alps with a large elephant force",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Pilot doc grade A; restore when cited. Myths table verdict: Misleading (A). Evidence: 37 elephants, most of which died soon after; his army was mainly infantry and cavalry",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000094",
+      "field": "myth",
+      "statement": "His elephants won his battles",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Pilot doc grade B; restore when cited. Myths table verdict: False (B). Evidence: Cavalry and infantry won Trebia, Trasimene and Cannae; at Zama his elephants hurt his own side",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000095",
+      "field": "myth",
+      "statement": "He swore his oath by dipping his hand in blood",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Embellished (D). Evidence: Nepos describes an altar and a sacrifice; the blood detail appears in modern retellings",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000096",
+      "field": "myth",
+      "statement": "\"I will either find a way or make one\"",
+      "claim_type": "event",
+      "certainty": "E",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Untraced (E). Evidence: No ancient source located; treated as apocryphal until one is found",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000097",
+      "field": "myth",
+      "statement": "An officer told him he knew how to win a victory but not how to use one",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000011",
+          "access": "not-opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Literary (D). Evidence: A Livy scene, written two centuries later; the words are Livy's",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000098",
+      "field": "myth",
+      "statement": "We know which Alpine pass he used",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: False (C). Evidence: Several passes argued; recent scientific claims remain contested",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000099",
+      "field": "myth",
+      "statement": "Busts and coins show his real face",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Unproven (C). Evidence: No portrait is securely identified as Hannibal",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000100",
+      "field": "myth",
+      "statement": "He was never beaten in Italy",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000016",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Myths table verdict: Exaggerated (C). Evidence: Nepos's admiring claim; true of major battles only",
+      "quiz_ready": false
+    }
+  ]
+}

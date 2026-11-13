@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000001",
+  "type": "place",
+  "slug": "domremy",
+  "primary_name": "Domrémy",
+  "names": [
+    {
+      "name": "Domrémy",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Village in the Duchy of Bar on France's eastern border; birthplace of Joan of Arc.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "place_type": "village",
+  "location_certainty": "A"
+}

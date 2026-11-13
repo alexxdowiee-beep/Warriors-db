@@ -1,0 +1,20 @@
+{
+  "id": "SRC-000004",
+  "type": "source",
+  "slug": "burgundian-and-french-chronicles",
+  "primary_name": "Burgundian and French chronicles (e.g. Monstrelet, Perceval de Cagny)",
+  "summary": "Fifteenth-century chronicles from both sides of the conflict.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "bias_notes": "Partisan on both sides.",
+  "derives_from": [],
+  "authors": [
+    "Enguerrand de Monstrelet",
+    "Perceval de Cagny"
+  ],
+  "date_written": "15th c.",
+  "opened": false,
+  "reliability_notes": "Chronicles (pilot doc type)."
+}

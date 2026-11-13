@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000009",
+  "type": "war",
+  "slug": "musket-wars",
+  "primary_name": "Musket Wars",
+  "names": [
+    {
+      "name": "Musket Wars",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Decades-long upheaval in which the musket, unevenly spread between iwi, transformed long-running tribal conflicts.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "war",
+  "span": {
+    "earliest": 1807,
+    "latest": 1849,
+    "precision": "decade",
+    "display": "c. 1807–1840s",
+    "certainty": "A",
+    "qualifier": "circa"
+  }
+}

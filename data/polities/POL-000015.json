@@ -1,0 +1,22 @@
+{
+  "id": "POL-000015",
+  "type": "polity",
+  "slug": "ngati-toa-rangatira",
+  "primary_name": "Ngāti Toa Rangatira",
+  "names": [
+    {
+      "name": "Ngāti Toa Rangatira",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Ngāti Toa",
+      "kind": "other"
+    }
+  ],
+  "summary": "Iwi led by Te Rauparaha from Kāwhia to Kāpiti and the Cook Strait region; today based around Porirua and Te Tau Ihu.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

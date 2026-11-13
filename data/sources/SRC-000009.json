@@ -1,0 +1,21 @@
+{
+  "id": "SRC-000009",
+  "type": "source",
+  "slug": "pernoud-joan-of-arc-by-herself",
+  "primary_name": "Régine Pernoud, Joan of Arc by Herself and Her Witnesses",
+  "summary": "Standard collection of sources on Joan of Arc.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "McGrady notes it leans on 1456 testimony without critique.",
+  "derives_from": [
+    "SRC-000002"
+  ],
+  "authors": [
+    "Régine Pernoud"
+  ],
+  "title": "Joan of Arc by Herself and Her Witnesses",
+  "opened": false,
+  "reliability_notes": "Standard source collection (pilot doc)."
+}

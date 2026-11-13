@@ -1,0 +1,15 @@
+{
+  "id": "SRC-999913",
+  "type": "source",
+  "slug": "test-copy-of-copy",
+  "primary_name": "Test source SRC-999913",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "bias_notes": "Fictional.",
+  "derives_from": [
+    "SRC-999914"
+  ]
+}

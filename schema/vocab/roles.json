@@ -1,0 +1,15 @@
+{
+  "roles": [
+    "ruler",
+    "commander",
+    "strategist",
+    "admiral",
+    "rebel-leader",
+    "war-leader",
+    "religious-leader",
+    "lawgiver",
+    "writer",
+    "diplomat",
+    "rangatira"
+  ]
+}

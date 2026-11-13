@@ -1,0 +1,21 @@
+{
+  "id": "POL-000014",
+  "type": "polity",
+  "slug": "qi",
+  "primary_name": "Qi",
+  "names": [
+    {
+      "name": "Qi",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "State of Qi",
+      "kind": "other"
+    }
+  ],
+  "summary": "State that Sima Qian says Sun Wu came from.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

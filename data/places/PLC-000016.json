@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000016",
+  "type": "place",
+  "slug": "cannae",
+  "primary_name": "Cannae",
+  "names": [
+    {
+      "name": "Cannae",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Scene of Hannibal's victory over the largest army Rome had fielded, 216 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

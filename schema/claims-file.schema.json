@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "claims-file.schema.json",
+  "title": "All claims about one subject",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "subject",
+    "claims"
+  ],
+  "properties": {
+    "subject": {
+      "$ref": "common.schema.json#/$defs/anyId"
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "field",
+          "statement",
+          "claim_type",
+          "certainty",
+          "verdict",
+          "citations"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "common.schema.json#/$defs/claimId"
+          },
+          "field": {
+            "type": "string"
+          },
+          "statement": {
+            "type": "string"
+          },
+          "claim_type": {
+            "type": "string",
+            "enum": [
+              "event",
+              "tradition",
+              "text",
+              "interpretation"
+            ]
+          },
+          "certainty": {
+            "$ref": "common.schema.json#/$defs/grade"
+          },
+          "verdict": {
+            "type": "string",
+            "enum": [
+              "accepted",
+              "disputed",
+              "rejected-myth"
+            ]
+          },
+          "bias_flags": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "propaganda",
+                "hostile-source",
+                "hagiography",
+                "late-source",
+                "inflated-numbers",
+                "oral-tradition",
+                "translation-issue",
+                "nationalist-reinterpretation",
+                "popular-culture",
+                "self-testimony",
+                "patron-bias"
+              ]
+            }
+          },
+          "perspective_of": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/anyId"
+            }
+          },
+          "alternative_claim_ids": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/claimId"
+            }
+          },
+          "citations": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/citation"
+            }
+          },
+          "evidence_status": {
+            "type": "string"
+          },
+          "quiz_ready": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

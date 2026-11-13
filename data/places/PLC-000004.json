@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000004",
+  "type": "place",
+  "slug": "jargeau",
+  "primary_name": "Jargeau",
+  "names": [
+    {
+      "name": "Jargeau",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Taken by the French army in June 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

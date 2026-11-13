@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000009",
+  "type": "battle",
+  "slug": "compiegne-1430",
+  "primary_name": "Compiègne",
+  "names": [
+    {
+      "name": "Compiègne",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Sortie from Compiègne against a Burgundian siege; Joan of Arc was caught outside the walls and captured.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "sortie",
+  "outcome": "Defeat (for Joan of Arc's side)",
+  "date": {
+    "earliest": 1430,
+    "latest": 1430,
+    "precision": "day",
+    "display": "23 May 1430",
+    "certainty": "A",
+    "month": 5,
+    "day": 23
+  },
+  "place_id": "PLC-000011",
+  "war_id": "WAR-000001",
+  "sides": [
+    {
+      "label": "Valois France",
+      "polity_ids": [
+        "POL-000001"
+      ],
+      "result": "Defeat"
+    },
+    {
+      "label": "Burgundian besiegers",
+      "polity_ids": [
+        "POL-000003"
+      ]
+    }
+  ],
+  "editor_notes": "Pilot doc type: 'Sortie'."
+}

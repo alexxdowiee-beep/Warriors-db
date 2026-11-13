@@ -1,0 +1,15 @@
+{
+  "id": "SRC-000018",
+  "type": "source",
+  "slug": "mande-oral-tradition",
+  "primary_name": "Mande oral tradition (jeli performances)",
+  "summary": "The Sundiata epic and related history performed by jeli (griots), hereditary specialists in history, genealogy and music.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "oral-tradition",
+  "bias_notes": "A living performance: each version is shaped by the performer, the audience and the family being praised.",
+  "derives_from": [],
+  "date_written": "Continuous to today",
+  "reliability_notes": "Strong evidence for the broad shape of events remembered across many communities; weak evidence for dates, numbers, speeches and miracles."
+}

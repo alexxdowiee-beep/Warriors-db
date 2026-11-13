@@ -1,0 +1,18 @@
+{
+  "id": "POL-000017",
+  "type": "polity",
+  "slug": "waikato",
+  "primary_name": "Waikato",
+  "names": [
+    {
+      "name": "Waikato",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Waikato iwi, repeatedly at war with Ngāti Toa over land north of Kāwhia Harbour.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

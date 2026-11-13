@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000020",
+  "type": "place",
+  "slug": "libyssa",
+  "primary_name": "Libyssa",
+  "names": [
+    {
+      "name": "Libyssa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "In Bithynia; where Hannibal took poison.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}

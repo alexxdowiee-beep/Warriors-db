@@ -1,0 +1,18 @@
+{
+  "id": "POL-000021",
+  "type": "polity",
+  "slug": "muaupoko",
+  "primary_name": "Muaūpoko",
+  "names": [
+    {
+      "name": "Muaūpoko",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Iwi of the Horowhenua lakes, attacked by Ngāti Toa c. 1822.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

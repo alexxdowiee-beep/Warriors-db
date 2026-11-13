@@ -1,0 +1,21 @@
+{
+  "id": "SRC-000021",
+  "type": "source",
+  "slug": "ibn-battuta-travel-account",
+  "primary_name": "Ibn Battuta, travel account",
+  "summary": "Account of Ibn Battuta's visit to Mali in 1352–53.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [
+    "SRC-000018"
+  ],
+  "authors": [
+    "Ibn Battuta"
+  ],
+  "date_written": "1350s",
+  "opened": false,
+  "reliability_notes": "Eyewitness travel narrative (pilot doc type) for 1350s Mali; for Sundiata it is a later source that partly rests on Mande oral tradition."
+}

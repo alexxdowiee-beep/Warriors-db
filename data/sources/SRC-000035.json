@@ -1,0 +1,21 @@
+{
+  "id": "SRC-000035",
+  "type": "source",
+  "slug": "tamihana-te-rauparaha-account",
+  "primary_name": "Tāmihana Te Rauparaha, account of his father",
+  "summary": "Account of Te Rauparaha's life written by his son.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "A son's record of a famous father (pilot doc flags it hagiography).",
+  "derives_from": [
+    "SRC-000033"
+  ],
+  "authors": [
+    "Tāmihana Te Rauparaha"
+  ],
+  "date_written": "19th c.",
+  "opened": false,
+  "reliability_notes": "Family memoir (pilot doc type); partly derives from Ngāti Toa oral history. To locate and verify."
+}

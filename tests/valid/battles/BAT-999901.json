@@ -1,0 +1,39 @@
+{
+  "id": "BAT-999901",
+  "type": "battle",
+  "slug": "test-battle",
+  "primary_name": "Test Battle",
+  "summary": "Fictional battle.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "date": {
+    "earliest": 1405,
+    "latest": 1405,
+    "precision": "year",
+    "display": "1405 CE",
+    "certainty": "B"
+  },
+  "sides": [
+    {
+      "label": "Side one",
+      "commander_ids": [
+        "PER-999997"
+      ],
+      "strength": "unknown"
+    },
+    {
+      "label": "Side two",
+      "strength": {
+        "low": 1000,
+        "high": 3000,
+        "unit": "soldiers",
+        "basis": "modern estimate",
+        "claim_ids": [
+          "CLM-999903"
+        ]
+      }
+    }
+  ]
+}

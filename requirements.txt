@@ -1,0 +1,4 @@
+# Python 3.11+ required
+jsonschema==4.26.0
+# Installed with jsonschema; listed because validate.py will import it directly (Registry for $refs)
+referencing==0.37.0

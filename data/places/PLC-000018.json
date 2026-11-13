@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000018",
+  "type": "place",
+  "slug": "zama",
+  "primary_name": "Zama",
+  "names": [
+    {
+      "name": "Zama",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Scipio defeated Hannibal in 202 BCE.",
+  "certainty": "C",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "C"
+}

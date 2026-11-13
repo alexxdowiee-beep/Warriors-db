@@ -1,0 +1,25 @@
+{
+  "id": "POL-000011",
+  "type": "polity",
+  "slug": "sosso",
+  "primary_name": "Sosso",
+  "names": [
+    {
+      "name": "Sosso",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Soso",
+      "kind": "other"
+    },
+    {
+      "name": "Susu",
+      "kind": "other"
+    }
+  ],
+  "summary": "Power that dominated the region, including the Mande chiefdoms, under Sumanguru Kanté before the rise of Mali. Oral tradition is the only evidence that a Sosso empire existed (Bühnen).",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

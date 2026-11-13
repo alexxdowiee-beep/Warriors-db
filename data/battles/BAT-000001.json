@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000001",
+  "type": "battle",
+  "slug": "siege-of-orleans-1429",
+  "primary_name": "Siege of Orléans (relief)",
+  "names": [
+    {
+      "name": "Siege of Orléans (relief)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Relief of the English siege of Orléans; the French took the forts of Saint-Loup, the Augustins and Les Tourelles and the English abandoned the siege on 8 May 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "outcome": "Victory (for Joan of Arc's side)",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day",
+    "display": "29 April – 8 May 1429",
+    "certainty": "A"
+  },
+  "place_id": "PLC-000003",
+  "war_id": "WAR-000001",
+  "sides": [
+    {
+      "label": "Valois France",
+      "polity_ids": [
+        "POL-000001"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "English",
+      "polity_ids": [
+        "POL-000002"
+      ]
+    }
+  ],
+  "editor_notes": "Pilot doc type: 'Siege relief'. Date range: day precision, start and end in display only."
+}

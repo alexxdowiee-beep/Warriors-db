@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000009",
+  "type": "place",
+  "slug": "saint-pierre-le-moutier",
+  "primary_name": "Saint-Pierre-le-Moûtier",
+  "names": [
+    {
+      "name": "Saint-Pierre-le-Moûtier",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Taken by the French in November 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

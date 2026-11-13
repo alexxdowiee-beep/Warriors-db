@@ -1,0 +1,47 @@
+{
+  "id": "BAT-000011",
+  "type": "battle",
+  "slug": "ticinus",
+  "primary_name": "Ticinus",
+  "names": [
+    {
+      "name": "Ticinus",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Cavalry action won by Hannibal against P. Cornelius Scipio.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "skirmish",
+  "outcome": "Victory",
+  "date": {
+    "earliest": -217,
+    "latest": -217,
+    "precision": "year",
+    "display": "218 BCE",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000013",
+  "war_id": "WAR-000004",
+  "sides": [
+    {
+      "label": "Carthage",
+      "polity_ids": [
+        "POL-000004"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Rome, under P. Cornelius Scipio",
+      "polity_ids": [
+        "POL-000005"
+      ]
+    }
+  ],
+  "editor_notes": "Pilot doc type: 'Cavalry action'; mapped to skirmish (user decision, 13 Nov 2026)."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "PER-999997",
+  "type": "person",
+  "slug": "test-commander",
+  "primary_name": "Test Commander",
+  "summary": "Fictional record used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "core_claim_set": "commander",
+  "active_period": {
+    "earliest": 1400,
+    "latest": 1410,
+    "precision": "year",
+    "display": "1400–1410 CE",
+    "certainty": "B"
+  },
+  "death": {
+    "earliest": 1420,
+    "latest": 1420,
+    "precision": "year",
+    "display": "1420 CE",
+    "certainty": "A"
+  },
+  "names": [
+    {
+      "name": "Test Commander",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Te Kōwhai Whakamātautau",
+      "kind": "epithet",
+      "language": "mi"
+    }
+  ],
+  "profile": {
+    "military_career": "Led the fictional vanguard at the test battle.",
+    "key_takeaways": [
+      "Exists only to exercise the full-text index."
+    ]
+  }
+}

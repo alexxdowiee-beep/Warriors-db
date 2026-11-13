@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000024",
+  "type": "place",
+  "slug": "motunui",
+  "primary_name": "Motunui",
+  "names": [
+    {
+      "name": "Motunui",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where a pursuing Waikato force was defeated in late 1821 or early 1822.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

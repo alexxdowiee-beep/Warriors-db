@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000015",
+  "type": "place",
+  "slug": "lake-trasimene",
+  "primary_name": "Lake Trasimene",
+  "names": [
+    {
+      "name": "Lake Trasimene",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Hannibal trapped Flaminius's army on the lake shore in 217 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

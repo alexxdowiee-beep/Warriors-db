@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000023",
+  "type": "place",
+  "slug": "te-arawi",
+  "primary_name": "Te Arawī",
+  "names": [
+    {
+      "name": "Te Arawī",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Ngāti Toa were besieged by Waikato and Ngāti Maniapoto in 1820.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BAT-000022",
+  "type": "battle",
+  "slug": "motunui",
+  "primary_name": "Motunui",
+  "names": [
+    {
+      "name": "Motunui",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "A pursuing Waikato force under Te Wherowhero was defeated, freeing Ngāti Toa from pursuit.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Victory (with Te Āti Awa, Ngāti Tama)",
+  "date": {
+    "earliest": 1821,
+    "latest": 1822,
+    "precision": "year",
+    "display": "late 1821 or early 1822",
+    "certainty": "B",
+    "qualifier": "between"
+  },
+  "place_id": "PLC-000024",
+  "war_id": "WAR-000009",
+  "sides": [
+    {
+      "label": "Ngāti Toa with Te Āti Awa and Ngāti Tama",
+      "polity_ids": [
+        "POL-000015",
+        "POL-000019",
+        "POL-000020"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Waikato, under Te Wherowhero",
+      "polity_ids": [
+        "POL-000017"
+      ]
+    }
+  ],
+  "editor_notes": "The doc names no battle type; kind unknown. Table date: 1821–22."
+}

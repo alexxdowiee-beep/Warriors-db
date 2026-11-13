@@ -1,0 +1,28 @@
+{
+  "id": "BAT-000002",
+  "type": "battle",
+  "slug": "jargeau-1429",
+  "primary_name": "Jargeau",
+  "names": [
+    {
+      "name": "Jargeau",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Assault in which the French took Jargeau; a large cannon from Orléans brought down a tower.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "assault",
+  "outcome": "Victory (for Joan of Arc's side)",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day",
+    "display": "11–12 June 1429",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000004",
+  "war_id": "WAR-000002"
+}

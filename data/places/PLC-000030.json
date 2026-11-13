@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000030",
+  "type": "place",
+  "slug": "onawe",
+  "primary_name": "Ōnawe, Akaroa",
+  "names": [
+    {
+      "name": "Ōnawe, Akaroa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Captured by Te Rauparaha's forces in 1832.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

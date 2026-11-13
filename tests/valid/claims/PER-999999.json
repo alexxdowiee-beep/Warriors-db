@@ -1,0 +1,14 @@
+{
+  "subject": "PER-999999",
+  "claims": [
+    {
+      "id": "CLM-999920",
+      "field": "quotation",
+      "statement": "Test statement still awaiting a source.",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "citations": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "BAT-000005",
+  "type": "battle",
+  "slug": "montepilloy-1429",
+  "primary_name": "Montépilloy",
+  "names": [
+    {
+      "name": "Montépilloy",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Standoff with Bedford's army that produced only skirmishes.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "standoff",
+  "outcome": "Inconclusive",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day",
+    "display": "14–15 August 1429",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000007",
+  "war_id": "WAR-000001",
+  "sides": [
+    {
+      "label": "Valois France",
+      "polity_ids": [
+        "POL-000001"
+      ],
+      "result": "Inconclusive"
+    },
+    {
+      "label": "Bedford's army",
+      "polity_ids": [
+        "POL-000002"
+      ]
+    }
+  ]
+}

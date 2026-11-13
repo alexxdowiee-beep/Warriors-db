@@ -1,0 +1,20 @@
+{
+  "id": "SRC-000037",
+  "type": "source",
+  "slug": "mclintock-encyclopaedia-of-new-zealand-1966",
+  "primary_name": "A. H. McLintock (ed.), An Encyclopaedia of New Zealand, \"Te Rauparaha\"",
+  "summary": "1966 encyclopedia entry on Te Rauparaha.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "authors": [
+    "A. H. McLintock (ed.)"
+  ],
+  "title": "An Encyclopaedia of New Zealand",
+  "year": 1966,
+  "opened": false,
+  "reliability_notes": "Reference (superseded). Excerpt only."
+}

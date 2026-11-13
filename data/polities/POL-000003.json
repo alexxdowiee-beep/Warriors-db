@@ -1,0 +1,17 @@
+{
+  "id": "POL-000003",
+  "type": "polity",
+  "slug": "duchy-of-burgundy",
+  "primary_name": "Duchy of Burgundy",
+  "names": [
+    {
+      "name": "Duchy of Burgundy",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Its duke backed Henry VI under the 1420 Treaty of Troyes; Burgundian troops captured Joan of Arc at Compiègne.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

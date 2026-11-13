@@ -1,0 +1,22 @@
+{
+  "id": "SRC-000034",
+  "type": "source",
+  "slug": "haka-ka-mate-attribution-act-2014",
+  "primary_name": "Haka Ka Mate Attribution Act 2014, Schedule (Ngāti Toa statement)",
+  "summary": "Act whose schedule sets out Ngāti Toa's account of Te Rauparaha's birth and of the composition of Ka Mate.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "statute",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [
+    "SRC-000033"
+  ],
+  "title": "Haka Ka Mate Attribution Act 2014",
+  "year": 2014,
+  "url": "https://www.legislation.govt.nz/act/public/2014/18/en/latest",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Statute with iwi statement (pilot doc type).",
+  "cultural_guidance": "Knowledge held by the iwi as kaitiaki. Use only what the iwi has placed in the public record, follow the iwi's own guidance on anything sensitive, and do not reproduce taonga such as the words of Ka Mate in quizzes or games."
+}

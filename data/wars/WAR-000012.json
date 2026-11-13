@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000012",
+  "type": "war",
+  "slug": "te-heke-tataramoa",
+  "primary_name": "Te Heke Tātaramoa",
+  "names": [
+    {
+      "name": "Te Heke Tātaramoa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Second stage of the migration, joined by some Te Āti Awa, about 250 miles south to Kāpiti; peaceful at first through marriage alliances, then violent in Manawatū and Horowhenua.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "migration",
+  "span": {
+    "earliest": 1822,
+    "latest": 1822,
+    "precision": "year",
+    "display": "1822",
+    "certainty": "A"
+  },
+  "parent_war_id": "WAR-000009"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "BAT-000020",
+  "type": "battle",
+  "slug": "boju-and-capture-of-ying",
+  "primary_name": "Boju and the capture of Ying",
+  "names": [
+    {
+      "name": "Boju and the capture of Ying",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Wu beat Chu in five battles and took the Chu capital, Ying.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Decisive victory (for Wu)",
+  "date": {
+    "earliest": -505,
+    "latest": -505,
+    "precision": "year",
+    "display": "506 BCE",
+    "certainty": "A",
+    "claim_ids": [
+      "CLM-000061"
+    ]
+  },
+  "place_id": "PLC-000022",
+  "war_id": "WAR-000007",
+  "sides": [
+    {
+      "label": "Wu",
+      "polity_ids": [
+        "POL-000012"
+      ],
+      "strength": "unknown",
+      "result": "Decisive victory"
+    },
+    {
+      "label": "Chu",
+      "polity_ids": [
+        "POL-000013"
+      ],
+      "strength": "unknown"
+    }
+  ],
+  "editor_notes": "The doc names no battle type; kind unknown. Battle grade A is the doc's grade for Wu's victory (CLM-000061); the table's grade column grades Sun Wu's role (D), stored on the relationship. Army strengths unknown: the only figures are Liu Xiang's late claim (CLM-000068)."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "WRK-000001",
+  "type": "work",
+  "slug": "the-art-of-war",
+  "primary_name": "The Art of War",
+  "names": [
+    {
+      "name": "The Art of War",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Sunzi bingfa",
+      "kind": "transliteration",
+      "romanisation": "pinyin"
+    },
+    {
+      "name": "Sunzi",
+      "kind": "other"
+    }
+  ],
+  "summary": "Ancient Chinese military text in 13 chapters, attributed to Sun Wu (Sun Tzu). Confirmed by bamboo-slip copies buried in the 2nd century BCE; probably compiled in the 5th–4th century BCE, perhaps over time.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "author_ids": [
+    "PER-000004"
+  ],
+  "authorship_certainty": "C",
+  "composed": {
+    "earliest": -499,
+    "latest": -300,
+    "precision": "century",
+    "display": "c. 5th–4th century BCE",
+    "certainty": "B",
+    "qualifier": "circa",
+    "claim_ids": [
+      "CLM-000057"
+    ]
+  },
+  "earliest_witness": "Yinqueshan bamboo slips, Linyi (tombs dated to roughly 140–118 BCE; found 1972)",
+  "structure": "Thirteen short chapters, in Giles's titles: Laying Plans; Waging War; Attack by Stratagem; Tactical Dispositions; Energy; Weak Points and Strong; Manoeuvring; Variation in Tactics; The Army on the March; Terrain; The Nine Situations; The Attack by Fire; The Use of Spies.",
+  "versions_and_translations": [
+    "Received 13-chapter text (SRC-000026)",
+    "Yinqueshan bamboo-slip copy, before c. 118 BCE (SRC-000027)",
+    "Han shu bibliography lists a Sunzi in 82 chapters with diagrams (CLM-000065)",
+    "Cao Cao (155–220 CE): earliest surviving commentary",
+    "French Jesuit missionary's translation, late 18th century",
+    "Lionel Giles, English translation, 1910 (SRC-000031)",
+    "Roger Ames, 1993: first English translation to use the Yinqueshan slips (not yet consulted)"
+  ],
+  "source_ids": [
+    "SRC-000026",
+    "SRC-000027",
+    "SRC-000031",
+    "SRC-000032"
+  ],
+  "editor_notes": "Record card: text existed by c. 100 BCE (grade A); composed c. 5th–4th century BCE (grade B). Overall record grade not given in the pilot doc. author_ids records the traditional attribution; authorship is disputed (C)."
+}

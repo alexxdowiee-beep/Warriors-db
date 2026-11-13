@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "period.schema.json",
+  "title": "Period record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/periodId"
+    },
+    "type": {
+      "const": "period"
+    },
+    "scheme": {
+      "type": "string"
+    },
+    "span": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "region": {
+      "type": "string"
+    },
+    "parent_period_id": {
+      "$ref": "common.schema.json#/$defs/periodId"
+    }
+  },
+  "required": []
+}

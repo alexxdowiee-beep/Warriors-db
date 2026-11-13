@@ -1,0 +1,24 @@
+{
+  "id": "SRC-000017",
+  "type": "source",
+  "slug": "mulligan-second-punic-war",
+  "primary_name": "Bret Mulligan, \"The Second Punic War\", Dickinson College Commentaries",
+  "summary": "Overview essay on the Second Punic War.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "reference",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [
+    "SRC-000010"
+  ],
+  "authors": [
+    "Bret Mulligan"
+  ],
+  "title": "The Second Punic War",
+  "publisher": "Dickinson College Commentaries",
+  "url": "https://dcc.dickinson.edu/nepos-hannibal/second-punic-war",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Academic classicist; overview, sometimes repeats ancient figures without comment. derives_from records the pilot doc's note that its figures are based on / repeat Polybius."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "SRC-000031",
+  "type": "source",
+  "slug": "giles-sun-tzu-on-the-art-of-war",
+  "primary_name": "Lionel Giles, Sun Tzŭ on the Art of War, introduction",
+  "summary": "1910 English translation with a critical introduction, translating Sima Qian's biography and summarising the Song-dynasty arguments against Sun Wu's existence.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "bias_notes": "Dated: written before the 1972 bamboo-slip find.",
+  "derives_from": [
+    "SRC-000026",
+    "SRC-000028",
+    "SRC-000029",
+    "SRC-000030"
+  ],
+  "authors": [
+    "Lionel Giles"
+  ],
+  "title": "Sun Tzŭ on the Art of War",
+  "year": 1910,
+  "url": "https://sacred-texts.com/tao/aow/aow03.htm",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Public domain. His translations and summaries of the older Chinese debate remain useful; his conclusions are dated."
+}

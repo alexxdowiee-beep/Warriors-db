@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "relationships-file.schema.json",
+  "title": "Relationships stored on their subject",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "subject",
+    "relationships"
+  ],
+  "properties": {
+    "subject": {
+      "$ref": "common.schema.json#/$defs/anyId"
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "from_id",
+          "to_id",
+          "relation",
+          "certainty"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "common.schema.json#/$defs/relationshipId"
+          },
+          "from_id": {
+            "$ref": "common.schema.json#/$defs/anyId"
+          },
+          "to_id": {
+            "$ref": "common.schema.json#/$defs/anyId"
+          },
+          "relation": {
+            "type": "string"
+          },
+          "role": {
+            "type": "string"
+          },
+          "span": {
+            "$ref": "common.schema.json#/$defs/historicalDate"
+          },
+          "certainty": {
+            "$ref": "common.schema.json#/$defs/grade"
+          },
+          "claim_ids": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/claimId"
+            }
+          }
+        }
+      }
+    }
+  }
+}

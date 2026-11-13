@@ -1,0 +1,308 @@
+{
+  "subject": "PER-000003",
+  "claims": [
+    {
+      "id": "CLM-000039",
+      "field": "identity",
+      "statement": "Sundiata existed and founded Mali's power",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000023",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000020",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "1 opened (Met) + Ibn Khaldun via excerpts; both chains rest partly on Mande memory",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000040",
+      "field": "main_battles",
+      "statement": "He defeated Sumanguru Kanté of Sosso",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000023",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000018"
+        },
+        {
+          "source_id": "SRC-000020",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "1 opened (Met) + tradition + Ibn Khaldun (excerpt)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000041",
+      "field": "main_battles",
+      "statement": "The decisive battle was at Kirina",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000018"
+        }
+      ],
+      "evidence_status": "Tradition; excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000042",
+      "field": "battle_date",
+      "statement": "Kirina was fought c. 1235",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Modern reconstruction",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000043",
+      "field": "birth",
+      "statement": "Born in 1217",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Modern estimate",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000044",
+      "field": "death",
+      "statement": "Died c. 1255",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Reign-length reconstruction",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000045",
+      "field": "early_life",
+      "statement": "Spent a period of exile, ending in Mema",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000018"
+        }
+      ],
+      "evidence_status": "Tradition only",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000046",
+      "field": "tradition",
+      "statement": "The epic says he could not walk as a child",
+      "claim_type": "tradition",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000018"
+        }
+      ],
+      "evidence_status": "Consistent across versions (excerpts)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000047",
+      "field": "tradition",
+      "statement": "The epic says Sumanguru could not be harmed by ordinary weapons",
+      "claim_type": "tradition",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000019",
+          "access": "not-opened"
+        }
+      ],
+      "evidence_status": "Excerpts; Niane to check",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000048",
+      "field": "name",
+      "statement": "Ibn Khaldun calls him Mari Jata",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [
+        "translation-issue"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000022",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Excerpts citing Levtzion and Hopkins; not opened",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000049",
+      "field": "tradition",
+      "statement": "Tradition places a founding assembly at Kurukan Fuga",
+      "claim_type": "tradition",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000024",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (UNESCO)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000050",
+      "field": "manden_charter",
+      "statement": "The Charter's present wording is 13th-century",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "nationalist-reinterpretation"
+      ],
+      "citations": [],
+      "evidence_status": "Excerpt of field study",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000051",
+      "field": "context",
+      "statement": "A Sosso empire existed before Mali",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [
+        "oral-tradition"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000025",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Bühnen: tradition is the only evidence)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000052",
+      "field": "religion",
+      "statement": "Sundiata was a Muslim",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Conflicting indications",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000053",
+      "field": "historiography",
+      "statement": "Niane's book reworks a griot's tales, not a transcript",
+      "claim_type": "text",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000019",
+          "access": "not-opened"
+        }
+      ],
+      "evidence_status": "Excerpt; Niane's preface to check",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000101",
+      "field": "myth",
+      "statement": "Disney's The Lion King is based on Sundiata",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Unconfirmed (D). Evidence: Widely repeated because of the lion name and exile-and-return plot; no confirmation from the filmmakers found",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000102",
+      "field": "myth",
+      "statement": "Mali was larger than western Europe under Sundiata",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Pilot doc grade B; restore when cited. Myths table verdict: False (B). Evidence: That describes the empire at its later height, after his death",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000103",
+      "field": "myth",
+      "statement": "Griot versions calling him \"Mari Jata\" independently confirm Ibn Khaldun",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "rejected-myth",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000025",
+          "access": "excerpt"
+        }
+      ],
+      "evidence_status": "Myths table verdict: False (B). Evidence: Bühnen attributes them to feedback from colonial-era books",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000115",
+      "field": "active_period",
+      "statement": "Active c. 1230s–1250s",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Grade C (user decision 13 Nov 2026). Kirina c. 1235 is a modern reconstruction (CLM-000042) and death c. 1255 a reign-length reconstruction (CLM-000044); the doc names no source for either.",
+      "quiz_ready": false
+    }
+  ]
+}

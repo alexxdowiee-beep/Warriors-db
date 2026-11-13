@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000010",
+  "type": "place",
+  "slug": "la-charite-sur-loire",
+  "primary_name": "La Charité-sur-Loire",
+  "names": [
+    {
+      "name": "La Charité-sur-Loire",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Unsuccessfully besieged by the French in November–December 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

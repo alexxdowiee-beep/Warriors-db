@@ -1,0 +1,18 @@
+{
+  "id": "POL-000025",
+  "type": "polity",
+  "slug": "ngati-apa",
+  "primary_name": "Ngāti Apa",
+  "names": [
+    {
+      "name": "Ngāti Apa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "One of the iwi on the other side of Te Rauparaha's wars.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

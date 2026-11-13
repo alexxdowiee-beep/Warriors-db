@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000011",
+  "type": "place",
+  "slug": "compiegne",
+  "primary_name": "Compiègne",
+  "names": [
+    {
+      "name": "Compiègne",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Town under Burgundian siege where Joan of Arc was captured on 23 May 1430.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "place_type": "town",
+  "location_certainty": "A"
+}

@@ -1,0 +1,392 @@
+{
+  "subject": "PER-000004",
+  "claims": [
+    {
+      "id": "CLM-000054",
+      "field": "main_works",
+      "statement": "The Sunzi existed in near-received form by the 2nd century BCE",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000032",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Shandong Museum) + excerpts on tomb dating",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000055",
+      "field": "text",
+      "statement": "Sima Qian knew the 13 chapters as a widely read book",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "1 opened (Giles, translating Shiji)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000056",
+      "field": "authorship",
+      "statement": "Sun Bin's treatise is a separate work",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000032",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Shandong Museum) + excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000057",
+      "field": "main_works",
+      "statement": "The text was composed c. 5th–4th century BCE",
+      "claim_type": "event",
+      "certainty": "B",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Excerpts; Giles's internal evidence",
+      "quiz_ready": true,
+      "alternative_claim_ids": [
+        "CLM-000107"
+      ]
+    },
+    {
+      "id": "CLM-000058",
+      "field": "identity",
+      "statement": "A historical Sun Wu existed",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Sima Qian only, c. 400 years later",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000059",
+      "field": "active_period",
+      "statement": "He served King Helü of Wu",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Sima Qian only",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000060",
+      "field": "career",
+      "statement": "He commanded at Boju, 506 BCE",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000029",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Contradicted by the Zuo zhuan's silence",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000061",
+      "field": "context",
+      "statement": "Wu captured the Chu capital, Ying, in 506 BCE",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000029",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Zuo zhuan and Shiji, via Giles",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000062",
+      "field": "text",
+      "statement": "Sima Qian tells the palace-drill story",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "1 opened (Giles)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000063",
+      "field": "career",
+      "statement": "The palace drill happened",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "hagiography"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000028",
+          "access": "via-secondary"
+        },
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Single late source; rejected by Ye Shi",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000064",
+      "field": "text",
+      "statement": "The Zuo zhuan never mentions Sun Wu",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "Giles; Ye Shi; excerpts",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000065",
+      "field": "text",
+      "statement": "The Han bibliography lists Sunzi in 82 chapters with diagrams",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000030",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "1 opened (Giles)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000066",
+      "field": "text_history",
+      "statement": "Cao Cao cut the book down to 13 chapters",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "late-source"
+      ],
+      "citations": [],
+      "evidence_status": "9th-century claim",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000067",
+      "field": "text",
+      "statement": "The text names Yue, not Chu, as Wu's enemy",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        },
+        {
+          "source_id": "SRC-000026",
+          "access": "via-secondary"
+        }
+      ],
+      "evidence_status": "1 opened (Giles)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000068",
+      "field": "strength",
+      "statement": "Sun Wu beat 200,000 Chu troops with 30,000",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [
+        "inflated-numbers",
+        "late-source"
+      ],
+      "citations": [
+        {
+          "source_id": "SRC-000031",
+          "access": "opened"
+        }
+      ],
+      "evidence_status": "1 opened (Giles, quoting Liu Xiang)",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000069",
+      "field": "quotation",
+      "statement": "\"Keep your friends close\" is not in the text",
+      "claim_type": "text",
+      "certainty": "C",
+      "verdict": "accepted",
+      "bias_flags": [
+        "popular-culture"
+      ],
+      "citations": [],
+      "evidence_status": "Pilot doc grade B; restore when cited. Full-text check pending",
+      "quiz_ready": true
+    },
+    {
+      "id": "CLM-000104",
+      "field": "myth",
+      "statement": "\"All warfare is based on deception\" is from The Art of War",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000026",
+          "access": "via-secondary",
+          "locator": "ch. I"
+        }
+      ],
+      "evidence_status": "Myths table verdict: True (A). Evidence: Chapter I",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000105",
+      "field": "myth",
+      "statement": "\"Know the enemy and know yourself\" is from The Art of War",
+      "claim_type": "text",
+      "certainty": "A",
+      "verdict": "accepted",
+      "bias_flags": [],
+      "citations": [
+        {
+          "source_id": "SRC-000026",
+          "access": "via-secondary",
+          "locator": "ch. III"
+        }
+      ],
+      "evidence_status": "Myths table verdict: True (A). Evidence: Chapter III, in substance; English wordings vary by translation",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000106",
+      "field": "myth",
+      "statement": "Napoleon studied Sun Tzu",
+      "claim_type": "event",
+      "certainty": "D",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Unsupported (D). Evidence: Often repeated; no evidence found that he read the French translation",
+      "quiz_ready": false
+    },
+    {
+      "id": "CLM-000107",
+      "field": "myth",
+      "statement": "The book was written in the 6th century BCE",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "disputed",
+      "bias_flags": [],
+      "citations": [],
+      "evidence_status": "Myths table verdict: Disputed (C). Evidence: Most scholars date the text to the 5th–4th century BCE",
+      "quiz_ready": false,
+      "alternative_claim_ids": [
+        "CLM-000057"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000008",
+  "type": "war",
+  "slug": "wu-campaign-against-chu-512-bce",
+  "primary_name": "Wu campaign against Chu (Shu), 512 BCE",
+  "names": [
+    {
+      "name": "Wu campaign against Chu (Shu), 512 BCE",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Wu campaign against Chu in 512 BCE, during which Sima Qian says Sun Wu advised that the army was exhausted.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "campaign",
+  "span": {
+    "earliest": -511,
+    "latest": -511,
+    "precision": "year",
+    "display": "512 BCE",
+    "certainty": "B"
+  },
+  "parent_war_id": "WAR-000007"
+}

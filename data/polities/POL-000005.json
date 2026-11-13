@@ -1,0 +1,17 @@
+{
+  "id": "POL-000005",
+  "type": "polity",
+  "slug": "rome",
+  "primary_name": "Rome",
+  "names": [
+    {
+      "name": "Rome",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Hannibal's enemy in the Second Punic War.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

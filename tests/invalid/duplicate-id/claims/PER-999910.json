@@ -1,0 +1,14 @@
+{
+  "subject": "PER-999910",
+  "claims": [
+    {
+      "id": "CLM-999907",
+      "field": "quotation",
+      "statement": "Test statement for quotation.",
+      "claim_type": "event",
+      "certainty": "C",
+      "verdict": "accepted",
+      "citations": []
+    }
+  ]
+}

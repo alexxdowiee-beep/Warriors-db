@@ -1,0 +1,119 @@
+{
+  "subject": "PER-000001",
+  "relationships": [
+    {
+      "id": "REL-000001",
+      "from_id": "PER-000001",
+      "to_id": "POL-000001",
+      "relation": "served",
+      "certainty": "A",
+      "role": "Valois cause of Charles VII (Armagnac faction)"
+    },
+    {
+      "id": "REL-000002",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000001",
+      "relation": "participated",
+      "certainty": "A",
+      "role": "Leading figure alongside Dunois; wounded",
+      "claim_ids": [
+        "CLM-000005"
+      ]
+    },
+    {
+      "id": "REL-000003",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000001",
+      "relation": "wounded_at",
+      "certainty": "B",
+      "role": "Hit by an arrow at Les Tourelles, 7 May 1429",
+      "claim_ids": [
+        "CLM-000006"
+      ]
+    },
+    {
+      "id": "REL-000004",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000002",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "In the assault; struck on the helmet by a stone"
+    },
+    {
+      "id": "REL-000005",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000003",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "Present"
+    },
+    {
+      "id": "REL-000006",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000004",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "With main army; vanguard did the fighting",
+      "claim_ids": [
+        "CLM-000007"
+      ]
+    },
+    {
+      "id": "REL-000007",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000005",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "Present"
+    },
+    {
+      "id": "REL-000008",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000006",
+      "relation": "participated",
+      "certainty": "A",
+      "role": "Led attack; wounded",
+      "claim_ids": [
+        "CLM-000010"
+      ]
+    },
+    {
+      "id": "REL-000009",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000006",
+      "relation": "wounded_at",
+      "certainty": "B",
+      "role": "Wounded in the thigh by a crossbow bolt",
+      "claim_ids": [
+        "CLM-000010"
+      ]
+    },
+    {
+      "id": "REL-000010",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000007",
+      "relation": "participated",
+      "certainty": "B",
+      "role": "Rallied the renewed attack"
+    },
+    {
+      "id": "REL-000011",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000008",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Commander"
+    },
+    {
+      "id": "REL-000012",
+      "from_id": "PER-000001",
+      "to_id": "BAT-000009",
+      "relation": "participated",
+      "certainty": "A",
+      "role": "Led the sortie; captured",
+      "claim_ids": [
+        "CLM-000011"
+      ]
+    }
+  ]
+}

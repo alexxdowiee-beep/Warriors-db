@@ -1,0 +1,44 @@
+{
+  "id": "BAT-000029",
+  "type": "battle",
+  "slug": "onawe",
+  "primary_name": "Ōnawe, Akaroa",
+  "names": [
+    {
+      "name": "Ōnawe, Akaroa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Ōnawe at Akaroa was captured after the fall of Kaiapoi.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Captured",
+  "date": {
+    "earliest": 1832,
+    "latest": 1832,
+    "precision": "year",
+    "display": "1832",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000030",
+  "war_id": "WAR-000013",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Ngāi Tahu",
+      "polity_ids": [
+        "POL-000023"
+      ]
+    }
+  ],
+  "editor_notes": "The doc names no battle type; kind unknown."
+}

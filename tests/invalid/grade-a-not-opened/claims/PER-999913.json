@@ -1,0 +1,25 @@
+{
+  "subject": "PER-999913",
+  "claims": [
+    {
+      "id": "CLM-999913",
+      "field": "quotation",
+      "statement": "Test statement for quotation.",
+      "claim_type": "event",
+      "certainty": "A",
+      "verdict": "accepted",
+      "citations": [
+        {
+          "source_id": "SRC-999915",
+          "locator": "p. 1",
+          "access": "not-opened"
+        },
+        {
+          "source_id": "SRC-999916",
+          "locator": "p. 1",
+          "access": "via-secondary"
+        }
+      ]
+    }
+  ]
+}

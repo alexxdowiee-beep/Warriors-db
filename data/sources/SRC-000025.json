@@ -1,0 +1,22 @@
+{
+  "id": "SRC-000025",
+  "type": "source",
+  "slug": "buhnen-in-quest-of-susu",
+  "primary_name": "Stephan Bühnen, \"In Quest of Susu\"",
+  "summary": "Article on the evidence for the Sosso (Susu) state.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "journal-article",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "authors": [
+    "Stephan Bühnen"
+  ],
+  "title": "In Quest of Susu",
+  "publisher": "History in Africa 21",
+  "year": 1994,
+  "url": "https://resolve.cambridge.org/core/journals/history-in-africa/article/abs/in-quest-of-susu/2ECEF02ECCFB74B2547F582D13C6DE21",
+  "opened": true,
+  "reliability_notes": "Peer-reviewed article. Only the abstract was read."
+}

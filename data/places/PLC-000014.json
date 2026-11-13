@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000014",
+  "type": "place",
+  "slug": "trebia",
+  "primary_name": "Trebia",
+  "names": [
+    {
+      "name": "Trebia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Scene of Hannibal's victory in December 218 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

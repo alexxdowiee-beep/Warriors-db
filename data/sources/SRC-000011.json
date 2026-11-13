@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000011",
+  "type": "source",
+  "slug": "livy-history-of-rome-21-30",
+  "primary_name": "Livy, History of Rome, books 21–30",
+  "summary": "Latin history of Rome; books 21–30 cover the Second Punic War.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "Roman patriotic history; dramatic speeches and moral lessons.",
+  "derives_from": [
+    "SRC-000010"
+  ],
+  "authors": [
+    "Livy"
+  ],
+  "title": "History of Rome, books 21–30",
+  "language": "Latin",
+  "date_written": "Late 1st c. BCE",
+  "opened": false,
+  "reliability_notes": "About 200 years from the events; partly follows Polybius."
+}

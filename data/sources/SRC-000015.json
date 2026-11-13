@@ -1,0 +1,25 @@
+{
+  "id": "SRC-000015",
+  "type": "source",
+  "slug": "polybius-3-107-118-shuckburgh",
+  "primary_name": "Polybius, Histories 3.107–118, trans. E. S. Shuckburgh (1889)",
+  "summary": "Public-domain English translation of Polybius's account of Cannae.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "bias_notes": "See SRC-000010.",
+  "derives_from": [
+    "SRC-000010"
+  ],
+  "authors": [
+    "Polybius"
+  ],
+  "title": "Histories 3.107–118",
+  "edition": "trans. E. S. Shuckburgh (1889)",
+  "publisher": "Fordham University, Internet Ancient History Sourcebook",
+  "url": "https://sourcebooks.web.fordham.edu/ancient/polybius-cannae.asp",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Public-domain translation of the key primary source."
+}

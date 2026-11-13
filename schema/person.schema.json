@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "person.schema.json",
+  "title": "Person record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/personId"
+    },
+    "type": {
+      "const": "person"
+    },
+    "core_claim_set": {
+      "type": "string",
+      "enum": [
+        "commander",
+        "author"
+      ]
+    },
+    "birth": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "death": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "active_period": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "birth_place_id": {
+      "$ref": "common.schema.json#/$defs/placeId"
+    },
+    "death_place_id": {
+      "$ref": "common.schema.json#/$defs/placeId"
+    },
+    "death_cause": {
+      "type": "string"
+    },
+    "sex": {
+      "type": "string",
+      "enum": [
+        "female",
+        "male",
+        "unknown"
+      ]
+    },
+    "roles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "polity_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/polityId"
+      }
+    },
+    "civilisation_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/civilisationId"
+      }
+    },
+    "dynasty": {
+      "type": "string"
+    },
+    "profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "early_life": {
+          "type": "string"
+        },
+        "historical_context": {
+          "type": "string"
+        },
+        "military_career": {
+          "type": "string"
+        },
+        "leadership": {
+          "type": "string"
+        },
+        "strategy_and_tactics": {
+          "type": "string"
+        },
+        "leadership_and_strategy": {
+          "type": "string"
+        },
+        "victories_and_defeats": {
+          "type": "string"
+        },
+        "political_achievements": {
+          "type": "string"
+        },
+        "controversies": {
+          "type": "string"
+        },
+        "technology": {
+          "type": "string"
+        },
+        "legacy": {
+          "type": "string"
+        },
+        "evidence_note": {
+          "type": "string"
+        },
+        "key_takeaways": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "myth_claim_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/claimId"
+      }
+    }
+  },
+  "required": [
+    "core_claim_set",
+    "active_period"
+  ]
+}

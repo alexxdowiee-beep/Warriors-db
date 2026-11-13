@@ -1,0 +1,21 @@
+{
+  "id": "SRC-000008",
+  "type": "source",
+  "slug": "devries-joan-of-arc-a-military-leader",
+  "primary_name": "Kelly DeVries, Joan of Arc: A Military Leader",
+  "summary": "Study arguing that Joan should be studied first as a soldier.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "authors": [
+    "Kelly DeVries"
+  ],
+  "title": "Joan of Arc: A Military Leader",
+  "publisher": "Sutton",
+  "year": 1999,
+  "opened": false,
+  "reliability_notes": "Specialist in medieval military history; the key study for this database's angle. Known from reviews only: H-Net review (https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/reviewsw150.htm) and Project MUSE review (https://muse.jhu.edu/article/170578/pdf). One reviewer notes the book still leaves open what exactly made her effective."
+}

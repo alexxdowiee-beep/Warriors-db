@@ -1,0 +1,12 @@
+{
+  "id": "SRC-999902",
+  "type": "source",
+  "slug": "test-monograph",
+  "primary_name": "Test source SRC-999902",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "academic-book",
+  "bias_notes": "Fictional."
+}

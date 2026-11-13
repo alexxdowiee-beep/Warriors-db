@@ -1,0 +1,48 @@
+{
+  "id": "BAT-000012",
+  "type": "battle",
+  "slug": "trebia",
+  "primary_name": "Trebia",
+  "names": [
+    {
+      "name": "Trebia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Field battle in which Hannibal lured a Roman army into an ambush.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "field-battle",
+  "outcome": "Victory",
+  "date": {
+    "earliest": -217,
+    "latest": -217,
+    "precision": "month",
+    "display": "December 218 BCE",
+    "certainty": "A",
+    "month": 12
+  },
+  "place_id": "PLC-000014",
+  "war_id": "WAR-000004",
+  "sides": [
+    {
+      "label": "Carthage",
+      "polity_ids": [
+        "POL-000004"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "result": "Victory"
+    },
+    {
+      "label": "Rome, under Sempronius Longus and Scipio",
+      "polity_ids": [
+        "POL-000005"
+      ]
+    }
+  ],
+  "editor_notes": "Pilot doc type: 'Field battle with ambush'."
+}

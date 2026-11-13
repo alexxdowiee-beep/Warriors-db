@@ -1,0 +1,28 @@
+{
+  "id": "BAT-000008",
+  "type": "battle",
+  "slug": "la-charite-sur-loire-1429",
+  "primary_name": "La Charité-sur-Loire",
+  "names": [
+    {
+      "name": "La Charité-sur-Loire",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Failed siege; the army left its artillery behind.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "outcome": "Failed",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "month",
+    "display": "November–December 1429",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000010",
+  "war_id": "WAR-000001"
+}

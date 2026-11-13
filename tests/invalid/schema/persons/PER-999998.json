@@ -1,0 +1,11 @@
+{
+  "id": "PER-999998",
+  "type": "person",
+  "slug": "Bad Slug",
+  "primary_name": "Broken Record",
+  "summary": "Deliberately invalid: bad slug, missing core_claim_set, grade F.",
+  "certainty": "F",
+  "status": "draft",
+  "updated": "2026-11-12",
+  "active_period": {"earliest": -200, "latest": -250, "precision": "year", "display": "x", "certainty": "B"}
+}

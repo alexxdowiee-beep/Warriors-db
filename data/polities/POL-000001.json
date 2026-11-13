@@ -1,0 +1,18 @@
+{
+  "id": "POL-000001",
+  "type": "polity",
+  "slug": "kingdom-of-france",
+  "primary_name": "Kingdom of France",
+  "names": [
+    {
+      "name": "Kingdom of France",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The French kingdom. In 1428–31 the Valois cause of Charles VII (Armagnac faction), which Joan of Arc served, held most land south of the Loire.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "kingdom"
+}

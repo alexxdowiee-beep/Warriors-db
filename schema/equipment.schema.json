@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "equipment.schema.json",
+  "title": "Equipment record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/equipmentId"
+    },
+    "type": {
+      "const": "equipment"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "weapon",
+        "armour",
+        "mount",
+        "vessel",
+        "fortification",
+        "gunpowder",
+        "siege-engine",
+        "other"
+      ]
+    },
+    "materials": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "span_of_use": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "origin_civilisation_ids": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/civilisationId"
+      }
+    },
+    "museum_examples": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/sourceId"
+      }
+    }
+  },
+  "required": []
+}

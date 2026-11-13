@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "war.schema.json",
+  "title": "War record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/warId"
+    },
+    "type": {
+      "const": "war"
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "war",
+        "campaign",
+        "rebellion",
+        "conquest",
+        "raid-series",
+        "migration"
+      ]
+    },
+    "parent_war_id": {
+      "$ref": "common.schema.json#/$defs/warId"
+    },
+    "span": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "causes": {
+      "type": "string"
+    },
+    "outcome": {
+      "type": "string"
+    },
+    "consequences": {
+      "type": "string"
+    }
+  },
+  "required": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000021",
+  "type": "place",
+  "slug": "kirina",
+  "primary_name": "Kirina",
+  "names": [
+    {
+      "name": "Kirina",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "On the upper Niger; site of Sundiata's decisive victory over the Sosso.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "B"
+}

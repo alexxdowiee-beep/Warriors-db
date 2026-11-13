@@ -1,0 +1,24 @@
+{
+  "id": "SRC-000032",
+  "type": "source",
+  "slug": "shandong-museum-bamboo-slips",
+  "primary_name": "Shandong Museum, \"Bamboo slips chronicle China's ancient military philosophy\"",
+  "summary": "2022 museum item on the 1972 Yinqueshan bamboo-slip find.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "museum",
+  "bias_notes": "State media (China Daily government site); used for factual points only.",
+  "derives_from": [
+    "SRC-000027"
+  ],
+  "authors": [
+    "Shandong Museum"
+  ],
+  "title": "Bamboo slips chronicle China's ancient military philosophy",
+  "publisher": "China Daily government site",
+  "year": 2022,
+  "url": "https://govt.chinadaily.com.cn/s/202206/14/WS62a82e87498ea2749279aae8/bamboo-slips-chronicle-chinas-ancient-military-philosophy.html",
+  "accessed": "2026-11-12",
+  "opened": true
+}

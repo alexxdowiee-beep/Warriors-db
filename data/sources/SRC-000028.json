@@ -1,0 +1,20 @@
+{
+  "id": "SRC-000028",
+  "type": "source",
+  "slug": "sima-qian-shiji-65",
+  "primary_name": "Sima Qian, Shiji, ch. 65",
+  "summary": "Han-dynasty history containing the only biography of Sun Wu.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "authors": [
+    "Sima Qian"
+  ],
+  "title": "Shiji, ch. 65",
+  "date_written": "c. 100 BCE",
+  "opened": false,
+  "reliability_notes": "Written roughly four centuries after the events. Derives from unknown earlier traditions (pilot doc). Read via Giles (SRC-000031)."
+}

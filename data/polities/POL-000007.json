@@ -1,0 +1,18 @@
+{
+  "id": "POL-000007",
+  "type": "polity",
+  "slug": "seleucid-kingdom",
+  "primary_name": "Seleucid kingdom",
+  "names": [
+    {
+      "name": "Seleucid kingdom",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Kingdom of Antiochus III, whom Hannibal advised in exile.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "kingdom"
+}

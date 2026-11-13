@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000006",
+  "type": "place",
+  "slug": "patay",
+  "primary_name": "Patay",
+  "names": [
+    {
+      "name": "Patay",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where the retreating English were caught and defeated on 18 June 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

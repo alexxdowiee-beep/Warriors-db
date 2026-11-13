@@ -1,0 +1,28 @@
+{
+  "id": "WAR-000013",
+  "type": "war",
+  "slug": "te-rauparaha-south-island-campaigns",
+  "primary_name": "Te Rauparaha's South Island campaigns",
+  "names": [
+    {
+      "name": "Te Rauparaha's South Island campaigns",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Campaigns across Cook Strait for greenstone and control over the region, against Rangitāne, Ngāti Kuia and Ngāi Tahu.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "campaign",
+  "span": {
+    "earliest": 1827,
+    "latest": 1833,
+    "precision": "year",
+    "display": "c. 1827–1833",
+    "certainty": "A",
+    "qualifier": "circa"
+  },
+  "parent_war_id": "WAR-000009",
+  "editor_notes": "Descriptive name based on the pilot doc heading 'The South Island (c. 1827–1833)'."
+}

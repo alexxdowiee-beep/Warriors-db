@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000029",
+  "type": "place",
+  "slug": "kaiapoi",
+  "primary_name": "Kaiapoi pā",
+  "names": [
+    {
+      "name": "Kaiapoi pā",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Ngāi Tahu pā; attacked c. 1828–29 and taken after a siege in 1831–32.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "place_type": "pā",
+  "location_certainty": "A"
+}

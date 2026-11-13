@@ -1,0 +1,25 @@
+{
+  "id": "SRC-000016",
+  "type": "source",
+  "slug": "nepos-life-of-hannibal-rolfe",
+  "primary_name": "Nepos, Life of Hannibal, trans. J. C. Rolfe (1929)",
+  "summary": "English translation of Nepos's Life of Hannibal.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "bias_notes": "See SRC-000012.",
+  "derives_from": [
+    "SRC-000012"
+  ],
+  "authors": [
+    "Cornelius Nepos"
+  ],
+  "title": "Life of Hannibal",
+  "edition": "trans. J. C. Rolfe (1929)",
+  "publisher": "attalus.org",
+  "url": "https://www.attalus.org/translate/nepos23.html",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Standard Loeb translation with corrective footnotes."
+}

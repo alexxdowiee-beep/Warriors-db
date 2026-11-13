@@ -1,0 +1,107 @@
+{
+  "id": "PER-000002",
+  "type": "person",
+  "status": "sourced",
+  "updated": "2026-11-13",
+  "slug": "hannibal-barca",
+  "primary_name": "Hannibal Barca",
+  "names": [
+    {
+      "name": "Hannibal Barca",
+      "kind": "primary",
+      "preferred": true
+    },
+    {
+      "name": "Hannibal son of Hamilcar",
+      "kind": "other"
+    },
+    {
+      "name": "Barca",
+      "kind": "epithet"
+    }
+  ],
+  "summary": "Hannibal is one of the most famous commanders in history, yet not one line of Carthaginian history about him survives. Everything comes from Greek and Roman writers on the winning side, so this profile tests how the database handles a record that is detailed but almost entirely hostile.",
+  "certainty": "B",
+  "tags": [
+    "hostile-record",
+    "combined-arms",
+    "envelopment",
+    "war-elephants",
+    "punic-wars"
+  ],
+  "editor_notes": "Record card (pilot doc, 12 Nov 2026): Primary name: Hannibal Barca; Other names: Hannibal son of Hamilcar; \"Barca\" is the family epithet (often explained as \"lightning\"), not a surname in the modern sense; Roles: General, strategist, chief magistrate (suffete) of Carthage, adviser in exile; Polity served: Carthage; later the Seleucid king Antiochus III and Prusias I of Bithynia; Born: c. 247 BCE, probably Carthage · grade B for the year, C for the place; Died: 183, 182 or 181 BCE (ancient sources disagree), Libyssa in Bithynia · suicide by poison · grade C for the year, B for the manner; Active: 221–190 BCE as a commander; Italy 218–203 BCE; Period: Classical antiquity; Second Punic War; Overall certainty: **B · Probable** — the main campaigns are well attested; his motives, character, speeches and many numbers come from hostile or late writers; Status: **Sourced (partial)**; Tags: `hostile-record`, `combined-arms`, `envelopment`, `war-elephants`, `punic-wars`.",
+  "core_claim_set": "commander",
+  "birth": {
+    "earliest": -246,
+    "latest": -246,
+    "precision": "year",
+    "display": "c. 247 BCE",
+    "certainty": "B",
+    "qualifier": "circa",
+    "claim_ids": [
+      "CLM-000019"
+    ]
+  },
+  "death": {
+    "earliest": -182,
+    "latest": -180,
+    "precision": "year",
+    "display": "183, 182 or 181 BCE",
+    "certainty": "C",
+    "qualifier": "between",
+    "claim_ids": [
+      "CLM-000035"
+    ]
+  },
+  "active_period": {
+    "earliest": -220,
+    "latest": -189,
+    "precision": "year",
+    "display": "221–190 BCE as a commander; Italy 218–203 BCE",
+    "certainty": "B"
+  },
+  "death_place_id": "PLC-000020",
+  "death_cause": "Suicide by poison",
+  "sex": "male",
+  "roles": [
+    "commander",
+    "strategist"
+  ],
+  "polity_ids": [
+    "POL-000004",
+    "POL-000007",
+    "POL-000008"
+  ],
+  "dynasty": "Barcid",
+  "profile": {
+    "early_life": "Hannibal was the son of Hamilcar Barca, Carthage's leading general in the First Punic War. His brothers Hasdrubal and Mago also became commanders. Little is known of his mother; later writers name a wife from Iberia, but that detail is not yet sourced here.\n\nThe best-known story of his childhood is that, at about nine, he swore at an altar never to be a friend of Rome before going with his father to Iberia. Nepos gives it as Hannibal's own account, told decades later to King Antiochus III to prove his loyalty ([Nepos 2](https://www.attalus.org/translate/nepos23.html)). That framing matters: it is a story Hannibal had every reason to tell at that moment, then retold by Roman-era writers who used it to make him a lifelong, almost fated enemy. Graded **C** (`self-testimony`, `late-source`): plausible, single-origin, and politically convenient for everyone who repeated it.\n\nHe grew up in his father's army in Iberia. After Hamilcar's death, command passed to his brother-in-law Hasdrubal the Fair, under whom Hannibal led the cavalry. When Hasdrubal was killed in 221 BCE, the army chose Hannibal as commander and Carthage confirmed it ([Nepos 3](https://www.attalus.org/translate/nepos23.html)). He was about 26.",
+    "historical_context": "Carthage had lost the First Punic War (264–241 BCE), surrendered Sicily and paid Rome a heavy indemnity, then fought a brutal war against its own unpaid mercenaries. The Barcid family rebuilt Carthaginian power in Iberia, whose silver mines funded a new professional army.\n\nIn 226 BCE a treaty set the Ebro River as a boundary in Iberia. The city of Saguntum, south of that line, had ties of friendship with Rome, so its status was genuinely ambiguous ([Mulligan, DCC](https://dcc.dickinson.edu/nepos-hannibal/second-punic-war)). Hannibal besieged and took it in 219 BCE after eight months. When Carthage refused Rome's demand to hand him over, war followed in 218 BCE. Who was legally in the wrong over Saguntum was argued in antiquity and still is (C).",
+    "military_career": "Hannibal's career has three phases: two years of near-total victory (218–216 BCE), thirteen years of stalemate in Italy (216–203 BCE), and defeat followed by exile (202–183 BCE).\n\n**The march to Italy (218 BCE).** Rome planned to pin him down in Iberia while invading Africa. Instead he marched overland, crossed the Pyrenees and the Rhône, and reached the Alps late in the year with about 38,000 infantry, 8,000 cavalry and 37 elephants. The crossing in early winter cost him nearly a third of his army and most of the elephants, but forced Rome to cancel its invasion of Africa ([Mulligan, DCC](https://dcc.dickinson.edu/nepos-hannibal/second-punic-war)). The exact pass he used is unknown and still argued over (C).\n\n**Three great victories (218–216 BCE).** He won a cavalry action at the Ticinus, then lured a Roman army into an ambush at the Trebia in December 218. In 217 he trapped the consul Flaminius's army on the shore of Lake Trasimene; Flaminius was killed. During the march south he suffered an eye infection that cost him the full use of one eye ([Nepos 4](https://www.attalus.org/translate/nepos23.html), B). Rome turned to Fabius Maximus, who avoided battle; Hannibal escaped one Fabian trap at night by driving cattle with burning bundles tied to their horns (Nepos 5, B). In 216, Rome fielded its largest-ever army against him at Cannae and lost almost all of it.\n\n**Stalemate in Italy (216–203 BCE).** Several southern cities, including Capua, went over to him, and Philip V of Macedon allied with Carthage. But central Italy, the Latin cities and most of Rome's allies held firm. Rome avoided pitched battle, retook rebel cities one by one, and outnumbered him heavily. His march on Rome in 211 BCE was a diversion he could not turn into a siege. In 207 his brother Hasdrubal, bringing reinforcements from Iberia, was destroyed at the Metaurus; Scipio took Iberia; and a supply fleet from Carthage was lost ([Mulligan, DCC](https://dcc.dickinson.edu/nepos-hannibal/second-punic-war)).\n\n**Zama and after (203–183 BCE).** Recalled to defend Africa, he met Scipio at Zama in 202 BCE and was decisively defeated. After the peace he served as a chief magistrate (suffete) of Carthage, fled east when Rome sought his surrender, advised Antiochus III, lost a naval battle to the Rhodians, and finally took poison in Bithynia when Roman envoys had his house surrounded ([Nepos 7–12](https://www.attalus.org/translate/nepos23.html)).",
+    "leadership": "Unlike Joan of Arc, Hannibal's command is not in doubt, so leadership and strategy are kept as separate sections, following the template rule.\n\n- **Holding a multi-ethnic army together.** His army mixed Libyans, Iberians, Celts, Numidians and Balearic slingers, with no shared language or homeland ([Polybius 3.113–114](https://sourcebooks.web.fordham.edu/ancient/polybius-cannae.asp)). Keeping it in the field in hostile Italy for about fifteen years is his most-cited leadership achievement. Polybius elsewhere is said to note that it never mutinied (book 11, to verify) — B.\n- **Personal presence.** At Cannae he commanded the centre in person, the most dangerous part of his line (Polybius 3.114–116, B).\n- **Deception.** Ambushes at the Trebia and Trasimene, and the night escape from Fabius using cattle, show a consistent preference for surprise (A for the pattern).\n- **Speeches.** Ancient historians give him rousing speeches, as Polybius does before Cannae. These were composed by the historians, as was normal practice, so the exact words are graded **D** and never shown as real quotations.",
+    "strategy_and_tactics": "His plan was to break the alliance network that gave Rome its manpower, not to destroy the city. Mulligan notes that later Roman writers claimed he meant to annihilate Rome, but that his likely aim was a negotiated peace on favourable terms ([DCC](https://dcc.dickinson.edu/nepos-hannibal/second-punic-war), B). He released captured Italian allies while holding Romans, to show he was at war with Rome alone.\n\nThe strategy failed because Rome refused to negotiate after any defeat, most allies stayed loyal, and Rome could field far more soldiers than he could. This is the main lesson modern historians draw from his war: brilliant battles did not translate into strategic victory (A as a consensus judgement).\n\n- **Cannae's double envelopment.** He placed Celts and Iberians in a forward-bulging crescent in the centre, with his best Libyan infantry held back on each wing. As the Romans pushed the centre in, the Libyans turned inward on their flanks, and his cavalry under Hasdrubal, having routed the Roman horse, struck the Roman rear ([Polybius 3.113–116](https://sourcebooks.web.fordham.edu/ancient/polybius-cannae.asp), A).\n- **Cavalry superiority.** Polybius himself credits the victory mainly to Hannibal's stronger cavalry.\n- **Choosing the ground.** Open plains for cavalry at Cannae; fog and a lakeside road at Trasimene.",
+    "technology": "- **War elephants.** He crossed the Alps with 37, most of which soon died. They were not what won his Italian battles. At Zama, his newly raised elephants did more harm to his own lines than to Scipio's (DCC, B).\n- **Numidian light cavalry** and **Iberian and Celtic heavy cavalry**, his decisive arm until Rome gained Numidian allies of its own.\n- **Captured Roman equipment.** His Libyan infantry at Cannae were armed with gear taken from earlier Roman defeats (Polybius 3.114, A).\n- **Balearic slingers** as skirmishers.\n- **Ruses at sea.** Nepos says that in Bithynian service he had pots of live snakes thrown onto enemy ships (Nepos 10–11). Single, late and anecdotal: **D**.",
+    "victories_and_defeats": "He won every major pitched battle in Italy, and Nepos claims no Roman would camp opposite him on open ground after Cannae ([Nepos 5](https://www.attalus.org/translate/nepos23.html)). That claim is admiring rhetoric (C): Hannibal lost cities, sieges and smaller actions as Rome ground down his allies. His only great field defeat, Zama, decided the war. The record shows a commander who could not be beaten in battle for fifteen years but still lost the war.",
+    "political_achievements": "- **Suffete of Carthage (196 BCE).** Nepos says he raised new taxes so that Carthage could pay its war indemnity to Rome and still leave a surplus in the treasury ([Nepos 7](https://www.attalus.org/translate/nepos23.html), B). Livy is generally credited with a fuller account of his reforms against entrenched officials; that is still to be checked.\n- **Coalition-building.** He brought Philip V of Macedon into alliance against Rome and later pushed Antiochus III toward war, though his military advice was largely ignored (Nepos 2, 8; B).\n- **Writing.** Nepos records that he wrote several books in Greek, all lost (B).",
+    "controversies": "- **Responsibility for the war (C · Disputed).** Taking Saguntum gave Rome its pretext. Whether that broke a treaty depends on Saguntum's unclear legal status, and the case against him survives only in Roman-side accounts.\n- **Not marching on Rome after Cannae (C).** The most famous \"what if\" in ancient military history. Most modern historians argue he lacked siege equipment and a secure base for a siege of a large, walled city; ancient writers turned it into a moral about wasted victory.\n- **Cruelty and treachery (D as a general charge).** Roman writers built a stereotype of \"Punic\" faithlessness and painted Hannibal as cruel. These charges are flagged `hostile-source` and `propaganda`. Specific incidents can still be graded on their own evidence.\n- **Devastation of Italy.** One modern summary repeats an ancient figure of 400 towns destroyed ([DCC](https://dcc.dickinson.edu/nepos-hannibal/second-punic-war)). The figure is stored with flag `inflated-numbers` (D), but long war in southern Italy undoubtedly caused great suffering for civilians (A).\n- **Treatment of prisoners.** He treated Roman and allied captives differently on purpose, which was humane to some and harsh to others, both as policy (B).",
+    "legacy": "- **Cannae as a model.** The double envelopment became the textbook example of annihilating a larger army, and battle diagrams of it are still used in military education (A). Its influence on later planners, such as German staff officers before 1914, is widely reported but not yet sourced here (B).\n- **A strategic cautionary tale.** His war is the classic case of tactical brilliance failing against an enemy with deeper reserves and the will to keep fighting.\n- **Fabian strategy**, named after his opponent, entered the vocabulary of warfare and politics as a term for winning by avoiding decisive battle.\n- **Rome's memory.** He became Rome's archetypal enemy, which shaped how every surviving source portrays him.\n- **Art and national memory.** From Renaissance frescoes to modern Tunisia, the image is often more legend than evidence; the national-memory angle is still to be researched.",
+    "evidence_note": "**Research note.** I opened three sources: Polybius's account of Cannae (*Histories* 3.107–118, Shuckburgh translation, Fordham University Sourcebook); Cornelius Nepos's *Life of Hannibal* (Rolfe translation); and Bret Mulligan's essay on the Second Punic War for Dickinson College Commentaries. Other points rest on search-result excerpts and are marked.\n\nThe Carthaginian side of this story is almost completely lost. Hannibal's own Greek books are gone, and so are the accounts of Silenus and Sosylus, two Greek writers who lived in his camp ([Nepos 13](https://www.attalus.org/translate/nepos23.html)). Polybius seems to have used some of that lost material, which makes him the closest thing to a Carthaginian-informed source, but he wrote in Rome's orbit. Every claim about Hannibal's thoughts, words or character should be read with that in mind.\n\nA modern scholarly biography, such as Dexter Hoyos's work on Hannibal and the Barcids, plus the Livy text for the reforms, rock-splitting and Maharbal passages. Polybius book 11, on the army never mutinying, is freely available and is the quickest gap to close.",
+    "key_takeaways": [
+      "Hannibal invaded Italy over the Alps in 218 BCE and destroyed three Roman armies in three years, culminating at Cannae in 216 BCE.",
+      "Cannae's double envelopment, built on a deliberately weak centre and superior cavalry, became the most studied battle plan in history.",
+      "He still lost the war, because Rome refused to negotiate, most of its allies stayed loyal, and its manpower far outlasted his.",
+      "After defeat at Zama he served Carthage as a reforming magistrate, then lived in exile until he took poison rather than be handed to Rome.",
+      "Every surviving account was written by Greeks or Romans; Carthage's own record of him is lost."
+    ]
+  },
+  "myth_claim_ids": [
+    "CLM-000036",
+    "CLM-000093",
+    "CLM-000094",
+    "CLM-000095",
+    "CLM-000096",
+    "CLM-000097",
+    "CLM-000098",
+    "CLM-000099",
+    "CLM-000100"
+  ]
+}

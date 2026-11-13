@@ -1,0 +1,18 @@
+{
+  "id": "POL-000019",
+  "type": "polity",
+  "slug": "te-ati-awa",
+  "primary_name": "Te Āti Awa",
+  "names": [
+    {
+      "name": "Te Āti Awa",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Allowed Ngāti Toa to cultivate land in Taranaki and later joined them in the south.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

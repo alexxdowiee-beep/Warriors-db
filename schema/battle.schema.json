@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "battle.schema.json",
+  "title": "Battle record",
+  "allOf": [
+    {
+      "$ref": "common.schema.json#/$defs/base"
+    }
+  ],
+  "type": "object",
+  "properties": {
+    "id": {
+      "$ref": "common.schema.json#/$defs/battleId"
+    },
+    "type": {
+      "const": "battle"
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "field-battle",
+        "siege",
+        "naval",
+        "ambush",
+        "raid",
+        "assault",
+        "skirmish",
+        "standoff",
+        "massacre",
+        "sortie",
+        "unknown"
+      ]
+    },
+    "date": {
+      "$ref": "common.schema.json#/$defs/historicalDate"
+    },
+    "place_id": {
+      "$ref": "common.schema.json#/$defs/placeId"
+    },
+    "site_certainty": {
+      "$ref": "common.schema.json#/$defs/grade"
+    },
+    "war_id": {
+      "$ref": "common.schema.json#/$defs/warId"
+    },
+    "sides": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "label"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "polity_ids": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/polityId"
+            }
+          },
+          "commander_ids": {
+            "type": "array",
+            "items": {
+              "$ref": "common.schema.json#/$defs/personId"
+            }
+          },
+          "strength": {
+            "$ref": "common.schema.json#/$defs/quantityRange"
+          },
+          "casualties": {
+            "$ref": "common.schema.json#/$defs/quantityRange"
+          },
+          "result": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "outcome": {
+      "type": "string"
+    },
+    "tactical_summary": {
+      "type": "string"
+    },
+    "significance": {
+      "type": "string"
+    },
+    "terrain": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "kind"
+  ]
+}

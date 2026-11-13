@@ -1,0 +1,15 @@
+{
+  "bias_flags": [
+    "propaganda",
+    "hostile-source",
+    "hagiography",
+    "late-source",
+    "inflated-numbers",
+    "oral-tradition",
+    "translation-issue",
+    "nationalist-reinterpretation",
+    "popular-culture",
+    "self-testimony",
+    "patron-bias"
+  ]
+}

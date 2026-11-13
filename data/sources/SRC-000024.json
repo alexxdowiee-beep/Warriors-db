@@ -1,0 +1,20 @@
+{
+  "id": "SRC-000024",
+  "type": "source",
+  "slug": "unesco-manden-charter",
+  "primary_name": "UNESCO, \"Manden Charter, proclaimed in Kurukan Fuga\"",
+  "summary": "UNESCO Representative List inscription (2009) for the Manden Charter.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "other",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [],
+  "title": "Manden Charter, proclaimed in Kurukan Fuga",
+  "publisher": "UNESCO",
+  "year": 2009,
+  "url": "https://ich.unesco.org/en/RL/manden-charter-proclaimed-in-kouroukan-fouga-00290",
+  "accessed": "2026-11-12",
+  "opened": true,
+  "reliability_notes": "Heritage inscription (pilot doc type). Derives from Mali's nomination file, which has no source record yet."
+}

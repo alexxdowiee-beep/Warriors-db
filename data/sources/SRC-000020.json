@@ -1,0 +1,23 @@
+{
+  "id": "SRC-000020",
+  "type": "source",
+  "slug": "ibn-khaldun-kitab-al-ibar",
+  "primary_name": "Ibn Khaldun, Kitab al-'Ibar",
+  "summary": "Late 14th-century Arabic history that names Mari Jata as conqueror of the Sosso.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "No bias noted in the pilot doc.",
+  "derives_from": [
+    "SRC-000018"
+  ],
+  "authors": [
+    "Ibn Khaldun"
+  ],
+  "title": "Kitab al-'Ibar",
+  "language": "Arabic",
+  "date_written": "Late 14th c.",
+  "opened": false,
+  "reliability_notes": "Arabic history (pilot doc type); more than a century after Sundiata. Partly derives from Mande oral tradition via Malian informants."
+}

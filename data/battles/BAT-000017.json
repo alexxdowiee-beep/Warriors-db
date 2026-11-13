@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000017",
+  "type": "battle",
+  "slug": "naval-battle-off-pamphylia",
+  "primary_name": "Naval battle off Pamphylia",
+  "names": [
+    {
+      "name": "Naval battle off Pamphylia",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Naval battle in which the Rhodians defeated a fleet in which Hannibal commanded; his wing held.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "naval",
+  "outcome": "Defeat (his wing held)",
+  "date": {
+    "earliest": -189,
+    "latest": -189,
+    "precision": "year",
+    "display": "190 BCE",
+    "certainty": "B"
+  },
+  "place_id": "PLC-000019",
+  "sides": [
+    {
+      "label": "Fleet of Antiochus III, with Hannibal",
+      "polity_ids": [
+        "POL-000007"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "result": "Defeat (his wing held)"
+    },
+    {
+      "label": "Rhodes",
+      "polity_ids": [
+        "POL-000009"
+      ]
+    }
+  ],
+  "editor_notes": "The doc does not name the war, so no war_id. The doc says Hannibal served Antiochus III at this time."
+}

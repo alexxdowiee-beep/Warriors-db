@@ -1,0 +1,15 @@
+{
+  "id": "PER-999999",
+  "type": "person",
+  "slug": "test-person",
+  "primary_name": "Test Person",
+  "names": [{"name": "Test Person", "kind": "primary", "preferred": true}],
+  "summary": "A fictional record used only to test the validator.",
+  "certainty": "C",
+  "status": "draft",
+  "updated": "2026-11-12",
+  "core_claim_set": "commander",
+  "active_period": {"earliest": -250, "latest": -200, "precision": "decade", "qualifier": "circa", "display": "c. 251-201 BCE", "certainty": "B"},
+  "roles": ["commander"],
+  "tags": ["test"]
+}

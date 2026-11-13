@@ -1,0 +1,12 @@
+{
+  "id": "SRC-999912",
+  "type": "source",
+  "slug": "test-original",
+  "primary_name": "Test source SRC-999912",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "bias_notes": "Fictional."
+}

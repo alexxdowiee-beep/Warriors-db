@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000027",
+  "type": "place",
+  "slug": "waiorua",
+  "primary_name": "Waiorua, Kāpiti Island",
+  "names": [
+    {
+      "name": "Waiorua, Kāpiti Island",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where a canoe fleet from many southern iwi attacked Kāpiti at night, c. 1824.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

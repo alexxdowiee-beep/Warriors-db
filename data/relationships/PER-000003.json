@@ -1,0 +1,46 @@
+{
+  "subject": "PER-000003",
+  "relationships": [
+    {
+      "id": "REL-000024",
+      "from_id": "PER-000003",
+      "to_id": "POL-000010",
+      "relation": "founded",
+      "certainty": "A",
+      "claim_ids": [
+        "CLM-000039"
+      ]
+    },
+    {
+      "id": "REL-000025",
+      "from_id": "PER-000003",
+      "to_id": "POL-000011",
+      "relation": "rebelled_against",
+      "certainty": "B",
+      "role": "Led the Mande revolt against Sosso rule",
+      "claim_ids": [
+        "CLM-000040"
+      ]
+    },
+    {
+      "id": "REL-000026",
+      "from_id": "PER-000003",
+      "to_id": "BAT-000018",
+      "relation": "commanded",
+      "certainty": "B",
+      "role": "Led the Mande coalition",
+      "claim_ids": [
+        "CLM-000040",
+        "CLM-000041"
+      ]
+    },
+    {
+      "id": "REL-000027",
+      "from_id": "PER-000003",
+      "to_id": "BAT-000019",
+      "relation": "participated",
+      "certainty": "C",
+      "role": "Listed among his major battles in the pilot doc"
+    }
+  ]
+}

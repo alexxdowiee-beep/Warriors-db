@@ -1,0 +1,16 @@
+{
+  "id": "SRC-000001",
+  "type": "source",
+  "slug": "condemnation-trial-record-1431",
+  "primary_name": "Condemnation trial record (Rouen), 1431",
+  "summary": "Record of the 1431 church trial at Rouen that convicted Joan of Arc.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-contemporary",
+  "bias_notes": "Hostile: built to convict; records only what the judges chose to ask.",
+  "derives_from": [],
+  "date_written": "1431",
+  "opened": false,
+  "reliability_notes": "Court record: Latin translation of a French summary (pilot doc type). Only rarely verbatim (McGrady, SRC-000005)."
+}

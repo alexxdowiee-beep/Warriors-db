@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000026",
+  "type": "place",
+  "slug": "hotuiti",
+  "primary_name": "Hotuiti",
+  "names": [
+    {
+      "name": "Hotuiti",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Rangitāne people were killed after a false offer of peace.",
+  "certainty": "C",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "C"
+}

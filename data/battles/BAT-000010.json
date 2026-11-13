@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000010",
+  "type": "battle",
+  "slug": "siege-of-saguntum",
+  "primary_name": "Siege of Saguntum",
+  "names": [
+    {
+      "name": "Siege of Saguntum",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Eight-month siege in which Hannibal took Saguntum, whose status under the 226 BCE Ebro treaty was ambiguous.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "siege",
+  "outcome": "Captured",
+  "date": {
+    "earliest": -218,
+    "latest": -218,
+    "precision": "year",
+    "display": "219 BCE",
+    "certainty": "A"
+  },
+  "place_id": "PLC-000012",
+  "sides": [
+    {
+      "label": "Carthage",
+      "polity_ids": [
+        "POL-000004"
+      ],
+      "commander_ids": [
+        "PER-000002"
+      ],
+      "result": "Captured"
+    },
+    {
+      "label": "Saguntum",
+      "polity_ids": [
+        "POL-000006"
+      ]
+    }
+  ],
+  "editor_notes": "Pilot doc type: 'Siege, 8 months'. Not linked to the Second Punic War: the doc says war followed in 218 BCE."
+}

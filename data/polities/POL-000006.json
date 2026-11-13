@@ -1,0 +1,17 @@
+{
+  "id": "POL-000006",
+  "type": "polity",
+  "slug": "saguntum",
+  "primary_name": "Saguntum",
+  "names": [
+    {
+      "name": "Saguntum",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Iberian city with ties of friendship with Rome, taken by Hannibal in 219 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}

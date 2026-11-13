@@ -1,0 +1,18 @@
+{
+  "id": "PLC-000033",
+  "type": "place",
+  "slug": "otaki",
+  "primary_name": "Ōtaki",
+  "names": [
+    {
+      "name": "Ōtaki",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Where Te Rauparaha died in 1849; he was buried near Rangiātea church.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "location_certainty": "A"
+}

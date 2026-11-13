@@ -1,0 +1,18 @@
+{
+  "id": "POL-000018",
+  "type": "polity",
+  "slug": "ngati-maniapoto",
+  "primary_name": "Ngāti Maniapoto",
+  "names": [
+    {
+      "name": "Ngāti Maniapoto",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Took part in the 1820–21 invasion of Kāwhia.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

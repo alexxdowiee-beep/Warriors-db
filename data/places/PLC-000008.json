@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000008",
+  "type": "place",
+  "slug": "paris",
+  "primary_name": "Paris",
+  "names": [
+    {
+      "name": "Paris",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Under Anglo-Burgundian control from 1418; Joan of Arc's attack on it failed in September 1429.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "place_type": "city",
+  "location_certainty": "A"
+}

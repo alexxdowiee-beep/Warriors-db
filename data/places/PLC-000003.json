@@ -1,0 +1,19 @@
+{
+  "id": "PLC-000003",
+  "type": "place",
+  "slug": "orleans",
+  "primary_name": "Orléans",
+  "names": [
+    {
+      "name": "Orléans",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "City besieged by the English from October 1428; the key crossing into Charles VII's remaining territory.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "place_type": "city",
+  "location_certainty": "A"
+}

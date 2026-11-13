@@ -1,0 +1,15 @@
+{
+  "id": "SRC-999903",
+  "type": "source",
+  "slug": "test-translation",
+  "primary_name": "Test source SRC-999903",
+  "summary": "Fictional source used only to test the validator.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "translation",
+  "bias_notes": "Fictional.",
+  "derives_from": [
+    "SRC-999901"
+  ]
+}

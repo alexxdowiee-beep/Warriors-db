@@ -1,0 +1,384 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "common.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "anyId": {
+      "type": "string",
+      "pattern": "^(PER|CIV|POL|BAT|WAR|EQP|TAC|PRD|PLC|SRC|WRK|CLM|REL)-[0-9]{6}$"
+    },
+    "personId": {
+      "type": "string",
+      "pattern": "^PER-[0-9]{6}$"
+    },
+    "civilisationId": {
+      "type": "string",
+      "pattern": "^CIV-[0-9]{6}$"
+    },
+    "polityId": {
+      "type": "string",
+      "pattern": "^POL-[0-9]{6}$"
+    },
+    "battleId": {
+      "type": "string",
+      "pattern": "^BAT-[0-9]{6}$"
+    },
+    "warId": {
+      "type": "string",
+      "pattern": "^WAR-[0-9]{6}$"
+    },
+    "equipmentId": {
+      "type": "string",
+      "pattern": "^EQP-[0-9]{6}$"
+    },
+    "tacticId": {
+      "type": "string",
+      "pattern": "^TAC-[0-9]{6}$"
+    },
+    "periodId": {
+      "type": "string",
+      "pattern": "^PRD-[0-9]{6}$"
+    },
+    "placeId": {
+      "type": "string",
+      "pattern": "^PLC-[0-9]{6}$"
+    },
+    "sourceId": {
+      "type": "string",
+      "pattern": "^SRC-[0-9]{6}$"
+    },
+    "workId": {
+      "type": "string",
+      "pattern": "^WRK-[0-9]{6}$"
+    },
+    "claimId": {
+      "type": "string",
+      "pattern": "^CLM-[0-9]{6}$"
+    },
+    "relationshipId": {
+      "type": "string",
+      "pattern": "^REL-[0-9]{6}$"
+    },
+    "grade": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "sourced",
+        "verified",
+        "reviewed",
+        "tombstone"
+      ]
+    },
+    "historicalDate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "earliest",
+        "latest",
+        "precision",
+        "display",
+        "certainty"
+      ],
+      "properties": {
+        "earliest": {
+          "type": "integer",
+          "description": "Astronomical year: 1 BCE = 0, 2 BCE = -1"
+        },
+        "latest": {
+          "type": "integer"
+        },
+        "month": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 12
+        },
+        "day": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 31
+        },
+        "precision": {
+          "type": "string",
+          "enum": [
+            "day",
+            "month",
+            "year",
+            "decade",
+            "century",
+            "era"
+          ]
+        },
+        "qualifier": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "circa",
+            "before",
+            "after",
+            "between",
+            null
+          ]
+        },
+        "calendar_original": {
+          "type": "string",
+          "default": "unknown"
+        },
+        "display": {
+          "type": "string"
+        },
+        "certainty": {
+          "type": "string",
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "claim_ids": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/claimId"
+          }
+        }
+      }
+    },
+    "quantityRange": {
+      "oneOf": [
+        {
+          "const": "unknown"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "unit"
+          ],
+          "properties": {
+            "low": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "high": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "best": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unit": {
+              "type": "string"
+            },
+            "basis": {
+              "type": "string",
+              "enum": [
+                "ancient claim",
+                "modern estimate",
+                "contemporary record",
+                "tradition"
+              ]
+            },
+            "ancient_claim": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "claim_ids": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/claimId"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "name": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "kind"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "primary",
+            "birth",
+            "regnal",
+            "title",
+            "epithet",
+            "transliteration",
+            "native-script",
+            "nickname",
+            "other"
+          ]
+        },
+        "language": {
+          "type": "string"
+        },
+        "script": {
+          "type": "string"
+        },
+        "romanisation": {
+          "type": "string"
+        },
+        "preferred": {
+          "type": "boolean"
+        }
+      }
+    },
+    "citation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_id"
+      ],
+      "properties": {
+        "source_id": {
+          "$ref": "#/$defs/sourceId"
+        },
+        "locator": {
+          "type": "string"
+        },
+        "note": {
+          "type": "string"
+        },
+        "access": {
+          "type": "string",
+          "enum": [
+            "opened",
+            "excerpt",
+            "via-secondary",
+            "not-opened"
+          ]
+        }
+      }
+    },
+    "base": {
+      "type": "object",
+      "required": [
+        "id",
+        "type",
+        "slug",
+        "primary_name",
+        "summary",
+        "certainty",
+        "status",
+        "updated"
+      ],
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/anyId"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "person",
+            "civilisation",
+            "polity",
+            "battle",
+            "war",
+            "equipment",
+            "tactic",
+            "period",
+            "place",
+            "source",
+            "work",
+            "claim",
+            "relationship"
+          ]
+        },
+        "slug": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "primary_name": {
+          "type": "string"
+        },
+        "names": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/name"
+          }
+        },
+        "summary": {
+          "type": "string"
+        },
+        "certainty": {
+          "type": "string",
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E"
+          ]
+        },
+        "status": {
+          "$ref": "#/$defs/status"
+        },
+        "replaced_by": {
+          "$ref": "#/$defs/anyId"
+        },
+        "external_ids": {
+          "type": "object",
+          "additionalProperties": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "cultural_guidance": {
+          "type": "string",
+          "description": "Appropriate use of taonga, sacred material or community-held knowledge"
+        },
+        "updated": {
+          "type": "string",
+          "format": "date"
+        },
+        "editor_notes": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

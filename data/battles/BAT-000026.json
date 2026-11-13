@@ -1,0 +1,50 @@
+{
+  "id": "BAT-000026",
+  "type": "battle",
+  "slug": "hikapu",
+  "primary_name": "Hikapu, Pelorus Sound",
+  "names": [
+    {
+      "name": "Hikapu, Pelorus Sound",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Te Rauparaha's force of about 340, mostly armed with guns, heavily defeated Ngāti Kuia.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Victory",
+  "date": {
+    "earliest": 1828,
+    "latest": 1828,
+    "precision": "year",
+    "display": "c. 1828",
+    "certainty": "B",
+    "qualifier": "circa"
+  },
+  "place_id": "PLC-000028",
+  "war_id": "WAR-000013",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "strength": {
+        "unit": "warriors",
+        "ancient_claim": 340,
+        "basis": "tradition"
+      },
+      "result": "Victory"
+    },
+    {
+      "label": "Ngāti Kuia",
+      "polity_ids": [
+        "POL-000024"
+      ]
+    }
+  ],
+  "editor_notes": "The doc names no battle type; kind unknown. Strength 'about 340' stored as reported in tradition."
+}

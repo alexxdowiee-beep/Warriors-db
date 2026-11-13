@@ -1,0 +1,45 @@
+{
+  "id": "BAT-000027",
+  "type": "battle",
+  "slug": "first-attack-on-kaiapoi",
+  "primary_name": "First attack on Kaiapoi",
+  "names": [
+    {
+      "name": "First attack on Kaiapoi",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Ngāi Tahu killed Te Pēhi Kupe and seven other Ngāti Toa chiefs who had entered Kaiapoi pā to trade, and the first attack failed.",
+  "certainty": "B",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "Defeat; chiefs killed",
+  "date": {
+    "earliest": 1828,
+    "latest": 1829,
+    "precision": "year",
+    "display": "c. 1828–29",
+    "certainty": "B",
+    "qualifier": "circa"
+  },
+  "place_id": "PLC-000029",
+  "war_id": "WAR-000013",
+  "sides": [
+    {
+      "label": "Ngāti Toa",
+      "polity_ids": [
+        "POL-000015"
+      ],
+      "result": "Defeat; chiefs killed"
+    },
+    {
+      "label": "Ngāi Tahu",
+      "polity_ids": [
+        "POL-000023"
+      ]
+    }
+  ],
+  "editor_notes": "The doc names no battle type; kind unknown."
+}

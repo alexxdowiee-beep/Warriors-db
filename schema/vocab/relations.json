@@ -1,0 +1,88 @@
+{
+  "relations": {
+    "person-person": [
+      "parent_of",
+      "spouse_of",
+      "sibling_of",
+      "succeeded",
+      "served_under",
+      "mentored",
+      "allied_with",
+      "rival_of",
+      "killed"
+    ],
+    "person-polity": [
+      "ruled",
+      "served",
+      "founded",
+      "rebelled_against"
+    ],
+    "person-battle_or_war": [
+      "commanded",
+      "participated",
+      "wounded_at",
+      "died_at",
+      "planned"
+    ],
+    "person-equipment_or_tactic": [
+      "introduced",
+      "reformed",
+      "used"
+    ],
+    "person-work": [
+      "wrote",
+      "attributed_author_of",
+      "commented_on"
+    ],
+    "battle-war_or_war-war": [
+      "part_of"
+    ],
+    "battle-tactic_or_equipment": [
+      "featured"
+    ],
+    "polity-polity": [
+      "conquered",
+      "vassal_of",
+      "succeeded",
+      "allied_with"
+    ],
+    "polity-civilisation": [
+      "belongs_to"
+    ],
+    "any-period": [
+      "during"
+    ]
+  },
+  "reverse": {
+    "spouse_of": "spouse_of",
+    "sibling_of": "sibling_of",
+    "allied_with": "allied_with",
+    "rival_of": "rival_of",
+    "parent_of": "child_of",
+    "succeeded": "succeeded_by",
+    "served_under": "superior_of",
+    "mentored": "mentored_by",
+    "killed": "killed_by",
+    "ruled": "ruled_by",
+    "served": "served_by",
+    "founded": "founded_by",
+    "rebelled_against": "faced_rebellion_by",
+    "commanded": "commanded_by",
+    "participated": "participant",
+    "wounded_at": "wounded_there",
+    "died_at": "died_there",
+    "planned": "planned_by",
+    "introduced": "introduced_by",
+    "reformed": "reformed_by",
+    "used": "used_by",
+    "wrote": "written_by",
+    "attributed_author_of": "attributed_to",
+    "commented_on": "commentary_by",
+    "part_of": "includes",
+    "featured": "featured_in",
+    "conquered": "conquered_by",
+    "vassal_of": "overlord_of",
+    "belongs_to": "includes_polity",
+    "during": "period_of"
+  }
+}

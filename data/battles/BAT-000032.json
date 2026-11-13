@@ -1,0 +1,39 @@
+{
+  "id": "BAT-000032",
+  "type": "battle",
+  "slug": "wairau-1843",
+  "primary_name": "Wairau (1843)",
+  "names": [
+    {
+      "name": "Wairau (1843)",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "After Te Rauparaha and Te Rangihaeata stopped the survey of the Wairau plains, Arthur Wakefield led armed settlers from Nelson to arrest Te Rauparaha. Governor FitzRoy later found that the settlers had provoked the clash.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "unknown",
+  "outcome": "The settlers surrendered; Te Rangihaeata then killed them in revenge for the killing of his wife, Te Rongo.",
+  "date": {
+    "earliest": 1843,
+    "latest": 1843,
+    "precision": "year",
+    "display": "1843",
+    "certainty": "A"
+  },
+  "place_id": "PLC-000032",
+  "sides": [
+    {
+      "label": "Ngāti Toa, under Te Rauparaha and Te Rangihaeata",
+      "polity_ids": [
+        "POL-000015"
+      ]
+    },
+    {
+      "label": "Armed settlers from Nelson, under Arthur Wakefield"
+    }
+  ],
+  "editor_notes": "Not in the doc's battle table; created because CLM-000080 depends on it. Grade A from the controversies table ('A for the events; framing contested'). Long called a 'massacre' by settlers."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "BAT-000006",
+  "type": "battle",
+  "slug": "paris-1429",
+  "primary_name": "Paris",
+  "names": [
+    {
+      "name": "Paris",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Failed attack on Paris; Joan of Arc was wounded by a crossbow bolt and the king ordered a withdrawal the next day.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "assault",
+  "outcome": "Failed",
+  "date": {
+    "earliest": 1429,
+    "latest": 1429,
+    "precision": "day",
+    "display": "8 September 1429",
+    "certainty": "A",
+    "month": 9,
+    "day": 8
+  },
+  "place_id": "PLC-000008",
+  "war_id": "WAR-000001",
+  "sides": [
+    {
+      "label": "Valois France",
+      "polity_ids": [
+        "POL-000001"
+      ],
+      "result": "Failed"
+    },
+    {
+      "label": "Anglo-Burgundian Paris",
+      "polity_ids": [
+        "POL-000002",
+        "POL-000003"
+      ]
+    }
+  ]
+}

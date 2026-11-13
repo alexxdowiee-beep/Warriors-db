@@ -1,0 +1,18 @@
+{
+  "id": "POL-000022",
+  "type": "polity",
+  "slug": "rangitane",
+  "primary_name": "Rangitāne",
+  "names": [
+    {
+      "name": "Rangitāne",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "Iwi attacked by Ngāti Toa at Hotuiti and at Wairau.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "polity_type": "iwi"
+}

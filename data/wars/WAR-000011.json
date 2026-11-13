@@ -1,0 +1,26 @@
+{
+  "id": "WAR-000011",
+  "type": "war",
+  "slug": "te-heke-tahutahuahi",
+  "primary_name": "Te Heke Tahutahuahi",
+  "names": [
+    {
+      "name": "Te Heke Tahutahuahi",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "First stage of Ngāti Toa's migration south from Kāwhia, after the siege of Te Arawī; about 1,500 Ngāti Toa reached Taranaki.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "kind": "migration",
+  "span": {
+    "earliest": 1820,
+    "latest": 1821,
+    "precision": "year",
+    "display": "1820–21",
+    "certainty": "A"
+  },
+  "parent_war_id": "WAR-000009"
+}

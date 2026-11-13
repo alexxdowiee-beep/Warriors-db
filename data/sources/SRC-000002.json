@@ -1,0 +1,16 @@
+{
+  "id": "SRC-000002",
+  "type": "source",
+  "slug": "nullification-trial-dossier",
+  "primary_name": "Nullification (rehabilitation) trial dossier, 1452–1456",
+  "summary": "Witness depositions and legal arguments from the retrial that annulled Joan of Arc's conviction.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13",
+  "source_type": "primary-later",
+  "bias_notes": "Favourable: built to clear her; questions steered toward piety.",
+  "derives_from": [],
+  "date_written": "1452–1456",
+  "opened": false,
+  "reliability_notes": "Court record: witness depositions and legal arguments (pilot doc type). Summaries give 115 witnesses and also 135 depositions; to check against an edition."
+}

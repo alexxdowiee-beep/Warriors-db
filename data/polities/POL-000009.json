@@ -1,0 +1,17 @@
+{
+  "id": "POL-000009",
+  "type": "polity",
+  "slug": "rhodes",
+  "primary_name": "Rhodes",
+  "names": [
+    {
+      "name": "Rhodes",
+      "kind": "primary",
+      "preferred": true
+    }
+  ],
+  "summary": "The Rhodians defeated Hannibal in a naval battle off Pamphylia in 190 BCE.",
+  "certainty": "A",
+  "status": "draft",
+  "updated": "2026-11-13"
+}
