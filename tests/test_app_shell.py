@@ -19,7 +19,7 @@ class AppShell(unittest.TestCase):
 
     def test_every_app_file_is_cached(self):
         files = {p.relative_to(APP).as_posix() for p in APP.rglob("*") if p.is_file()}
-        needed = {f for f in files if not f.startswith("data/") and not f.endswith((".txt", ".gitkeep"))} - NOT_CACHED
+        needed = {f for f in files if not f.startswith("data/") and not f.endswith((".txt", ".gitkeep", ".nojekyll"))} - NOT_CACHED
         self.assertEqual(needed - self.shell, set())
 
     def test_no_external_urls_in_app_code(self):
