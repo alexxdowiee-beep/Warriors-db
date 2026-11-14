@@ -1208,6 +1208,9 @@
    "id": "BAT-000033",
    "kind": "unknown",
    "name": "Defeat of Toghril and the Kereit",
+   "opponents": [
+    "Kereit"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1227,6 +1230,9 @@
    "id": "BAT-000034",
    "kind": "unknown",
    "name": "Defeat of the Naiman",
+   "opponents": [
+    "Naiman"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1248,6 +1254,7 @@
    "id": "WAR-000015",
    "kind": "campaign",
    "name": "Subjugation of Xi Xia",
+   "opponents": [],
    "relation": "commanded",
    "result": "Submission",
    "role": null,
@@ -1269,6 +1276,9 @@
    "id": "WAR-000016",
    "kind": "war",
    "name": "War against the Jin",
+   "opponents": [
+    "Jin dynasty"
+   ],
    "relation": "commanded",
    "result": "Most territory taken by 1216; completed under Ögödei",
    "role": null,
@@ -1290,6 +1300,9 @@
    "id": "BAT-000035",
    "kind": "siege",
    "name": "Fall of Zhongdu",
+   "opponents": [
+    "Jin"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": null,
@@ -1315,6 +1328,9 @@
    "id": "WAR-000017",
    "kind": "war",
    "name": "Invasion of Khwarazm",
+   "opponents": [
+    "Khwarazmian Empire"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1334,6 +1350,9 @@
    "id": "BAT-000036",
    "kind": "siege",
    "name": "Capture of Otrar",
+   "opponents": [
+    "Khwarazm"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": null,
@@ -1359,6 +1378,9 @@
    "id": "BAT-000037",
    "kind": "field-battle",
    "name": "Battle of the Indus",
+   "opponents": [
+    "Jalal al-Din's army"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1382,6 +1404,9 @@
    "id": "BAT-000038",
    "kind": "siege",
    "name": "Siege of Zhongxing",
+   "opponents": [
+    "Xi Xia"
+   ],
    "relation": "commanded",
    "result": "Fell after his death",
    "role": null,
@@ -1403,6 +1428,9 @@
    "id": "BAT-000038",
    "kind": "siege",
    "name": "Siege of Zhongxing",
+   "opponents": [
+    "Xi Xia"
+   ],
    "relation": "died_at",
    "result": "Fell after his death",
    "role": null,

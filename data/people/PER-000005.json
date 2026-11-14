@@ -1067,6 +1067,9 @@
    "id": "BAT-000021",
    "kind": "siege",
    "name": "Siege of Te Arawī",
+   "opponents": [
+    "Waikato and Ngāti Maniapoto"
+   ],
    "relation": "participated",
    "result": "Negotiated withdrawal",
    "role": null,
@@ -1092,6 +1095,7 @@
    "id": "WAR-000011",
    "kind": "migration",
    "name": "Te Heke Tahutahuahi",
+   "opponents": [],
    "relation": "commanded",
    "result": null,
    "role": "Led the migration",
@@ -1116,6 +1120,9 @@
    "id": "BAT-000022",
    "kind": "unknown",
    "name": "Motunui",
+   "opponents": [
+    "Waikato, under Te Wherowhero"
+   ],
    "relation": "participated",
    "result": "Victory (with Te Āti Awa, Ngāti Tama)",
    "role": null,
@@ -1140,6 +1147,9 @@
    "id": "BAT-000023",
    "kind": "unknown",
    "name": "Horowhenua lakes",
+   "opponents": [
+    "Muaūpoko"
+   ],
    "relation": "participated",
    "result": "Victory; massacre",
    "role": null,
@@ -1164,6 +1174,9 @@
    "id": "BAT-000024",
    "kind": "massacre",
    "name": "Hotuiti",
+   "opponents": [
+    "Rangitāne"
+   ],
    "relation": "participated",
    "result": "Killing after false peace offer",
    "role": null,
@@ -1189,6 +1202,10 @@
    "id": "WAR-000012",
    "kind": "migration",
    "name": "Te Heke Tātaramoa",
+   "opponents": [
+    "Muaūpoko",
+    "Rangitāne"
+   ],
    "relation": "commanded",
    "result": null,
    "role": "Led the migration",
@@ -1215,6 +1232,9 @@
    "id": "BAT-000025",
    "kind": "unknown",
    "name": "Waiorua, Kāpiti",
+   "opponents": [
+    "Coalition of southern iwi"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1239,6 +1259,9 @@
    "id": "BAT-000026",
    "kind": "unknown",
    "name": "Hikapu, Pelorus Sound",
+   "opponents": [
+    "Ngāti Kuia"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "His force of about 340",
@@ -1263,6 +1286,9 @@
    "id": "BAT-000027",
    "kind": "unknown",
    "name": "First attack on Kaiapoi",
+   "opponents": [
+    "Ngāi Tahu"
+   ],
    "relation": "participated",
    "result": "Defeat; chiefs killed",
    "role": null,
@@ -1286,6 +1312,9 @@
    "id": "BAT-000030",
    "kind": "unknown",
    "name": "Ōraumoaiti and Ōraumoanui",
+   "opponents": [
+    "Ngāi Tahu"
+   ],
    "relation": "participated",
    "result": "Inconclusive",
    "role": null,
@@ -1311,6 +1340,9 @@
    "id": "BAT-000028",
    "kind": "siege",
    "name": "Kaiapoi siege",
+   "opponents": [
+    "Ngāi Tahu"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": null,
@@ -1334,6 +1366,9 @@
    "id": "BAT-000029",
    "kind": "unknown",
    "name": "Ōnawe, Akaroa",
+   "opponents": [
+    "Ngāi Tahu"
+   ],
    "relation": "participated",
    "result": "Captured",
    "role": null,
@@ -1359,6 +1394,9 @@
    "id": "BAT-000031",
    "kind": "unknown",
    "name": "Te Kūititanga, Waikanae",
+   "opponents": [
+    "Te Āti Awa"
+   ],
    "relation": "participated",
    "result": "Allies defeated",
    "role": "His allies fought; he escaped by whaleboat",
@@ -1384,6 +1422,9 @@
    "id": "BAT-000032",
    "kind": "unknown",
    "name": "Wairau (1843)",
+   "opponents": [
+    "Armed settlers from Nelson, under Arthur Wakefield"
+   ],
    "relation": "participated",
    "result": "The settlers surrendered; Te Rangihaeata then killed them in revenge for the killing of his wife, Te Rongo.",
    "role": "Stopped the survey with Te Rangihaeata",

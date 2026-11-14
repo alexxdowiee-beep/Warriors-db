@@ -29,6 +29,14 @@
   --grade-d: #E8956B;
   --grade-e: #C9C4BA;
 
+  /* Regions: only for region labels, chips and card borders, never for grades, and always next to
+     the region's name in words. Contrast on --panel 8.4:1 or more. */
+  --region-africa: #E6A86B;
+  --region-asia: #C9A7E8;
+  --region-europe: #D8C3A5;
+  --region-americas: #E7A0B8;
+  --region-pacific: #7FD3DA;
+
   /* Type */
   --font-display: 'Cinzel', 'Times New Roman', serif;
   --font-body: 'Alegreya', Georgia, serif;

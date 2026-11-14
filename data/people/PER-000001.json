@@ -1007,6 +1007,9 @@
    "id": "BAT-000001",
    "kind": "siege",
    "name": "Siege of Orléans (relief)",
+   "opponents": [
+    "English"
+   ],
    "relation": "participated",
    "result": "Victory (for Joan of Arc's side)",
    "role": "Leading figure alongside Dunois; wounded",
@@ -1032,6 +1035,9 @@
    "id": "BAT-000001",
    "kind": "siege",
    "name": "Siege of Orléans (relief)",
+   "opponents": [
+    "English"
+   ],
    "relation": "wounded_at",
    "result": "Victory (for Joan of Arc's side)",
    "role": "Hit by an arrow at Les Tourelles, 7 May 1429",
@@ -1055,6 +1061,7 @@
    "id": "BAT-000002",
    "kind": "assault",
    "name": "Jargeau",
+   "opponents": [],
    "relation": "participated",
    "result": "Victory (for Joan of Arc's side)",
    "role": "In the assault; struck on the helmet by a stone",
@@ -1080,6 +1087,9 @@
    "id": "BAT-000003",
    "kind": "siege",
    "name": "Beaugency",
+   "opponents": [
+    "English garrison"
+   ],
    "relation": "participated",
    "result": "English garrison surrendered",
    "role": "Present",
@@ -1107,6 +1117,9 @@
    "id": "BAT-000004",
    "kind": "field-battle",
    "name": "Patay",
+   "opponents": [
+    "English"
+   ],
    "relation": "participated",
    "result": "Victory (for Joan of Arc's side)",
    "role": "With main army; vanguard did the fighting",
@@ -1130,6 +1143,9 @@
    "id": "BAT-000005",
    "kind": "standoff",
    "name": "Montépilloy",
+   "opponents": [
+    "Bedford's army"
+   ],
    "relation": "participated",
    "result": "Inconclusive",
    "role": "Present",
@@ -1157,6 +1173,9 @@
    "id": "BAT-000006",
    "kind": "assault",
    "name": "Paris",
+   "opponents": [
+    "Anglo-Burgundian Paris"
+   ],
    "relation": "participated",
    "result": "Failed",
    "role": "Led attack; wounded",
@@ -1184,6 +1203,9 @@
    "id": "BAT-000006",
    "kind": "assault",
    "name": "Paris",
+   "opponents": [
+    "Anglo-Burgundian Paris"
+   ],
    "relation": "wounded_at",
    "result": "Failed",
    "role": "Wounded in the thigh by a crossbow bolt",
@@ -1208,6 +1230,7 @@
    "id": "BAT-000007",
    "kind": "assault",
    "name": "Saint-Pierre-le-Moûtier",
+   "opponents": [],
    "relation": "participated",
    "result": "Victory (for Joan of Arc's side)",
    "role": "Rallied the renewed attack",
@@ -1231,6 +1254,7 @@
    "id": "BAT-000008",
    "kind": "siege",
    "name": "La Charité-sur-Loire",
+   "opponents": [],
    "relation": "commanded",
    "result": "Failed",
    "role": "Commander",
@@ -1258,6 +1282,9 @@
    "id": "BAT-000009",
    "kind": "sortie",
    "name": "Compiègne",
+   "opponents": [
+    "Burgundian besiegers"
+   ],
    "relation": "participated",
    "result": "Defeat (for Joan of Arc's side)",
    "role": "Led the sortie; captured",

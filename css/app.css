@@ -1345,3 +1345,401 @@ main {
   font-size: 18px;
   text-decoration: underline;
 }
+
+/* ================================================================== the Dossier profile (brief rev. 17) */
+.dossier {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  grid-template-areas:
+    "main life"
+    "strip strip";
+  gap: var(--space-6);
+  align-items: start;
+}
+
+.dossier-main {
+  grid-area: main;
+  min-width: 0;
+}
+
+.dossier-life {
+  grid-area: life;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  position: sticky;
+  top: calc(var(--header-height) + var(--space-4));
+}
+
+.dossier-strip {
+  grid-area: strip;
+  min-width: 0;
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-4);
+}
+
+/* ------------------------------------------------------------------ hero */
+.hero {
+  position: relative;
+  height: 230px;
+  margin: calc(-1 * var(--space-6)) 0 var(--space-3);
+}
+
+/* A neutral dark gradient until image records exist: no placeholder text, no stock or generated images. */
+.hero-image {
+  position: absolute;
+  inset: 0;
+  border-radius: 0 0 var(--radius) var(--radius);
+  background:
+    radial-gradient(ellipse at 70% 20%, rgba(226, 178, 92, 0.06), transparent 60%),
+    linear-gradient(180deg, #1C2029 0%, #161920 55%, var(--bg) 100%);
+}
+
+.hero-text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0 var(--space-1);
+}
+
+.hero .person-name {
+  margin: var(--space-1) 0 0;
+  line-height: 1.05;
+}
+
+.alt-names {
+  margin: 0 0 var(--space-3);
+  font-style: italic;
+  color: var(--text-2);
+}
+
+/* ------------------------------------------------------------------ chips */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  align-items: center;
+  margin: 0 0 var(--space-4);
+  padding: 0;
+  list-style: none;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text-2);
+  font-size: 15px;
+}
+
+.chip-label {
+  color: var(--muted);
+}
+
+.chips .grade {
+  font-size: 14px;
+  padding: 2px 10px;
+}
+
+.region-chip {
+  font-family: var(--font-display);
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.region-africa { color: var(--region-africa); border-color: var(--region-africa); }
+.region-asia { color: var(--region-asia); border-color: var(--region-asia); }
+.region-europe { color: var(--region-europe); border-color: var(--region-europe); }
+.region-americas { color: var(--region-americas); border-color: var(--region-americas); }
+.region-pacific { color: var(--region-pacific); border-color: var(--region-pacific); }
+
+.research-chip {
+  background: var(--accent-bg);
+  border-color: var(--accent-bg);
+  color: var(--accent);
+}
+
+.guidance {
+  border-color: var(--accent);
+}
+
+.guidance h2 {
+  margin: 0 0 var(--space-2);
+}
+
+.guidance p {
+  margin: 0;
+}
+
+/* Cultural guidance sits near the top of the page: under the chips when the panels stack, in the
+   life panel when they sit side by side. */
+.guidance-top {
+  display: none;
+  margin-bottom: var(--space-4);
+}
+
+/* ------------------------------------------------------------------ tabs */
+.tablist {
+  display: flex;
+  gap: var(--space-1);
+  overflow-x: auto;
+  border-bottom: 1px solid var(--border);
+  scrollbar-width: thin;
+}
+
+.tab {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-height: var(--touch);
+  padding: 0 var(--space-4);
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  color: var(--text-2);
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.tab:hover {
+  color: var(--accent-strong);
+}
+
+.tab[aria-selected="true"] {
+  border-bottom-color: var(--accent);
+  color: var(--accent);
+}
+
+.tab-count {
+  min-width: 1.6em;
+  padding: 0 6px;
+  border-radius: 999px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 13px;
+  letter-spacing: 0;
+  text-align: center;
+}
+
+.tabpanel {
+  padding-top: var(--space-5);
+}
+
+.tabpanel:focus-visible {
+  outline-offset: 4px;
+}
+
+.dossier-section {
+  margin: 0 0 var(--space-6);
+}
+
+.dossier-section > h2 {
+  margin: 0 0 var(--space-3);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--border);
+}
+
+.dossier .key-facts {
+  margin: var(--space-5) 0 var(--space-6);
+}
+
+/* ------------------------------------------------------------------ life panel */
+.life h2,
+.dossier-life .panel h2 {
+  margin: 0 0 var(--space-3);
+}
+
+.life-ends {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+}
+
+.life-track-wrap {
+  padding: 0 14px;
+}
+
+.life-track {
+  position: relative;
+  height: 44px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.life-track::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  border-top: 2px solid var(--accent);
+  opacity: 0.6;
+}
+
+.life-track li {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.milestone-dot {
+  display: block;
+  width: 28px;
+  height: 44px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.milestone-dot::after {
+  content: "";
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 2px solid var(--accent);
+}
+
+.milestone-dot[aria-pressed="true"]::after {
+  width: 18px;
+  height: 18px;
+  background: var(--accent);
+}
+
+.life-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-2);
+  margin: var(--space-2) 0 var(--space-3);
+}
+
+.milestone-card {
+  border-top: 1px solid var(--border);
+  padding-top: var(--space-3);
+}
+
+.milestone-card p {
+  margin: 0 0 var(--space-2);
+}
+
+.milestone-statement {
+  font-size: 17px;
+}
+
+.is-tradition {
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------------ bottom strip */
+.card-row {
+  display: flex;
+  gap: var(--space-3);
+  overflow-x: auto;
+  margin: 0;
+  padding: 0 0 var(--space-3);
+  list-style: none;
+  scroll-snap-type: x proximity;
+  scrollbar-width: thin;
+}
+
+.card-row > li {
+  flex: none;
+  scroll-snap-align: start;
+}
+
+.strip-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  width: 250px;
+  min-height: 150px;
+  height: 100%;
+  padding: var(--space-3) var(--space-4);
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text);
+  text-decoration: none;
+}
+
+.strip-card:hover {
+  border-color: var(--accent);
+  color: var(--text);
+}
+
+.strip-title {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 1.25;
+}
+
+.strip-card:hover .strip-title {
+  color: var(--accent-strong);
+}
+
+.strip-text {
+  font-size: 15.5px;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ------------------------------------------------------------------ stacked: one column */
+@media (max-width: 999px) {
+  .dossier {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "main"
+      "life"
+      "strip";
+    gap: var(--space-5);
+  }
+
+  .dossier-life {
+    position: static;
+  }
+
+  .guidance-top {
+    display: block;
+  }
+
+  .guidance-side {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .hero {
+    height: 190px;
+    margin-top: calc(-1 * var(--space-5));
+  }
+
+  .dossier .key-facts {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .strip-card {
+    width: 230px;
+  }
+}

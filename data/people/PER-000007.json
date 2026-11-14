@@ -997,6 +997,9 @@
    "id": "WAR-000017",
    "kind": "war",
    "name": "Invasion of Khwarazm",
+   "opponents": [
+    "Khwarazmian Empire"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Commander under Genghis Khan",
@@ -1018,6 +1021,9 @@
    "id": "WAR-000018",
    "kind": "campaign",
    "name": "Western raid of Jebe and Subutai",
+   "opponents": [
+    "Rus' principalities"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Co-commander with Jebe",
@@ -1040,6 +1046,9 @@
    "id": "BAT-000039",
    "kind": "field-battle",
    "name": "Kalka River",
+   "opponents": [
+    "Rus' princes and Qipchaqs"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Co-commander",
@@ -1063,6 +1072,9 @@
    "id": "BAT-000040",
    "kind": "siege",
    "name": "Siege of Kaifeng",
+   "opponents": [
+    "Jin"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": "Commander",
@@ -1088,6 +1100,11 @@
    "id": "WAR-000019",
    "kind": "war",
    "name": "Great western campaign",
+   "opponents": [
+    "Principality of Ryazan",
+    "Vladimir-Suzdal",
+    "Kingdom of Hungary"
+   ],
    "relation": "commanded",
    "result": "Victory; withdrawal 1242",
    "role": "Senior general under Batu",
@@ -1110,6 +1127,9 @@
    "id": "BAT-000041",
    "kind": "siege",
    "name": "Fall of Ryazan",
+   "opponents": [
+    "Principality of Ryazan"
+   ],
    "relation": "participated",
    "result": "Captured",
    "role": "Part of Batu's army",
@@ -1136,6 +1156,9 @@
    "id": "BAT-000042",
    "kind": "field-battle",
    "name": "Sit River",
+   "opponents": [
+    "Vladimir-Suzdal"
+   ],
    "relation": "participated",
    "result": "Victory",
    "role": "Part of Batu's army (his exact role unclear)",
@@ -1162,6 +1185,9 @@
    "id": "BAT-000043",
    "kind": "field-battle",
    "name": "Mohi (Sajó River)",
+   "opponents": [
+    "Kingdom of Hungary"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Senior commander with Batu",

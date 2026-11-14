@@ -937,6 +937,7 @@
    "id": "WAR-000021",
    "kind": "war",
    "name": "First Mongol invasion of Đại Việt",
+   "opponents": [],
    "relation": "participated",
    "result": "Mongols withdrew",
    "role": "Uncertain",
@@ -958,6 +959,9 @@
    "id": "WAR-000022",
    "kind": "war",
    "name": "Second Mongol-Yuan invasion of Đại Việt",
+   "opponents": [
+    "Yuan dynasty"
+   ],
    "relation": "commanded",
    "result": "Yuan withdrew",
    "role": "Supreme commander",
@@ -977,6 +981,9 @@
    "id": "BAT-000051",
    "kind": "field-battle",
    "name": "Chương Dương",
+   "opponents": [
+    "Yuan"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Under overall command; led by Trần Quang Khải",
@@ -1002,6 +1009,9 @@
    "id": "BAT-000052",
    "kind": "field-battle",
    "name": "Tây Kết",
+   "opponents": [
+    "Yuan vanguard"
+   ],
    "relation": "commanded",
    "result": "Victory; Sogetu killed",
    "role": "His forces",
@@ -1027,6 +1037,9 @@
    "id": "BAT-000053",
    "kind": "naval",
    "name": "Capture of the Yuan supply fleet",
+   "opponents": [
+    "Yuan"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Under his overall command",
@@ -1052,6 +1065,9 @@
    "id": "WAR-000023",
    "kind": "war",
    "name": "Third Mongol-Yuan invasion of Đại Việt",
+   "opponents": [
+    "Yuan dynasty"
+   ],
    "relation": "commanded",
    "result": "Yuan withdrew",
    "role": "Supreme commander",
@@ -1073,6 +1089,9 @@
    "id": "BAT-000054",
    "kind": "naval",
    "name": "Bạch Đằng River",
+   "opponents": [
+    "Yuan fleet under Omar"
+   ],
    "relation": "commanded",
    "result": "Victory; fleet destroyed",
    "role": "Commander",
