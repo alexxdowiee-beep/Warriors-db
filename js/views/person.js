@@ -10,6 +10,7 @@ import {
 } from '../components.js';
 import { markdownBlock } from '../markdown.js';
 import { claimCard, citationList, withheld, VERDICT_LABELS } from '../claims.js';
+import { tabSet, heroBlock } from '../dossier.js';
 
 const ERA_LABELS = { ancient: 'Ancient', classical: 'Classical', medieval: 'Medieval', 'early-modern': 'Early modern',
   modern: 'Modern' };
@@ -61,12 +62,7 @@ function hero(p) {
   const primary = p.names.find((n) => n.kind === 'primary') || {};
   const crumbs = [el('a', { href: '#/people' }, 'People')];
   if (p.polities[0]) crumbs.push(recordLink(p.polities[0]));
-  // The image area is a neutral gradient until image records exist (no placeholder text or images).
-  return el('header', { class: 'hero' },
-    el('div', { class: 'hero-image', 'aria-hidden': 'true' }),
-    el('div', { class: 'hero-text' },
-      el('nav', { class: 'breadcrumb label', 'aria-label': 'Breadcrumb' }, el('ol', {}, crumbs.map((c) => el('li', {}, c)))),
-      el('h1', { class: 'person-name', id: 'person-name', lang: langOf(primary.language) }, p.primary_name)));
+  return heroBlock(p.primary_name, crumbs, { lang: langOf(primary.language), id: 'person-name' });
 }
 
 function names(p) {
@@ -89,50 +85,6 @@ function chips(p) {
 function guidance(p, cls) {
   return el('section', { class: `panel guidance ${cls}`, 'aria-label': 'Cultural guidance' },
     el('h2', { class: 'label' }, 'Cultural guidance'), el('p', {}, p.cultural_guidance));
-}
-
-// ------------------------------------------------------------------ tabs (shared by panel and strip)
-// Accessible tabs: arrow keys move between tabs; the profile's tab is kept in the address (?tab=…).
-function tabSet(name, list, renderers, initial, { counts = {}, urlKey = 'tab' } = {}) {
-  const tablist = el('div', { class: `tablist tablist-${name}`, role: 'tablist',
-    'aria-label': name === 'profile' ? 'Profile sections' : 'Lists' });
-  const panel = el('div', { class: `tabpanel tabpanel-${name}`, role: 'tabpanel', tabindex: '0', id: `panel-${name}` });
-  const buttons = new Map();
-  for (const [key, label] of list) {
-    const b = el('button', { type: 'button', role: 'tab', class: 'tab', id: `tab-${name}-${key}`,
-      'aria-controls': `panel-${name}`, onclick: () => open(key) },
-    label, counts[key] != null ? el('span', { class: 'tab-count' }, String(counts[key])) : null);
-    buttons.set(key, b);
-    tablist.append(b);
-  }
-  tablist.addEventListener('keydown', (e) => {
-    const keys = [...buttons.keys()];
-    const i = keys.findIndex((k) => buttons.get(k) === document.activeElement);
-    if (i < 0) return;
-    const next = { ArrowRight: i + 1, ArrowLeft: i - 1, Home: 0, End: keys.length - 1 }[e.key];
-    if (next === undefined) return;
-    e.preventDefault();
-    open(keys[(next + keys.length) % keys.length], { focus: true });
-  });
-  function open(key, { focus = false, then } = {}) {
-    if (!renderers[key]) key = list[0][0];
-    buttons.forEach((b, k) => {
-      b.setAttribute('aria-selected', String(k === key));
-      b.tabIndex = k === key ? 0 : -1;
-    });
-    panel.setAttribute('aria-labelledby', `tab-${name}-${key}`);
-    panel.replaceChildren(...[renderers[key]()].filter(Boolean));
-    if (focus) buttons.get(key).focus();
-    if (urlKey) {
-      const [base, query] = location.hash.split('?');
-      const q = new URLSearchParams(query || '');
-      if (key === list[0][0]) q.delete(urlKey); else q.set(urlKey, key);
-      history.replaceState(null, '', q.toString() ? `${base}?${q}` : base);
-    }
-    if (then) requestAnimationFrame(() => then(panel));
-  }
-  open(initial);
-  return { node: el('div', { class: `tabs tabs-${name}` }, tablist, panel), open };
 }
 
 function section(title, ...content) {
