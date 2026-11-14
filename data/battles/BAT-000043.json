@@ -13,7 +13,7 @@
   "summary": "Destruction of the army of King Béla IV of Hungary on the Sajó River.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1241,
@@ -43,5 +43,8 @@
         "POL-000040"
       ]
     }
+  ],
+  "regions": [
+    "Europe"
   ]
 }

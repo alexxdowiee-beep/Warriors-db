@@ -56,6 +56,9 @@
  },
  "place_id": "PLC-000025",
  "primary_name": "Horowhenua lakes",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -92,7 +95,7 @@
  "status": "draft",
  "summary": "After Muaūpoko tried to kill Te Rauparaha and his family at a feast near Lake Papaitonga, Muaūpoko's lake pā were taken and their people massacred in revenge.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000012",
   "name": "Te Heke Tātaramoa",

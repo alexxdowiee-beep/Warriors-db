@@ -13,7 +13,7 @@
   "summary": "Naval battle in which the Rhodians defeated a fleet in which Hannibal commanded; his wing held.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "naval",
   "outcome": "Defeat (his wing held)",
   "date": {
@@ -42,5 +42,8 @@
       ]
     }
   ],
-  "editor_notes": "The doc does not name the war, so no war_id. The doc says Hannibal served Antiochus III at this time."
+  "editor_notes": "The doc does not name the war, so no war_id. The doc says Hannibal served Antiochus III at this time.",
+  "regions": [
+    "Asia"
+  ]
 }

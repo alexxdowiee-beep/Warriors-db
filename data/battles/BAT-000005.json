@@ -13,7 +13,7 @@
   "summary": "Standoff with Bedford's army that produced only skirmishes.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "standoff",
   "outcome": "Inconclusive",
   "date": {
@@ -39,5 +39,8 @@
         "POL-000002"
       ]
     }
+  ],
+  "regions": [
+    "Europe"
   ]
 }

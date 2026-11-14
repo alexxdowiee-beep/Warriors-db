@@ -1,24 +1,30 @@
 // Router and page loading. Routes are hash-based (#/person/PER-000003) so they work offline
 // and on any static host.
 import { resolveId } from './data.js';
-import { renderHome } from './views/home.js';
+import { renderChronicle } from './views/chronicle.js';
+import { renderPeople } from './views/people.js';
 import { renderPending } from './views/pending.js';
 import { renderPerson } from './views/person.js';
 import { renderBattle, renderWar, renderSource, renderLinked, renderList } from './views/records.js';
 import { renderSearch } from './views/search.js';
 
 const view = document.getElementById('view');
+const headerTools = document.getElementById('header-tools');
+const screenName = document.getElementById('screen-name');
+const SCREEN_NAMES = { chronicle: 'Chronicle', people: 'People', battles: 'Battles', wars: 'Wars', sources: 'Sources',
+  search: 'Search', person: 'Person', battle: 'Battle', war: 'War', source: 'Source', polity: 'Polity', place: 'Place',
+  civilisation: 'Civilisation', work: 'Work' };
 const ROUTE_KINDS = { person: 'PER', battle: 'BAT', war: 'WAR', source: 'SRC', polity: 'POL', place: 'PLC',
   civilisation: 'CIV', work: 'WRK' };
 
 // Pages not built yet say which build step adds them.
 const routes = [
-  { pattern: /^$/, section: 'explore', render: () => renderHome(view) },
-  { pattern: /^people$/, section: 'people', render: () => renderHome(view, { timelineOn: false }) },
+  { pattern: /^$/, section: 'chronicle', render: () => renderChronicle(view, headerTools) },
+  { pattern: /^people$/, section: 'people', render: () => renderPeople(view, headerTools) },
   { pattern: /^battles$/, section: 'battles', render: () => renderList(view, 'battles') },
-  { pattern: /^wars$/, section: 'wars', render: () => renderList(view, 'wars') },
+  { pattern: /^wars$/, section: 'battles', screen: 'wars', render: () => renderList(view, 'wars') },
   { pattern: /^sources$/, section: 'sources', render: () => renderList(view, 'sources') },
-  { pattern: /^search$/, section: null, render: () => renderSearch(view) },
+  { pattern: /^search$/, section: null, screen: 'search', render: () => renderSearch(view) },
   {
     pattern: /^(person|battle|war|source|polity|place|civilisation|work)\/([A-Z]{3}-\d{6})$/,
     section: null,
@@ -54,7 +60,11 @@ async function route() {
   for (const r of routes) {
     const m = path.match(r.pattern);
     if (m) {
-      setActiveNav(r.section);
+      const kind = r.section ? null : m[1];
+      const navFor = { person: 'people', battle: 'battles', war: 'battles', source: 'sources' };
+      setActiveNav(r.section || navFor[kind] || null);
+      screenName.textContent = SCREEN_NAMES[r.screen || r.section || kind] || '';
+      headerTools.replaceChildren();
       try {
         await r.render(m);
       } catch (err) {
@@ -68,6 +78,8 @@ async function route() {
     }
   }
   setActiveNav(null);
+  screenName.textContent = '';
+  headerTools.replaceChildren();
   renderPending(view, 'Page not found', null);
 }
 

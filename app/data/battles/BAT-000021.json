@@ -55,6 +55,9 @@
  },
  "place_id": "PLC-000023",
  "primary_name": "Siege of Te Arawī",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -97,7 +100,7 @@
  "status": "draft",
  "summary": "Ngāti Toa were besieged by Waikato and Ngāti Maniapoto; kin among the besiegers helped them and they were allowed to leave.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000010",
   "name": "Ngāti Toa–Waikato wars at Kāwhia",

@@ -13,7 +13,7 @@
   "summary": "Timur stormed and sacked Aleppo.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "assault",
   "date": {
     "earliest": 1400,
@@ -41,5 +41,8 @@
         "POL-000030"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

@@ -13,7 +13,7 @@
   "summary": "Wu beat Chu in five battles and took the Chu capital, Ying.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "outcome": "Decisive victory (for Wu)",
   "date": {
@@ -45,5 +45,8 @@
       "strength": "unknown"
     }
   ],
-  "editor_notes": "The doc names no battle type; kind unknown. Battle grade A is the doc's grade for Wu's victory (CLM-000061); the table's grade column grades Sun Wu's role (D), stored on the relationship. Army strengths unknown: the only figures are Liu Xiang's late claim (CLM-000068)."
+  "editor_notes": "The doc names no battle type; kind unknown. Battle grade A is the doc's grade for Wu's victory (CLM-000061); the table's grade column grades Sun Wu's role (D), stored on the relationship. Army strengths unknown: the only figures are Liu Xiang's late claim (CLM-000068).",
+  "regions": [
+    "Asia"
+  ]
 }

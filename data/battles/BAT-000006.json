@@ -13,7 +13,7 @@
   "summary": "Failed attack on Paris; Joan of Arc was wounded by a crossbow bolt and the king ordered a withdrawal the next day.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "assault",
   "outcome": "Failed",
   "date": {
@@ -42,5 +42,8 @@
         "POL-000003"
       ]
     }
+  ],
+  "regions": [
+    "Europe"
   ]
 }

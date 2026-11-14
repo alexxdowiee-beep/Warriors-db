@@ -13,7 +13,7 @@
   "summary": "Rangitāne people were killed at Hotuiti after a false offer of peace.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "massacre",
   "outcome": "Killing after false peace offer",
   "date": {
@@ -41,5 +41,8 @@
       ]
     }
   ],
-  "editor_notes": "Kind 'massacre' named in the pilot doc (user decision, 13 Nov 2026)."
+  "editor_notes": "Kind 'massacre' named in the pilot doc (user decision, 13 Nov 2026).",
+  "regions": [
+    "Pacific"
+  ]
 }

@@ -13,7 +13,7 @@
   "summary": "Capture of the Sosso capital after Kirina.",
   "certainty": "C",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "outcome": "Victory",
   "war_id": "WAR-000005",
@@ -31,5 +31,8 @@
       "strength": "unknown"
     }
   ],
-  "editor_notes": "Pilot doc type: 'Capture of a city' (kind unknown, user decision). Date: 'After Kirina' (no date stored). The capital is not named in the doc, so no place record."
+  "editor_notes": "Pilot doc type: 'Capture of a city' (kind unknown, user decision). Date: 'After Kirina' (no date stored). The capital is not named in the doc, so no place record.",
+  "regions": [
+    "Africa"
+  ]
 }

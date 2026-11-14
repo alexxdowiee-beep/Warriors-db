@@ -13,7 +13,7 @@
   "summary": "Timur occupied Damascus and deported its artisans to Samarkand.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "date": {
     "earliest": 1401,
@@ -41,5 +41,8 @@
         "POL-000030"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

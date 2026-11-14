@@ -13,7 +13,7 @@
   "summary": "Relief of the English siege of Orléans; the French took the forts of Saint-Loup, the Augustins and Les Tourelles and the English abandoned the siege on 8 May 1429.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "outcome": "Victory (for Joan of Arc's side)",
   "date": {
@@ -40,5 +40,8 @@
       ]
     }
   ],
-  "editor_notes": "Pilot doc type: 'Siege relief'. Date range: day precision, start and end in display only."
+  "editor_notes": "Pilot doc type: 'Siege relief'. Date range: day precision, start and end in display only.",
+  "regions": [
+    "Europe"
+  ]
 }

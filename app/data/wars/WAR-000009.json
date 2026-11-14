@@ -89,6 +89,9 @@
  "parent_war": null,
  "people": [],
  "primary_name": "Musket Wars",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "slug": "musket-wars",
  "span": {
@@ -119,5 +122,5 @@
  ],
  "summary": "Decades-long upheaval in which the musket, unevenly spread between iwi, transformed long-running tribal conflicts.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

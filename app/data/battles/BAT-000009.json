@@ -61,6 +61,9 @@
  },
  "place_id": "PLC-000011",
  "primary_name": "Compiègne",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -139,7 +142,7 @@
  "status": "draft",
  "summary": "Sortie from Compiègne against a Burgundian siege; Joan of Arc was caught outside the walls and captured.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000001",
   "name": "Hundred Years' War",

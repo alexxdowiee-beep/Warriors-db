@@ -13,7 +13,7 @@
   "summary": "After Muaūpoko tried to kill Te Rauparaha and his family at a feast near Lake Papaitonga, Muaūpoko's lake pā were taken and their people massacred in revenge.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "outcome": "Victory; massacre",
   "date": {
@@ -41,5 +41,8 @@
       ]
     }
   ],
-  "editor_notes": "The doc names no battle type (its result column reads 'Victory; massacre'); kind unknown (user decision)."
+  "editor_notes": "The doc names no battle type (its result column reads 'Victory; massacre'); kind unknown (user decision).",
+  "regions": [
+    "Pacific"
+  ]
 }

@@ -40,6 +40,9 @@
     },
     "consequences": {
       "type": "string"
+    },
+    "regions": {
+      "$ref": "common.schema.json#/$defs/regions"
     }
   },
   "required": []

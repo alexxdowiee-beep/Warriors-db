@@ -13,7 +13,7 @@
   "summary": "Mongol campaigns that subdued the Tangut kingdom of Xi Xia by 1209.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "campaign",
   "span": {
     "earliest": 1205,
@@ -22,5 +22,8 @@
     "display": "1205–1209",
     "certainty": "A"
   },
-  "outcome": "Submission"
+  "outcome": "Submission",
+  "regions": [
+    "Asia"
+  ]
 }

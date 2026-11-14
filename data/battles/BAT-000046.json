@@ -13,7 +13,7 @@
   "summary": "Baibars' capture of the Templar fortress of Safed.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "date": {
     "earliest": 1266,
@@ -42,5 +42,8 @@
         "POL-000044"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

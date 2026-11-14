@@ -55,6 +55,9 @@
  },
  "place_id": "PLC-000019",
  "primary_name": "Naval battle off Pamphylia",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -100,6 +103,6 @@
  "status": "draft",
  "summary": "Naval battle in which the Rhodians defeated a fleet in which Hannibal commanded; his wing held.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": null
 }

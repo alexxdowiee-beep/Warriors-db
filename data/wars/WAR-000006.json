@@ -13,7 +13,10 @@
   "summary": "Expedition to kingdoms in the west after Kirina, associated in tradition with Sundiata's commander Tiramakhan Traoré. Regional traditions with their own interest in claiming a link to the founder.",
   "certainty": "D",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "campaign",
-  "editor_notes": "Grade from the pilot doc's battle table: D (tradition only)."
+  "editor_notes": "Grade from the pilot doc's battle table: D (tradition only).",
+  "regions": [
+    "Africa"
+  ]
 }

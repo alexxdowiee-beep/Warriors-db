@@ -13,7 +13,7 @@
   "summary": "Assault in which the French took Saint-Pierre-le-Moûtier.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "assault",
   "outcome": "Victory (for Joan of Arc's side)",
   "date": {
@@ -25,5 +25,8 @@
     "month": 11
   },
   "place_id": "PLC-000009",
-  "war_id": "WAR-000001"
+  "war_id": "WAR-000001",
+  "regions": [
+    "Europe"
+  ]
 }

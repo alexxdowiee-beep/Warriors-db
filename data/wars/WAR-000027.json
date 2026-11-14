@@ -13,7 +13,7 @@
   "summary": "Campaign against Ming China that ended when Timur died at Otrar in February 1405.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "campaign",
   "span": {
     "earliest": 1404,
@@ -22,5 +22,8 @@
     "display": "1404–1405",
     "certainty": "A"
   },
-  "outcome": "Abandoned at his death"
+  "outcome": "Abandoned at his death",
+  "regions": [
+    "Asia"
+  ]
 }

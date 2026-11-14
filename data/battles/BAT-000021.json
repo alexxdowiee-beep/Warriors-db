@@ -13,7 +13,7 @@
   "summary": "Ngāti Toa were besieged by Waikato and Ngāti Maniapoto; kin among the besiegers helped them and they were allowed to leave.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "outcome": "Negotiated withdrawal",
   "date": {
@@ -40,5 +40,8 @@
         "POL-000018"
       ]
     }
+  ],
+  "regions": [
+    "Pacific"
   ]
 }

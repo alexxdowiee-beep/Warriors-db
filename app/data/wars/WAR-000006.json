@@ -16,11 +16,14 @@
  "parent_war": null,
  "people": [],
  "primary_name": "Western campaigns under Tiramakhan Traoré",
+ "regions": [
+  "Africa"
+ ],
  "related_claims": [],
  "slug": "western-campaigns-tiramakhan-traore",
  "status": "draft",
  "sub_wars": [],
  "summary": "Expedition to kingdoms in the west after Kirina, associated in tradition with Sundiata's commander Tiramakhan Traoré. Regional traditions with their own interest in claiming a link to the founder.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

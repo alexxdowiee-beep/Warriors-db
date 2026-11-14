@@ -13,7 +13,7 @@
   "summary": "Catastrophic defeat of a combined Rus' and Qipchaq army by Jebe and Subutai; two princes named Mstislav died.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1223,
@@ -44,5 +44,8 @@
       ]
     }
   ],
-  "editor_notes": "The Novgorod chronicle dates the battle to 1224 (CLM for SB-C08)."
+  "editor_notes": "The Novgorod chronicle dates the battle to 1224 (CLM for SB-C08).",
+  "regions": [
+    "Europe"
+  ]
 }

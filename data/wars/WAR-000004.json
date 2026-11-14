@@ -13,7 +13,11 @@
   "summary": "War between Carthage and Rome that followed Hannibal's capture of Saguntum, beginning in 218 BCE; decided by Hannibal's defeat at Zama in 202 BCE.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
-  "editor_notes": "Span not given in the pilot doc (start 218 BCE stated; end not stated)."
+  "editor_notes": "Span not given in the pilot doc (start 218 BCE stated; end not stated).",
+  "regions": [
+    "Europe",
+    "Africa"
+  ]
 }

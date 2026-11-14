@@ -365,11 +365,14 @@ class Exporter:
             elif r.get("type") in ("battle", "war"):
                 d = r.get("date") if r["type"] == "battle" else r.get("span")
                 if d and isinstance(d.get("earliest"), int):
-                    events.append({"id": i, "type": r["type"], "name": r.get("primary_name"),
+                    conns = [c for c in self.connections(i) if c["other"]["type"] == "person"]
+                    involved = {c["other"]["id"]: c["other"] for c in conns}
+                    main = self.main_claim(i)
+                    events.append({"id": i, "type": r["type"], "kind": r.get("kind"), "name": r.get("primary_name"),
                                    "earliest": d["earliest"], "latest": d.get("latest"), "display": d.get("display"),
-                                   "certainty": d.get("certainty"), "era": era_of(d),
-                                   "people": sorted({c["other"]["id"] for c in self.connections(i)
-                                                     if c["other"]["type"] == "person"})})
+                                   "certainty": d.get("certainty"), "era": era_of(d), "regions": r.get("regions") or [],
+                                   "record_certainty": r.get("certainty"), "outcome": r.get("outcome"),
+                                   "main_claim": main, "people": [involved[k] for k in sorted(involved)]})
         key = lambda x: (x["earliest"], x["id"])  # noqa: E731
         return {"people": sorted(people, key=key), "events": sorted(events, key=key)}
 
@@ -403,6 +406,17 @@ class Exporter:
         out["battles"].sort(key=key)
         out["wars"].sort(key=key)
         return out
+
+    def main_claim(self, rid: str) -> dict | None:
+        """The event's main claim for the Chronicle card: the first claim linked by the first relationship
+        (in ID order) that links a person to the event with claims. None if no relationship carries one."""
+        for l in sorted(self.links.get(rid, []), key=lambda x: x["relationship_id"]):
+            for cid in l["claim_ids"]:
+                if cid in self.claims:
+                    c = self.claim_out(*self.claims[cid])
+                    return {k: c[k] for k in ("id", "subject", "statement", "claim_type", "certainty", "verdict",
+                                              "restricted", "restricted_reason")}
+        return None
 
     def search(self) -> list:
         out = []

@@ -13,7 +13,7 @@
   "summary": "Decades-long upheaval in which the musket, unevenly spread between iwi, transformed long-running tribal conflicts.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1807,
@@ -22,5 +22,8 @@
     "display": "c. 1807–1840s",
     "certainty": "A",
     "qualifier": "circa"
-  }
+  },
+  "regions": [
+    "Pacific"
+  ]
 }

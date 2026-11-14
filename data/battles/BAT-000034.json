@@ -13,7 +13,7 @@
   "summary": "Temüjin's defeat of the Naiman, the last of his steppe rivals.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "date": {
     "earliest": 1204,
@@ -37,5 +37,8 @@
         "POL-000034"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

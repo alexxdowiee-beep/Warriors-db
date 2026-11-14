@@ -13,7 +13,7 @@
   "summary": "Mongol invasion of the Jin empire of northern China from 1211; it began as raids, most of the empire was taken by 1216, and resistance ended in 1234 under Chinggis Khan's successor.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1211,
@@ -22,5 +22,8 @@
     "display": "1211–1234",
     "certainty": "A"
   },
-  "outcome": "Most territory taken by 1216; completed under Ögödei"
+  "outcome": "Most territory taken by 1216; completed under Ögödei",
+  "regions": [
+    "Asia"
+  ]
 }

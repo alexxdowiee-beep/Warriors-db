@@ -110,6 +110,9 @@
   }
  ],
  "primary_name": "Campaigns against the crusader states",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [],
  "slug": "campaigns-against-the-crusader-states",
  "span": {
@@ -123,5 +126,5 @@
  "sub_wars": [],
  "summary": "Baibars' annual campaigns against the Kingdom of Jerusalem, the County of Tripoli, the Principality of Antioch and the military orders, which reduced the crusader states to a strip of coast.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

@@ -60,6 +60,9 @@
  },
  "place_id": "PLC-000043",
  "primary_name": "Al-Mansurah",
+ "regions": [
+  "Africa"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -129,6 +132,6 @@
  "status": "draft",
  "summary": "Defeat of Louis IX's Seventh Crusade by the Bahri mamluks, Baibars among their leaders.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": null
 }

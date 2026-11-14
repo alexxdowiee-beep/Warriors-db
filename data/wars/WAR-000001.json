@@ -13,6 +13,9 @@
   "summary": "War in which Henry VI of England, backed by Burgundy, claimed the French crown against Charles of Valois; final French victory took until 1453.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
-  "kind": "war"
+  "updated": "2026-11-14",
+  "kind": "war",
+  "regions": [
+    "Europe"
+  ]
 }

@@ -13,7 +13,7 @@
   "summary": "Larger, partly seaborne invasion under Toghan; the Vietnamese captured the Yuan supply fleet and destroyed the Yuan fleet at the Bạch Đằng River in 1288.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1287,
@@ -23,5 +23,8 @@
     "certainty": "A"
   },
   "outcome": "Yuan withdrew",
-  "editor_notes": "Doc name: 'Third invasion'; expanded for clarity."
+  "editor_notes": "Doc name: 'Third invasion'; expanded for clarity.",
+  "regions": [
+    "Asia"
+  ]
 }

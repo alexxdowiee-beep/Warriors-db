@@ -13,7 +13,7 @@
   "summary": "Fall of the city of Ryazan to Batu's army.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "date": {
     "earliest": 1237,
@@ -40,5 +40,8 @@
         "POL-000038"
       ]
     }
+  ],
+  "regions": [
+    "Europe"
   ]
 }

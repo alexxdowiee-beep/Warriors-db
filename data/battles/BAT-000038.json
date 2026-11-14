@@ -13,7 +13,7 @@
   "summary": "Siege of the Xi Xia capital, during which Chinggis Khan died; the Tangut state was destroyed in 1227.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "date": {
     "earliest": 1227,
@@ -41,5 +41,8 @@
         "POL-000035"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

@@ -13,7 +13,7 @@
   "summary": "Ngāi Tahu killed Te Pēhi Kupe and seven other Ngāti Toa chiefs who had entered Kaiapoi pā to trade, and the first attack failed.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "outcome": "Defeat; chiefs killed",
   "date": {
@@ -41,5 +41,8 @@
       ]
     }
   ],
-  "editor_notes": "The doc names no battle type; kind unknown."
+  "editor_notes": "The doc names no battle type; kind unknown.",
+  "regions": [
+    "Pacific"
+  ]
 }

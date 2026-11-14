@@ -393,7 +393,7 @@
           "Pacific"
         ]
       },
-      "description": "Where the person or polity acted (schema/vocab/regions.json). A display classification, not a claim; no grade."
+      "description": "Where the person, polity, battle or war acted or took place (schema/vocab/regions.json). A display classification, not a claim; no grade."
     }
   }
 }

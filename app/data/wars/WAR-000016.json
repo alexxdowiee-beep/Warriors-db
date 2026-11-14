@@ -89,6 +89,9 @@
   }
  ],
  "primary_name": "War against the Jin",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -135,5 +138,5 @@
  "sub_wars": [],
  "summary": "Mongol invasion of the Jin empire of northern China from 1211; it began as raids, most of the empire was taken by 1216, and resistance ended in 1234 under Chinggis Khan's successor.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

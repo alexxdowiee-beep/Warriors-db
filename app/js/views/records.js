@@ -275,6 +275,8 @@ export async function renderList(view, kind) {
   }
   page(view, titles[kind],
     el('h1', { class: 'page-title' }, titles[kind]),
-    el('p', { class: 'notice' }, `${rows.length} ${titles[kind].toLowerCase()} in the database.`),
+    el('p', { class: 'notice' }, `${rows.length} ${titles[kind].toLowerCase()} in the database.`,
+      kind === 'battles' ? [' ', el('a', { href: '#/wars' }, 'See the wars and campaigns.')] : null,
+      kind === 'wars' ? [' ', el('a', { href: '#/battles' }, 'See the battles.')] : null),
     table(headers, body, titles[kind]));
 }

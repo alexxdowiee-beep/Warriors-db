@@ -13,7 +13,10 @@
   "summary": "Under King Helü (r. 514–496 BCE), Wu fought its western neighbour Chu almost every year and in 506 BCE captured the Chu capital, Ying.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
-  "editor_notes": "Descriptive name based on the pilot doc."
+  "editor_notes": "Descriptive name based on the pilot doc.",
+  "regions": [
+    "Asia"
+  ]
 }

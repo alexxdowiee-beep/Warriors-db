@@ -13,7 +13,7 @@
   "summary": "Eight-month siege in which Hannibal took Saguntum, whose status under the 226 BCE Ebro treaty was ambiguous.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "outcome": "Captured",
   "date": {
@@ -42,5 +42,8 @@
       ]
     }
   ],
-  "editor_notes": "Pilot doc type: 'Siege, 8 months'. Not linked to the Second Punic War: the doc says war followed in 218 BCE."
+  "editor_notes": "Pilot doc type: 'Siege, 8 months'. Not linked to the Second Punic War: the doc says war followed in 218 BCE.",
+  "regions": [
+    "Europe"
+  ]
 }

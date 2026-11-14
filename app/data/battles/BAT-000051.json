@@ -55,6 +55,9 @@
  },
  "place_id": "PLC-000048",
  "primary_name": "Chương Dương",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -91,7 +94,7 @@
  "status": "draft",
  "summary": "Counterattack against the Yuan led by Prince Trần Quang Khải.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000022",
   "name": "Second Mongol-Yuan invasion of Đại Việt",

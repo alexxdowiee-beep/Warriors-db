@@ -13,7 +13,7 @@
   "summary": "Baibars' invasion of Mongol-dominated Seljuk Anatolia, where he destroyed a Mongol army.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1277,
@@ -41,5 +41,8 @@
       ]
     }
   ],
-  "editor_notes": "Battle grade A. Date certainty C: the doc says Britannica dates the capture of Kayseri to 1276 and Smith places the invasion in 1277; the battle table gives 1277."
+  "editor_notes": "Battle grade A. Date certainty C: the doc says Britannica dates the capture of Kayseri to 1276 and Smith places the invasion in 1277; the battle table gives 1277.",
+  "regions": [
+    "Asia"
+  ]
 }

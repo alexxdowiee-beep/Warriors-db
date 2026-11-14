@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000015",
  "primary_name": "Lake Trasimene",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -146,7 +149,7 @@
  "status": "draft",
  "summary": "Ambush that trapped the consul Flaminius's army on the shore of Lake Trasimene; Flaminius was killed.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000004",
   "name": "Second Punic War",

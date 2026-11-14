@@ -13,7 +13,7 @@
   "summary": "Counterattack against the Yuan led by Prince Trần Quang Khải.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1285,
@@ -39,5 +39,8 @@
         "POL-000029"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

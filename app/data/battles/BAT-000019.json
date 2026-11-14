@@ -43,6 +43,9 @@
  ],
  "place": null,
  "primary_name": "Taking of the Sosso capital",
+ "regions": [
+  "Africa"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -72,7 +75,7 @@
  "status": "draft",
  "summary": "Capture of the Sosso capital after Kirina.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000005",
   "name": "Mande revolt against Sosso rule",

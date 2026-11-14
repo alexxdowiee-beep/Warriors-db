@@ -13,7 +13,7 @@
   "summary": "Mamluk invasion and devastation of the Kingdom of Cilician Armenia, ally of the crusaders and the Mongols.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "raid",
   "date": {
     "earliest": 1266,
@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "editor_notes": "Baibars' role in the table: 'Sent his army'; so he is not in commander_ids."
+  "editor_notes": "Baibars' role in the table: 'Sent his army'; so he is not in commander_ids.",
+  "regions": [
+    "Asia"
+  ]
 }

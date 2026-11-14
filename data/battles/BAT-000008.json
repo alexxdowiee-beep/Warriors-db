@@ -13,7 +13,7 @@
   "summary": "Failed siege; the army left its artillery behind.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "outcome": "Failed",
   "date": {
@@ -24,5 +24,8 @@
     "certainty": "B"
   },
   "place_id": "PLC-000010",
-  "war_id": "WAR-000001"
+  "war_id": "WAR-000001",
+  "regions": [
+    "Europe"
+  ]
 }

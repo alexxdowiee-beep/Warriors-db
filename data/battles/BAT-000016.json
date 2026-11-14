@@ -13,7 +13,7 @@
   "summary": "Field battle in which Scipio decisively defeated Hannibal; his newly raised elephants did more harm to his own lines.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "outcome": "Defeat",
   "date": {
@@ -56,5 +56,8 @@
       }
     }
   ],
-  "editor_notes": "CLM-000032 (D): Roman losses under 2,000, Carthaginian about ten times that. No Carthaginian number is stored because the source gives only a ratio."
+  "editor_notes": "CLM-000032 (D): Roman losses under 2,000, Carthaginian about ten times that. No Carthaginian number is stored because the source gives only a ratio.",
+  "regions": [
+    "Africa"
+  ]
 }

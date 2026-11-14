@@ -13,7 +13,7 @@
   "summary": "Kaiapoi pā was taken after a long siege by sapping and burning the palisades.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "outcome": "Captured",
   "date": {
@@ -40,5 +40,8 @@
       ]
     }
   ],
-  "editor_notes": "Doc grade: B (A once a second source is opened)."
+  "editor_notes": "Doc grade: B (A once a second source is opened).",
+  "regions": [
+    "Pacific"
+  ]
 }

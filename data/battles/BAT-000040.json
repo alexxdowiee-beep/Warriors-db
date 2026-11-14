@@ -13,7 +13,7 @@
   "summary": "Siege of the Jin capital during the final conquest of the Jin.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "date": {
     "earliest": 1232,
@@ -42,5 +42,8 @@
         "POL-000036"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

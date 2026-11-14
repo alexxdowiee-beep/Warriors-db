@@ -13,7 +13,7 @@
   "summary": "Destruction of the Yuan fleet under Omar as it withdrew down the river, traditionally using stakes planted in the riverbed.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "naval",
   "date": {
     "earliest": 1288,
@@ -43,5 +43,8 @@
       ]
     }
   ],
-  "editor_notes": "Doc grade: 'B (A once a second source is opened)'."
+  "editor_notes": "Doc grade: 'B (A once a second source is opened)'.",
+  "regions": [
+    "Asia"
+  ]
 }

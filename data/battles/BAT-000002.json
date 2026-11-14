@@ -13,7 +13,7 @@
   "summary": "Assault in which the French took Jargeau; a large cannon from Orléans brought down a tower.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "assault",
   "outcome": "Victory (for Joan of Arc's side)",
   "date": {
@@ -24,5 +24,8 @@
     "certainty": "B"
   },
   "place_id": "PLC-000004",
-  "war_id": "WAR-000002"
+  "war_id": "WAR-000002",
+  "regions": [
+    "Europe"
+  ]
 }

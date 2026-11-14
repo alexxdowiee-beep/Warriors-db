@@ -13,7 +13,7 @@
   "summary": "Chinggis Khan's defeat of Jalal al-Din, son of the Khwarazm-shah, near the Indus.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1221,
@@ -42,5 +42,8 @@
         "POL-000031"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

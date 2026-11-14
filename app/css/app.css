@@ -1743,3 +1743,379 @@ main {
     width: 230px;
   }
 }
+
+/* ================================================================== step 4 (rev. 17): header, Chronicle, people */
+.screen-name {
+  font-family: var(--font-display);
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: var(--tracking-label);
+  text-transform: uppercase;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.screen-name:not(:empty)::before {
+  content: "\00B7";
+  margin: 0 var(--space-2) 0 calc(-1 * var(--space-3));
+  color: var(--border);
+}
+
+.header-tools:empty {
+  display: none;
+}
+
+.header-inner {
+  flex-wrap: wrap;
+}
+
+.header-tools {
+  flex-basis: 100%;
+  padding-bottom: var(--space-2);
+}
+
+.region-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.region-filter .filter-chip {
+  min-height: 36px;
+  padding: 0 var(--space-3);
+  font-family: var(--font-display);
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.region-text-africa { color: var(--region-africa); }
+.region-text-asia { color: var(--region-asia); }
+.region-text-europe { color: var(--region-europe); }
+.region-text-americas { color: var(--region-americas); }
+.region-text-pacific { color: var(--region-pacific); }
+
+.region-filter .filter-chip[aria-pressed="true"] {
+  background: var(--accent-bg);
+  border-color: currentColor;
+}
+
+.region-filter .filter-chip:not([class*="region-text"])[aria-pressed="true"] {
+  color: var(--accent);
+}
+
+@media (max-width: 767px) {
+  .screen-name {
+    display: none;
+  }
+
+  .header-tools {
+    order: 10;
+  }
+
+  .region-filter {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 2px;
+  }
+
+  .region-filter .filter-chip {
+    flex: none;
+  }
+}
+
+/* ------------------------------------------------------------------ Chronicle */
+.chronicle {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.intro-card {
+  max-width: 560px;
+  padding: var(--space-4) var(--space-5);
+  background: linear-gradient(135deg, var(--era-active), var(--accent-bg));
+  border: 1px solid #4A3A1C;
+  border-radius: var(--radius);
+}
+
+.intro-card h1 {
+  margin: 0 0 var(--space-1);
+  font-size: 30px;
+  color: var(--accent-strong);
+}
+
+.intro-card p {
+  margin: 0;
+  color: var(--text-2);
+}
+
+.chronicle-count {
+  margin: 0;
+}
+
+.spine-scroll {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: var(--space-2) 0 var(--space-3);
+  scrollbar-width: thin;
+  border-radius: var(--radius);
+}
+
+.spine {
+  display: flex;
+  margin: 0;
+  padding: 0 var(--space-4) 0 var(--space-2);
+  list-style: none;
+  width: max-content;
+  background: linear-gradient(var(--accent), var(--accent)) 0 calc(var(--slot) + 22px) / 100% 2px no-repeat;
+  --slot: 235px;
+}
+
+.spine-item {
+  position: relative;
+  width: 160px;
+  display: grid;
+  grid-template-rows: var(--slot) 44px var(--slot);
+}
+
+.spine-slot {
+  position: relative;
+}
+
+.spine-slot .event-card {
+  position: absolute;
+  left: 0;
+  width: 290px;
+}
+
+.spine-slot-above .event-card {
+  bottom: 14px;
+}
+
+.spine-slot-below .event-card {
+  top: 14px;
+}
+
+/* the connector from card to node */
+.spine-above .spine-slot-above::after,
+.spine-below .spine-slot-below::before {
+  content: "";
+  position: absolute;
+  left: 20px;
+  height: 14px;
+  border-left: 1px solid var(--accent);
+  opacity: 0.7;
+}
+
+.spine-above .spine-slot-above::after {
+  bottom: 0;
+}
+
+.spine-below .spine-slot-below::before {
+  top: 0;
+}
+
+.spine-node {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding-left: 13px;
+}
+
+.node-dot {
+  flex: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--bg);
+  border: 3px solid var(--accent);
+}
+
+.node-date {
+  font-family: var(--font-display);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+  background: var(--bg);
+  padding: 0 4px;
+}
+
+.spine-below .node-date {
+  transform: translateY(-14px);
+}
+
+.spine-above .node-date {
+  transform: translateY(14px);
+}
+
+.event-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.event-card:hover,
+.event-card:focus-within {
+  border-color: var(--accent);
+}
+
+.card-image {
+  height: 64px;
+  background:
+    radial-gradient(ellipse at 75% 0%, rgba(226, 178, 92, 0.05), transparent 60%),
+    linear-gradient(180deg, #1F232C, #171A20);
+  border-bottom: 3px solid var(--border);
+}
+
+.region-border-africa .card-image { border-bottom-color: var(--region-africa); }
+.region-border-asia .card-image { border-bottom-color: var(--region-asia); }
+.region-border-europe .card-image { border-bottom-color: var(--region-europe); }
+.region-border-americas .card-image { border-bottom-color: var(--region-americas); }
+.region-border-pacific .card-image { border-bottom-color: var(--region-pacific); }
+
+.card-body {
+  padding: var(--space-2) var(--space-3) var(--space-3);
+}
+
+.card-region {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.card-title {
+  margin: 2px 0 var(--space-1);
+  font-size: 18px;
+  line-height: 1.25;
+}
+
+.card-title a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.card-title a:hover,
+.card-title a:focus-visible {
+  color: var(--accent-strong);
+  text-decoration: underline;
+}
+
+.card-sentence {
+  margin: 0 0 var(--space-1);
+  font-size: 15.5px;
+  line-height: 1.45;
+  color: var(--text-2);
+}
+
+.card-people {
+  margin: 0;
+  font-size: 15px;
+}
+
+.spine-empty {
+  padding: var(--space-6);
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------------ era overview strip */
+.era-strip {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 2px;
+  background: var(--bg-band);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 2px;
+}
+
+.era-band {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 56px;
+  padding: var(--space-2) var(--space-3);
+  background: transparent;
+  border: none;
+  border-radius: 4px;
+  color: var(--muted);
+  text-align: left;
+  cursor: pointer;
+}
+
+.era-band:disabled {
+  cursor: default;
+  opacity: 0.55;
+}
+
+.era-band:not(:disabled):hover {
+  color: var(--accent-strong);
+}
+
+.era-band[aria-current="true"] {
+  background: var(--era-active);
+  color: var(--accent-strong);
+}
+
+.era-name {
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.era-dots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.era-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0.8;
+}
+
+@media (max-width: 767px) {
+  .spine {
+    --slot: 260px;
+  }
+
+  .spine-item {
+    width: 140px;
+  }
+
+  .spine-slot .event-card {
+    width: 260px;
+  }
+
+  .era-band {
+    padding: var(--space-2);
+  }
+
+  .era-name {
+    font-size: 10px;
+    letter-spacing: 0.04em;
+  }
+}
+
+/* ------------------------------------------------------------------ people index */
+.card-regions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+  margin-top: var(--space-2);
+}

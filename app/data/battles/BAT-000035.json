@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000036",
  "primary_name": "Fall of Zhongdu",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -127,7 +130,7 @@
  "status": "draft",
  "summary": "Fall of the Jin central capital, on the site of modern Beijing.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000016",
   "name": "War against the Jin",

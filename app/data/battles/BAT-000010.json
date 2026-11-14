@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000012",
  "primary_name": "Siege of Saguntum",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -146,6 +149,6 @@
  "status": "draft",
  "summary": "Eight-month siege in which Hannibal took Saguntum, whose status under the 226 BCE Ebro treaty was ambiguous.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": null
 }

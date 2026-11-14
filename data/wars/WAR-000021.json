@@ -13,7 +13,7 @@
   "summary": "Invasion from the newly conquered kingdom of Dali in Yunnan; it took Thăng Long but withdrew after about a month.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1257,
@@ -23,5 +23,8 @@
     "certainty": "A"
   },
   "outcome": "Mongols withdrew",
-  "editor_notes": "Doc name: 'First Mongol invasion'; 'of Đại Việt' added for clarity."
+  "editor_notes": "Doc name: 'First Mongol invasion'; 'of Đại Việt' added for clarity.",
+  "regions": [
+    "Asia"
+  ]
 }

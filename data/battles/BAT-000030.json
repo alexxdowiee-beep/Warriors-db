@@ -13,7 +13,7 @@
   "summary": "Later battles with Ngāi Tahu, now armed from whaling stations, that were inconclusive.",
   "certainty": "C",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "outcome": "Inconclusive",
   "date": {
@@ -39,5 +39,8 @@
       ]
     }
   ],
-  "editor_notes": "One row in the doc covering two named engagements, kept as one record. No place record, as it would need two. The doc names no battle type; kind unknown."
+  "editor_notes": "One row in the doc covering two named engagements, kept as one record. No place record, as it would need two. The doc names no battle type; kind unknown.",
+  "regions": [
+    "Pacific"
+  ]
 }

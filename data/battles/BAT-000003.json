@@ -13,7 +13,7 @@
   "summary": "Siege in which the English garrison of Beaugency surrendered.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "outcome": "English garrison surrendered",
   "date": {
@@ -41,5 +41,8 @@
         "POL-000002"
       ]
     }
+  ],
+  "regions": [
+    "Europe"
   ]
 }

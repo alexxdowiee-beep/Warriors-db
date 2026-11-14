@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000032",
  "primary_name": "Wairau (1843)",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -118,6 +121,6 @@
  "status": "draft",
  "summary": "After Te Rauparaha and Te Rangihaeata stopped the survey of the Wairau plains, Arthur Wakefield led armed settlers from Nelson to arrest Te Rauparaha. Governor FitzRoy later found that the settlers had provoked the clash.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": null
 }

@@ -13,7 +13,7 @@
   "summary": "Invasion of the Delhi Sultanate that destroyed the sultan's army and left Delhi in ruins.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1398,
@@ -22,5 +22,8 @@
     "display": "1398–1399",
     "certainty": "A"
   },
-  "outcome": "Victory; Delhi sacked"
+  "outcome": "Victory; Delhi sacked",
+  "regions": [
+    "Asia"
+  ]
 }

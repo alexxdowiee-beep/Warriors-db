@@ -49,11 +49,14 @@
  "parent_war": null,
  "people": [],
  "primary_name": "Mande revolt against Sosso rule",
+ "regions": [
+  "Africa"
+ ],
  "related_claims": [],
  "slug": "mande-revolt-against-sosso",
  "status": "draft",
  "sub_wars": [],
  "summary": "The war, led by Sundiata, in which a coalition of Mande chiefdoms and neighbouring rulers overthrew Sosso rule, ending in the decisive victory at Kirina. Tradition also records earlier engagements against Sosso before Kirina, with mixed results (D, tradition only).",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

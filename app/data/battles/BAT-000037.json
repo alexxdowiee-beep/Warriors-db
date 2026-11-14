@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000035",
  "primary_name": "Battle of the Indus",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -137,7 +140,7 @@
  "status": "draft",
  "summary": "Chinggis Khan's defeat of Jalal al-Din, son of the Khwarazm-shah, near the Indus.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000017",
   "name": "Invasion of Khwarazm",

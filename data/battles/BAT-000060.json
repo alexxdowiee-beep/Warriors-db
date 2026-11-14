@@ -13,7 +13,7 @@
   "summary": "Timur destroyed the Ottoman army near Ankara and took Sultan Bayezid I prisoner.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1402,
@@ -42,5 +42,8 @@
         "POL-000032"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

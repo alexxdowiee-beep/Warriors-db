@@ -13,7 +13,7 @@
   "summary": "Defeat of Louis IX's Seventh Crusade by the Bahri mamluks, Baibars among their leaders.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1250,
@@ -40,5 +40,8 @@
       ]
     }
   ],
-  "editor_notes": "Baibars in commander_ids because CLM for BB-C06 says he commanded; the battle table's role is 'Among the Bahri leaders'."
+  "editor_notes": "Baibars in commander_ids because CLM for BB-C06 says he commanded; the battle table's role is 'Among the Bahri leaders'.",
+  "regions": [
+    "Africa"
+  ]
 }

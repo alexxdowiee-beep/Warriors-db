@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000052",
  "primary_name": "Occupation of Damascus",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -143,6 +146,6 @@
  "status": "draft",
  "summary": "Timur occupied Damascus and deported its artisans to Samarkand.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": null
 }

@@ -13,7 +13,7 @@
   "summary": "Timur's decisive defeat of Tokhtamysh, khan of the Golden Horde.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "date": {
     "earliest": 1395,
@@ -43,5 +43,8 @@
       ]
     }
   ],
-  "editor_notes": "Site C: on the Terek (standard accounts) or the Kur (Britannica); no place stored."
+  "editor_notes": "Site C: on the Terek (standard accounts) or the Kur (Britannica); no place stored.",
+  "regions": [
+    "Asia"
+  ]
 }

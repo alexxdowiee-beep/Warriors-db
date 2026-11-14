@@ -13,7 +13,7 @@
   "summary": "Invasion under Toghan; Thăng Long was occupied, then the Vietnamese counterattacked at Chương Dương and Tây Kết and the Yuan withdrew.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1284,
@@ -23,5 +23,8 @@
     "certainty": "A"
   },
   "outcome": "Yuan withdrew",
-  "editor_notes": "Doc name: 'Second invasion'; expanded for clarity."
+  "editor_notes": "Doc name: 'Second invasion'; expanded for clarity.",
+  "regions": [
+    "Asia"
+  ]
 }

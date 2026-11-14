@@ -13,7 +13,7 @@
   "summary": "War that followed the Otrar caravan massacre: Chinggis Khan took Otrar, split his army against the Khwarazmian Empire, and defeated Jalal al-Din near the Indus in 1221.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1218,
@@ -23,5 +23,8 @@
     "certainty": "A"
   },
   "outcome": "Victory",
-  "editor_notes": "Shared by the Genghis Khan and Subutai docs (GK-W03). Span from the Genghis Khan doc (1218–1221); the Subutai doc's table gives 1219–1221."
+  "editor_notes": "Shared by the Genghis Khan and Subutai docs (GK-W03). Span from the Genghis Khan doc (1218–1221); the Subutai doc's table gives 1219–1221.",
+  "regions": [
+    "Asia"
+  ]
 }

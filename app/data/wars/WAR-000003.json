@@ -16,6 +16,10 @@
  "parent_war": null,
  "people": [],
  "primary_name": "First Punic War",
+ "regions": [
+  "Europe",
+  "Africa"
+ ],
  "related_claims": [],
  "slug": "first-punic-war",
  "span": {
@@ -29,5 +33,5 @@
  "sub_wars": [],
  "summary": "War that Carthage lost to Rome; it surrendered Sicily and paid a heavy indemnity.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

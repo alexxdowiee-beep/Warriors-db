@@ -13,7 +13,7 @@
   "summary": "Field battle in which Hannibal lured a Roman army into an ambush.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "outcome": "Victory",
   "date": {
@@ -44,5 +44,8 @@
       ]
     }
   ],
-  "editor_notes": "Pilot doc type: 'Field battle with ambush'."
+  "editor_notes": "Pilot doc type: 'Field battle with ambush'.",
+  "regions": [
+    "Europe"
+  ]
 }

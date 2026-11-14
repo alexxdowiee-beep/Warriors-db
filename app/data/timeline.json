@@ -6,10 +6,21 @@
    "earliest": -511,
    "era": "ancient",
    "id": "WAR-000008",
+   "kind": "campaign",
    "latest": -511,
+   "main_claim": null,
    "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "outcome": null,
    "people": [
-    "PER-000004"
+    {
+     "id": "PER-000004",
+     "name": "Sun Tzu",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -19,10 +30,34 @@
    "earliest": -505,
    "era": "ancient",
    "id": "BAT-000020",
+   "kind": "unknown",
    "latest": -505,
+   "main_claim": {
+    "certainty": "D",
+    "claim_type": "event",
+    "id": "CLM-000060",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "He commanded at Boju, 506 BCE",
+    "subject": {
+     "id": "PER-000004",
+     "name": "Sun Tzu",
+     "type": "person"
+    },
+    "verdict": "disputed"
+   },
    "name": "Boju and the capture of Ying",
+   "outcome": "Decisive victory (for Wu)",
    "people": [
-    "PER-000004"
+    {
+     "id": "PER-000004",
+     "name": "Sun Tzu",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -32,9 +67,17 @@
    "earliest": -263,
    "era": "classical",
    "id": "WAR-000003",
+   "kind": "war",
    "latest": -240,
+   "main_claim": null,
    "name": "First Punic War",
+   "outcome": null,
    "people": [],
+   "record_certainty": "A",
+   "regions": [
+    "Europe",
+    "Africa"
+   ],
    "type": "war"
   },
   {
@@ -43,10 +86,34 @@
    "earliest": -218,
    "era": "classical",
    "id": "BAT-000010",
+   "kind": "siege",
    "latest": -218,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000023",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Took Saguntum after an eight-month siege, 219 BCE",
+    "subject": {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Siege of Saguntum",
+   "outcome": "Captured",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -56,10 +123,21 @@
    "earliest": -217,
    "era": "classical",
    "id": "BAT-000011",
+   "kind": "skirmish",
    "latest": -217,
+   "main_claim": null,
    "name": "Ticinus",
+   "outcome": "Victory",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -69,10 +147,34 @@
    "earliest": -217,
    "era": "classical",
    "id": "BAT-000012",
+   "kind": "field-battle",
    "latest": -217,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000025",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
+    "subject": {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Trebia",
+   "outcome": "Victory",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -82,10 +184,34 @@
    "earliest": -216,
    "era": "classical",
    "id": "BAT-000013",
+   "kind": "ambush",
    "latest": -216,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000025",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Won at the Trebia (218) and Lake Trasimene (217)",
+    "subject": {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Lake Trasimene",
+   "outcome": "Victory",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -95,10 +221,34 @@
    "earliest": -215,
    "era": "classical",
    "id": "BAT-000014",
+   "kind": "field-battle",
    "latest": -215,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000028",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Won Cannae by double envelopment and cavalry",
+    "subject": {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Cannae",
+   "outcome": "Victory",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -108,10 +258,21 @@
    "earliest": -210,
    "era": "classical",
    "id": "WAR-000014",
+   "kind": "campaign",
    "latest": -210,
+   "main_claim": null,
    "name": "March on Rome (211 BCE)",
+   "outcome": "No siege attempted",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "war"
   },
@@ -121,10 +282,34 @@
    "earliest": -201,
    "era": "classical",
    "id": "BAT-000016",
+   "kind": "field-battle",
    "latest": -201,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000031",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated by Scipio at Zama, 202 BCE",
+    "subject": {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Zama",
+   "outcome": "Defeat",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Africa"
    ],
    "type": "battle"
   },
@@ -134,10 +319,21 @@
    "earliest": -189,
    "era": "classical",
    "id": "BAT-000017",
+   "kind": "naval",
    "latest": -189,
+   "main_claim": null,
    "name": "Naval battle off Pamphylia",
+   "outcome": "Defeat (his wing held)",
    "people": [
-    "PER-000002"
+    {
+     "id": "PER-000002",
+     "name": "Hannibal Barca",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -147,10 +343,34 @@
    "earliest": 1203,
    "era": "medieval",
    "id": "BAT-000033",
+   "kind": "unknown",
    "latest": 1203,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000126",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated Toghril of the Kereit in 1203",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Defeat of Toghril and the Kereit",
+   "outcome": "Victory",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -160,10 +380,21 @@
    "earliest": 1204,
    "era": "medieval",
    "id": "BAT-000034",
+   "kind": "unknown",
    "latest": 1204,
+   "main_claim": null,
    "name": "Defeat of the Naiman",
+   "outcome": "Victory",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -173,10 +404,34 @@
    "earliest": 1205,
    "era": "medieval",
    "id": "WAR-000015",
+   "kind": "campaign",
    "latest": 1209,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000128",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Xi Xia subdued by 1209",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Subjugation of Xi Xia",
+   "outcome": "Submission",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -186,10 +441,34 @@
    "earliest": 1211,
    "era": "medieval",
    "id": "WAR-000016",
+   "kind": "war",
    "latest": 1234,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000129",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Invaded the Jin in 1211; most of the Jin empire taken by 1216",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "War against the Jin",
+   "outcome": "Most territory taken by 1216; completed under Ögödei",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -199,10 +478,34 @@
    "earliest": 1215,
    "era": "medieval",
    "id": "BAT-000035",
+   "kind": "siege",
    "latest": 1215,
+   "main_claim": {
+    "certainty": "C",
+    "claim_type": "event",
+    "id": "CLM-000130",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Zhongdu fell in 1215",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "disputed"
+   },
    "name": "Fall of Zhongdu",
+   "outcome": "Captured",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -212,11 +515,39 @@
    "earliest": 1218,
    "era": "medieval",
    "id": "WAR-000017",
+   "kind": "war",
    "latest": 1221,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000131",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "The Otrar caravan massacre led to war with Khwarazm",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Invasion of Khwarazm",
+   "outcome": "Victory",
    "people": [
-    "PER-000006",
-    "PER-000007"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -226,10 +557,21 @@
    "earliest": 1219,
    "era": "medieval",
    "id": "BAT-000036",
+   "kind": "siege",
    "latest": 1220,
+   "main_claim": null,
    "name": "Capture of Otrar",
+   "outcome": "Captured",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -239,10 +581,35 @@
    "earliest": 1220,
    "era": "medieval",
    "id": "WAR-000018",
+   "kind": "campaign",
    "latest": 1223,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000157",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Co-commanded the western raid and the Kalka; senior commander in the 1236–1242 western campaign",
+    "subject": {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Western raid of Jebe and Subutai",
+   "outcome": "Victory",
    "people": [
-    "PER-000007"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia",
+    "Europe"
    ],
    "type": "war"
   },
@@ -252,10 +619,34 @@
    "earliest": 1221,
    "era": "medieval",
    "id": "BAT-000037",
+   "kind": "field-battle",
    "latest": 1221,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000132",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated Jalal al-Din near the Indus in 1221",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Battle of the Indus",
+   "outcome": "Victory",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -265,10 +656,34 @@
    "earliest": 1223,
    "era": "medieval",
    "id": "BAT-000039",
+   "kind": "field-battle",
    "latest": 1223,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000161",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "The Kalka was fought in May 1223; Mstislav of Kiev and Mstislav of Chernigov died",
+    "subject": {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Kalka River",
+   "outcome": "Victory",
    "people": [
-    "PER-000007"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -278,10 +693,34 @@
    "earliest": 1227,
    "era": "medieval",
    "id": "BAT-000038",
+   "kind": "siege",
    "latest": 1227,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000134",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Died in 1227 during the siege of Zhongxing",
+    "subject": {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Siege of Zhongxing",
+   "outcome": "Fell after his death",
    "people": [
-    "PER-000006"
+    {
+     "id": "PER-000006",
+     "name": "Genghis Khan",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -291,10 +730,21 @@
    "earliest": 1232,
    "era": "medieval",
    "id": "BAT-000040",
+   "kind": "siege",
    "latest": 1233,
+   "main_claim": null,
    "name": "Siege of Kaifeng",
+   "outcome": "Captured",
    "people": [
-    "PER-000007"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -304,10 +754,34 @@
    "earliest": 1235,
    "era": "medieval",
    "id": "BAT-000018",
+   "kind": "field-battle",
    "latest": 1235,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000040",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "He defeated Sumanguru Kanté of Sosso",
+    "subject": {
+     "id": "PER-000003",
+     "name": "Sundiata Keita",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Kirina",
+   "outcome": "Decisive victory",
    "people": [
-    "PER-000003"
+    {
+     "id": "PER-000003",
+     "name": "Sundiata Keita",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Africa"
    ],
    "type": "battle"
   },
@@ -317,11 +791,39 @@
    "earliest": 1236,
    "era": "medieval",
    "id": "WAR-000019",
+   "kind": "war",
    "latest": 1242,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000164",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "The 1236–1242 campaign conquered the Rus' principalities and invaded Hungary and Poland",
+    "subject": {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Great western campaign",
+   "outcome": "Victory; withdrawal 1242",
    "people": [
-    "PER-000007",
-    "PER-000008"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "war"
   },
@@ -331,10 +833,34 @@
    "earliest": 1237,
    "era": "medieval",
    "id": "BAT-000041",
+   "kind": "siege",
    "latest": 1237,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000165",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Ryazan fell in December 1237",
+    "subject": {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Fall of Ryazan",
+   "outcome": "Captured",
    "people": [
-    "PER-000007"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -344,10 +870,34 @@
    "earliest": 1238,
    "era": "medieval",
    "id": "BAT-000042",
+   "kind": "field-battle",
    "latest": 1238,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000166",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Yuri II of Vladimir was killed at the Sit River in March 1238",
+    "subject": {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Sit River",
+   "outcome": "Victory",
    "people": [
-    "PER-000007"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -357,10 +907,34 @@
    "earliest": 1241,
    "era": "medieval",
    "id": "BAT-000043",
+   "kind": "field-battle",
    "latest": 1241,
+   "main_claim": {
+    "certainty": "C",
+    "claim_type": "event",
+    "id": "CLM-000167",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "The Mongols defeated Béla IV of Hungary at Mohi in April 1241",
+    "subject": {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Mohi (Sajó River)",
+   "outcome": "Victory",
    "people": [
-    "PER-000007"
+    {
+     "id": "PER-000007",
+     "name": "Subutai",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -370,10 +944,34 @@
    "earliest": 1250,
    "era": "medieval",
    "id": "BAT-000044",
+   "kind": "field-battle",
    "latest": 1250,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000189",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Commanded at al-Mansurah against Louis IX, February 1250",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Al-Mansurah",
+   "outcome": "Victory",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Africa"
    ],
    "type": "battle"
   },
@@ -383,10 +981,21 @@
    "earliest": 1257,
    "era": "medieval",
    "id": "WAR-000021",
+   "kind": "war",
    "latest": 1258,
+   "main_claim": null,
    "name": "First Mongol invasion of Đại Việt",
+   "outcome": "Mongols withdrew",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -396,10 +1005,34 @@
    "earliest": 1260,
    "era": "medieval",
    "id": "BAT-000045",
+   "kind": "field-battle",
    "latest": 1260,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000192",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "The Mamluks defeated the Mongols at Ain Jalut, September 1260",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Ain Jalut",
+   "outcome": "Victory",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -409,10 +1042,21 @@
    "earliest": 1263,
    "era": "medieval",
    "id": "WAR-000020",
+   "kind": "war",
    "latest": 1271,
+   "main_claim": null,
    "name": "Campaigns against the crusader states",
+   "outcome": "Most inland fortresses taken",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -422,10 +1066,34 @@
    "earliest": 1266,
    "era": "medieval",
    "id": "BAT-000046",
+   "kind": "siege",
    "latest": 1266,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000195",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Took Safed (1266) and Antioch (1268)",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Fall of Safed",
+   "outcome": "Captured",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -435,10 +1103,34 @@
    "earliest": 1266,
    "era": "medieval",
    "id": "BAT-000047",
+   "kind": "raid",
    "latest": 1266,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000198",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Devastated Cilician Armenia",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Invasion of Cilician Armenia",
+   "outcome": "Devastation",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -448,10 +1140,34 @@
    "earliest": 1268,
    "era": "medieval",
    "id": "BAT-000048",
+   "kind": "siege",
    "latest": 1268,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000195",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Took Safed (1266) and Antioch (1268)",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Fall of Antioch",
+   "outcome": "Captured; city destroyed",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -461,10 +1177,34 @@
    "earliest": 1270,
    "era": "medieval",
    "id": "BAT-000049",
+   "kind": "siege",
    "latest": 1271,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000196",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Took Krak des Chevaliers and other castles of the military orders",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Krak des Chevaliers",
+   "outcome": "Captured",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -474,10 +1214,34 @@
    "earliest": 1277,
    "era": "medieval",
    "id": "BAT-000050",
+   "kind": "field-battle",
    "latest": 1277,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000199",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Invaded Seljuk Anatolia and defeated a Mongol army (1276 or 1277)",
+    "subject": {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Invasion of Anatolia",
+   "outcome": "Victory",
    "people": [
-    "PER-000008"
+    {
+     "id": "PER-000008",
+     "name": "Baibars",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -487,10 +1251,34 @@
    "earliest": 1284,
    "era": "medieval",
    "id": "WAR-000022",
+   "kind": "war",
    "latest": 1285,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000216",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
+    "subject": {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Second Mongol-Yuan invasion of Đại Việt",
+   "outcome": "Yuan withdrew",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -500,10 +1288,21 @@
    "earliest": 1285,
    "era": "medieval",
    "id": "BAT-000051",
+   "kind": "field-battle",
    "latest": 1285,
+   "main_claim": null,
    "name": "Chương Dương",
+   "outcome": "Victory",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -513,10 +1312,34 @@
    "earliest": 1285,
    "era": "medieval",
    "id": "BAT-000052",
+   "kind": "field-battle",
    "latest": 1285,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000221",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "In 1285 the Yuan vanguard was destroyed at Tây Kết and Sogetu killed",
+    "subject": {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Tây Kết",
+   "outcome": "Victory; Sogetu killed",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -526,10 +1349,34 @@
    "earliest": 1287,
    "era": "medieval",
    "id": "BAT-000053",
+   "kind": "naval",
    "latest": 1288,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000222",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "In 1287–88 the Vietnamese captured the Yuan supply fleet",
+    "subject": {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Capture of the Yuan supply fleet",
+   "outcome": "Victory",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -539,10 +1386,34 @@
    "earliest": 1287,
    "era": "medieval",
    "id": "WAR-000023",
+   "kind": "war",
    "latest": 1288,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000216",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Supreme commander against the invasions of 1284–85 and 1287–88",
+    "subject": {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Third Mongol-Yuan invasion of Đại Việt",
+   "outcome": "Yuan withdrew",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -552,10 +1423,34 @@
    "earliest": 1288,
    "era": "medieval",
    "id": "BAT-000054",
+   "kind": "naval",
    "latest": 1288,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000223",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "The Yuan fleet was destroyed at Bạch Đằng in 1288; Toghan withdrew in March 1288",
+    "subject": {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Bạch Đằng River",
+   "outcome": "Victory; fleet destroyed",
    "people": [
-    "PER-000009"
+    {
+     "id": "PER-000009",
+     "name": "Trần Hưng Đạo",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -565,10 +1460,34 @@
    "earliest": 1383,
    "era": "medieval",
    "id": "WAR-000024",
+   "kind": "war",
    "latest": 1394,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000251",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Conquered Iran 1383–1394 and crushed revolts with massacres and skull towers",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Conquest of Persia",
+   "outcome": "Conquest",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -578,10 +1497,35 @@
    "earliest": 1385,
    "era": "medieval",
    "id": "WAR-000025",
+   "kind": "war",
    "latest": 1395,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000252",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Wars against Tokhtamysh",
+   "outcome": "Victory",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia",
+    "Europe"
    ],
    "type": "war"
   },
@@ -591,10 +1535,34 @@
    "earliest": 1395,
    "era": "medieval",
    "id": "BAT-000055",
+   "kind": "field-battle",
    "latest": 1395,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000252",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated Tokhtamysh of the Golden Horde in 1391 and 1395",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Battle of 1395 against Tokhtamysh",
+   "outcome": "Victory",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -604,10 +1572,34 @@
    "earliest": 1398,
    "era": "medieval",
    "id": "BAT-000056",
+   "kind": "field-battle",
    "latest": 1398,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000255",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Sacked Delhi in December 1398",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Defeat of the Delhi sultan's army",
+   "outcome": "Victory",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -617,10 +1609,21 @@
    "earliest": 1398,
    "era": "medieval",
    "id": "WAR-000026",
+   "kind": "war",
    "latest": 1399,
+   "main_claim": null,
    "name": "Invasion of India",
+   "outcome": "Victory; Delhi sacked",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -630,10 +1633,34 @@
    "earliest": 1400,
    "era": "medieval",
    "id": "BAT-000057",
+   "kind": "assault",
    "latest": 1400,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000257",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Sack of Aleppo",
+   "outcome": "Captured",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -643,10 +1670,34 @@
    "earliest": 1401,
    "era": "medieval",
    "id": "BAT-000058",
+   "kind": "siege",
    "latest": 1401,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000257",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Sacked Aleppo, occupied Damascus and deported its artisans, 1400–01",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Occupation of Damascus",
+   "outcome": "Captured",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -656,10 +1707,34 @@
    "earliest": 1401,
    "era": "medieval",
    "id": "BAT-000059",
+   "kind": "assault",
    "latest": 1401,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000259",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Stormed Baghdad in 1401",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Sack of Baghdad",
+   "outcome": "Captured; massacre",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -669,10 +1744,34 @@
    "earliest": 1402,
    "era": "medieval",
    "id": "BAT-000060",
+   "kind": "field-battle",
    "latest": 1402,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000261",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated the Ottoman army near Ankara in July 1402",
+    "subject": {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Ankara",
+   "outcome": "Victory; Bayezid I captured",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "battle"
   },
@@ -682,10 +1781,21 @@
    "earliest": 1404,
    "era": "medieval",
    "id": "WAR-000027",
+   "kind": "campaign",
    "latest": 1405,
+   "main_claim": null,
    "name": "Planned invasion of China",
+   "outcome": "Abandoned at his death",
    "people": [
-    "PER-000010"
+    {
+     "id": "PER-000010",
+     "name": "Timur",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Asia"
    ],
    "type": "war"
   },
@@ -695,10 +1805,34 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000001",
+   "kind": "siege",
    "latest": 1429,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000005",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Orléans siege lifted 8 May 1429",
+    "subject": {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Siege of Orléans (relief)",
+   "outcome": "Victory (for Joan of Arc's side)",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -708,10 +1842,21 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000002",
+   "kind": "assault",
    "latest": 1429,
+   "main_claim": null,
    "name": "Jargeau",
+   "outcome": "Victory (for Joan of Arc's side)",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -721,10 +1866,21 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000003",
+   "kind": "siege",
    "latest": 1429,
+   "main_claim": null,
    "name": "Beaugency",
+   "outcome": "English garrison surrendered",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -734,10 +1890,34 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000004",
+   "kind": "field-battle",
    "latest": 1429,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000007",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Patay won by the vanguard's charge, 18 June 1429",
+    "subject": {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Patay",
+   "outcome": "Victory (for Joan of Arc's side)",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -747,10 +1927,21 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000005",
+   "kind": "standoff",
    "latest": 1429,
+   "main_claim": null,
    "name": "Montépilloy",
+   "outcome": "Inconclusive",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -760,10 +1951,34 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000006",
+   "kind": "assault",
    "latest": 1429,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000010",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Wounded attacking Paris, 8 September 1429",
+    "subject": {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Paris",
+   "outcome": "Failed",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -773,10 +1988,21 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000007",
+   "kind": "assault",
    "latest": 1429,
+   "main_claim": null,
    "name": "Saint-Pierre-le-Moûtier",
+   "outcome": "Victory (for Joan of Arc's side)",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -786,10 +2012,21 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "BAT-000008",
+   "kind": "siege",
    "latest": 1429,
+   "main_claim": null,
    "name": "La Charité-sur-Loire",
+   "outcome": "Failed",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -799,9 +2036,16 @@
    "earliest": 1429,
    "era": "medieval",
    "id": "WAR-000002",
+   "kind": "campaign",
    "latest": 1429,
+   "main_claim": null,
    "name": "Loire campaign (1429)",
+   "outcome": null,
    "people": [],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
+   ],
    "type": "war"
   },
   {
@@ -810,10 +2054,34 @@
    "earliest": 1430,
    "era": "medieval",
    "id": "BAT-000009",
+   "kind": "sortie",
    "latest": 1430,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000011",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Captured at Compiègne, 23 May 1430",
+    "subject": {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Compiègne",
+   "outcome": "Defeat (for Joan of Arc's side)",
    "people": [
-    "PER-000001"
+    {
+     "id": "PER-000001",
+     "name": "Joan of Arc",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Europe"
    ],
    "type": "battle"
   },
@@ -823,9 +2091,16 @@
    "earliest": 1807,
    "era": "modern",
    "id": "WAR-000009",
+   "kind": "war",
    "latest": 1849,
+   "main_claim": null,
    "name": "Musket Wars",
+   "outcome": null,
    "people": [],
+   "record_certainty": "A",
+   "regions": [
+    "Pacific"
+   ],
    "type": "war"
   },
   {
@@ -834,10 +2109,21 @@
    "earliest": 1820,
    "era": "modern",
    "id": "BAT-000021",
+   "kind": "siege",
    "latest": 1820,
+   "main_claim": null,
    "name": "Siege of Te Arawī",
+   "outcome": "Negotiated withdrawal",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -847,10 +2133,34 @@
    "earliest": 1820,
    "era": "modern",
    "id": "WAR-000011",
+   "kind": "migration",
    "latest": 1821,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000074",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+    "subject": {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Te Heke Tahutahuahi",
+   "outcome": null,
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Pacific"
    ],
    "type": "war"
   },
@@ -860,10 +2170,21 @@
    "earliest": 1821,
    "era": "modern",
    "id": "BAT-000022",
+   "kind": "unknown",
    "latest": 1822,
+   "main_claim": null,
    "name": "Motunui",
+   "outcome": "Victory (with Te Āti Awa, Ngāti Tama)",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -873,10 +2194,21 @@
    "earliest": 1822,
    "era": "modern",
    "id": "BAT-000023",
+   "kind": "unknown",
    "latest": 1822,
+   "main_claim": null,
    "name": "Horowhenua lakes",
+   "outcome": "Victory; massacre",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -886,10 +2218,21 @@
    "earliest": 1822,
    "era": "modern",
    "id": "BAT-000024",
+   "kind": "massacre",
    "latest": 1824,
+   "main_claim": null,
    "name": "Hotuiti",
+   "outcome": "Killing after false peace offer",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -899,10 +2242,34 @@
    "earliest": 1822,
    "era": "modern",
    "id": "WAR-000012",
+   "kind": "migration",
    "latest": 1822,
+   "main_claim": {
+    "certainty": "A",
+    "claim_type": "event",
+    "id": "CLM-000074",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Led Ngāti Toa's migration from Kāwhia, c. 1820–22",
+    "subject": {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Te Heke Tātaramoa",
+   "outcome": null,
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Pacific"
    ],
    "type": "war"
   },
@@ -912,10 +2279,34 @@
    "earliest": 1824,
    "era": "modern",
    "id": "BAT-000025",
+   "kind": "unknown",
    "latest": 1824,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000076",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Defeated a southern coalition at Waiorua, c. 1824",
+    "subject": {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Waiorua, Kāpiti",
+   "outcome": "Victory",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -925,9 +2316,16 @@
    "earliest": 1827,
    "era": "modern",
    "id": "WAR-000013",
+   "kind": "campaign",
    "latest": 1833,
+   "main_claim": null,
    "name": "Te Rauparaha's South Island campaigns",
+   "outcome": null,
    "people": [],
+   "record_certainty": "A",
+   "regions": [
+    "Pacific"
+   ],
    "type": "war"
   },
   {
@@ -936,10 +2334,21 @@
    "earliest": 1828,
    "era": "modern",
    "id": "BAT-000026",
+   "kind": "unknown",
    "latest": 1828,
+   "main_claim": null,
    "name": "Hikapu, Pelorus Sound",
+   "outcome": "Victory",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -949,10 +2358,21 @@
    "earliest": 1828,
    "era": "modern",
    "id": "BAT-000027",
+   "kind": "unknown",
    "latest": 1829,
+   "main_claim": null,
    "name": "First attack on Kaiapoi",
+   "outcome": "Defeat; chiefs killed",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -962,10 +2382,21 @@
    "earliest": 1830,
    "era": "modern",
    "id": "BAT-000030",
+   "kind": "unknown",
    "latest": 1839,
+   "main_claim": null,
    "name": "Ōraumoaiti and Ōraumoanui",
+   "outcome": "Inconclusive",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "C",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -975,10 +2406,34 @@
    "earliest": 1831,
    "era": "modern",
    "id": "BAT-000028",
+   "kind": "siege",
    "latest": 1832,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000077",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Took Kaiapoi pā by sapping and fire, 1831–32",
+    "subject": {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Kaiapoi siege",
+   "outcome": "Captured",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -988,10 +2443,21 @@
    "earliest": 1832,
    "era": "modern",
    "id": "BAT-000029",
+   "kind": "unknown",
    "latest": 1832,
+   "main_claim": null,
    "name": "Ōnawe, Akaroa",
+   "outcome": "Captured",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -1001,10 +2467,21 @@
    "earliest": 1839,
    "era": "modern",
    "id": "BAT-000031",
+   "kind": "unknown",
    "latest": 1839,
+   "main_claim": null,
    "name": "Te Kūititanga, Waikanae",
+   "outcome": "Allies defeated",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "B",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   },
@@ -1014,10 +2491,34 @@
    "earliest": 1843,
    "era": "modern",
    "id": "BAT-000032",
+   "kind": "unknown",
    "latest": 1843,
+   "main_claim": {
+    "certainty": "B",
+    "claim_type": "event",
+    "id": "CLM-000080",
+    "restricted": false,
+    "restricted_reason": null,
+    "statement": "Te Rangihaeata, not Te Rauparaha, killed the Wairau prisoners",
+    "subject": {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    },
+    "verdict": "accepted"
+   },
    "name": "Wairau (1843)",
+   "outcome": "The settlers surrendered; Te Rangihaeata then killed them in revenge for the killing of his wife, Te Rongo.",
    "people": [
-    "PER-000005"
+    {
+     "id": "PER-000005",
+     "name": "Te Rauparaha",
+     "type": "person"
+    }
+   ],
+   "record_certainty": "A",
+   "regions": [
+    "Pacific"
    ],
    "type": "battle"
   }

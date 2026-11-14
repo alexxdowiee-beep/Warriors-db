@@ -17,7 +17,7 @@
   "summary": "Decisive battle on the upper Niger in which Sundiata's Mande coalition defeated the Sosso king Sumanguru Kanté.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "outcome": "Decisive victory",
   "date": {
@@ -52,5 +52,8 @@
       "casualties": "unknown"
     }
   ],
-  "editor_notes": "Event grade B; date grade C (modern reconstruction). No army sizes or casualties recorded in any source."
+  "editor_notes": "Event grade B; date grade C (modern reconstruction). No army sizes or casualties recorded in any source.",
+  "regions": [
+    "Africa"
+  ]
 }

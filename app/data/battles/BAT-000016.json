@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000018",
  "primary_name": "Zama",
+ "regions": [
+  "Africa"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -194,7 +197,7 @@
  "status": "draft",
  "summary": "Field battle in which Scipio decisively defeated Hannibal; his newly raised elephants did more harm to his own lines.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000004",
   "name": "Second Punic War",

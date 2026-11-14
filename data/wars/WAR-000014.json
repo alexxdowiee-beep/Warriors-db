@@ -13,7 +13,7 @@
   "summary": "Hannibal's march on Rome in 211 BCE: a diversion he could not turn into a siege.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "campaign",
   "parent_war_id": "WAR-000004",
   "outcome": "No siege attempted",
@@ -24,5 +24,8 @@
     "display": "211 BCE",
     "certainty": "B"
   },
-  "editor_notes": "Pilot doc battle-table row: 'March on Rome | 211 BCE | Diversion | Rome | No siege attempted | B'. Stored as a campaign, part of the Second Punic War (user decision, 13 Nov 2026); replaces BAT-000015."
+  "editor_notes": "Pilot doc battle-table row: 'March on Rome | 211 BCE | Diversion | Rome | No siege attempted | B'. Stored as a campaign, part of the Second Punic War (user decision, 13 Nov 2026); replaces BAT-000015.",
+  "regions": [
+    "Europe"
+  ]
 }

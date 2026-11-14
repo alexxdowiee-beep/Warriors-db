@@ -13,7 +13,7 @@
   "summary": "Sortie from Compiègne against a Burgundian siege; Joan of Arc was caught outside the walls and captured.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "sortie",
   "outcome": "Defeat (for Joan of Arc's side)",
   "date": {
@@ -42,5 +42,8 @@
       ]
     }
   ],
-  "editor_notes": "Pilot doc type: 'Sortie'."
+  "editor_notes": "Pilot doc type: 'Sortie'.",
+  "regions": [
+    "Europe"
+  ]
 }

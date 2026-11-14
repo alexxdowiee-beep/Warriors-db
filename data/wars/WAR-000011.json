@@ -13,7 +13,7 @@
   "summary": "First stage of Ngāti Toa's migration south from Kāwhia, after the siege of Te Arawī; about 1,500 Ngāti Toa reached Taranaki.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "migration",
   "span": {
     "earliest": 1820,
@@ -22,5 +22,8 @@
     "display": "1820–21",
     "certainty": "A"
   },
-  "parent_war_id": "WAR-000009"
+  "parent_war_id": "WAR-000009",
+  "regions": [
+    "Pacific"
+  ]
 }

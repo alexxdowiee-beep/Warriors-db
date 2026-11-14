@@ -13,7 +13,7 @@
   "summary": "Fall of the Jin central capital, on the site of modern Beijing.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "siege",
   "date": {
     "earliest": 1215,
@@ -42,5 +42,8 @@
         "POL-000036"
       ]
     }
+  ],
+  "regions": [
+    "Asia"
   ]
 }

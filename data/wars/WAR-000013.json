@@ -13,7 +13,7 @@
   "summary": "Campaigns across Cook Strait for greenstone and control over the region, against Rangitāne, Ngāti Kuia and Ngāi Tahu.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "campaign",
   "span": {
     "earliest": 1827,
@@ -24,5 +24,8 @@
     "qualifier": "circa"
   },
   "parent_war_id": "WAR-000009",
-  "editor_notes": "Descriptive name based on the pilot doc heading 'The South Island (c. 1827–1833)'."
+  "editor_notes": "Descriptive name based on the pilot doc heading 'The South Island (c. 1827–1833)'.",
+  "regions": [
+    "Pacific"
+  ]
 }

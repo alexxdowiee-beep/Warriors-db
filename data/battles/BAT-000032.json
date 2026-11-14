@@ -13,7 +13,7 @@
   "summary": "After Te Rauparaha and Te Rangihaeata stopped the survey of the Wairau plains, Arthur Wakefield led armed settlers from Nelson to arrest Te Rauparaha. Governor FitzRoy later found that the settlers had provoked the clash.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "unknown",
   "outcome": "The settlers surrendered; Te Rangihaeata then killed them in revenge for the killing of his wife, Te Rongo.",
   "date": {
@@ -35,5 +35,8 @@
       "label": "Armed settlers from Nelson, under Arthur Wakefield"
     }
   ],
-  "editor_notes": "Not in the doc's battle table; created because CLM-000080 depends on it. Grade A from the controversies table ('A for the events; framing contested'). Long called a 'massacre' by settlers."
+  "editor_notes": "Not in the doc's battle table; created because CLM-000080 depends on it. Grade A from the controversies table ('A for the events; framing contested'). Long called a 'massacre' by settlers.",
+  "regions": [
+    "Pacific"
+  ]
 }

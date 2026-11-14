@@ -13,7 +13,7 @@
   "summary": "Field battle in which the retreating English were caught and defeated by a cavalry charge of the French vanguard.",
   "certainty": "B",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "field-battle",
   "outcome": "Victory (for Joan of Arc's side)",
   "date": {
@@ -58,5 +58,8 @@
       }
     }
   ],
-  "editor_notes": "Loss figures are the herald's figure only (CLM-000008, grade D)."
+  "editor_notes": "Loss figures are the herald's figure only (CLM-000008, grade D).",
+  "regions": [
+    "Europe"
+  ]
 }

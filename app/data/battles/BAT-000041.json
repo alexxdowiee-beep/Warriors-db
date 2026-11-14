@@ -60,6 +60,9 @@
  },
  "place_id": "PLC-000040",
  "primary_name": "Fall of Ryazan",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -135,7 +138,7 @@
  "status": "draft",
  "summary": "Fall of the city of Ryazan to Batu's army.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000019",
   "name": "Great western campaign",

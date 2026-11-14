@@ -13,7 +13,7 @@
   "summary": "Campaign under the nominal command of the Duke of Alençon that took Jargeau, Meung-sur-Loire and Beaugency, then caught the retreating English at Patay.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "campaign",
   "span": {
     "earliest": 1429,
@@ -23,5 +23,8 @@
     "certainty": "A",
     "month": 6
   },
-  "parent_war_id": "WAR-000001"
+  "parent_war_id": "WAR-000001",
+  "regions": [
+    "Europe"
+  ]
 }

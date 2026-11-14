@@ -13,7 +13,7 @@
   "summary": "Baibars' annual campaigns against the Kingdom of Jerusalem, the County of Tripoli, the Principality of Antioch and the military orders, which reduced the crusader states to a strip of coast.",
   "certainty": "A",
   "status": "draft",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "kind": "war",
   "span": {
     "earliest": 1263,
@@ -22,5 +22,8 @@
     "display": "1263–1271",
     "certainty": "A"
   },
-  "outcome": "Most inland fortresses taken"
+  "outcome": "Most inland fortresses taken",
+  "regions": [
+    "Asia"
+  ]
 }
