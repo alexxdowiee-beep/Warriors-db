@@ -44,7 +44,7 @@ try:
 except Exception as e:
     print("server stopped:", type(e).__name__)
 failures = 0
-for route, expect in [("#/", "Explore"), ("#/person/PER-000003", "Sundiata Keita"), ("#/battle/BAT-000014", "Cannae"),
+for route, expect in [("#/", "The Chronicle"), ("#/person/PER-000003", "Sundiata Keita"), ("#/battle/BAT-000014", "Cannae"),
                       ("#/source/SRC-000054", "Mongol Empire in World History"), ("#/search?q=tamerlane", "Timur")]:
     t = text(chrome(["--dump-dom", base + route]))
     ok = expect in t and "could not be loaded" not in t
