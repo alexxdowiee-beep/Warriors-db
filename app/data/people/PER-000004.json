@@ -763,6 +763,7 @@
    "id": "WAR-000008",
    "kind": "campaign",
    "name": "Wu campaign against Chu (Shu), 512 BCE",
+   "opponents": [],
    "relation": "participated",
    "result": null,
    "role": "Adviser, per Shiji",
@@ -791,6 +792,9 @@
    "id": "BAT-000020",
    "kind": "unknown",
    "name": "Boju and the capture of Ying",
+   "opponents": [
+    "Chu"
+   ],
    "relation": "participated",
    "result": "Decisive victory (for Wu)",
    "role": "Adviser or commander, per Shiji only",

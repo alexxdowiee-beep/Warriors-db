@@ -224,6 +224,7 @@ class Exporter:
                 o = self.records[c["other"]["id"]]
                 d = o.get("date") or o.get("span")
                 engagements.append({"id": o["id"], "type": o["type"], "name": o.get("primary_name"),
+                                    "opponents": self.opponents(o, rid, rec),
                                     "kind": o.get("kind"), "date": d, "relation": c["relation"], "role": c["role"],
                                     "certainty": c["certainty"], "result": o.get("outcome"),
                                     "war": self.ref(o.get("war_id") or o.get("parent_war_id")),
@@ -243,6 +244,27 @@ class Exporter:
         out["key_source_ids"] = sorted({cit["source_id"] for c in all_claims for cit in c.get("citations") or []
                                         if c.get("verdict") != "rejected-myth"})
         return out
+
+    def opponents(self, event: dict, person_id: str, person: dict) -> list:
+        """Side labels (battles) or belligerents (wars) other than the person's own side."""
+        own = set(person.get("polity_ids") or [])
+        if event.get("type") == "battle":
+            sides = event.get("sides") or []
+            mine = [s for s in sides if person_id in (s.get("commander_ids") or [])
+                    or own & set(s.get("polity_ids") or [])]
+            if not mine:
+                return []
+            return [s.get("label") for s in sides if s not in mine and s.get("label")]
+        names = {}
+        for b in self.records.values():
+            if b.get("type") == "battle" and b.get("war_id") == event["id"] and b["id"] in self.live:
+                for s in b.get("sides") or []:
+                    ids = set(s.get("polity_ids") or [])
+                    if person_id in (s.get("commander_ids") or []) or own & ids:
+                        continue
+                    for p in sorted(ids):
+                        names[p] = self.records[p].get("primary_name")
+        return [names[k] for k in sorted(names)]
 
     def battle(self, rid: str) -> dict:
         out = self.base(rid)

@@ -978,6 +978,9 @@
    "id": "BAT-000010",
    "kind": "siege",
    "name": "Siege of Saguntum",
+   "opponents": [
+    "Saguntum"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": null,
@@ -997,6 +1000,9 @@
    "id": "BAT-000011",
    "kind": "skirmish",
    "name": "Ticinus",
+   "opponents": [
+    "Rome, under P. Cornelius Scipio"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1023,6 +1029,9 @@
    "id": "BAT-000012",
    "kind": "field-battle",
    "name": "Trebia",
+   "opponents": [
+    "Rome, under Sempronius Longus and Scipio"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1048,6 +1057,9 @@
    "id": "BAT-000013",
    "kind": "ambush",
    "name": "Lake Trasimene",
+   "opponents": [
+    "Rome, under Flaminius (killed)"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1073,6 +1085,9 @@
    "id": "BAT-000014",
    "kind": "field-battle",
    "name": "Cannae",
+   "opponents": [
+    "Rome, under Varro and Aemilius Paullus (killed)"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Commanded the centre in person",
@@ -1096,6 +1111,7 @@
    "id": "WAR-000014",
    "kind": "campaign",
    "name": "March on Rome (211 BCE)",
+   "opponents": [],
    "relation": "commanded",
    "result": "No siege attempted",
    "role": null,
@@ -1121,6 +1137,9 @@
    "id": "BAT-000016",
    "kind": "field-battle",
    "name": "Zama",
+   "opponents": [
+    "Rome, under Scipio Africanus, with Masinissa"
+   ],
    "relation": "commanded",
    "result": "Defeat",
    "role": null,
@@ -1144,6 +1163,9 @@
    "id": "BAT-000017",
    "kind": "naval",
    "name": "Naval battle off Pamphylia",
+   "opponents": [
+    "Rhodes"
+   ],
    "relation": "commanded",
    "result": "Defeat (his wing held)",
    "role": "His wing held",

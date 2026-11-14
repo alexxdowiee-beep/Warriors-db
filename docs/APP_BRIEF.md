@@ -25,8 +25,8 @@ This brief is written for Claude Code. It describes version 1 of the Warriors & 
 
 ### In
 
-- **Home / Explore:** a world timeline showing every person's active period, filterable by region and era, and a grid of people.
-- **Person profile:** the full profile in the combined layout the owner approved, with claims, battles, myths, sources and connections.
+- **Home / Explore:** the Chronicle timeline of dated events, filterable by region, plus a people index.
+- **Person profile:** the Dossier layout the owner approved, with claims, battles, myths, sources, connections and a life slider.
 - **Battle and war pages:** date, place, sides, result and the people involved, with grades.
 - **Source pages:** each source with its type, reliability tier, bias notes, what it derives from, and every claim that cites it.
 - **Search:** across people, battles, wars, places and sources, by any of their names.
@@ -35,7 +35,7 @@ This brief is written for Claude Code. It describes version 1 of the Warriors & 
 
 ### Out (later versions)
 
-- Maps and territory changes.
+- Version 2, next: the Atlas home with its globe, campaign maps on profiles, territory changes, and licensed images (the approved "Redesign 1" and the map panel of "Redesign 3").
 - Quizzes (the data is ready, but they need their own design).
 - Side-by-side comparisons of two people.
 - Family trees and relationship graphs.
@@ -150,42 +150,57 @@ A trimmed example of the shape:
 
 ## Screens
 
-The approved design is the "Combined" layout from the planning conversation's design canvas. Claude Code cannot open that canvas, so this section and the Design system section describe it fully.
+**Revised after the owner saw the first build.** The approved layouts are "Redesign 2 · Chronicle timeline" and "Redesign 3 · Dossier profile" from the planning conversation's design canvas. Claude Code cannot open that canvas, so this section describes them fully. "Redesign 1 · Atlas home" (globe, layers, era tabs) is approved for **version 2**, together with real maps and images.
 
 ### Header (every screen)
 
-The wordmark **WARRIORS & LEADERS** (Cinzel, with the ampersand in the accent colour), the main navigation (Explore, People, Battles, Wars, Sources), and a search box. On a phone the navigation collapses into a menu button and the search box becomes an icon.
+The wordmark **WARRIORS & LEADERS** (Cinzel, with the ampersand in the accent colour), the screen name in small Cinzel, the main navigation (Chronicle, People, Battles, Sources), and a search box. On a phone the navigation collapses into a menu button and the search box becomes an icon.
 
-### Explore (home)
+### Home: the Chronicle timeline
 
-- **World timeline** across the full width: five era bands (Ancient, Classical, Medieval, Early modern, Modern), with each person's active period drawn as a bar labelled with their name. Region filter chips above it (All, Africa, Asia, Europe, Americas, Pacific). Clicking a bar opens the profile. The axis must be proportional to real dates; for compression, ancient centuries may use a scale break, but it must be visibly marked.
-- **People grid** below: one card per person with name, polity, era, roles, overall grade badge and a status chip ("Draft", "Sourced", "Reviewed").
+- **Region filter chips** in the header bar: All regions, Africa, Asia, Europe, Americas, Pacific, each label in its region colour.
+- **Intro card** at top left (gold-tinted panel): a title and one line explaining how to read the cards.
+- **The spine:** a horizontal gold line that scrolls sideways inside its own container. Event cards alternate above and below it, each joined to a node on the line labelled with its date (Cinzel, accent colour).
+- **Each card:** an image strip (see Images below) with a bottom border in the region colour; the region in small coloured capitals; the title in Cinzel; one sentence; the person it belongs to as a link; and the grade badge.
+- **Card content comes from the data, never written by the app.** Cards are dated battles, wars and key events in date order. The sentence is the statement of the record's main claim, or its `outcome` field if it has none. The badge is that claim's grade. Undated or C-dated items show their date with its grade.
+- **Era overview strip** along the bottom: the five era bands with a dot per card, the band currently in view highlighted. Clicking a band scrolls the spine there.
 
-### Person profile
+### People index
 
-Top to bottom:
+A grid of person cards, each with name, polity, era, regions, overall grade badge and status chip.
 
-1. **Timeline strip,** a slim version of the world timeline with this person's period highlighted.
-2. **Title band:** breadcrumb (People › polity › main war) in small Cinzel capitals; the name in large Cinzel; a status note when the record is not yet reviewed.
-3. **Key facts strip:** four cells, Born, Died, Role and Certainty, each showing its own grade.
-4. **Three columns:**
-   - **Left: section navigation**, the profile sections in template order, highlighting the one in view.
-   - **Centre: reading column,** with the summary as a lead paragraph, a career timeline built from dated battles and events, the battles table, the profile sections, the myths table and the full claims list with filters.
-   - **Right rail:** an Evidence panel (overall grade badge, what it means, which core claims set it, bias flags present), Key sources, Connections, Cultural guidance (if any), and a "Test yourself" button that is visible but disabled with the label "Quizzes coming".
+### Person profile: the Dossier
 
-On a tablet the right rail moves below the title band; on a phone everything is one column, the section navigation becomes a collapsible "On this page" menu, and the key facts strip becomes a 2 × 2 grid.
+Two panels side by side on a laptop, with a strip across the bottom.
 
-### Battle and war pages
+**Left panel (content):**
 
-Title, date with grade, place, kind and parent war. A **sides table** with polities, commanders (linked), strength, casualties and result. Strength and casualties display "unknown" in words when unknown, never a dash or blank. Then the outcome, significance, people involved and related claims. War pages add the span, belligerents and a chronological list of their battles.
+1. **Hero:** an image area 230px high fading into the page (see Images), with the breadcrumb (People › polity) in small Cinzel capitals and the name in large Cinzel laid over its lower edge.
+2. **Alternative name** in italic, if any.
+3. **Chips:** overall grade (letter and label, in its grade colour), the reign or active period with its grade, regions, era, and "Research in progress" when not yet reviewed.
+4. **Tabs:** Overview · Campaigns · Evidence · Myths · Sources.
+   - **Overview:** the summary as a lead paragraph, then a four-cell key-facts grid (Born, Died, Role, and Origin or main polity), each with its grade.
+   - **Campaigns:** the narrative career sections and the battles table.
+   - **Evidence:** the full claims list with filters by grade, type and perspective; the core claims that set the overall grade; bias flags present; "Sources disagree" pairs.
+   - **Myths:** the myths table.
+   - **Sources:** every source cited, with tier and access level.
 
-### Source page
+**Right panel (life):**
 
-Title, authors, date written, type, a reliability tier badge, whether it has been opened, bias and reliability notes, the chain of sources it derives from, and every claim that cites it, grouped by person.
+- **Version 1:** the **life slider** at the top: a track with the person's dated milestones (from dated claims and battles, in order). Selecting a milestone shows its statement, date and grade in a card below. Under that, Connections and, if present, Cultural guidance.
+- **Version 2:** a campaign map is added above the slider, with markers for the same milestones.
 
-### Polity, place and civilisation pages
+**Bottom strip:** tabs with counts (Battles, Claims, Sources, Myths, Connections, Perspectives) and a horizontally scrolling row of cards for the selected tab. For battles, each card shows date, grade, name, opponent, role and result.
 
-Simple pages: the record, then the linked people, wars and battles. Places show coordinates as text in version 1 (no map).
+**Phone:** everything stacks in one column: hero, chips, tabs (scrolling sideways if needed), tab content, the life panel, then the bottom strip, which still scrolls sideways.
+
+### Battle, war, source, polity and place pages
+
+Use the same Dossier pattern in a simpler form: hero, chips (date with grade, kind, region), tabs where useful, and the record's own content. Battle pages keep the sides table, and say "unknown" in words for unknown strengths and casualties. Source pages list every claim that cites them, grouped by person.
+
+### Images
+
+There are no image records yet. Until they exist, image areas show a neutral dark gradient only: **no placeholder text and no stock or generated images**. Version 2 adds media records with licence and credit, shown in small type on each image.
 
 ### Search
 
@@ -228,6 +243,18 @@ Grades must never rely on colour alone: every badge shows the letter and, where 
 | E | Legendary or false | #C9C4BA, with a dashed outline |
 
 Check every badge against `--panel` and `--bg` for at least 4.5:1 contrast; adjust shades if needed and report the final values.
+
+### Region colours
+
+Used only for region labels, chips and card borders, never for grades, and always next to the region's name in words.
+
+| Region | Colour |
+| --- | --- |
+| Africa | #E6A86B |
+| Asia | #C9A7E8 |
+| Europe | #D8C3A5 |
+| Americas | #E7A0B8 |
+| Pacific | #7FD3DA |
 
 ### Typography
 
@@ -307,7 +334,7 @@ Work in this order. At each **checkpoint**, stop, show the owner the result (scr
    - Checkpoint: the owner opens `http://localhost:8000` and sees the header, the fonts and an empty home page.
 3. **The person profile.** Build the full profile page first, since it is the heart of the app. Test it on three contrasting records: Sundiata Keita (grade C, oral tradition), Baibars (grade A, dense sources) and Te Rauparaha (perspectives and cultural guidance).
    - Checkpoint: screenshots of all three at laptop width and phone width.
-4. **Explore.** The world timeline and the people grid.
+4. **Explore.** The Chronicle timeline home, with its era overview strip, and the people index.
    - Checkpoint: screenshot, and confirm every person in the database appears.
 5. **The other pages and search.** Battle, war, source, polity, place and civilisation pages, then search.
    - Checkpoint: demonstrate the three search examples from the Screens section, and one page of each type.
@@ -345,8 +372,8 @@ Version 1 is done when the owner can tick every line.
 
 ### Design and usability
 
-- [ ] Dark theme, Cinzel headings and Alegreya text, matching the Design system section.
-- [ ] Laptop: three-column profile; tablet: two columns; phone: one column, with no sideways scrolling anywhere.
+- [ ] Dark theme, Cinzel headings and Alegreya text, matching the Design system section, with Chronicle and Dossier laid out as in the Screens section. Image areas show only a neutral gradient, with no placeholder text.
+- [ ] Laptop: the Dossier's two panels plus bottom strip; phone: one column. Nothing scrolls sideways except the Chronicle spine and the bottom card strips, which scroll inside their own containers.
 - [ ] Search finds "tran hung dao", "chinggis" and "tamerlane".
 - [ ] Keyboard navigation works throughout; focus is always visible.
 - [ ] Grade badges meet contrast requirements and show letters, not just colours.

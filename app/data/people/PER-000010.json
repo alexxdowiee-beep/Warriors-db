@@ -1195,6 +1195,7 @@
    "id": "WAR-000024",
    "kind": "war",
    "name": "Conquest of Persia",
+   "opponents": [],
    "relation": "commanded",
    "result": "Conquest",
    "role": null,
@@ -1216,6 +1217,9 @@
    "id": "WAR-000025",
    "kind": "war",
    "name": "Wars against Tokhtamysh",
+   "opponents": [
+    "Golden Horde"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1237,6 +1241,9 @@
    "id": "BAT-000055",
    "kind": "field-battle",
    "name": "Battle of 1395 against Tokhtamysh",
+   "opponents": [
+    "Golden Horde"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1264,6 +1271,9 @@
    "id": "BAT-000056",
    "kind": "field-battle",
    "name": "Defeat of the Delhi sultan's army",
+   "opponents": [
+    "Delhi Sultanate"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": null,
@@ -1287,6 +1297,9 @@
    "id": "WAR-000026",
    "kind": "war",
    "name": "Invasion of India",
+   "opponents": [
+    "Delhi Sultanate"
+   ],
    "relation": "commanded",
    "result": "Victory; Delhi sacked",
    "role": null,
@@ -1308,6 +1321,9 @@
    "id": "BAT-000057",
    "kind": "assault",
    "name": "Sack of Aleppo",
+   "opponents": [
+    "Mamluk Sultanate"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": null,
@@ -1329,6 +1345,9 @@
    "id": "BAT-000058",
    "kind": "siege",
    "name": "Occupation of Damascus",
+   "opponents": [
+    "Mamluk Sultanate"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": null,
@@ -1350,6 +1369,9 @@
    "id": "BAT-000059",
    "kind": "assault",
    "name": "Sack of Baghdad",
+   "opponents": [
+    "Jalayirids"
+   ],
    "relation": "commanded",
    "result": "Captured; massacre",
    "role": null,
@@ -1372,6 +1394,9 @@
    "id": "BAT-000060",
    "kind": "field-battle",
    "name": "Ankara",
+   "opponents": [
+    "Ottoman Empire under Bayezid I"
+   ],
    "relation": "commanded",
    "result": "Victory; Bayezid I captured",
    "role": null,
@@ -1391,6 +1416,7 @@
    "id": "WAR-000027",
    "kind": "campaign",
    "name": "Planned invasion of China",
+   "opponents": [],
    "relation": "commanded",
    "result": "Abandoned at his death",
    "role": null,

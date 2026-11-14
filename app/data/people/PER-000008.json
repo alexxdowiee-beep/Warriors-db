@@ -1176,6 +1176,12 @@
    "id": "WAR-000019",
    "kind": "war",
    "name": "Great western campaign",
+   "opponents": [
+    "Mongol Empire",
+    "Principality of Ryazan",
+    "Vladimir-Suzdal",
+    "Kingdom of Hungary"
+   ],
    "relation": "affected_by",
    "result": "Victory; withdrawal 1242",
    "role": "Enslaved after the Mongol invasion of the Kipchak lands, c. 1242",
@@ -1198,6 +1204,9 @@
    "id": "BAT-000044",
    "kind": "field-battle",
    "name": "Al-Mansurah",
+   "opponents": [
+    "Seventh Crusade (Louis IX)"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Among the Bahri leaders",
@@ -1221,6 +1230,9 @@
    "id": "BAT-000045",
    "kind": "field-battle",
    "name": "Ain Jalut",
+   "opponents": [
+    "Mongols under Kitbuqa"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Vanguard commander under Qutuz",
@@ -1240,6 +1252,11 @@
    "id": "WAR-000020",
    "kind": "war",
    "name": "Campaigns against the crusader states",
+   "opponents": [
+    "Principality of Antioch",
+    "Knights Templar",
+    "Knights Hospitaller"
+   ],
    "relation": "commanded",
    "result": "Most inland fortresses taken",
    "role": "Sultan and commander",
@@ -1261,6 +1278,9 @@
    "id": "BAT-000046",
    "kind": "siege",
    "name": "Fall of Safed",
+   "opponents": [
+    "Knights Templar"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": "Commander",
@@ -1286,6 +1306,9 @@
    "id": "BAT-000047",
    "kind": "raid",
    "name": "Invasion of Cilician Armenia",
+   "opponents": [
+    "Kingdom of Cilician Armenia"
+   ],
    "relation": "planned",
    "result": "Devastation",
    "role": "Sent his army",
@@ -1307,6 +1330,9 @@
    "id": "BAT-000048",
    "kind": "siege",
    "name": "Fall of Antioch",
+   "opponents": [
+    "Principality of Antioch"
+   ],
    "relation": "commanded",
    "result": "Captured; city destroyed",
    "role": "Commander",
@@ -1334,6 +1360,9 @@
    "id": "BAT-000049",
    "kind": "siege",
    "name": "Krak des Chevaliers",
+   "opponents": [
+    "Knights Hospitaller"
+   ],
    "relation": "commanded",
    "result": "Captured",
    "role": "Commander",
@@ -1359,6 +1388,9 @@
    "id": "BAT-000050",
    "kind": "field-battle",
    "name": "Invasion of Anatolia",
+   "opponents": [
+    "Mongols and Seljuks"
+   ],
    "relation": "commanded",
    "result": "Victory",
    "role": "Commander",
