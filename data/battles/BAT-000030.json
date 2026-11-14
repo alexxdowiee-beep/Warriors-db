@@ -50,6 +50,9 @@
  ],
  "place": null,
  "primary_name": "Ōraumoaiti and Ōraumoanui",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -86,7 +89,7 @@
  "status": "draft",
  "summary": "Later battles with Ngāi Tahu, now armed from whaling stations, that were inconclusive.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000013",
   "name": "Te Rauparaha's South Island campaigns",

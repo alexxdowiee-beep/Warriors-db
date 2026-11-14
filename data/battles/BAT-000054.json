@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000050",
  "primary_name": "Bạch Đằng River",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -148,7 +151,7 @@
  "status": "draft",
  "summary": "Destruction of the Yuan fleet under Omar as it withdrew down the river, traditionally using stakes planted in the riverbed.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000023",
   "name": "Third Mongol-Yuan invasion of Đại Việt",

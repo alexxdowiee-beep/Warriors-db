@@ -60,6 +60,9 @@
  },
  "place_id": "PLC-000041",
  "primary_name": "Sit River",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -135,7 +138,7 @@
  "status": "draft",
  "summary": "Defeat and death of Grand Prince Yuri II of Vladimir.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000019",
   "name": "Great western campaign",

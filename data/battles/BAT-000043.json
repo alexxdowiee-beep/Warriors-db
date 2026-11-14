@@ -60,6 +60,9 @@
  },
  "place_id": "PLC-000042",
  "primary_name": "Mohi (Sajó River)",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -134,7 +137,7 @@
  "status": "draft",
  "summary": "Destruction of the army of King Béla IV of Hungary on the Sajó River.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000019",
   "name": "Great western campaign",

@@ -57,6 +57,9 @@
  },
  "place_id": "PLC-000005",
  "primary_name": "Beaugency",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -93,7 +96,7 @@
  "status": "draft",
  "summary": "Siege in which the English garrison of Beaugency surrendered.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000002",
   "name": "Loire campaign (1429)",

@@ -76,6 +76,10 @@
   }
  ],
  "primary_name": "Western raid of Jebe and Subutai",
+ "regions": [
+  "Asia",
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -131,5 +135,5 @@
  "sub_wars": [],
  "summary": "Raid around the Caspian through the Caucasus to the steppe north of the Black Sea, fighting Georgians, Alans, Qipchaqs and Rus' in turn, and ending with the Kalka.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

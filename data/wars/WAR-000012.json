@@ -100,6 +100,9 @@
   }
  ],
  "primary_name": "Te Heke Tātaramoa",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -155,5 +158,5 @@
  "sub_wars": [],
  "summary": "Second stage of the migration, joined by some Te Āti Awa, about 250 miles south to Kāpiti; peaceful at first through marriage alliances, then violent in Manawatū and Horowhenua.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

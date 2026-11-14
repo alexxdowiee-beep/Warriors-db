@@ -55,6 +55,9 @@
  },
  "place_id": "PLC-000030",
  "primary_name": "Ōnawe, Akaroa",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -91,7 +94,7 @@
  "status": "draft",
  "summary": "Ōnawe at Akaroa was captured after the fall of Kaiapoi.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000013",
   "name": "Te Rauparaha's South Island campaigns",

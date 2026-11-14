@@ -91,6 +91,9 @@
  },
  "place_id": "PLC-000008",
  "primary_name": "Paris",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -175,7 +178,7 @@
  "status": "draft",
  "summary": "Failed attack on Paris; Joan of Arc was wounded by a crossbow bolt and the king ordered a withdrawal the next day.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000001",
   "name": "Hundred Years' War",

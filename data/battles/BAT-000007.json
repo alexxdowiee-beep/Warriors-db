@@ -56,13 +56,16 @@
  },
  "place_id": "PLC-000009",
  "primary_name": "Saint-Pierre-le-Moûtier",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [],
  "sides": [],
  "slug": "saint-pierre-le-moutier-1429",
  "status": "draft",
  "summary": "Assault in which the French took Saint-Pierre-le-Moûtier.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000001",
   "name": "Hundred Years' War",

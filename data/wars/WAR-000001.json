@@ -122,6 +122,9 @@
  "parent_war": null,
  "people": [],
  "primary_name": "Hundred Years' War",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [],
  "slug": "hundred-years-war",
  "status": "draft",
@@ -134,5 +137,5 @@
  ],
  "summary": "War in which Henry VI of England, backed by Burgundy, claimed the French crown against Charles of Valois; final French victory took until 1453.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

@@ -56,6 +56,9 @@
  },
  "place_id": "PLC-000029",
  "primary_name": "First attack on Kaiapoi",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "sides": [
   {
@@ -92,7 +95,7 @@
  "status": "draft",
  "summary": "Ngāi Tahu killed Te Pēhi Kupe and seven other Ngāti Toa chiefs who had entered Kaiapoi pā to trade, and the first attack failed.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000013",
   "name": "Te Rauparaha's South Island campaigns",

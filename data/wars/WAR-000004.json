@@ -99,6 +99,10 @@
  "parent_war": null,
  "people": [],
  "primary_name": "Second Punic War",
+ "regions": [
+  "Europe",
+  "Africa"
+ ],
  "related_claims": [],
  "slug": "second-punic-war",
  "status": "draft",
@@ -111,5 +115,5 @@
  ],
  "summary": "War between Carthage and Rome that followed Hannibal's capture of Saguntum, beginning in 218 BCE; decided by Hannibal's defeat at Zama in 202 BCE.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

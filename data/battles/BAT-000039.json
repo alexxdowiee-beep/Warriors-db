@@ -60,6 +60,9 @@
  },
  "place_id": "PLC-000038",
  "primary_name": "Kalka River",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [
@@ -155,7 +158,7 @@
  "status": "draft",
  "summary": "Catastrophic defeat of a combined Rus' and Qipchaq army by Jebe and Subutai; two princes named Mstislav died.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000018",
   "name": "Western raid of Jebe and Subutai",

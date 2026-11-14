@@ -54,6 +54,9 @@
  ],
  "place": null,
  "primary_name": "Invasion of Cilician Armenia",
+ "regions": [
+  "Asia"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -138,6 +141,6 @@
  "status": "draft",
  "summary": "Mamluk invasion and devastation of the Kingdom of Cilician Armenia, ally of the crusaders and the Mongols.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": null
 }

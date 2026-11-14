@@ -59,6 +59,9 @@
  },
  "place_id": "PLC-000029",
  "primary_name": "Kaiapoi siege",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -128,7 +131,7 @@
  "status": "draft",
  "summary": "Kaiapoi pā was taken after a long siege by sapping and burning the palisades.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000013",
   "name": "Te Rauparaha's South Island campaigns",

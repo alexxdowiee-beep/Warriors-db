@@ -110,6 +110,9 @@
  "parent_war_id": "WAR-000009",
  "people": [],
  "primary_name": "Te Rauparaha's South Island campaigns",
+ "regions": [
+  "Pacific"
+ ],
  "related_claims": [],
  "slug": "te-rauparaha-south-island-campaigns",
  "span": {
@@ -124,5 +127,5 @@
  "sub_wars": [],
  "summary": "Campaigns across Cook Strait for greenstone and control over the region, against Rangitāne, Ngāti Kuia and Ngāi Tahu.",
  "type": "war",
- "updated": "2026-11-13"
+ "updated": "2026-11-14"
 }

@@ -60,6 +60,9 @@
  },
  "place_id": "PLC-000014",
  "primary_name": "Trebia",
+ "regions": [
+  "Europe"
+ ],
  "related_claims": [
   {
    "alternative_claim_ids": [],
@@ -147,7 +150,7 @@
  "status": "draft",
  "summary": "Field battle in which Hannibal lured a Roman army into an ambush.",
  "type": "battle",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "war": {
   "id": "WAR-000004",
   "name": "Second Punic War",
