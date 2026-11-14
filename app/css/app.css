@@ -2119,3 +2119,22 @@ main {
   gap: var(--space-1);
   margin-top: var(--space-2);
 }
+
+/* ================================================================== step 5 (rev. 17): record pages as simple Dossiers */
+.hero-small {
+  height: 170px;
+}
+
+.record-page .guidance {
+  margin: 0 0 var(--space-4);
+}
+
+.record-page .chips .tier-badge {
+  border-radius: 999px;
+}
+
+@media (max-width: 767px) {
+  .hero-small {
+    height: 150px;
+  }
+}

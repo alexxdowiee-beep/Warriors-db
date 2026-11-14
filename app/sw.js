@@ -7,7 +7,7 @@
 
 importScripts('data/sw-version.js'); // defines self.BUNDLE_VERSION and self.BUNDLE_FILES
 
-const SHELL_VERSION = 2; // raise when the shell list changes without a data export
+const SHELL_VERSION = 3; // raise when the shell list changes without a data export
 const CACHE = `wl-${SHELL_VERSION}-${self.BUNDLE_VERSION}`;
 
 // Every file of the app except data/ (tests/test_app_shell.py checks this list is complete).
@@ -20,6 +20,7 @@ const SHELL = [
   'css/app.css',
   'js/main.js',
   'js/data.js',
+  'js/dossier.js',
   'js/components.js',
   'js/claims.js',
   'js/markdown.js',
